@@ -101,9 +101,10 @@ namespace Parser
             {
                 string[] fileLines = File.ReadAllLines(fileName);
                 StreamReader sr = new StreamReader(fileName);
+
                 foreach (var line in fileLines)
                 {
-                    MatchCollection matchCollections = Regex.Matches(line, "(Email|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_a)(:)( )([ A-Za-z0-9\\&\\+\\,\\:\\@\\.\\\"\\-]+)?", RegexOptions.Multiline);
+                    MatchCollection matchCollections = Regex.Matches(line, "(id|email|status|Email|IP Address|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_at)(:)( )([ A-Za-z0-9\\&\\+\\,\\:\\@\\.\\\"\\-\\&\\[\\]]+)", RegexOptions.Multiline);
 
                     foreach (var lineResult in matchCollections)
                     {
@@ -138,15 +139,9 @@ namespace Parser
                         }
 
                         i++;
-
-                        //if (sr.EndOfStream)
-                        //{
-                        //    var fileNameExtract = Path.GetFileNameWithoutExtension(fileName);
-                        //    xmlDocument.Save($"E:\\Source Code\\Study\\Simple-Text-Parser\\Parser\\Data\\Result\\{fileNameExtract}.xml");
-                        //    i = 0;
-                        //}
                     }
                 }
+
                 var fileNameExtract = Path.GetFileNameWithoutExtension(fileName);
                 xmlDocument.Save($"E:\\Source Code\\Study\\Simple-Text-Parser\\Parser\\Data\\Result\\{fileNameExtract}.xml");
                 i = 0;
@@ -159,7 +154,7 @@ namespace Parser
             string[] lines = File.ReadAllLines(@"E:\Source Code\Study\Simple-Text-Parser\Parser\Data\LEADS\data2 (0).eml");
             foreach (var line in lines)
             {
-                MatchCollection matchCollection = Regex.Matches(line, "(Email|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_a)(:)( )([ A-Za-z0-9\\&\\+\\,\\:\\@\\.\\\"\\-]+)?", RegexOptions.Multiline);
+                MatchCollection matchCollection = Regex.Matches(line, "(id|email|status|Email|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_at)(:)?( )?([ A-Za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\&]+)?", RegexOptions.Multiline);
                 foreach (var result in matchCollection)
                 {
                     Console.WriteLine(result);
