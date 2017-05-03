@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 17AEC4028A4AD
+	for <mcovel@trendfollowing.com>; Mon, 19 Dec 2016 21:06:57 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20161220020951255_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 20 Dec 2016 02:09:51 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=vtqLY9LYMHX7fqE7+YZ+McPS2C0=; b=Yz8tXGXS7Z2f3C+1/XIO3et
+	JKT9RD+xU/cPVexPHaH8cEgsmnqlijUt/Nr27n3Y1R8mGRQ3gO/fAum01LSqP+I5
+	siLOxNF0jVupiKx0UaJQWyP4PXzu8QUracKBi9FYAQ4HOs3+lpeR6+KlGY4k/01Z
+	LaRKCun1W5g8RqVNpeoY=
+Received: by filter0604p1mdw1.sendgrid.net with SMTP id filter0604p1mdw1-31873-585892D6-6
+        2016-12-20 02:09:26.044820045 +0000 UTC
+Received: from getdrip.com (ec2-52-23-218-144.compute-1.amazonaws.com [52.23.218.144])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id pBcxn_HlRO6PSPxyKwBDZQ
+	for <mcovel@trendfollowing.com>; Tue, 20 Dec 2016 02:09:26.035 +0000 (UTC)
+Date: Tue, 20 Dec 2016 02:09:26 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <585892d6a9e_8023facd60653fc6175@ip-172-30-0-103.mail>
+Subject: [Drip] chall100@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_585892d6692_8023facd60653fc61658";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoXbMnNePN3HiqVNqOWu6+bEkSO/gA3s2XqE6
+ ypGt6RVN3zZukGVRt+7yVDInr0FNfNqnAdystUGuarCXcWUq6/naKiaVEq8pCCHBTthYd90mD6tR1u
+ /0ZucapHyvddS9yDv9BIqPSeusdzqZr2CEgxBUNgbPsZVwPx48SuGvRLP5TiozDdDHllJAqJVDB6Lv
+ k=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_585892d6692_8023facd60653fc61658
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: surprise
+country: United States
+first_name: Cody
+last_name: Hall
+state: AZ
+street1: 11300 west mccaslin rose lane
+zip_code: 85378
+id: qpstvmuiq1qsmernpobu
+email: chall100@gmail.com
+utc_offset: -420
+visitor_uuid: 89f56cb056ec01349dc60e9dd67883c3
+status: active
+time_zone: America/Phoenix
+friendly_time_zone: MST
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-09-07 06:29:42 UTC
+lead_score: 121
+
+View their full profile here:
+
+chall100@gmail.com ( https://www.getdrip.com/3513718/subscribers/qpstvmuiq1qsmernpobu )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_585892d6692_8023facd60653fc61658
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: surprise<br />country: United States<br />first_name: Cody<br />last_name: Hall<br />state: AZ<br />street1: 11300 west mccaslin rose lane<br />zip_code: 85378<br />id: qpstvmuiq1qsmernpobu<br />email: chall100@gmail.com<br />utc_offset: -420<br />visitor_uuid: 89f56cb056ec01349dc60e9dd67883c3<br />status: active<br />time_zone: America/Phoenix<br />friendly_time_zone: MST<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-09-07 06:29:42 UTC<br />lead_score: 121<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/qpstvmuiq1qsmernpobu" style="color: blue">chall100@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_585892d6692_8023facd60653fc61658--
+

@@ -1,0 +1,202 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CA18F4028A4B4
+	for <mcovel@trendfollowing.com>; Wed, 30 Nov 2016 22:25:51 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20161201032851632_0659
+          for <mcovel@trendfollowing.com>;
+          Thu, 01 Dec 2016 03:28:51 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=Gn/RPNYSuYAisl03m5t91Fz6Cmg=; b=YSjNqdMiDlrtC5zoja4nWqh
+	7psdHxzAKNMk3b8aVvlwX9IZYFci8u7ez2QFQ7VQ/lkfTzbdeKDZ5Y9xtZScJwGN
+	U0wpDoP1WkND3BCaDjsyU/smfReVlZ4wtsfyURiIdm+bE2lPZVmwvHtJJ0n8hh00
+	fwrjrbNAkavHNVakmNC4=
+Received: by filter0508p1mdw1.sendgrid.net with SMTP id filter0508p1mdw1-17587-583F98EE-12
+        2016-12-01 03:28:46.265844432 +0000 UTC
+Received: from getdrip.com (ec2-52-91-87-110.compute-1.amazonaws.com [52.91.87.110])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id FsuoQcUKS-6MKrHf2ICf6w
+	for <mcovel@trendfollowing.com>; Thu, 01 Dec 2016 03:28:46.218 +0000 (UTC)
+Date: Thu, 01 Dec 2016 03:28:46 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <583f98ee29607_3fac3fe828104cbc669e0@ip-172-30-0-101.mail>
+Subject: [Drip] blueduck@runbox.com just triggered Authorize.net purchase -->
+ Tag subscriber, trigger conversion
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_583f98ee291ba_3fac3fe828104cbc66871";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqYgG/7aMlb+ptdim+HeJHiyPte/dPCzX0jKN
+ DpJiqaCDGyawmpzxtrarlTc2OEYLpQktnJp9dHn9vqFsu4dG4+lFisxiv0z4jAgGx7lAYQkdwfX0Rn
+ fLbTieqnXq+I/dsJ3IQqeodqiJjglDO+STRFdf2cUNgMo36mlhCrJlOjfIP9nGXgljkGlYUF//ILgY
+ A=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_583f98ee291ba_3fac3fe828104cbc66871
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+address: 2202 w. 166th st
+city: Markham
+country: USA
+first_name: Arnold
+last_name: Kozys
+phone: 7089066054
+state: IL
+zip: 60428
+id: 4gmqprxiah1qvfzjbbht
+email: blueduck@runbox.com
+utc_offset: -360
+visitor_uuid: b879cbb08a9b013434e90eefa7eab161
+status: active
+time_zone: America/Chicago
+friendly_time_zone: CST
+tags: ["optedin-sitewide-turtletrading.com", "Customer",
+"Customer-Trend Following Trading Systems from Michael Covel -
+Order 28469", "optedin-sitewide-turtletrading.com", "customer",
+"customer-trend following trading systems from michael covel -
+order 28469"]
+created_at: 2016-11-12 00:25:17 UTC
+lead_score: 92
+
+View their full profile here:
+
+blueduck@runbox.com ( https://www.getdrip.com/3513718/subscribers/4gmqprxiah1qvfzjbbht )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_583f98ee291ba_3fac3fe828104cbc66871
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        address: 2202 w. 166th st<br />city: Markham<br />country: USA<br />first_name: Arnold<br />last_name: Kozys<br />phone: 7089066054<br />state: IL<br />zip: 60428<br />id: 4gmqprxiah1qvfzjbbht<br />email: blueduck@runbox.com<br />utc_offset: -360<br />visitor_uuid: b879cbb08a9b013434e90eefa7eab161<br />status: active<br />time_zone: America/Chicago<br />friendly_time_zone: CST<br />tags: ["optedin-sitewide-turtletrading.com", "Customer", "Customer-Trend Following Trading Systems from Michael Covel - Order 28469", "optedin-sitewide-turtletrading.com", "customer", "customer-trend following trading systems from michael covel - order 28469"]<br />created_at: 2016-11-12 00:25:17 UTC<br />lead_score: 92<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/4gmqprxiah1qvfzjbbht" style="color: blue">blueduck@runbox.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_583f98ee291ba_3fac3fe828104cbc66871--
+

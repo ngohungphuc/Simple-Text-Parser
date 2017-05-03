@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m091.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2CF0D400E0BEF
+	for <mcovel@trendfollowing.com>; Mon,  3 Oct 2016 20:41:20 -0400 (EDT)
+Authentication-Results: s12p02m091.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m091.mxlogic.net(mxl_mta-8.5.0-1466) over TLS secured channel
+	with ESMTP id 66bf2f75.0.8023795.00-2274.15111895.s12p02m091.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 03 Oct 2016 18:44:22 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=MeSgD9KArgpKoUX0C1DSVyzMLbw=; b=j5H+ZA22DX28ObC2JBLPXKT
+	pmU+xVfIvyScvvRajaMCAQ+vuk7Wv6WuHpRpKG0AWIuBZdq8Sk3WSfqeqZT96kWY
+	Vk/cB4slDNwq8o1/A3CwNq+/ItX87hxty+iHGANG6AL4c6WNcPlAplY9bPz92ONa
+	DBhsrhgjcv8YVTYbo2sA=
+Received: by filter0468p1mdw1.sendgrid.net with SMTP id filter0468p1mdw1.23271.57F2FB2833
+        2016-10-04 00:43:20.696899936 +0000 UTC
+Received: from getdrip.com (ec2-54-196-79-93.compute-1.amazonaws.com [54.196.79.93])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id qjzrtx-US1-PfDWyjrM8VQ
+	for <mcovel@trendfollowing.com>; Tue, 04 Oct 2016 00:43:20.725 +0000 (UTC)
+Date: Tue, 04 Oct 2016 00:43:20 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57f2fb28a9436_a943fc07b3cba601737@ip-172-30-0-104.mail>
+Subject: [Drip] dennis.lee@telus.net just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57f2fb28a8ed3_a943fc07b3cba60172f9";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqVVZCRfKtNVkC04+r2ZBxfHvMY60TjnNcaxy
+ gKVztLH1HL7A0Qie1rctKHZlNSo68wHCkmpTUBFXVTTcbVFRqfZO39IW/63xt1LeFfTRlhOJ6L7kF6
+ URJTk1ZxutJ63awi76kpFnEYVcAHfsMP9OTmpZJ4H5OohbKOJdCEhKddd+ey/mzbxRVWjVCx7Eq42W
+ o=
+Received-SPF: Pass (s12p02m091.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57f2fb28a8ed3_a943fc07b3cba60172f9
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Calgary
+country: Canada
+first_name: Dennis
+has_read_LBoT: Yes
+has_read_TC: Yes
+has_read_TF: Yes
+last_name: Lee
+last_trading_or_investment_book_read: Ralph Vince - Portfolio
+management Formulas
+state: Alberta
+street1: 724 Madison Ave. SW
+zip_code: T2S1K3
+id: rduzqhmqkxsxqkwykfyi
+email: dennis.lee@telus.net
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["imported-from-aweber-March 20, 2016", "optedin-sitewide",
+"optedin-dvdrequest", "imported-from-aweber-march 20, 2016",
+"optedin-sitewide", "optedin-dvdrequest"]
+created_at: 2016-03-21 16:35:08 UTC
+
+View their full profile here:
+
+dennis.lee@telus.net ( https://www.getdrip.com/3513718/subscribers/rduzqhmqkxsxqkwykfyi )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57f2fb28a8ed3_a943fc07b3cba60172f9
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Calgary<br />country: Canada<br />first_name: Dennis<br />has_read_LBoT: Yes<br />has_read_TC: Yes<br />has_read_TF: Yes<br />last_name: Lee<br />last_trading_or_investment_book_read: Ralph Vince - Portfolio management Formulas<br />state: Alberta<br />street1: 724 Madison Ave. SW<br />zip_code: T2S1K3<br />id: rduzqhmqkxsxqkwykfyi<br />email: dennis.lee@telus.net<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["imported-from-aweber-March 20, 2016", "optedin-sitewide", "optedin-dvdrequest", "imported-from-aweber-march 20, 2016", "optedin-sitewide", "optedin-dvdrequest"]<br />created_at: 2016-03-21 16:35:08 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/rduzqhmqkxsxqkwykfyi" style="color: blue">dennis.lee@telus.net</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57f2fb28a8ed3_a943fc07b3cba60172f9--

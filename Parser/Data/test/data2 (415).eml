@@ -1,0 +1,69 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m031.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 47BF54019ED01
+	for <mcovel@trendfollowing.com>; Sun, 26 Jun 2016 12:39:27 -0400 (EDT)
+Authentication-Results: p01c11m031.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m031.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id f3500775.0.6078598.00-2335.10802872.p01c11m031.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sun, 26 Jun 2016 10:39:28 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=XvJkW6D/BzMvrOXEwYF89U3TCTk=; b=CrRk1YoVpBWNWf6e+buFTcq
+	F+mB4+5Hp/UbCZRRt1dgS/Dk5KtrzkgjQrMnyHClnmsA9zH6EoJ5e9BierUKBI+k
+	vcfANIIJpSwr0/5yMMaOIgMDEWX6QYa8f2N3Upx/yjf4HiHXc1A8gRd820wdSP0o
+	9aAHLYtUvTy00sq8z1FA=
+Received: by filter0601p1mdw1.sendgrid.net with SMTP id filter0601p1mdw1.7257.5770053CC
+        2016-06-26 16:39:24.116470077 +0000 UTC
+Received: from getdrip.com (ec2-54-152-167-35.compute-1.amazonaws.com [54.152.167.35])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id 7tbng7rOTvyGeOXvIjjQHg
+	for <mcovel@trendfollowing.com>; Sun, 26 Jun 2016 16:39:24.143 +0000 (UTC)
+Date: Sun, 26 Jun 2016 16:39:24 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5770053c1a0bc_138f3fe4892d078c9169f@ip-172-30-0-24.mail>
+Subject: [Drip] funksolaris@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPryIkhlSUndsnh5PP8xeuZYdjkRBimcL4NNWC
+ 92CJQ/AWDDgMzf5ri6xAAK9qG/K3zMGBrPDxxo0+7pkZdKcGLTJ/QlNRD4IbeBMLJuN3AfvVhiLbdv
+ +w0Tab6PaMuHDr233R4K8meynriWh0Vt36Qu/VdgvyDJJTSwQkLikV5+KvMtiQNdtt4zNhwHLBvw39
+ w=
+Received-SPF: Pass (p01c11m031.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: funksolaris@gmail.com
+IP Address: 94.15.3.123
+city: London
+country: United Kingdom
+first_name: CJ
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: Neale
+last_trading_or_investment_book_read: Trade Your Way To Financial Freedom Van Tharp
+state: London
+street1: 23 Winchelsea House
+street2: Swan Road
+zip_code: SE16 4LH
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/qfqfpbjnwjqfbzwqzbgb
+
+Cheers,
+The Drip Team

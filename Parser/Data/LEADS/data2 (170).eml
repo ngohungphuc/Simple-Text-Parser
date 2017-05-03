@@ -1,0 +1,240 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m036.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F224B404DEDD2
+	for <mcovel@trendfollowing.com>; Mon, 29 Aug 2016 12:54:13 -0400 (EDT)
+Authentication-Results: s12p02m036.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m036.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id d6964c75.0.1050297.00-2373.1951934.s12p02m036.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 29 Aug 2016 10:57:18 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=O7CGwu1AY0JzrGo1AHesxFv6MvQ=; b=lK1/WRZwJWaK9NpeSzzT1l5
+	+7Cfw8H9iU/beiVerU55cC56+4N9dqmieHifSMRODybHXnwpj2rKEYSci0txrBpE
+	xAssQDWNky5o9F2Vg7yh1js3UA3woE9iDKUuBqzZPKvys+CYB0zDWVpz6ywJFrY8
+	0IeTN4KCC4acPwkP5Ubg=
+Received: by filter0417p1mdw1.sendgrid.net with SMTP id filter0417p1mdw1.31610.57C4696C11
+        2016-08-29 16:57:16.247513897 +0000 UTC
+Received: from getdrip.com (ec2-54-152-200-47.compute-1.amazonaws.com [54.152.200.47])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id InnDrfS3QleHJnz_RnYqTw
+	for <mcovel@trendfollowing.com>; Mon, 29 Aug 2016 16:57:16.209 +0000 (UTC)
+Date: Mon, 29 Aug 2016 16:57:16 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57c4696c2a61d_75543fdadddd8c0c14798@ip-172-30-0-183.mail>
+Subject: [Drip] bruce.selby@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57c4696c2a107_75543fdadddd8c0c1478a1";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPo6+IUf05Vsn5JHEPNjSjSdl9+JOp2EwWO96h
+ 2jJHIG0g8aZ97iW9Ynj1+g2ebuH9lDnNbKvKxBlTfZFxCtBmlXy3aJL7YWGQLsK7fwKb6BnYv375YN
+ 4wsNy3eCOCqU99DWMy7+dbN8mxyywUu3GjS7XNAUvv5lkiZQ9cTSf7hcq1xGWhVwCn7lWbZZ8Qluk+
+ I=
+Received-SPF: Pass (s12p02m036.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57c4696c2a107_75543fdadddd8c0c1478a1
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+Tags:
+Customer-country-US,Customer-date-2010,Customer-purchase
+amount-3056
+city: North Enid
+country: United States
+first_name: Bruce
+has_read_LBoT: yes
+has_read_TC: yes
+has_read_TF: yes
+last_name: Selby
+last_trading_or_investment_book_read: The inner voice of Trading
+state: OK
+street1: 87 Applewood
+zip_code: 73701
+id: sizobwsfssmqdc4ebfcj
+email: bruce.selby@gmail.com
+utc_offset: -300
+visitor_uuid: 97a3e010d08101332c120e9dd67883c3
+status: active
+time_zone: America/Chicago
+friendly_time_zone: CDT
+tags: ["Mastermind More Info Request", "Customer-purchase
+amount-3056", "Customer-date-2010", "Customer-country-US",
+"Customer", "Customer-country-United States", "optedin-sitewide",
+"imported-from-aweber-March 20, 2016", "optedin-dvdrequest",
+"mastermind more info request", "customer-purchase amount-3056",
+"customer-date-2010", "customer-country-us", "customer",
+"customer-country-united states", "optedin-sitewide",
+"imported-from-aweber-march 20, 2016", "optedin-dvdrequest"]
+created_at: 2016-03-21 16:33:30 UTC
+
+View their full profile here:
+
+bruce.selby@gmail.com ( https://www.getdrip.com/3513718/subscribers/sizobwsfssmqdc4ebfcj )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57c4696c2a107_75543fdadddd8c0c1478a1
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+  <title></title>
+=20=20
+  </head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important"><style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^=3D"tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  a[href^=3D"sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  .mobile_link a[href^=3D"tel"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+  .mobile_link a[href^=3D"sms"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 102=
+4px) {
+  a[href^=3D"tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  a[href^=3D"sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  .mobile_link a[href^=3D"tel"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+  .mobile_link a[href^=3D"sms"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+}
+</style>
+  <div id=3D"main-content" style=3D"color: #222222; font-family: 'Helvetica=
+', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; w=
+idth: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        Tags: Customer-country-US,Customer-date-2010,Customer-purchase amou=
+nt-3056<br />city: North Enid<br />country: United States<br />first_name: =
+Bruce<br />has_read_LBoT: yes<br />has_read_TC: yes<br />has_read_TF: yes<b=
+r />last_name: Selby<br />last_trading_or_investment_book_read: The inner v=
+oice of Trading<br />state: OK<br />street1: 87 Applewood<br />zip_code: 73=
+701<br />id: sizobwsfssmqdc4ebfcj<br />email: bruce.selby@gmail.com<br />ut=
+c_offset: -300<br />visitor_uuid: 97a3e010d08101332c120e9dd67883c3<br />sta=
+tus: active<br />time_zone: America/Chicago<br />friendly_time_zone: CDT<br=
+ />tags: ["Mastermind More Info Request", "Customer-purchase amount-3056", =
+"Customer-date-2010", "Customer-country-US", "Customer", "Customer-country-=
+United States", "optedin-sitewide", "imported-from-aweber-March 20, 2016", =
+"optedin-dvdrequest", "mastermind more info request", "customer-purchase am=
+ount-3056", "customer-date-2010", "customer-country-us", "customer", "custo=
+mer-country-united states", "optedin-sitewide", "imported-from-aweber-march=
+ 20, 2016", "optedin-dvdrequest"]<br />created_at: 2016-03-21 16:33:30 UTC<=
+br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href=3D"https://www.getdrip.com/3513718/subscribers/sizobwsfssmq=
+dc4ebfcj" style=3D"color: blue">bruce.selby@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57c4696c2a107_75543fdadddd8c0c1478a1--

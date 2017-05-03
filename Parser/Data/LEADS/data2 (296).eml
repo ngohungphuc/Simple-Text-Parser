@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m004.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 597714020DEDB
+	for <mcovel@trendfollowing.com>; Mon, 25 Jul 2016 09:29:27 -0400 (EDT)
+Authentication-Results: s12p02m004.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m004.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id 63416975.0.18624.00-2370.39050.s12p02m004.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 25 Jul 2016 07:29:27 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=/ZGYrAvIFB+67N8h6Y4QOiyn2no=; b=alUBeupCHQpyDAbFU7Rnoar
+	BHqGT9jzlaqx4bPYxtR08Es+d41JNvZIoOvDDDZ+oySSvylmVJv6wRwh5dfMZ1/B
+	3M4orB052SXXsJ229WHg56GDpJvxpelTxUJSdjVsF56nGcbNJjWllJe0D7fs5fJi
+	xvCHcirwOeMReoMWU1Ek=
+Received: by filter0651p1mdw1.sendgrid.net with SMTP id filter0651p1mdw1.28117.5796142C2B
+        2016-07-25 13:29:16.473303472 +0000 UTC
+Received: from getdrip.com (ec2-54-210-139-199.compute-1.amazonaws.com [54.210.139.199])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id hDFdUIZKTVqluxK9gG06tA
+	for <mcovel@trendfollowing.com>; Mon, 25 Jul 2016 13:29:16.233 +0000 (UTC)
+Date: Mon, 25 Jul 2016 13:29:16 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5796142c9454_649c3fbe978e291c1257e2@ip-172-30-0-204.mail>
+Subject: [Drip] dennisjc2@yahoo.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPp8dUD7VeB27l8sgz0xb5QDKQ5xrbfxyA0G45
+ nPFXj3SD2TmNAfM5vZnQKrpJoHi3AwNsIZn1FDe8Q3DqVwZxj0XWsKTFvTWG3olNSxS92jKpB30KIh
+ 4linf8P6ZgyUr00RHmk5HXjpM+jbAgFEp/PEzQ6QNF3aIvr1kL1uezs/CNG0fOwJhUv9e598VmG+U2
+ U=
+Received-SPF: Pass (s12p02m004.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: dennisjc2@yahoo.com
+IP Address: (not provided)
+city: Davison
+country: USA
+first_name: Dennis
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: Chittle
+last_trading_or_investment_book_read: Jim Cramer's latest book
+state: MI
+street1: 2183 Antrim Dr
+zip_code: 48423
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/rzjm7oo4pxxpxovcxgwt
+
+Cheers,
+The Drip Team

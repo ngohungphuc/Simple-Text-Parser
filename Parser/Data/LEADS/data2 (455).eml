@@ -1,0 +1,69 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m002.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1A8B9401E9092
+	for <mcovel@trendfollowing.com>; Mon, 23 May 2016 14:28:28 -0400 (EDT)
+Authentication-Results: p02c11m002.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p02c11m002.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id ccb43475.0.1203985.00-2121.2281143.p02c11m002.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 23 May 2016 12:28:29 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=RvejIV7h/baIOwUeYuDWNmY9t38=; b=b/Nh1t2lNd2HWmph7RhbXsH
+	Bh9NsDfd/B7WJO87sHPEI22mLOdiJBx0b3fV0Ba3f4XM5dY0hoY2H7YqYOpNCGDe
+	9XxajO5Zgc0UZ0u5Hf01lxXS6KC+uOHqrU4OPkeSWWee+cRvoh7rQMU8ih5jgJlg
+	sGHpa5FO37gA7TDC7M/w=
+Received: by filter0507p1mdw1.sendgrid.net with SMTP id filter0507p1mdw1.28323.57434BCB2E
+        2016-05-23 18:28:27.560418284 +0000 UTC
+Received: from getdrip.com (ec2-54-152-167-35.compute-1.amazonaws.com [54.152.167.35])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id uErnZ0WEQwqqp15cVFnTzQ
+	for <mcovel@trendfollowing.com>; Mon, 23 May 2016 18:28:27.564 +0000 (UTC)
+Date: Mon, 23 May 2016 18:28:27 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57434bcb7c0d9_50203fa126ea67ec594ee@ip-172-30-0-24.mail>
+Subject: [Drip] ginger@ta2k.net just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPp7/aURUklgf+3XJNn1ckRZ0qVZhNneChMDmz
+ 41CbxFYh7nOxaFvEXCncb//PHSVDnI0urqGJGjo8TUpULlsCw8VhGc6Hn66WE3jjW1uT8zSPvNTjmA
+ 8QrGnfB1bNlnddD14YBRSdWGb06dNH3nc01bFZ8AAbq8qkMo+yHsZgyiySYOTr1VwrLy2kamU6nMli
+ 4=
+Received-SPF: Pass (p02c11m002.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: ginger@ta2k.net
+Domain: http://ta2k.net
+IP Address: 24.255.235.24
+city: Wichita
+country: United States
+first_name: Ginger
+has_read_LBoT: Yes.
+has_read_TC: I have it and the Turtle Traders book, and will get to them after TF.
+has_read_TF: I'm in process.
+last_name: French
+last_trading_or_investment_book_read: Michael's The Little Book of Trading - Trend Following.
+state: Kansas
+street1: 2240 North Cameron Circle
+zip_code: 67226-1021
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/q8pqqiz4kmm6qceycasb
+
+Cheers,
+The Drip Team

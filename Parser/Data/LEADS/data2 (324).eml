@@ -1,0 +1,64 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m094.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DFE1D400F8222
+	for <mcovel@trendfollowing.com>; Fri, 20 May 2016 13:06:48 -0400 (EDT)
+Authentication-Results: s12p02m094.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m094.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 9244f375.0.3483778.00-2180.6953460.s12p02m094.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 20 May 2016 11:06:49 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=LG/H00yCWgsnohNcstrNp4/HgeU=; b=ZFiqw6l92s78r4x2d2/3Krd
+	K3Uxl1bhtXzG0CxbmUP1/BcJdxNJUvSVRUrQVtFwMI2Dc6C18I6E5ZepmQXxRqZv
+	Cy0PZVYAL10uiJwV2JKUX/umNxAJWwTT0uT5CYcnjXJmPZ17DeSbw1xYpMyjWeBN
+	oGqYVxKtHmzWzRDCmrI8=
+Received: by filter0590p1mdw1.sendgrid.net with SMTP id filter0590p1mdw1.9003.573F441BA1
+        2016-05-20 17:06:35.929463853 +0000 UTC
+Received: from getdrip.com (ec2-52-90-26-126.compute-1.amazonaws.com [52.90.26.126])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id NPObYwGXRkegrfPkQROQsQ
+	for <mcovel@trendfollowing.com>; Fri, 20 May 2016 17:06:35.937 +0000 (UTC)
+Date: Fri, 20 May 2016 17:06:35 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <573f441bae636_25013fbec8e67c8078887@ip-172-30-0-204.mail>
+Subject: [Drip] donnihill@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPo0TXMRt2HlsPbGT7mRFm1HrDaBuZk5CSxqEV
+ LvduxmR/w3S3Bm07CwMNwkiQ92JUnHoCDTZn0/mKBFhNucsEGI2akv1MBbzwzot2pTLsES+vFml8Hg
+ PC2MPbOWCMi+FPzN2b7jtTF9qJNL0Xy61blKxVK87pIeOhWTyorruTsyI3fsx/y4CyS+Hbdow2mak0
+ k=
+Received-SPF: Pass (s12p02m094.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: donnihill@gmail.com
+IP Address: (not provided)
+city: Acworth
+country: U.S.A.
+first_name: Don
+last_name: Hill
+state: Georgia
+street1: 6183 N. Main st
+zip_code: 30101
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/rasazxn49ztuwi2pyzmv
+
+Cheers,
+The Drip Team

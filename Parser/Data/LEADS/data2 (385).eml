@@ -1,0 +1,66 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m041.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1CFC040237CCE
+	for <mcovel@trendfollowing.com>; Wed,  3 Aug 2016 08:28:42 -0400 (EDT)
+Authentication-Results: p01c11m041.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m041.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id a73e1a75.0.551551.00-2300.1017807.p01c11m041.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Wed, 03 Aug 2016 06:28:42 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=Qkeo4mO4QZvInAtxzA0tqHL05RU=; b=Lp1R9pomROnP18CI/eO0txA
+	L6cskNgX0MwGrQji+dgMbcDBVkYlr8luAm/Yv3i5NdbtrIoqFf6guAFPvyA8AXQy
+	/0iDEI3OjYvLAWNDBOtOrzCR4v56Bop/PTtmSsCtkSxYCAjh28SKwKcc56ugH5a5
+	yjBy27nHtMByz/bJ+SdE=
+Received: by filter0841p1mdw1.sendgrid.net with SMTP id filter0841p1mdw1.18771.57A1E37721
+        2016-08-03 12:28:39.281489501 +0000 UTC
+Received: from getdrip.com (ec2-54-152-67-238.compute-1.amazonaws.com [54.152.67.238])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id Au0qd65PTVeyaE03vErI-g
+	for <mcovel@trendfollowing.com>; Wed, 03 Aug 2016 12:28:39.241 +0000 (UTC)
+Date: Wed, 03 Aug 2016 12:28:39 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57a1e377336d6_66623fad77dd56d0652f6@ip-172-30-0-200.mail>
+Subject: [Drip] ericgozlan@bigpond.com just triggered Authorize.net purchase
+ --> Tag subscriber, trigger conversion
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpn8j3C8SBslLNJ4IHx5cjLFY/qUp67RUMFyn
+ /PrrODc5eXX6NCLHhRuvMudvpK8bTu+HDcigjXP2WuPjbSVeZzCNcjUJbOYMGqpwxigooaz5XyCKCo
+ ataHBwOs2ssPELbjP4upKQtOl6nagxyy65XWNZ7ieYaOfGps/wNo2ujxgySwIcNLRZaumbr4UbLcK4
+ E=
+Received-SPF: Pass (p01c11m041.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered the "Authorize.net purchase --> Tag subscriber, trigger conversion" rule
+
+Here are the subscriber's details:
+
+Email: ericgozlan@bigpond.com
+Domain: http://bigpond.com
+IP Address: (not provided)
+address: 1 Eaglesfield House, Beach Road, St Bees
+city: St Bees
+country: GBR
+first_name: Eric
+last_name: Gozlan
+phone: +61408108015
+state: Cumbria
+zip: CA27 0EN
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/rfzp1qmqk53osgo4b7xa
+
+Cheers,
+The Drip Team

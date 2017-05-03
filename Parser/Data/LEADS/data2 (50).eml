@@ -1,0 +1,71 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m008.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 01F0140213F80
+	for <mcovel@trendfollowing.com>; Wed,  6 Jul 2016 02:27:22 -0400 (EDT)
+Authentication-Results: s12p02m008.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m008.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id bc4ac775.0.14276557.00-2189.25546564.s12p02m008.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Wed, 06 Jul 2016 00:27:23 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=gGseJTzXTLLyXtBGc/9z+kZ9l5I=; b=Mm4YXfkT4VUW99BlpVIou99
+	VG+hUPnR3pRgKO90R3Y4nvG45Tnugu4FYo1jKzVOu8TXzP5IGDz6KyWXvL8iY+kl
+	MPWG8FKWAdm8Zr0f4CHs4Q69Kf9uQhz2KlykcMaVBnCDZ9k0KqM+rHjdl3PGWw7X
+	e3Gt2xIPyZNwMlIYkD90=
+Received: by filter0849p1mdw1.sendgrid.net with SMTP id filter0849p1mdw1.24950.577CA4C811
+        2016-07-06 06:27:20.227950519 +0000 UTC
+Received: from getdrip.com (ec2-54-152-200-47.compute-1.amazonaws.com [54.152.200.47])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id EAE993jvRuqMIuvtyJO2kQ
+	for <mcovel@trendfollowing.com>; Wed, 06 Jul 2016 06:27:20.190 +0000 (UTC)
+Date: Wed, 06 Jul 2016 06:27:20 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <577ca4c826b38_2ba3fb0a666ef68654e0@ip-172-30-0-183.mail>
+Subject: [Drip] alexweb3@gmail.com just triggered Authorize.net purchase -->
+ Tag subscriber, trigger conversion
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrhibPow3YomlZyjF20ddOkjK+1pvfg22MLFo
+ bb7BwIl720+wRn+2niUGqfz0qdjzzBJ4mVJA5PdYGK9XR5xCropbN3O0wzma6zVIzFx3zABnjZHBij
+ 71yJsv2BB23xfEDD4zFAaY2wzcWvG1cz2XbxENmLwRcoKdG96uEQ4I1+rGxKf/MWANLDyuX2d87ikf
+ w=
+Received-SPF: Pass (s12p02m008.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered the "Authorize.net purchase --> Tag subscriber, trigger conversion" rule
+
+Here are the subscriber's details:
+
+Email: alexweb3@gmail.com
+IP Address: 83.134.123.67
+address: 42, rue Michel Hamelius
+city: Arlon
+country: BEL
+first_name: Alex
+has_read_LBoT: no
+has_read_TC: yes
+has_read_TF: yes
+last_name: Weber
+last_trading_or_investment_book_read: Austrian School for Investors
+phone: 00352661317713
+state: n/a
+street1: 42, rue Michel Hamelius
+zip: 6700
+zip_code: 6700
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/kmjen6zzuqgg7mbzcssv
+
+Cheers,
+The Drip Team

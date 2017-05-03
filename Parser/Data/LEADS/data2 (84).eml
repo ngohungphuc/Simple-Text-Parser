@@ -1,0 +1,89 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m021.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id AADD240213F91
+	for <mcovel@trendfollowing.com>; Fri, 15 Apr 2016 07:49:00 -0400 (EDT)
+Authentication-Results: p01c11m021.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m021.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id d25d0175.0.1883091.00-2364.3745842.p01c11m021.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 15 Apr 2016 05:49:02 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type; s=s1; 
+	bh=i6wbigZYew8S/q8HTuFjJ7K6rrY=; b=IxF9phPoGR8htQjT+84n/j0SHed2L
+	Tn74Lwhxr99D9QMevSrHFiLtMmqlHWMKJuc4yf4sfuVAsSAsH7mrlHERfj7VeAkZ
+	296QowVlsGP1KwNoCiD9PpmoL2AgJMjReD86bXmgPQodC+EF6pvvaTHHmVXqRLFV
+	EPIXehOJiIjB7g=
+Received: by filter0544p1mdw1.sendgrid.net with SMTP id filter0544p1mdw1.24330.5710D52C11
+        2016-04-15 11:49:00.186751537 +0000 UTC
+Received: from getdrip.com (ec2-52-91-56-161.compute-1.amazonaws.com [52.91.56.161])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id 5iNtJqS2RHmcHQCkLIBFuw
+	for <mcovel@trendfollowing.com>; Fri, 15 Apr 2016 11:49:00.134 +0000 (UTC)
+Date: Fri, 15 Apr 2016 11:49:00 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5710d52c15ed7_265f3f9c4e7773041052d6@ip-172-30-0-200.mail>
+Subject: [Drip] asa@gmail.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-type: multipart/alternative; boundary="----------=_1460720940-24637-377"
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpG17rC7piVoJlJopperJYdSnnAjRfMC5bnY/
+ vSyuldb4M4YQxpX7EKl5cK/YcHOfvp2Szos5C+bZRDs1KsA9jQXDvFzB/LUprAEjQw4cqN+VtZVUv7
+ XcVEyD4BehqokqawnK4kEwJ1KbqIOBAXtuAiNxWj9igliSrxRj46l2AmKUGSs908gM7NVKW+7Q8aRz
+ g=
+Received-SPF: Pass (p01c11m021.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+This is a multi-part message in MIME format...
+
+------------=_1460720940-24637-377
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: asa@gmail.com
+IP Address: (not provided)
+city: dfdf
+country: US
+first_name: ASA
+last_name: SA
+state: Denver
+street1: sds dfd
+street2: dfdf dfdf
+zip_code: 80202
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/geqxfuoqpysiwjjwdg36
+
+Cheers,
+The Drip Team
+
+------------=_1460720940-24637-377
+Content-Type: text/html; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Hi there,</p>
+<p>There has been new subscriber activity in your Drip account.</p>
+<p>A subscriber has triggered a notification from the &ldquo;LeadPages &ldquo;DVD Form&rdquo; --&gt; Join tf-dvd followup, tag as optedin-dvdrequest&rdquo; workflow</p>
+<p>Here are the subscriber's details:</p>
+<p>Email: asa@gmail.com IP Address: (not provided) city: dfdf country: US first_name: ASA last_name: SA state: Denver street1: sds dfd street2: dfdf dfdf zip_code: 80202</p>
+<p>View their full profile here: <a href="https://www.getdrip.com/3513718/subscribers/geqxfuoqpysiwjjwdg36">https://www.getdrip.com/3513718/subscribers/geqxfuoqpysiwjjwdg36</a></p>
+<p>Cheers, The Drip Team</p>
+
+<img src="http://o.getdrip.com/wf/open?upn=SJDnwYrO31uXHkZswfs0brGNxgS1dAHFg-2B0hldZVSBYgvL1-2FS5iAslFajBKFECeYN-2BWxU5sqt36HlBKs-2FyQX51BCQWMTEdb239baPrR2Vnyg9ETTJwZBiRF87M7NkDpFBYj8U-2BGxVhq528-2FmeY8P-2FQVe6B3heBRj7SlLolYgYt-2B4sqYPh-2FqXM1us7rpi97-2Bf-2FFc5mmy7di2xLhZN8BRgR3x3enARj7-2FA3EUDuCDC5jY-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body></html>
+
+------------=_1460720940-24637-377--

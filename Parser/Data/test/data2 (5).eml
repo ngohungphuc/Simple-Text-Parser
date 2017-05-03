@@ -1,0 +1,235 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 60EE14028A4CD
+	for <mcovel@trendfollowing.com>; Sat, 26 Nov 2016 04:37:13 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20161126094006259_0459
+          for <mcovel@trendfollowing.com>;
+          Sat, 26 Nov 2016 09:40:06 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=Z+qLgXyTR4DiUqO1vi7mwBfan+M=; b=WFlpDFoiF7vatVpShNiYKxG
+	n/bMysZ9fh4kGk2NM8GZBane4OiZKXzQBVoQKCnTzIhEVx9fECelOpMa9K5pUAq7
+	w2Zgj09e0sxdXMuEy5Jnega3amksA8pnXJv9qSObIE39lFE2lgCzGdx0rgmnmGUS
+	2lbfDOFFWWKK2xmrSIsY=
+Received: by filter0947p1mdw1.sendgrid.net with SMTP id filter0947p1mdw1-1522-5839586C-9F
+        2016-11-26 09:39:57.033721795 +0000 UTC
+Received: from getdrip.com (ec2-54-82-168-171.compute-1.amazonaws.com [54.82.168.171])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id Uj_24p7lSBmHOx3ioWxw7w
+	for <mcovel@trendfollowing.com>; Sat, 26 Nov 2016 09:39:56.971 +0000 (UTC)
+Date: Sat, 26 Nov 2016 09:39:56 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5839586c84ea9_77e73ff7bdad932443639@ip-172-30-2-196.mail>
+Subject: [Drip] 553053763@qq.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5839586c84913_77e73ff7bdad93244354a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqXcZOFRTajZ1N2fAjKS90xDoirZKBMGFRBTW
+ IVggy/6qtandGepbym4oHiTQynSxbNQ7eek4q0gE7gXNv4K/TXVcfKL6/B2PQ3pA7/E84aP8P7wn9T
+ WoDSAvrDTrDu5kGJRMQ2mv0zotBadKGjuBIQhqUCHWhEC98UkwME0Gpk0Gi1I740nmsFx2XujYpMXl
+ g=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_5839586c84913_77e73ff7bdad93244354a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: =E6=B5=B7=E5=8D=97=E7=9C=81=E6=B5=B7=E5=8F=A3=E5=B8=82
+country: =E4=B8=AD=E5=9B=BD
+first_name: =E7=91=9E=E5=88=9A
+has_read_LBoT: =E6=B2=A1=E6=9C=89
+has_read_TC: =E6=B2=A1=E6=9C=89
+has_read_TF: =E6=B2=A1=E6=9C=89
+last_name: =E5=8D=A2
+last_trading_or_investment_book_read: =E6=B2=A1=E6=9C=89
+state: =E5=B7=A5=E4=BD=9C
+street1: =E5=A4=A7=E8=8B=B1=E8=B7=AF=E6=9C=9B=E6=B5=B7=E5=9B=BD=E9=99=85=E7=
+=B2=BE=E8=A3=85=E5=85=AC=E5=AF=9312=E5=B1=82224
+street2: =E7=BE=8E=E5=85=B0=E5=8C=BA
+zip_code: 550071
+id: jisydod5ppne8fizviqf
+email: 553053763@qq.com
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2016-11-26 09:39:48 UTC
+lead_score:
+
+View their full profile here:
+
+553053763@qq.com ( https://www.getdrip.com/3513718/subscribers/jisydod5ppne=
+8fizviqf )
+
+Cheers,
+
+The Drip Team=
+
+----==_mimepart_5839586c84913_77e73ff7bdad93244354a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+  <title></title>
+=20=20
+  </head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important"><style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^=3D"tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  a[href^=3D"sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  .mobile_link a[href^=3D"tel"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+  .mobile_link a[href^=3D"sms"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 102=
+4px) {
+  a[href^=3D"tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  a[href^=3D"sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  .mobile_link a[href^=3D"tel"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+  .mobile_link a[href^=3D"sms"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+}
+</style>
+  <div id=3D"main-content" style=3D"color: #222222; font-family: 'Helvetica=
+', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; w=
+idth: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: =E6=B5=B7=E5=8D=97=E7=9C=81=E6=B5=B7=E5=8F=A3=E5=B8=82<br />c=
+ountry: =E4=B8=AD=E5=9B=BD<br />first_name: =E7=91=9E=E5=88=9A<br />has_rea=
+d_LBoT: =E6=B2=A1=E6=9C=89<br />has_read_TC: =E6=B2=A1=E6=9C=89<br />has_re=
+ad_TF: =E6=B2=A1=E6=9C=89<br />last_name: =E5=8D=A2<br />last_trading_or_in=
+vestment_book_read: =E6=B2=A1=E6=9C=89<br />state: =E5=B7=A5=E4=BD=9C<br />=
+street1: =E5=A4=A7=E8=8B=B1=E8=B7=AF=E6=9C=9B=E6=B5=B7=E5=9B=BD=E9=99=85=E7=
+=B2=BE=E8=A3=85=E5=85=AC=E5=AF=9312=E5=B1=82224<br />street2: =E7=BE=8E=E5=
+=85=B0=E5=8C=BA<br />zip_code: 550071<br />id: jisydod5ppne8fizviqf<br />em=
+ail: 553053763@qq.com<br />utc_offset: 0<br />visitor_uuid: <br />status: a=
+ctive<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdre=
+quest", "optedin-dvdrequest"]<br />created_at: 2016-11-26 09:39:48 UTC<br /=
+>lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href=3D"https://www.getdrip.com/3513718/subscribers/jisydod5ppne=
+8fizviqf" style=3D"color: blue">553053763@qq.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_5839586c84913_77e73ff7bdad93244354a--
+

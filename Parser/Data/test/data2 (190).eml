@@ -1,0 +1,74 @@
+Return-Path: <bounce-md_30115094.56ff37a8.v1-f0d594fc61de4fe883c5027fe128767c@click.dripemail2.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m095.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F404B4019ED11
+	for <mcovel@trendfollowing.com>; Fri,  1 Apr 2016 23:08:23 -0400 (EDT)
+Authentication-Results: s12p02m095.mxlogic.net; spf=pass
+Received: from unknown [205.201.131.132] (EHLO mail132.wdc04.mandrillapp.com)
+	by s12p02m095.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id 9a73ff65.0.2437242.00-2315.4920335.s12p02m095.mxlogic.net (envelope-from <bounce-md_30115094.56ff37a8.v1-f0d594fc61de4fe883c5027fe128767c@click.dripemail2.com>);
+	Fri, 01 Apr 2016 21:08:26 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=getdrip.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@getdrip.com;
+ bh=amUWYGmt5fu4GJ5X35g/SCR2etk=;
+ b=P4U4gxcoCRXkM0c943r4hj4RuYn7TAfmFuqupXlu62HO5gGh0YblTFrXAgE8vHClHslcuQsEnlKz
+   BNMIHqijsekDGbRjKrFzARoKSsxQWvEp3WCdYt5c6vXg/R+tYBiqbQLR0mmAC1Uwt22bMy6IW90Z
+   RcgHB5gnuii7cBNduzo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=getdrip.com;
+ b=ca81eb5UL906zcKosqti8D1qP4Jtpa2Btvw6YAJ0ryYcS6XZlB/jI7uYN7Pc18Bh08s+lkH3goiG
+   mUrfBIcze+lFJMxvbYl4fcMjVaSwYZy0j4TzSSFEdtSttAa53rJjEGjMy0SJH6BdQdwBMqHyPyvA
+   vpA/IA5dluBRP1nvB2w=;
+Received: from pmta05.wdc01.mailchimp.com (127.0.0.1) by mail132.wdc04.mandrillapp.com id hvsrqi1jvjgf for <mcovel@trendfollowing.com>; Sat, 2 Apr 2016 03:08:25 +0000 (envelope-from <bounce-md_30115094.56ff37a8.v1-f0d594fc61de4fe883c5027fe128767c@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1459566504; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=m9kjd9dOTMlT6A43ol+tAvGq+4iKpjm8VbyJ1l0clU0=; 
+ b=DOnbGWiSwbnhBj+6sc3SuKewIwXfkFU1rZqqPOH3yqO+jwFMvkYuTLCqtbKphBOzzAVHxo
+ 74Vxfla6VZNqMRPzsjI9IzIwUOXytxF613c49GpoZ0Q4TIS8UzRDBZq3c3LLh+9FBfSHKHGD
+ FCaCaRV69FQhaQ5bW5sU+st5wN13M=
+From: Rob at Drip <support@getdrip.com>
+Subject: [Drip] chad.daigle@icloud.com just triggered a notification from LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Received: from [52.90.26.126] by mandrillapp.com id f0d594fc61de4fe883c5027fe128767c; Sat, 02 Apr 2016 03:08:24 +0000
+To: <mcovel@trendfollowing.com>
+Message-Id: <56ff37a8ce86d_10663fe3137a934866055@ip-172-30-0-204.mail>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.f0d594fc61de4fe883c5027fe128767c
+X-Mandrill-User: md_30115094
+Date: Sat, 02 Apr 2016 03:08:24 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+Received-SPF: Pass (s12p02m095.mxlogic.net: domain of click.dripemail2.com designates 205.201.131.132 as permitted sender)
+X-MAIL-FROM: <bounce-md_30115094.56ff37a8.v1-f0d594fc61de4fe883c5027fe128767c@click.dripemail2.com>
+X-SOURCE-IP: [205.201.131.132]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: chad.daigle@icloud.com
+IP Address: (not provided)
+city: Prosper
+country: United States
+first_name: Chad
+has_read_LBoT: Yes
+has_read_TC: no
+has_read_TF: no
+last_name: Daigle
+last_trading_or_investment_book_read: Little Book of Trading
+state: TX
+street1: 2800 Winding Creek Rd.
+zip_code: 75078
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/cg88xagcnx2ibpqs4sda
+
+Cheers,
+The Drip Team

@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m023.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id EA993404DEDD6
+	for <mcovel@trendfollowing.com>; Sun, 28 Aug 2016 07:45:11 -0400 (EDT)
+Authentication-Results: p02c11m023.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p02c11m023.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id 08fc2c75.0.4462984.00-2200.8428070.p02c11m023.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sun, 28 Aug 2016 05:48:16 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=pqB7Jy0ThGOtvWw/61u8RJAfsUs=; b=P7IuGyJ3fbCAhr3wrL9Aqqi
+	1FktSov/YbBgBqGGMHiYEUTqOKZNUIDYx6aUeqaYF/GJKt6aLbERc55rKzW3qrBu
+	o4tCUDf2/aGB57RMVXN0qGXEKH84vfokSImtVE1dYsHj2cPI7k69lmeOOu/9cXl6
+	jsRi6KVEUrQCCnT0Om5I=
+Received: by filter0936p1mdw1.sendgrid.net with SMTP id filter0936p1mdw1.20861.57C2CF7E50
+        2016-08-28 11:48:14.9079349 +0000 UTC
+Received: from getdrip.com (ec2-54-84-125-167.compute-1.amazonaws.com [54.84.125.167])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id _pQX_3cSRe-NJCdJxbu-6g
+	for <mcovel@trendfollowing.com>; Sun, 28 Aug 2016 11:48:14.906 +0000 (UTC)
+Date: Sun, 28 Aug 2016 11:48:14 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57c2cf7ed61cc_40f23fa5f039c99057036@ip-172-30-0-25.mail>
+Subject: [Drip] cawtips@gmail.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57c2cf7ed5b4b_40f23fa5f039c99056957";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoWy0Kda9TtEjQCdgQxWkLKZAl0WoPGT+kvCa
+ aapqYlnALo4KiYhqYmzWolgwMlB8wb4l9pWYgAWNuxv5ybxAZ/sva9SxmoFhpHiNPfZ8M6NymWcVdL
+ muuIE7ZpVSv3Wu2tRIvgKA/N3ej9G8HBSPXUY7H+e+uizvJxHB5IqCWI8IzUSXiO2brow2QqWgjHt3
+ I=
+Received-SPF: Pass (p02c11m023.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57c2cf7ed5b4b_40f23fa5f039c99056957
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: dillon
+country: usa
+first_name: chris
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: west
+last_trading_or_investment_book_read: candlesticks steve nisson
+state: co
+street1: pob 101
+street2: hawn Drive
+zip_code: 80498
+id: 4histz6s2odcmce4happ
+email: cawtips@gmail.com
+utc_offset: 120
+visitor_uuid: 6ee590804f3d0134e11d0a76bd368e1f
+status: active
+time_zone: Europe/Berlin
+friendly_time_zone: CEST
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-08-28 11:21:40 UTC
+
+View their full profile here:
+
+cawtips@gmail.com ( https://www.getdrip.com/3513718/subscribers/4histz6s2odcmce4happ )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57c2cf7ed5b4b_40f23fa5f039c99056957
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: dillon<br />country: usa<br />first_name: chris<br />has_read_LBoT: no<br />has_read_TC: no<br />has_read_TF: no<br />last_name: west<br />last_trading_or_investment_book_read: candlesticks steve nisson<br />state: co<br />street1: pob 101<br />street2: hawn Drive<br />zip_code: 80498<br />id: 4histz6s2odcmce4happ<br />email: cawtips@gmail.com<br />utc_offset: 120<br />visitor_uuid: 6ee590804f3d0134e11d0a76bd368e1f<br />status: active<br />time_zone: Europe/Berlin<br />friendly_time_zone: CEST<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-08-28 11:21:40 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/4histz6s2odcmce4happ" style="color: blue">cawtips@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57c2cf7ed5b4b_40f23fa5f039c99056957--

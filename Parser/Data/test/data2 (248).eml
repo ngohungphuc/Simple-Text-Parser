@@ -1,0 +1,64 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m066.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 97BA9401CBE1F
+	for <mcovel@trendfollowing.com>; Thu, 30 Jun 2016 23:42:07 -0400 (EDT)
+Authentication-Results: p01c11m066.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m066.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 096e5775.0.5560398.00-2335.10317117.p01c11m066.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Thu, 30 Jun 2016 21:42:08 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=1a1FhQ8MTukdKKyZCYNWB80rgsg=; b=XnXaSfweYePY47CA4YK1I4/
+	zr448q30jxbfZ3vPF9bjSYGYTUklW/XpUyHpO1iZdjt10wYEYepxyd5kRZjIwKEH
+	9q8xfUAul+Vc8zMIUyhyCofHPaDhfZYRVSWG2JhRVjdM3H0D1gD7qsbPKfmaB76k
+	LPjOY39UcQV1bf6uP6wM=
+Received: by filter0607p1mdw1.sendgrid.net with SMTP id filter0607p1mdw1.25798.5775E68EF
+        2016-07-01 03:42:06.474897839 +0000 UTC
+Received: from getdrip.com (ec2-52-91-56-161.compute-1.amazonaws.com [52.91.56.161])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id hFCPcpjfTjG859HRfaBw-Q
+	for <mcovel@trendfollowing.com>; Fri, 01 Jul 2016 03:42:06.343 +0000 (UTC)
+Date: Fri, 01 Jul 2016 03:42:06 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5775e68e4c43a_5aca3fb0dd4e073c909f@ip-172-30-0-200.mail>
+Subject: [Drip] csl_texas@outlook.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoCHccZOk2rB7YzzQBNUVQSgq5haq4mPz+MHT
+ xk33ktSRUVWk2OmttlAGOfn5zgYLwlqZaCw/eZiH9Ph+ncDCAYF+2sHAvxs7s8BKzdjtrYRM1StXbW
+ fZL+9VvEy7hPbNnrprcNlh+kb0li/T20e9c5Fle2Ne31F6fEz4mW56wAU6enrjVZ8IuaX5ySZTelKY
+ E=
+Received-SPF: Pass (p01c11m066.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: csl_texas@outlook.com
+IP Address: 107.77.198.49
+city: Mesquite
+country: United States
+first_name: cody
+last_name: luker
+state: Texas
+street1: 2129 U.S. Highway 80 Apt.#205
+zip_code: 75150
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/na83kw74hpjmswpvitya
+
+Cheers,
+The Drip Team

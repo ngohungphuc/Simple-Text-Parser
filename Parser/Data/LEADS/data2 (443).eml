@@ -1,0 +1,204 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6E8614028F200
+	for <mcovel@trendfollowing.com>; Fri, 30 Dec 2016 10:50:19 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20161230155316747_0659
+          for <mcovel@trendfollowing.com>;
+          Fri, 30 Dec 2016 15:53:16 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=bFwQZEXrpscqQkUTp4A0Z4UXOyY=; b=Y5Pz87/Y6FbWZ9XqYw2c1Mu
+	Alhpy08+STByHS4TrKME55Thab11i9O9GHP4OQVVE+8F3BUTt7lAR5tqVlbLXoYI
+	0p8oY0MGdKxhxSm1EquTNLtqzyccUyaQO4/3Ek+YarpsnRKf7G2iXghJtuwgHUG7
+	lXruvYY09vBQCviiX2Xw=
+Received: by filter0414p1mdw1.sendgrid.net with SMTP id filter0414p1mdw1-21641-586682C5-AE
+        2016-12-30 15:52:37.836718542 +0000 UTC
+Received: from getdrip.com (ec2-54-82-168-171.compute-1.amazonaws.com [54.82.168.171])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id ifIW5U20TS2zJzPEtHuttQ
+	for <mcovel@trendfollowing.com>; Fri, 30 Dec 2016 15:52:37.854 +0000 (UTC)
+Date: Fri, 30 Dec 2016 15:52:37 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <586682c5c42b7_6c463f9556bde9003552c@ip-172-30-2-196.mail>
+Subject: [Drip] georgeb5757@yahoo.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_586682c5c366d_6c463f9556bde900354cc";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrpRTyBd5aGiwjxoIjX4AW/66NDPaztwvwhHf
+ zRWZqq5sbdAurMoGi05UvcHagGw62Kj4HIkTzIYYcuYa35G2ibKDtl+JK8qFsil+NQwTYbK/FF+pw/
+ G75zZBts0uJSPjJf18yLxH9nShT3uO6HqO7X6PhvSIgBUnNCsZ+IsydFFqkpnvha783GTxzVq/sf44
+ A=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_586682c5c366d_6c463f9556bde900354cc
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Deland
+country: USA
+first_name: George
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: yes
+last_name: Baechtle
+last_trading_or_investment_book_read: Jim Rickards The Road to
+Ruin
+state: FL
+street1: 119 Asterbrooke Dr.
+zip_code: 32724
+id: 87rb5cx4aipawrds4qbx
+email: georgeb5757@yahoo.com
+utc_offset: -300
+visitor_uuid: 0684e720b0d101346cd60acbcb28d6c3
+status: active
+time_zone: America/New_York
+friendly_time_zone: EST
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-12-30 15:39:15 UTC
+lead_score:
+
+View their full profile here:
+
+georgeb5757@yahoo.com ( https://www.getdrip.com/3513718/subscribers/87rb5cx4aipawrds4qbx )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_586682c5c366d_6c463f9556bde900354cc
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Deland<br />country: USA<br />first_name: George<br />has_read_LBoT: no<br />has_read_TC: no<br />has_read_TF: yes<br />last_name: Baechtle<br />last_trading_or_investment_book_read: Jim Rickards The Road to Ruin<br />state: FL<br />street1: 119 Asterbrooke Dr.<br />zip_code: 32724<br />id: 87rb5cx4aipawrds4qbx<br />email: georgeb5757@yahoo.com<br />utc_offset: -300<br />visitor_uuid: 0684e720b0d101346cd60acbcb28d6c3<br />status: active<br />time_zone: America/New_York<br />friendly_time_zone: EST<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-12-30 15:39:15 UTC<br />lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/87rb5cx4aipawrds4qbx" style="color: blue">georgeb5757@yahoo.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_586682c5c366d_6c463f9556bde900354cc--
+

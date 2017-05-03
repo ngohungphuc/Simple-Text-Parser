@@ -1,0 +1,64 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m081.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 95BCD40213F8B
+	for <mcovel@trendfollowing.com>; Thu, 21 Apr 2016 12:54:53 -0400 (EDT)
+Authentication-Results: s12p02m081.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m081.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id ed509175.0.9901095.00-1806.19107234.s12p02m081.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Thu, 21 Apr 2016 10:54:55 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=6+53un74ktxfGE6XDYPcp+6b1o4=; b=CsrGae4qsBgyCHzy/VDLxGY
+	xEM1E4bo05DoMNAcNoZmzZaHCTKJFEbmBKICdl4eOShDzxIotRuGiJ9LwBbOn7WP
+	Whyv8QWqA8gSXghrsqUj+Bczo30NrRoAqHQtjpK6dyVpg74y0oJQWvo7fQsUkWn3
+	wp7V4BnDFXoxnqW62J/E=
+Received: by filter0835p1mdw1.sendgrid.net with SMTP id filter0835p1mdw1.10086.571905D854
+        2016-04-21 16:54:48.541100623 +0000 UTC
+Received: from getdrip.com (ec2-54-208-95-243.compute-1.amazonaws.com [54.208.95.243])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id s00fZDffR3aW1wXnRBziJQ
+	for <mcovel@trendfollowing.com>; Thu, 21 Apr 2016 16:54:49.195 +0000 (UTC)
+Date: Thu, 21 Apr 2016 16:54:49 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <571905d92bac6_187d3fd7f2a6d53889013@ip-172-30-0-65.mail>
+Subject: [Drip] eeiserling@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrhhmGXyzWMZ5vzgpTYWA6c2nVne4/Zd6ztoy
+ /o1taQb3NTFNPqd6G2mbRMo66O4wfY/ONTiIZEdl0dq6xM7qHeDnAwm9npRDkrQyQLQfGqzPdJWx4G
+ TxHXaQIwobivuKjX9MRouD9DtYtar5f1IPq8JVng5QglWqtxw0TcvE3kyjwwQ/9b4/oBV9v2ZWyJB6
+ k=
+Received-SPF: Pass (s12p02m081.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: eeiserling@gmail.com
+IP Address: 76.113.46.106
+city: LAS CRUCES
+country: United States
+first_name: Eleanor
+last_name: Eiserling
+state: NEW MEXICO
+street1: 610 Canyon Point Rd.
+zip_code: 88011
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/15t1mcvbnssdwkvxym3c
+
+Cheers,
+The Drip Team

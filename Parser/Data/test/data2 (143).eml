@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m026.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C6BBB400F8222
+	for <mcovel@trendfollowing.com>; Fri, 20 May 2016 09:21:58 -0400 (EDT)
+Authentication-Results: s12p02m026.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m026.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 77f0f375.0.13131808.00-1964.25217217.s12p02m026.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 20 May 2016 07:21:59 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=zxTQjCFIJ0NSor3En8RxDw7I83U=; b=bqDvyuelq6Iy9Xlnol/AkQl
+	hp0K2Q23fjk143WN+7Rstpe3gvTWgz5cVUT+dAkCPAUrQbXXJJZpRwLeUEh2QtVX
+	eheRZKh/DpN684QfGX6is27ZxFTJ4YVSwEQu4n22luLQioV4bwNpXeyyRumPqYPM
+	57tlOtMm8pu3HEb1FwiM=
+Received: by filter0641p1mdw1.sendgrid.net with SMTP id filter0641p1mdw1.17639.573F0F7211
+        2016-05-20 13:21:54.134566962 +0000 UTC
+Received: from getdrip.com (ec2-54-208-95-243.compute-1.amazonaws.com [54.208.95.243])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id Fc_6yt8OTIGSzKddlwydVQ
+	for <mcovel@trendfollowing.com>; Fri, 20 May 2016 13:21:54.151 +0000 (UTC)
+Date: Fri, 20 May 2016 13:21:54 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <573f0f721d180_551d3f85aa5bc9485104b@ip-172-30-0-65.mail>
+Subject: [Drip] bojiwaju@yahoo.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPphlrlr94SaF1K6NfxEHgSFO23FRxEbuGMqD6
+ tnmds9sLiZJnBDSJRKQuFSPbCUL84kYmo3pvUEr3/6DKTX8Clg4Yg46t0vHC+c5myKHqy7CI+o9S6p
+ PpuO52K5nYW3cmh64ot/KP1FZIM0Hz+dFCDR3wBJyAtoh4L/JwuVkiK/sQz6R0+jvSrSSzl3nxgG5d
+ I=
+Received-SPF: Pass (s12p02m026.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: bojiwaju@yahoo.com
+IP Address: 197.210.16.150
+city: benin city
+country: nigeria
+first_name: f
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: bolaji
+last_trading_or_investment_book_read: no
+state: edo state nigeria
+street1: 50 sapele road benin city
+zip_code: 234
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/aqmnrzpbvwztanrfs5ma
+
+Cheers,
+The Drip Team

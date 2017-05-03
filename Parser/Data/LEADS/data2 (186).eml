@@ -1,0 +1,200 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m051.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 429AA404DEDCB
+	for <mcovel@trendfollowing.com>; Sun,  4 Sep 2016 10:51:00 -0400 (EDT)
+Authentication-Results: s12p02m051.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m051.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id b853cc75.0.7723098.00-2199.14544133.s12p02m051.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sun, 04 Sep 2016 08:54:04 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=6moRIWRupX9QAN9v1ddqo8RW9yw=; b=L4gtWb3Z4Ri2D8SZWyvhfJ1
+	/8Zv/uWN158Ehg2VOtwKjJMugEx50+xFPdFpF5HR228EZpFpzz7Wty1GcSM4tz0d
+	NkTYSKQTPJ91P+e+62tqyBPivhwA+QxpUWq5tJnrmeqIbI8n8do54C3ADh461Lof
+	Q9MpglyOuqYqDnyXY9XM=
+Received: by filter0985p1mdw1.sendgrid.net with SMTP id filter0985p1mdw1.29218.57CC358918
+        2016-09-04 14:54:01.500548752 +0000 UTC
+Received: from getdrip.com (ec2-54-210-243-70.compute-1.amazonaws.com [54.210.243.70])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id cw82YQRRTJKSCwCZM6nRpw
+	for <mcovel@trendfollowing.com>; Sun, 04 Sep 2016 14:54:01.623 +0000 (UTC)
+Date: Sun, 04 Sep 2016 14:54:01 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57cc358993caf_7ac63ff1f60a3200811a9@ip-172-30-0-179.mail>
+Subject: [Drip] cbryant@troycable.net just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57cc35899372e_7ac63ff1f60a3200810dd";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrsBrjOD9REGrDeh9wfkYKUPI38QkKVn9Zze1
+ v4A3S+hPkxj+JPDmzaDhddsqQauT9JfUe6UovnMqC8Fk3O5Ms+IOdHmVqGQ6QIwZ2nIQOzBYUaoTGE
+ 69j4GR0T8OBU0vsO65EkaftqG2MaDJJBrr5m/WfbSlPe0Q2fteSF09p+kzz21D3OlBQNeGbEdAKCI9
+ c=
+Received-SPF: Pass (s12p02m051.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57cc35899372e_7ac63ff1f60a3200810dd
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Brundidge
+country: United States
+first_name: Charles
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: Bryant
+last_trading_or_investment_book_read: none
+state: AL
+street1: P.O. Box 366
+street2: 260 West Troy St.
+zip_code: 36010
+id: jedoi7frbzsksor28wxb
+email: cbryant@troycable.net
+utc_offset: -300
+visitor_uuid: 6dbe59c053fa0134bc540ac816a29127
+status: active
+time_zone: America/Chicago
+friendly_time_zone: CDT
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-sitewide-turtletrading.com", "optedin-dvdrequest",
+"optedin-sitewide-trendfollowing.com",
+"optedin-sitewide-turtletrading.com", "optedin-dvdrequest"]
+created_at: 2016-09-03 11:56:56 UTC
+
+View their full profile here:
+
+cbryant@troycable.net ( https://www.getdrip.com/3513718/subscribers/jedoi7frbzsksor28wxb )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57cc35899372e_7ac63ff1f60a3200810dd
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Brundidge<br />country: United States<br />first_name: Charles<br />has_read_LBoT: no<br />has_read_TC: no<br />has_read_TF: no<br />last_name: Bryant<br />last_trading_or_investment_book_read: none<br />state: AL<br />street1: P.O. Box 366<br />street2: 260 West Troy St.<br />zip_code: 36010<br />id: jedoi7frbzsksor28wxb<br />email: cbryant@troycable.net<br />utc_offset: -300<br />visitor_uuid: 6dbe59c053fa0134bc540ac816a29127<br />status: active<br />time_zone: America/Chicago<br />friendly_time_zone: CDT<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-sitewide-turtletrading.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-sitewide-turtletrading.com", "optedin-dvdrequest"]<br />created_at: 2016-09-03 11:56:56 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/jedoi7frbzsksor28wxb" style="color: blue">cbryant@troycable.net</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57cc35899372e_7ac63ff1f60a3200810dd--

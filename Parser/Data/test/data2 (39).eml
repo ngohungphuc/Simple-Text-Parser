@@ -1,0 +1,70 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m041.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2373140213F7F
+	for <mcovel@trendfollowing.com>; Fri, 22 Apr 2016 10:19:54 -0400 (EDT)
+Authentication-Results: s12p02m041.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m041.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id a033a175.0.899671.00-2350.1634367.s12p02m041.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 22 Apr 2016 08:19:55 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=TDN+LgNAa0W7CkRmn5KQptSkquE=; b=IY2e09rofa8+c1GOkuHQzWw
+	cSSA2jMPTNPHEaaVccNvdzAyHHOpcd8wP1IBGooKfSaRc+XVi25PmQav5IEbwfkR
+	Jhsag46tSKV54lfdHgM6UEA2TTcpi34QSOLBfw2Gl/Kv/BHcFs1GxLnz7bh3TSlm
+	/OYHrhpcYXPGPaxxDO3w=
+Received: by filter0433p1mdw1.sendgrid.net with SMTP id filter0433p1mdw1.9635.571A32FBD
+        2016-04-22 14:19:39.219207245 +0000 UTC
+Received: from getdrip.com (ec2-52-90-26-126.compute-1.amazonaws.com [52.90.26.126])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id nSIISFyFRiqBUPVUVOQqQA
+	for <mcovel@trendfollowing.com>; Fri, 22 Apr 2016 14:19:39.281 +0000 (UTC)
+Date: Fri, 22 Apr 2016 14:19:39 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <571a32fb3dc2c_2473fcda922e43836228@ip-172-30-0-204.mail>
+Subject: [Drip] ajwhitehart@gmx.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpzfrJB0bf4p0VVJfYrTVc9QnP8ka6JVcnMvv
+ azijLcwZrobMIzadb8fjrVYtES2Bmb3ZRg0uKyhGXAbd8mCGlZQ9ogY8mUzqely9zf3yclqWWHZw6Z
+ 0P4EZmisE+t5pD9hQRKq0IY7lbjdsniOrY1n1bGL5juOvdiLWAqm0JZ2CvFbahAH2rRH1PGfuQRNW9
+ E=
+Received-SPF: Pass (s12p02m041.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: ajwhitehart@gmx.com
+Domain: http://gmx.com
+IP Address: 86.178.243.103
+city: Gravesend
+country: UK
+first_name: Andrew
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: Whitehart
+last_trading_or_investment_book_read: The Holy Grail  James Windsor
+state: Kent
+street1: White Cottage Chapmans Hill
+street2: Meopham
+zip_code: DA130QP
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/ygzfyyj5xxbfcmsx9se1
+
+Cheers,
+The Drip Team

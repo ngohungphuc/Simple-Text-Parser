@@ -1,0 +1,198 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E94FC4015719E
+	for <mcovel@trendfollowing.com>; Thu, 24 Nov 2016 14:40:57 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20161124194355184_0459
+          for <mcovel@trendfollowing.com>;
+          Thu, 24 Nov 2016 19:43:55 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=jChvYrFNMugp7OEDxq6bqzCuiHU=; b=OVSinqR8qUZhR2TokV8BgSX
+	CZBrKhZvj4E5aLz7sEYgnaBpAkow91SPMqruY66auI3soFFGelOsl4+6N5PNRtlb
+	o2QTsVY9G4GN4BlA6b4mjZwUizBErfL0p2DG98ss452eGu0BttRqq6od/7/XR9tz
+	3hb7e2xOwoLXk5Unrrfw=
+Received: by filter0831p1mdw1.sendgrid.net with SMTP id filter0831p1mdw1-12515-583742EA-C
+        2016-11-24 19:43:38.364177699 +0000 UTC
+Received: from getdrip.com (ec2-54-196-79-93.compute-1.amazonaws.com [54.196.79.93])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id KFXq5CoQSzewarXmtUDv4Q
+	for <mcovel@trendfollowing.com>; Thu, 24 Nov 2016 19:43:38.320 +0000 (UTC)
+Date: Thu, 24 Nov 2016 19:43:38 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <583742ea43e56_624e3faaad43abec386f6@ip-172-30-0-104.mail>
+Subject: [Drip] arrowewix@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_583742ea439d3_624e3faaad43abec3854f";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqC5rx4pfnrLTXTqNeK/pHGOREH/WOm/VSTmf
+ eYGA4aQShXpp1jS2gf3b8bIbSW+ILykrW215yUkLhkaAdpOnlNGkKzLPjRtYRxvk6dcD5XWWU/p41j
+ 6J70fiIi1e1VjmNzAWR7SIeoqTu7VXJxx3zsY1kBjW4Gb7wELZMdbZVXPeQjQaOtfnYVP0hDVMGfSH
+ g=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_583742ea439d3_624e3faaad43abec3854f
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: London
+first_name: Aron
+last_name: Rowe
+state: Barnet
+street1: Decoy Avenue
+zip_code: NW11 0ET
+id: gkeg72ymcpmj8i7gvmp7
+email: arrowewix@gmail.com
+utc_offset: 0
+visitor_uuid: bb685650944b0134a0340ebf40b437bb
+status: active
+time_zone: Europe/London
+friendly_time_zone: GMT
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-11-24 08:16:59 UTC
+lead_score: 30
+
+View their full profile here:
+
+arrowewix@gmail.com ( https://www.getdrip.com/3513718/subscribers/gkeg72ymcpmj8i7gvmp7 )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_583742ea439d3_624e3faaad43abec3854f
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: London<br />first_name: Aron<br />last_name: Rowe<br />state: Barnet<br />street1: Decoy Avenue<br />zip_code: NW11 0ET<br />id: gkeg72ymcpmj8i7gvmp7<br />email: arrowewix@gmail.com<br />utc_offset: 0<br />visitor_uuid: bb685650944b0134a0340ebf40b437bb<br />status: active<br />time_zone: Europe/London<br />friendly_time_zone: GMT<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-11-24 08:16:59 UTC<br />lead_score: 30<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/gkeg72ymcpmj8i7gvmp7" style="color: blue">arrowewix@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_583742ea439d3_624e3faaad43abec3854f--
+

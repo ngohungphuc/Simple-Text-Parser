@@ -1,0 +1,70 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m086.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 682834020DED1
+	for <mcovel@trendfollowing.com>; Thu, 14 Jul 2016 19:07:51 -0400 (EDT)
+Authentication-Results: s12p02m086.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m086.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id 74b18875.0.3226905.00-2273.5971987.s12p02m086.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Thu, 14 Jul 2016 17:07:52 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=GVOa9qhf7F+FCm7I2yySuJpps8s=; b=cy/9sVcHOSrSKKdnfZMKV/w
+	oWE778U6qFCCP9rg1KPcFN6kTPO+c2kR09EkSOUd6LccaacGmxsLnM0X9vUz2wPE
+	exP/ZfGJnAjxj4pWeDZBNri3NMa+dBaHJkGnxggXqXT86HLt98bal3QWbtUqxPl/
+	u0+ecTo22QEDC1kk9tWo=
+Received: by filter0839p1mdw1.sendgrid.net with SMTP id filter0839p1mdw1.16591.57881B3833
+        2016-07-14 23:07:36.249632445 +0000 UTC
+Received: from getdrip.com (ec2-54-210-139-199.compute-1.amazonaws.com [54.210.139.199])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id kboPgDhDQcmYFr5XprEzMg
+	for <mcovel@trendfollowing.com>; Thu, 14 Jul 2016 23:07:36.240 +0000 (UTC)
+Date: Thu, 14 Jul 2016 23:07:36 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57881b3833c02_21f83fe0842fc0207473a@ip-172-30-0-204.mail>
+Subject: [Drip] dab99@optusnet.com.au just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoISdW8/3vcrbGRu2WEakrG2yFYPLuIeT4T9V
+ ZmgSznOOfpScdCQW8ly2I+pLcZev3s9D3G/2rcC6t9gzOBXIooEEZ9whST1//cRPOylDovMdw8BRWl
+ ENHrQX046o1ykdggtE5Q0Ki8pNxFC8i/xtKMZgpUT8LQA2lqK+1kg5eFvvfzzbwaLcFcXnWFWU6+TE
+ M=
+Received-SPF: Pass (s12p02m086.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: dab99@optusnet.com.au
+Domain: http://optusnet.com.au
+IP Address: 1.42.125.147
+city: gosford
+country: aus
+first_name: davo
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: yes
+last_name: bobbleov
+last_trading_or_investment_book_read: lots
+state: nsw
+street1: 98
+street2: butty rd
+zip_code: 2256
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/yx8qbkqfk5hoqspcyyvs
+
+Cheers,
+The Drip Team

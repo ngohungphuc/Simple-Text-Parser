@@ -1,0 +1,68 @@
+Return-Path: <bounce-md_30115094.570d5759.v1-50634b47a5654d9282d901397a449036@click.dripemail2.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m023.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 97D8740213F8C
+	for <mcovel@trendfollowing.com>; Tue, 12 Apr 2016 16:15:19 -0400 (EDT)
+Authentication-Results: p02c11m023.mxlogic.net; spf=pass
+Received: from unknown [198.2.180.8] (EHLO mail180-8.suw31.mandrillapp.com)
+	by p02c11m023.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id 9575d075.0.3742607.00-2208.7062066.p02c11m023.mxlogic.net (envelope-from <bounce-md_30115094.570d5759.v1-50634b47a5654d9282d901397a449036@click.dripemail2.com>);
+	Tue, 12 Apr 2016 14:15:21 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=getdrip.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@getdrip.com;
+ bh=AsQKA2Vf2MSLWXfkTXuHrLOX3Z4=;
+ b=eMMwoXD4PjLOYCS423lkjrJMrTGEagaZRRivXNCpL44chzMdam1RbgxhZdynW8DXoVv8m/rniksm
+   a2fBrsAKJ5M7x1/MmsU4voDEKVJRfamO9YkeYYBapSwQuEGn8D7b4X9P63tiI176GddwcjmGNRF4
+   fnrbh09f6GXhAHH0PEs=
+Received: from pmta03.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail180-8.suw31.mandrillapp.com id h1lbli22sc0p for <mcovel@trendfollowing.com>; Tue, 12 Apr 2016 20:15:21 +0000 (envelope-from <bounce-md_30115094.570d5759.v1-50634b47a5654d9282d901397a449036@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1460492121; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=2yc4bzfjfBJaVGhVQBSjDFl0tRoppn/CQr3nfBAPWkY=; 
+ b=mRSokzGOH9q4atf0bKOTlohBAU+hnFC6rsrzVlHRGIlESu7nNijkUJzoWYdDFrPnZlrtQu
+ 7Om+XnnLGzLTVI1u8H8KSSyG37UJQ4vf6PGUAiIVxB/va7liquQ3LA9gZm1cfn/N+3uviQif
+ 2hwFVqm54XhJjupZxnomw8VG492rM=
+From: Rob at Drip <support@getdrip.com>
+Subject: [Drip] aldonald@optusnet.com.au just triggered a notification from LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Received: from [54.208.95.243] by mandrillapp.com id 50634b47a5654d9282d901397a449036; Tue, 12 Apr 2016 20:15:21 +0000
+To: <mcovel@trendfollowing.com>
+Message-Id: <570d5758b8add_237c3ff546606654354b@ip-172-30-0-65.mail>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.50634b47a5654d9282d901397a449036
+X-Mandrill-User: md_30115094
+Date: Tue, 12 Apr 2016 20:15:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+Received-SPF: Pass (p02c11m023.mxlogic.net: domain of click.dripemail2.com designates 198.2.180.8 as permitted sender)
+X-MAIL-FROM: <bounce-md_30115094.570d5759.v1-50634b47a5654d9282d901397a449036@click.dripemail2.com>
+X-SOURCE-IP: [198.2.180.8]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: aldonald@optusnet.com.au
+Domain: http://optusnet.com.au
+IP Address: (not provided)
+city: Surrey Hills
+country: Australia
+first_name: Alex
+last_name: Donald
+last_trading_or_investment_book_read: Money master the game
+state: VIC
+street1: 245 Mont Albert Road
+zip_code: 3127
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/jiqsptxszjyr6rijskv3
+
+Cheers,
+The Drip Team

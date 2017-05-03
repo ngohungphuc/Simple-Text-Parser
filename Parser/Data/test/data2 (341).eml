@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m034.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id EF5364019ED14
+	for <mcovel@trendfollowing.com>; Mon, 30 May 2016 03:13:11 -0400 (EDT)
+Authentication-Results: s12p02m034.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m034.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 808eb475.0.806246.00-2328.1332009.s12p02m034.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 30 May 2016 01:13:12 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=2Eg3QgjTeNh9wSSelJdH3yhxaH0=; b=i6fFJMwh2CeqOU6A96c/gUS
+	07HDVayOdKV9m1D7Ue/Cvr+KRT8AJ4Rjbp5xbKgQo7PfSjzRIptlGcmgauX17JIo
+	vkSnPZvb2x0+6uBcM3Yiq1jnngSCdsmIfQJT8eALbjOX4n4SUI2EFfxtdb/uawNR
+	ae8JMQI5ETpa5naM5MLI=
+Received: by filter0599p1mdw1.sendgrid.net with SMTP id filter0599p1mdw1.28308.574BE80710
+        2016-05-30 07:13:11.332130162 +0000 UTC
+Received: from getdrip.com (ec2-52-91-177-115.compute-1.amazonaws.com [52.91.177.115])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id EOyIUyqnT0eL0Tvnz1ncfQ
+	for <mcovel@trendfollowing.com>; Mon, 30 May 2016 07:13:11.343 +0000 (UTC)
+Date: Mon, 30 May 2016 07:13:11 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <574be8074bc32_18ff3fcb3c002b9c165a7@ip-172-30-0-182.mail>
+Subject: [Drip] drsyde@gmail.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoP7Ollcn/pgVONUBEz5/ZN7+IDFhEhmnQiMs
+ ToE1hEBNHywLEp3TZu0f+63ZLlg4q2VguoD+DLR4PXDodrFqTdjFSpf+wFYWtU7sWWtvGL2YbyTjjH
+ zm7p/HvG0l/0IieTSWSdHnKaujZq/pQ+SIbbHvZ367Rj3EYCnSekx0T8aq5Fgb0bx55/jXcCunZ1mz
+ o=
+Received-SPF: Pass (s12p02m034.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: drsyde@gmail.com
+IP Address: (not provided)
+city: vancouver
+country: Canada
+first_name: syd
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: erl
+state: BC
+street1: 750 west broadway
+street2: ste 1400
+zip_code: V5Z 1J4
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/snahfdqbnzpx2itzfujt
+
+Cheers,
+The Drip Team

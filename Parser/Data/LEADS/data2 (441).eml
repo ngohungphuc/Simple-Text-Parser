@@ -1,0 +1,201 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 8F6DA402903C2
+	for <mcovel@trendfollowing.com>; Mon,  6 Feb 2017 11:15:54 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170206161848497_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 06 Feb 2017 16:18:48 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=29poIK+MkDGypgbibh6e6cRZJ+4=; b=ZBNGzxbK3ne3KZvi2fF2KOb
+	gEZSoAli2pDtlGMRM2/oTQA54BSXSJ5BI645q/xTeVyrnBShJmYmuBJwP+it4LnQ
+	iFdYD/yvTydlvksnxVFxQrpHxstFxgv8+P6q1neXumuT3r/ehL2zLmDEMcY+4E/v
+	Ltw/9Y11tLCytQ0Rd8/g=
+Received: by filter1074p1mdw1.sendgrid.net with SMTP id filter1074p1mdw1-11348-5898A1E1-68
+        2017-02-06 16:18:41.5579377 +0000 UTC
+Received: from getdrip.com (ec2-54-196-79-93.compute-1.amazonaws.com [54.196.79.93])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id 4N-ppUK7R3Gx0iphoCfljQ
+	for <mcovel@trendfollowing.com>; Mon, 06 Feb 2017 16:18:41.513 +0000 (UTC)
+Date: Mon, 06 Feb 2017 16:18:41 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5898a1e177e19_20963f93859c2a901979e@ip-172-30-0-104.mail>
+Subject: [Drip] gental2344@yahoo.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5898a1e17792e_20963f93859c2a90197887";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqw6smnetDJvqGYfAYVW3EgMu0qziY9KlF43X
+ HSLVwM60UhX61owdFGef76460gxiL39LrOMbhUifhqhP5hbtlkcCMnMIAXW3Pu7GivePcLSKorUY3d
+ CK4gSds3SlQ0Ax7+RJPVzgA7Ww1xuWbT0DfTG/l/3NaAvxjLCtLY3gxiXPgqY2CKwQ0VzZpYGl3Q+f
+ Y=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_5898a1e17792e_20963f93859c2a90197887
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: montauk
+country: usa
+first_name: gene
+last_name: tallarico
+state: ny
+street1: 54 east lake dr
+street2: pob 2326
+zip_code: 11954
+id: scoymrkvkzi1v2v6zc4z
+email: gental2344@yahoo.com
+utc_offset: -300
+visitor_uuid: 782a923095460134139c0acbcb28d6c3
+status: active
+time_zone: America/New_York
+friendly_time_zone: EST
+tags: ["optedin-sitewide-trendfollowing.com",
+"imported-from-aweber-March 20, 2016", "optedin-dvdrequest",
+"optedin-sitewide-trendfollowing.com",
+"imported-from-aweber-march 20, 2016", "optedin-dvdrequest"]
+created_at: 2016-03-21 16:33:37 UTC
+lead_score: 0
+
+View their full profile here:
+
+gental2344@yahoo.com ( https://www.getdrip.com/3513718/subscribers/scoymrkvkzi1v2v6zc4z )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_5898a1e17792e_20963f93859c2a90197887
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: montauk<br />country: usa<br />first_name: gene<br />last_name: tallarico<br />state: ny<br />street1: 54 east lake dr<br />street2: pob 2326<br />zip_code: 11954<br />id: scoymrkvkzi1v2v6zc4z<br />email: gental2344@yahoo.com<br />utc_offset: -300<br />visitor_uuid: 782a923095460134139c0acbcb28d6c3<br />status: active<br />time_zone: America/New_York<br />friendly_time_zone: EST<br />tags: ["optedin-sitewide-trendfollowing.com", "imported-from-aweber-March 20, 2016", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "imported-from-aweber-march 20, 2016", "optedin-dvdrequest"]<br />created_at: 2016-03-21 16:33:37 UTC<br />lead_score: 0<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/scoymrkvkzi1v2v6zc4z" style="color: blue">gental2344@yahoo.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_5898a1e17792e_20963f93859c2a90197887--
+

@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m064.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1941840213F80
+	for <mcovel@trendfollowing.com>; Wed, 18 May 2016 11:50:52 -0400 (EDT)
+Authentication-Results: s12p02m064.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m064.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id c5f8c375.0.7466865.00-2050.14314773.s12p02m064.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Wed, 18 May 2016 09:50:52 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=+jSzEnQj3LKzu9HmERlGeM6KK4g=; b=MyunOmPzdrI5fDDbNaWl19v
+	FR2WC75ilgkTU/JAxKU3A6IetWoH+SFD17g7xGLHhAfYOdkKPS5N9wjFkuUEsQcq
+	Pq9LXfVd2CKa41KFpkUva/bHtXJuecMsi0pA3ef/7El6GpEB3uojQD7jyxSIf1ui
+	dZUc//XIvsYtqV0erbjk=
+Received: by filter0805p1mdw1.sendgrid.net with SMTP id filter0805p1mdw1.19240.573C8F4CC
+        2016-05-18 15:50:36.244666168 +0000 UTC
+Received: from getdrip.com (ec2-52-91-56-161.compute-1.amazonaws.com [52.91.56.161])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id 3RaSF6R9Q_6WbnHsy2wsSQ
+	for <mcovel@trendfollowing.com>; Wed, 18 May 2016 15:50:36.347 +0000 (UTC)
+Date: Wed, 18 May 2016 15:50:36 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <573c8f4c3e0d1_40d3f9a2cd69d1c35257@ip-172-30-0-200.mail>
+Subject: [Drip] Cope.Joe@icloud.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoaX95zUUfU8DbcQm+YeGZ3spKCHFDSaI8FLz
+ Njp8UCj2ENPIaFhj9Dk3fSVMZtPsqVtZRVF31xg+C6J06CGpZvixLsFwl7YVCoLgzmMmW8zqeNoOsS
+ ZhA0ljZv++zgenPrReMivEuWya0dmYbv0nSrTSEH3M7NTIb6zn78d1LFTDpIKSpFGg3VzNSZVoSQmJ
+ Q=
+Received-SPF: Pass (s12p02m064.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: Cope.Joe@icloud.com
+IP Address: (not provided)
+city: Greenwood
+country: U.S.
+first_name: Joseph
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: Cope
+last_trading_or_investment_book_read: Intelligent Investor
+state: IN
+street1: 1178 Vestman Ct.
+zip_code: 46143
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/4cocasr7scgixeabpas2
+
+Cheers,
+The Drip Team

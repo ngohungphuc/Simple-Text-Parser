@@ -1,0 +1,198 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m073.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A0CF9400EF2B7
+	for <mcovel@trendfollowing.com>; Sat,  1 Oct 2016 15:19:38 -0400 (EDT)
+Authentication-Results: s12p02m073.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m073.mxlogic.net(mxl_mta-8.5.0-1466) over TLS secured channel
+	with ESMTP id 00d00f75.0.5774258.00-2198.11114388.s12p02m073.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sat, 01 Oct 2016 13:22:40 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=em8hpWxCgJ1tWgBoUtIrstCNtuA=; b=Xa3bhytJqhZU2ZvTp6KHyW1
+	QkZS+P2qCkoPVuhhaAIyW8Izgl0CoK9hKXKXDds89ehtW89XfS/ZVnOitk2JTV+P
+	eTW3vKcACbGeWVsZrjyKbVeIw4Lz6aUPs6YmO5RA2jbckbPAN3oxcO+/xTBWq3EP
+	EBE43PAB32hXi3ER4tnk=
+Received: by filter0906p1mdw1.sendgrid.net with SMTP id filter0906p1mdw1.17975.57F00CFE57
+        2016-10-01 19:22:38.859377032 +0000 UTC
+Received: from getdrip.com (ec2-54-165-160-207.compute-1.amazonaws.com [54.165.160.207])
+	by ismtpd0027p1mdw1.sendgrid.net (SG) with ESMTP id DcgRXIYeSROD9zo2Vppqsg
+	for <mcovel@trendfollowing.com>; Sat, 01 Oct 2016 19:22:38.781 +0000 (UTC)
+Date: Sat, 01 Oct 2016 19:22:38 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57f00cfe7c336_ba23fc9d1fd6f309346@ip-172-30-1-153.mail>
+Subject: [Drip] dnene@verizon.net just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57f00cfe7ba3e_ba23fc9d1fd6f3093311";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpI3BdMqUTIipufdp33heP6kwkb2XdEm3NdbF
+ fd8pE2Bc6ffpPICXOg3URjO0i+w7FuK42uHrp+M4Uohb+KKXw2dqbJcFv9OB5t279ih4A8TIl7uk64
+ Snh6CpNf5v4zNnVi+VLYRiOMzx5oUHTixqyLS/9+0q8xS6HMsoHXsBa5VnZetFmVNhDDkKh6+hqsSR
+ E=
+Received-SPF: Pass (s12p02m073.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57f00cfe7ba3e_ba23fc9d1fd6f3093311
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Highland Village
+country: USA
+first_name: Dan
+has_read_LBoT: Yes
+has_read_TC: Yes
+has_read_TF: Yes
+last_name: Guerra
+last_trading_or_investment_book_read: Market Wizards
+state: Tx
+street1: 3106 Green Hollow Ct
+zip_code: 75077
+id: noznyb8sstbpbzzzsgfs
+email: dnene@verizon.net
+utc_offset: -300
+visitor_uuid: a29071503fea013422570a76bd368e1f
+status: active
+time_zone: America/Chicago
+friendly_time_zone: CDT
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-08-08 23:07:01 UTC
+
+View their full profile here:
+
+dnene@verizon.net ( https://www.getdrip.com/3513718/subscribers/noznyb8sstbpbzzzsgfs )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57f00cfe7ba3e_ba23fc9d1fd6f3093311
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Highland Village<br />country: USA<br />first_name: Dan<br />has_read_LBoT: Yes<br />has_read_TC: Yes<br />has_read_TF: Yes<br />last_name: Guerra<br />last_trading_or_investment_book_read: Market Wizards<br />state: Tx<br />street1: 3106 Green Hollow Ct<br />zip_code: 75077<br />id: noznyb8sstbpbzzzsgfs<br />email: dnene@verizon.net<br />utc_offset: -300<br />visitor_uuid: a29071503fea013422570a76bd368e1f<br />status: active<br />time_zone: America/Chicago<br />friendly_time_zone: CDT<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-08-08 23:07:01 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/noznyb8sstbpbzzzsgfs" style="color: blue">dnene@verizon.net</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57f00cfe7ba3e_ba23fc9d1fd6f3093311--

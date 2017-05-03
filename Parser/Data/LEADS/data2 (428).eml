@@ -1,0 +1,201 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1D1FF4056842F
+	for <mcovel@trendfollowing.com>; Tue, 31 Jan 2017 12:29:47 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170131173238612_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 31 Jan 2017 17:32:38 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=Kg+Nxvb09x4KEpdsepiRCdAnOaM=; b=lFXmlPoM0dwfs7qaCtl9trG
+	45XDquCo5jtc7St6VKtIQyypkhukpGJIXSNT86vk4mzvxhzRegd7IUf4SQh9YWc0
+	eZy0Iz+++07a04uNyu/q1ETiI965o2V8WSY2wKi1uPvLr/ioM81ZF5Ky1CB9lekU
+	keciDwQXLdTiDXRduP+A=
+Received: by filter0514p1mdw1.sendgrid.net with SMTP id filter0514p1mdw1-9405-5890CA0B-C9
+        2017-01-31 17:31:55.973428442 +0000 UTC
+Received: from getdrip.com (ec2-54-196-79-93.compute-1.amazonaws.com [54.196.79.93])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id QHSLaxJHSQmtCqdNZ0Dtvw
+	for <mcovel@trendfollowing.com>; Tue, 31 Jan 2017 17:31:55.884 +0000 (UTC)
+Date: Tue, 31 Jan 2017 17:31:55 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5890ca0bcf932_6aac3f9d6eb4cef436639@ip-172-30-0-104.mail>
+Subject: [Drip] garnica8@yahoo.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5890ca0bcf2eb_6aac3f9d6eb4cef436517";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoBsEJfWfs7iVzWCU5DUXhgDFqvCMO2o1P34S
+ icsQZc3jAK9JJUhm7B603DfH7KLFRr3V3bDvRhKPigEo3gXWQ5mLgn74KFXIk0qGwtLvWEmGQ/DCoj
+ KC9hfhZYYiZg8HMhz4XMzgROr6wUuLfiEal5/07C3zMfkx2BzbWLdjr1UYnVj22p3Da4KnpDkqnP1M
+ Y=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_5890ca0bcf2eb_6aac3f9d6eb4cef436517
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: las vegas
+country: usa
+first_name: mario
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: garnica
+last_trading_or_investment_book_read: japanese candlesticks
+state: nevada
+street1: 1300 s. arlington st .207
+zip_code: 89104
+id: warbt7rkyez2ypdqvo3i
+email: garnica8@yahoo.com
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2017-01-31 17:31:50 UTC
+lead_score:
+
+View their full profile here:
+
+garnica8@yahoo.com ( https://www.getdrip.com/3513718/subscribers/warbt7rkyez2ypdqvo3i )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_5890ca0bcf2eb_6aac3f9d6eb4cef436517
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: las vegas<br />country: usa<br />first_name: mario<br />has_read_LBoT: no<br />has_read_TC: no<br />has_read_TF: no<br />last_name: garnica<br />last_trading_or_investment_book_read: japanese candlesticks<br />state: nevada<br />street1: 1300 s. arlington st .207<br />zip_code: 89104<br />id: warbt7rkyez2ypdqvo3i<br />email: garnica8@yahoo.com<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdrequest", "optedin-dvdrequest"]<br />created_at: 2017-01-31 17:31:50 UTC<br />lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/warbt7rkyez2ypdqvo3i" style="color: blue">garnica8@yahoo.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_5890ca0bcf2eb_6aac3f9d6eb4cef436517--
+

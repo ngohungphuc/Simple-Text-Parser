@@ -1,0 +1,202 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id EC37B4019E2AB
+	for <mcovel@trendfollowing.com>; Thu, 26 Jan 2017 19:23:07 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170127002602226_0459
+          for <mcovel@trendfollowing.com>;
+          Fri, 27 Jan 2017 00:26:02 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=vnQ09E2QzxUXosZzr9Tm4498LKU=; b=D4w/fUrAJ9i+N6Fsn3+Wsvg
+	c3u5s9PMwLTnyefVFAnc6qyYv2hwrbn25/XvIdlZozb+QTsu4JvyQA5c6W3YSXWX
+	Bczv6IDNeslYXgX09/SWXY83u9mOCrO6irrP9C6/DfWfw1OZCIWOP1m4rVCqziOP
+	iWY7Bk9UyQCPp0SeHzyg=
+Received: by filter0505p1las1.sendgrid.net with SMTP id filter0505p1las1-21544-588A9390-C
+        2017-01-27 00:25:52.241497091 +0000 UTC
+Received: from getdrip.com (ec2-52-23-194-121.compute-1.amazonaws.com [52.23.194.121])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id gZkBaRioSY2NW1LuS2s7Bg
+	for <mcovel@trendfollowing.com>; Fri, 27 Jan 2017 00:25:52.064 +0000 (UTC)
+Date: Fri, 27 Jan 2017 00:25:52 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <588a93909b74_280c3feaa2dfcb3c505e9@ip-172-30-1-152.mail>
+Subject: [Drip] ajf1111@epix.net just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_588a939095ec_280c3feaa2dfcb3c50459";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrPFABnSowFeIKYEJhCJxvoMstu71uccypk5k
+ 7xmPMKhin5/K6y8tEuU8pLXbLPRcAGsq+SnLBgqyHJoyp5WCj0BsEm52Q81KRLj95KfPs2HTX7OrTf
+ YHIaZO3LKgN8k08WXpvkag8AjQymJOpWJKuP9t5zOaEnurSBSltBBQPkgCZfJdgp6oy3AdiVw/+bp+
+ c=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_588a939095ec_280c3feaa2dfcb3c50459
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Montrose
+country: usa
+first_name: Anthony
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: Faragasso
+last_trading_or_investment_book_read: How to make the stock
+market make money for you
+state: pa
+street1: 530 Parker Hill rd
+zip_code: 18801
+id: 8mjfmcwpjhrpfgdaatza
+email: ajf1111@epix.net
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2017-01-27 00:25:51 UTC
+lead_score:
+
+View their full profile here:
+
+ajf1111@epix.net ( https://www.getdrip.com/3513718/subscribers/8mjfmcwpjhrpfgdaatza )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_588a939095ec_280c3feaa2dfcb3c50459
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Montrose<br />country: usa<br />first_name: Anthony<br />has_read_LBoT: no<br />has_read_TC: no<br />has_read_TF: no<br />last_name: Faragasso<br />last_trading_or_investment_book_read: How to make the stock market make money for you<br />state: pa<br />street1: 530 Parker Hill rd<br />zip_code: 18801<br />id: 8mjfmcwpjhrpfgdaatza<br />email: ajf1111@epix.net<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdrequest", "optedin-dvdrequest"]<br />created_at: 2017-01-27 00:25:51 UTC<br />lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/8mjfmcwpjhrpfgdaatza" style="color: blue">ajf1111@epix.net</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_588a939095ec_280c3feaa2dfcb3c50459--
+

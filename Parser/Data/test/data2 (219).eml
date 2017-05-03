@@ -1,0 +1,196 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m104.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 9155C401E9092
+	for <mcovel@trendfollowing.com>; Thu, 15 Sep 2016 19:41:07 -0400 (EDT)
+Authentication-Results: p01c11m104.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m104.mxlogic.net(mxl_mta-8.5.0-1466) over TLS secured channel
+	with ESMTP id a423bd75.0.2108086.00-2149.4032838.p01c11m104.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Thu, 15 Sep 2016 17:44:11 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=JB355aXVWZLF2FM9YsUuqXV5woY=; b=iYXnms/fI6C9L0kc9vQCvn7
+	T+Jm51cHaWhewaTmAdQDEoV4TNa85juje5s+LWfK3OHxMcd4sjcKVJIN+qLqtVnh
+	jFaMjmZ72nfzJkRQhS4Szi6PlFjn7sPWsUPt9zEuI3MgSb1ZYGj//9KEMNMWS4KO
+	slPA+aiD18V1dvxp3avY=
+Received: by filter0968p1mdw1.sendgrid.net with SMTP id filter0968p1mdw1.21440.57DB324944
+        2016-09-15 23:44:09.637947698 +0000 UTC
+Received: from getdrip.com (ec2-52-23-218-144.compute-1.amazonaws.com [52.23.218.144])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id KzHCg6N2Q4anGym278xTfw
+	for <mcovel@trendfollowing.com>; Thu, 15 Sep 2016 23:44:09.462 +0000 (UTC)
+Date: Thu, 15 Sep 2016 23:44:09 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57db324964222_38283fd18841beac106486@ip-172-30-0-103.mail>
+Subject: [Drip] clayton.liscom@gs.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57db324963933_38283fd18841beac10636c";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPoTkqBt11zJS0GuP2ez2uLo0wrn+nmTgqWCgl
+ eE3ZbRWAjYDWkBVaJQ9axMN48yG/hHorZwmkT847P8oqGxq5tUefnDPj/1BCQNKZmltE3/CrGc2RsN
+ J/x+22LPegtHBe9XX1m/woFnFeO4+NvbpSLuyRkI/RX8Ytkq6c+DIUoTqe+lewm7uHPh7IZzwyORV1
+ g=
+Received-SPF: Pass (p01c11m104.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57db324963933_38283fd18841beac10636c
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Palm Beach Gardens
+country: USA
+first_name: Clayton
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: Liscom
+last_trading_or_investment_book_read: How to Make Money in Stocks
+state: FL
+street1: 13522 Touchstone Place
+zip_code: 33418
+id: fgnspfapjuwjfatb55tz
+email: clayton.liscom@gs.com
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2016-09-15 23:44:09 UTC
+
+View their full profile here:
+
+clayton.liscom@gs.com ( https://www.getdrip.com/3513718/subscribers/fgnspfapjuwjfatb55tz )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57db324963933_38283fd18841beac10636c
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Palm Beach Gardens<br />country: USA<br />first_name: Clayton<br />has_read_LBoT: no<br />has_read_TC: no<br />has_read_TF: no<br />last_name: Liscom<br />last_trading_or_investment_book_read: How to Make Money in Stocks<br />state: FL<br />street1: 13522 Touchstone Place<br />zip_code: 33418<br />id: fgnspfapjuwjfatb55tz<br />email: clayton.liscom@gs.com<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdrequest", "optedin-dvdrequest"]<br />created_at: 2016-09-15 23:44:09 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/fgnspfapjuwjfatb55tz" style="color: blue">clayton.liscom@gs.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57db324963933_38283fd18841beac10636c--

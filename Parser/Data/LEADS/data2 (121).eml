@@ -1,0 +1,69 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m025.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id AB1964020B11F
+	for <mcovel@trendfollowing.com>; Sat,  9 Jul 2016 13:11:32 -0400 (EDT)
+Authentication-Results: p01c11m025.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m025.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 44031875.0.2417205.00-2290.4324554.p01c11m025.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sat, 09 Jul 2016 11:11:33 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=UbBF2YwWprUbR066SUzFFHKtVN8=; b=RH/T6FRY2rvC2Ho2ZQmVjs/
+	V7S84xESHKXz3RpdKMD492BUJbbjhqiatXsBSNWkVnnq5gb/LvqfjBvnpV7mMxSK
+	ad/i3tiqCK5TYIari/2ZPEQJm5z1GiYdw6xs4awQJHmhIzRI2rudpXTCq/AJ4CBW
+	Yw3btJHHMiJGWLIShAXE=
+Received: by filter0624p1mdw1.sendgrid.net with SMTP id filter0624p1mdw1.23836.5781303911
+        2016-07-09 17:11:21.32605757 +0000 UTC
+Received: from getdrip.com (ec2-54-84-125-167.compute-1.amazonaws.com [54.84.125.167])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id bySOwtl8TjqF2AMyl_YEIA
+	for <mcovel@trendfollowing.com>; Sat, 09 Jul 2016 17:11:21.460 +0000 (UTC)
+Date: Sat, 09 Jul 2016 17:11:21 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5781303967867_52563f824353d9641645d3@ip-172-30-0-25.mail>
+Subject: [Drip] bfish1@charter.net just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPq2/ia+w92cbW4rDW5s5+59juxSNQMBCyfzTT
+ jZ04OuwCGcKdpbP+8ymQ57uyv+5z2UJOF/qGCQ+2Ma6+TV6nQB3UtjZiY4yY1y20fDmqMBwsfX5I6S
+ CdKuuMgZ8II6CpiFEkKM8/X2B7ZVud2e8u/6MzqF8OGm1YSJdCAKAcY6MxdNFU5rmbEsFTeGJI0Lvk
+ U=
+Received-SPF: Pass (p01c11m025.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: bfish1@charter.net
+Domain: http://charter.net
+IP Address: 75.128.136.116
+city: Harbor Springs
+country: US
+first_name: Bill
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: NO
+last_name: Fisher
+last_trading_or_investment_book_read: Fisher
+state: Michigan
+street1: 1485 Kingswood Terr.
+zip_code: 49740
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/hspzs3p8q34o3xg75s5q
+
+Cheers,
+The Drip Team

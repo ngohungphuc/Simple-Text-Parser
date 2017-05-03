@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m022.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7C3D040213F89
+	for <mcovel@trendfollowing.com>; Tue, 17 May 2016 09:20:11 -0400 (EDT)
+Authentication-Results: p01c11m022.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m022.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id c8a1b375.0.6389709.00-2180.11870082.p01c11m022.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Tue, 17 May 2016 07:20:12 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=ffJHD9udgVUgJwwopHQU7QvGLdg=; b=isAJT0wxx2A2TSsRRlt+ALo
+	1edfrVfC4QyuIhaBD/mZbdnaByuMRW0gRS5zw6FRv12ap7WN2O+hZwxeVB5lzrFP
+	gqd3IBmtFhO6mJ6FIEjwhTSUqFXHRCCCOjA4e6UrJbMEIjLmf2JTHrxK67B8Xtak
+	HWFVy9KKEMkv7pUESU+g=
+Received: by filter0691p1mdw1.sendgrid.net with SMTP id filter0691p1mdw1.14493.573B1A8062
+        2016-05-17 13:20:00.910981606 +0000 UTC
+Received: from getdrip.com (ec2-54-208-95-243.compute-1.amazonaws.com [54.208.95.243])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id quLoKPQ8R32CD8l_FcjY0w
+	for <mcovel@trendfollowing.com>; Tue, 17 May 2016 13:20:00.957 +0000 (UTC)
+Date: Tue, 17 May 2016 13:20:00 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <573b1a80e34ad_6d1a3fc21496542c1161fe@ip-172-30-0-65.mail>
+Subject: [Drip] deparker@illinois.edu just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrp9ZjqwOWV+LaGDWfsCjkaeGVsyR3OOEP6u7
+ mGIDDw0oZSN3FZXiQNfiq+n06f0wK5LmDgiBnjF1vcwnSaMSe/4GMDeRpBkN6/8jC9jN9nKtzs9EFn
+ BJjfZHfSfu/tVjygNQUuDTSqmVfzRUJ7qD/Y1Lg25neJaIyHKcppeaBzTDltwMNunCj0UTVZpyzgd4
+ I=
+Received-SPF: Pass (p01c11m022.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: deparker@illinois.edu
+Domain: http://illinois.edu
+IP Address: 128.174.159.4
+city: Danville
+country: USA
+first_name: dave
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: parker
+state: IL
+street1: 12951 N 1730 E Rd
+zip_code: 61834
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/vcymiznqa9kct4fzgyro
+
+Cheers,
+The Drip Team

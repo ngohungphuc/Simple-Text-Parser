@@ -1,0 +1,196 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DECF74028A4B8
+	for <mcovel@trendfollowing.com>; Thu,  1 Dec 2016 13:33:46 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20161201183645193_0659
+          for <mcovel@trendfollowing.com>;
+          Thu, 01 Dec 2016 18:36:45 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=4MG1nFdehYk42zpXyxuF5cBy0Vw=; b=FUsZMeMP5T02qTDokwGnd6d
+	uy4z4VGiF/0oPcvy8Tw6JLdlShg1UkqzvsOUfdCg5/qTJ91CMnAL/kWrgU13PhRv
+	8uH+Rnywf0vwO4K02lOE6psslVbxGVp5oVlhsz17Cmys/dnHQWaIiPGQ5onZWfR9
+	O5fKJ2t3xkx+UKVDPbC8=
+Received: by filter0424p1mdw1.sendgrid.net with SMTP id filter0424p1mdw1-6354-58406DB5-41
+        2016-12-01 18:36:37.580375559 +0000 UTC
+Received: from getdrip.com (ec2-52-91-87-110.compute-1.amazonaws.com [52.91.87.110])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id AD9uM3YgSdeHyY--TkuzfA
+	for <mcovel@trendfollowing.com>; Thu, 01 Dec 2016 18:36:37.623 +0000 (UTC)
+Date: Thu, 01 Dec 2016 18:36:37 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <58406db592a91_724d3fa64b698b98912f1@ip-172-30-0-101.mail>
+Subject: [Drip] flowers2004@msn.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_58406db5922fc_724d3fa64b698b98911a4";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrL3BBN/Stwu5zRs924S3vGYr/GCkLYXkHBh5
+ gJsHbKohsUo7gakoC2c/VtYjEMF07N43F5I/+xDFHRgrntKbLTRtFi9a7CQmBk14qMUiF28b8iNsCs
+ yLQBt/SsfRik/ssxNd262DRpGGVlstdVMR0vQpIV/sJGjQ7vUkZtaGFBNVRAEoRSK5nzOPWibPvcED
+ s=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_58406db5922fc_724d3fa64b698b98911a4
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: South Jordan
+first_name: Keith
+last_name: Flowers
+state: Ut
+street1: 4101 W Liberty Creek Dr
+zip_code: 84095
+id: qm7iztg7zkehxnujzufp
+email: flowers2004@msn.com
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2016-12-01 18:36:37 UTC
+lead_score:
+
+View their full profile here:
+
+flowers2004@msn.com ( https://www.getdrip.com/3513718/subscribers/qm7iztg7zkehxnujzufp )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_58406db5922fc_724d3fa64b698b98911a4
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: South Jordan<br />first_name: Keith<br />last_name: Flowers<br />state: Ut<br />street1: 4101 W Liberty Creek Dr<br />zip_code: 84095<br />id: qm7iztg7zkehxnujzufp<br />email: flowers2004@msn.com<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdrequest", "optedin-dvdrequest"]<br />created_at: 2016-12-01 18:36:37 UTC<br />lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/qm7iztg7zkehxnujzufp" style="color: blue">flowers2004@msn.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_58406db5922fc_724d3fa64b698b98911a4--
+

@@ -1,0 +1,77 @@
+Return-Path: <bounce-md_30115094.56ef5197.v1-3fee44374665489a96cf01d2041f9b6d@click.dripemail2.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m005.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4C1C64020152F
+	for <mcovel@trendfollowing.com>; Sun, 20 Mar 2016 21:42:45 -0400 (EDT)
+Authentication-Results: p02c11m005.mxlogic.net; spf=pass
+Received: from unknown [198.2.132.25] (EHLO mail132-25.atl131.mandrillapp.com)
+	by p02c11m005.mxlogic.net(mxl_mta-8.5.0-9) over TLS secured channel
+	with ESMTP id 7915fe65.0.3325759.00-2215.6323354.p02c11m005.mxlogic.net (envelope-from <bounce-md_30115094.56ef5197.v1-3fee44374665489a96cf01d2041f9b6d@click.dripemail2.com>);
+	Sun, 20 Mar 2016 19:42:47 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=getdrip.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@getdrip.com;
+ bh=tGjSqWXjZ56sVws1eDto6brI6OQ=;
+ b=h5QgDZfK1d9VXvUJ5I2AQR7CMPC03lRhCbk3v581PU3MvQNZit+QKMxPiE67aOpxGcdyK+6JUQXk
+   SIhDL3iQzPO9iEw8qOQf/bWlhuuuqWLUKrjNPSIV4rmCql4aDAD+WaoldsvqxJAjM/BZUEtnBD/z
+   uuxo6DOho+QQZTB4XX4=
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail132-25.atl131.mandrillapp.com id htt8pe1sar8a for <mcovel@trendfollowing.com>; Mon, 21 Mar 2016 01:42:47 +0000 (envelope-from <bounce-md_30115094.56ef5197.v1-3fee44374665489a96cf01d2041f9b6d@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1458524567; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=hrKPZT9JeSWQbUbAaS+ONeEeri6daDPsxxd2A/xKOk0=; 
+ b=L3VjZjuLyYt70RV0iaq4QjOxCp0a7I5Z5Jb/TuR/4Y802BAsF0tIZssBsxFw3+HwGaEje4
+ dirgEPTGt024BVr1G3CaxBgBeYH+//iTStbbf8kAC7w7zu0tBdN63nGJcJWr97JfCIxsU1Tw
+ gPDDOZlkdcwXq+020lthC0MKi3uOY=
+From: Rob at Drip <support@getdrip.com>
+Subject: [Drip] bowie352@gmail.com just triggered a notification from LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Received: from [52.90.26.126] by mandrillapp.com id 3fee44374665489a96cf01d2041f9b6d; Mon, 21 Mar 2016 01:42:47 +0000
+To: <mcovel@trendfollowing.com>
+Message-Id: <56ef5197e4a6_77063f916ce1ba94677c3@ip-172-30-0-204.mail>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.3fee44374665489a96cf01d2041f9b6d
+X-Mandrill-User: md_30115094
+Date: Mon, 21 Mar 2016 01:42:47 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-AnalysisOut: [v=2.1 cv=P7k8830u c=1 sm=1 tr=0 b=1 a=phTm5gjKjQJduoeowgba]
+X-AnalysisOut: [BA==:117 a=phTm5gjKjQJduoeowgbaBA==:17 a=pGLkceISAAAA:8 a=]
+X-AnalysisOut: [lU03Z4yc7+u8VQHnwYB+2V2ltmY=:19 a=IkcTkHD0fZMA:10 a=Vp75NW]
+X-AnalysisOut: [7EbM4A:10 a=7OsogOcEt9IA:10 a=F-LrXtZbAAAA:8 a=oEK0CSWUiOU]
+X-AnalysisOut: [wlwJZ1YQA:9 a=QEXdDO2ut3YA:10 a=xwRA9IRTJQgA:10 a=pmb4DaUk]
+X-AnalysisOut: [x9kA:10]
+Received-SPF: Pass (p02c11m005.mxlogic.net: domain of click.dripemail2.com designates 198.2.132.25 as permitted sender)
+X-Spam: [F=0.1428571429; B=0.500(0); STSI=0.500(-12); STSM=0.400(-12); CM=0.500; CY=0.50; MH=0.500(2016032004); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <bounce-md_30115094.56ef5197.v1-3fee44374665489a96cf01d2041f9b6d@click.dripemail2.com>
+X-SOURCE-IP: [198.2.132.25]
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: bowie352@gmail.com
+IP Address: (not provided)
+city: Los Angeles
+country: USA
+first_name: William
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: Bowie
+last_trading_or_investment_book_read: Retirement Investing
+state: CA
+street1: The UPS Store
+street2: 3183 Wilshire Blvd., #196B49
+zip_code: 90010
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/huyy8fazxapbqre4rgoy
+
+Cheers,
+The Drip Team
