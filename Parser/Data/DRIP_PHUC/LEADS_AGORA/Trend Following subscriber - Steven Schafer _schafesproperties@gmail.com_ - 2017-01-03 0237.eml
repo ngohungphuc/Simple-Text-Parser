@@ -1,0 +1,68 @@
+Return-Path: <schafesproperties@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 447EF4028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:34:40 -0500 (EST)
+Received: from mail-ua0-f170.google.com ([209.85.217.170])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102193735848_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:37:35 +0000
+X-RC-FROM: <schafesproperties@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-ua0-f170.google.com with SMTP id 88so301885983uaq.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:37:32 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=pSNLZ6b4cb/W+wmO9hnQKnbxpIXpuez2hS39z9TnKdk=;
+        b=esjyU/Eku9uAXtSkuMHUmEY+91F//HP/N1ldHnLfqXo3dYwi67exs7/PcPjbNz8g0C
+         HXp5b2oMTrKlW4wYb834sv329++cXxkB8xP6vWcfG0q00M4+jReJSTzpCwh41Hj8Shf4
+         nLNprkDZ8gXrkEuQjASzXTb/iDG3pUgGtSvEcRjf5FvSf45FRk2DGoWfmc99ZOPd42mc
+         kMuiX4OPibkOR3d+0zNHdJOoriyM0BvOschUhGpRyhXsMieSA6nFLPfmR2N/wRsJSr21
+         i9Srt+glGUya3fpZ971/qA7SecPkZgxbpox1Xh22bntuCqYeASGD/uZyHx25jkFjPB95
+         j+Lw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=pSNLZ6b4cb/W+wmO9hnQKnbxpIXpuez2hS39z9TnKdk=;
+        b=PJ7+1Z/QR/KiNoH7IsYZ/ploC4KrlnrCuWdHqXoiQEYFv6jwQ8SUSVkyjaEoy4FcHG
+         eJXda3L4ZZNuWdouUVqCxE+Bsu8FJtrMExveDiVJ1+1f5a/KmGOW1CfaaewiYTt1+tnK
+         m5MNLE5P2eiHwilb7sHML7CzNszjdh7P9irShBeAqOukzc0H/vL/MRsBn4/c3Nrt5OXB
+         b/e20+39KxW2CQMDFKocfGgk7nPQcZ0sj0RBbuO0+1UPkV73/fkQNRebe+6M2Yrj9udC
+         AVx4BaTi7vXTytr9Q19H2UnC7gtlVpZDAqHDrE3DpSDFedVzZNWgmn/dyPC3QRjSO1UB
+         xycg==
+X-Gm-Message-State: AIkVDXJ3BxLnoUHq3w3sX3Ji7bMS/rhTmhc1u6Gv7YC/IMGUcPMI9jVVKE898gFLn0BiMcqzM+wQxAReejQ08Q==
+X-Received: by 10.159.55.142 with SMTP id q14mr46635803uaq.107.1483385847419;
+ Mon, 02 Jan 2017 11:37:27 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.46.81 with HTTP; Mon, 2 Jan 2017 11:37:26 -0800 (PST)
+Received: by 10.103.46.81 with HTTP; Mon, 2 Jan 2017 11:37:26 -0800 (PST)
+In-Reply-To: <CAOfFBJVPe-v_g9k-w9=OVRB0rG50LFLYEDLrRYJmFkXxox+9Dg@mail.gmail.com>
+References: <CAOfFBJXSi1QyB4wiTBuRXG-vnpr8NFHhdtZaj846tP4PVaVBUA@mail.gmail.com>
+ <CAOfFBJVPe-v_g9k-w9=OVRB0rG50LFLYEDLrRYJmFkXxox+9Dg@mail.gmail.com>
+From: Steven Schafer <schafesproperties@gmail.com>
+Date: Mon, 2 Jan 2017 13:37:26 -0600
+Message-ID: <CAOfFBJUFT0SsFh54RoevrHxPT6jaG1-GYi3cf1rEOExg+VTm3A@mail.gmail.com>
+Subject: Trend Following subscriber
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0412768017f9054521ae48
+
+--94eb2c0412768017f9054521ae48
+Content-Type: text/plain; charset=UTF-8
+
+Steven Schafer
+5105 Bakman Avenue #2
+North Hollywood CA 91601
+
+--94eb2c0412768017f9054521ae48
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Steven Schafer=C2=A0<div dir=3D"auto">5105 Bakman Avenue =
+#2</div><div dir=3D"auto">North Hollywood CA 91601</div></div>
+
+--94eb2c0412768017f9054521ae48--
+

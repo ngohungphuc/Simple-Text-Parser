@@ -1,0 +1,75 @@
+Return-Path: <alanjhpowell@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 51B7F4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 17:28:34 -0500 (EST)
+Received: from mail-qk0-f178.google.com ([209.85.220.178])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102223112627_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 22:31:12 +0000
+X-RC-FROM: <alanjhpowell@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f178.google.com with SMTP id u25so349766254qki.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 14:31:09 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=hC9V0F2PkkNBm/4zkgAKnnRGoXYbOkSN79ck2bUy2ps=;
+        b=ldUiwHTDYPdV71omhTKhEjVNGWZKF07GInmUsqLt73qA9h85gnHvzsK1Z4HMkha3cv
+         /ccNs4EIde1zcrT3CS99ZYgjKT4odqYpJ+27E0TwFyTZEahd9ZPx4RK/l+bzGsnaD214
+         BzfH65Xf14mEMWrEIcT7wu1UUw4GtEhu55mC0qj39n8Z3p36f//qXPo2lnmJSHm8N5rs
+         2iTqZu3iUe3q8rUILQdnrTnK+boiVxYaD/rnqaGhV26YTetRwl7qcn7fALlBF68GbCd6
+         FxvT98C6yHyCUmboYIC5i3KGkoDTT1NA7Rg/DjIATX3jiURbNPZTwVhoXFNF3KtxLNuD
+         xsxA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=hC9V0F2PkkNBm/4zkgAKnnRGoXYbOkSN79ck2bUy2ps=;
+        b=GP+Mg1P4xCkdXpbIYGoI6Aypuqi+nDY3aG+OtKcRwQSdL3mcQQmwjM/cULRHmikSaI
+         58wmhToCtgbcsLA3MQkCESF29arhdJU/dihJrcb7B0mK4w4ZaqE8TXPQ88dUq+6xeAjs
+         QbGVTpw0AiQjTIpJzKAaBeAPaM26whJBK766OqH3IPrDJ6BpeiHmfcYGjyBqLozY41Hx
+         YJDDEJIPCKUD8v21WIac6lq70iy03DKgBvmPbiIad3cUdu69ARIk0If5Ek3qwBMavTjr
+         RRIbdAG3qqDmbMXZW+HguvKRziMMJew6hXbwB5Lff3Z8RLsPUm2GSyUEj3ERV2nM5UsC
+         airg==
+X-Gm-Message-State: AIkVDXI0PQFYcQym+3J73Er39DYZe1kWsM1NON7D06S5lVNttRygGRW6YDFKGF+v+X3wPnf/yMYOJTF4EfPkMg==
+X-Received: by 10.55.165.141 with SMTP id o135mr57556011qke.119.1483396265577;
+ Mon, 02 Jan 2017 14:31:05 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.156.199 with HTTP; Mon, 2 Jan 2017 14:31:05 -0800 (PST)
+Received: by 10.12.156.199 with HTTP; Mon, 2 Jan 2017 14:31:05 -0800 (PST)
+In-Reply-To: <CAEPTrMoccviid9CpFpZJyeBZVov0qGCv-t089GSLKskbrFYh-g@mail.gmail.com>
+References: <CAEPTrMojM8TGkdh6C5jJOi+BkxyoqxgVdWt3AuKRv7r+qy7NsA@mail.gmail.com>
+ <CAEPTrMr7a0ArQ8Ht2=vcKRpr9BZJAM1fEG_-YjEEPgoV6BwaPA@mail.gmail.com>
+ <CAEPTrMrzyALZ42sG+YijQrO9LX3sjD=+xrL6oJR+A1-7WaQfKg@mail.gmail.com>
+ <CAEPTrMp=9pLTNfY==aSbD+VonmRWSe7w71C=tC0XZ0WxKMRV6Q@mail.gmail.com>
+ <CAEPTrMpuc+v8Mt4AdjxAQBTuLtAdA7O6OUXo4RsTy7PkuM=08A@mail.gmail.com> <CAEPTrMoccviid9CpFpZJyeBZVov0qGCv-t089GSLKskbrFYh-g@mail.gmail.com>
+From: Alan Powell <alanjhpowell@gmail.com>
+Date: Tue, 3 Jan 2017 09:31:05 +1100
+Message-ID: <CAEPTrMr7o1QWp30JXs7jz6VhyiawcUUEWsoMXU-KgG=w73FCtw@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c062bd27894be0545241bd2
+
+--94eb2c062bd27894be0545241bd2
+Content-Type: text/plain; charset=UTF-8
+
+Alan Powell 3/3 PORTRUSH GROVE Mornington Victoria 3931 Australia.
+alanjhpowell@gmail.com
+Appreciated your comments and your style as well as what you offered. You
+make sense.
+
+--94eb2c062bd27894be0545241bd2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Alan Powell 3/3 PORTRUSH GROVE Mornington Victoria 3931 Aust=
+ralia.=C2=A0 <a href=3D"mailto:alanjhpowell@gmail.com">alanjhpowell@gmail.c=
+om</a> <br>
+Appreciated your comments and your style as well as what you offered. You m=
+ake sense. </p>
+
+--94eb2c062bd27894be0545241bd2--
+

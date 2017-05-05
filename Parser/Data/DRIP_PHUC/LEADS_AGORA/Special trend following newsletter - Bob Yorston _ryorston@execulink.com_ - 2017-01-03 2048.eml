@@ -1,0 +1,54 @@
+Return-Path: <ryorston@execulink.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E44D04028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 08:45:49 -0500 (EST)
+Received: from smtp3.execulink.net ([69.63.44.84])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103134845241_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 13:48:45 +0000
+X-RC-FROM: <ryorston@execulink.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=execulink.com; s=execulink1;
+	h=Content-Type:MIME-Version:To:From:Message-ID:Subject:Date; bh=dnn0RVTLtbf/D9oa2K50lfN3U3FW/A1B0fnyafAtfHw=;
+	b=ou12N7XpnKaABFUdRbaA0N12hqWN6K0nVjd93plmTRriE1+BkZCCU2XShqgbhT9WC5F4R+PYyGLQ/4tp0CvPEBVA+WF/9gy4MVm1PRU16bTBEAUEsPXbjQMxBquJ6urwlKS3pmFJEtR64/zWKYWjyMnNZskzTum+PoWaqHpedDvgpQoc2nQjKkZlPJ7cIQx2a/4aXMleVYDXw2NcS2YzfoAqDyU7UWVGvGVsM1y00P5eFjocZAYMsJd1SiU6c4plRUDBFMFvuq+7WD6R6dces+CPKMZDwVZ39pN4Z5NW5+M7ghhN+nocXG9f2k24wMR9h0VWUIPSn80j+TMrt/X3Ng==;
+Received: from [209.171.88.26] (helo=[100.122.192.26])
+	by smtp3.execulink.net with esmtpa (Exim 4.77)
+	(envelope-from <ryorston@execulink.com>)
+	id 1cOPSA-0007oy-Eh
+	for mcovel@trendfollowing.com; Tue, 03 Jan 2017 08:48:38 -0500
+Date: Tue, 03 Jan 2017 08:48:35 -0500
+Subject: Special trend following newsletter
+Message-ID: <6b5b64g9c0tmbqorj72fejwo.1483451315863@email.android.com>
+Importance: normal
+From: Bob Yorston <ryorston@execulink.com>
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_526156180818220"
+X-PMX-Versions: AntiSpam="2.7.2--2016.6.22.75416"  AntiVirus="3.65.2--5.28--11457873"
+X-PerlMx-Spam: Gauge=IIIIIIII, Probability=8%, SubjectGauge=, Report='HTML_NO_HTTP 0.1, HTML_70_90 0.1, DATE_TZ_NA 0, SPF_NONE 0, BODYTEXTP_SIZE_400_LESS 0, BODYTEXTP_SIZE_3000_LESS 0, BODY_SIZE_800_899 0, BODYTEXTH_SIZE_10000_LESS 0, RDNS_NXDOMAIN 0, SXL_IP_DYNAMIC **, BODY_SIZE_5000_LESS 0, RDNS_SUSP_GENERIC **, NO_URI_FOUND 0, NO_CTA_URI_FOUND 0, BODY_SIZE_1000_LESS 0, BODY_SIZE_2000_LESS 0, RDNS_SUSP **, SMALL_BODY 0, BODY_SIZE_7000_LESS 0, NO_URI_HTTPS 0, __SUBJ_ALPHA_END 0, __HAS_MSGID 0, __SANE_MSGID 0, __HAS_FROM 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __MIME_VERSION 0, __CT 0, __CTYPE_MULTIPART_ALT 0, __CTYPE_HAS_BOUNDARY 0, __CTYPE_MULTIPART 0, __HAS_HTML 0, __MIME_HTML 0, __TAG_EXISTS_HTML 0, _209.171.88.26 **'
+
+----_com.android.email_526156180818220
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CkJvYiBZb3JzdG9uCjFQaW5laHVyc3QgUGxhY2UKU3QgVGhvbWFzLCBPbnRhcmlvCk41UCAySjPC
+oAoKU2VudCBmcm9tIFNhbXN1bmcgTW9iaWxl
+
+----_com.android.email_526156180818220
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj48YnI+PC9kaXY+PGRpdj5C
+b2IgWW9yc3RvbjwvZGl2PjxkaXY+MVBpbmVodXJzdCBQbGFjZTwvZGl2PjxkaXY+U3QgVGhvbWFz
+LCBPbnRhcmlvPC9kaXY+PGRpdj5ONVAgMkozJm5ic3A7PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRp
+dj48ZGl2IHN0eWxlPSJmb250LXNpemU6OXB4O2NvbG9yOiM1NzU3NTciPlNlbnQgZnJvbSBTYW1z
+dW5nIE1vYmlsZTwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+
+----_com.android.email_526156180818220--
+
+
+

@@ -1,0 +1,73 @@
+Return-Path: <pwagner401@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 0E1E64028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:16:30 -0500 (EST)
+Received: from omr-m008e.mx.aol.com ([204.29.186.7])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103001926681_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 00:19:26 +0000
+X-RC-FROM: <pwagner401@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mcb01.mx.aol.com (mtaomg-mcb01.mx.aol.com [172.26.50.175])
+	by omr-m008e.mx.aol.com (Outbound Mail Relay) with ESMTP id A86E83800105
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:19:20 -0500 (EST)
+Received: from core-mbb09a.mail.aol.com (core-mbb09.mail.aol.com [10.74.42.7])
+	by mtaomg-mcb01.mx.aol.com (OMAG/Core Interface) with ESMTP id 500AA38000089
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:19:20 -0500 (EST)
+Received: from 98.215.126.219 by webprd-a56.mail.aol.com (10.72.52.216) with HTTP (WebMailUI); Mon, 02 Jan 2017 19:19:19 -0500
+Date: Mon, 2 Jan 2017 19:19:19 -0500
+From: Paul Wagner <pwagner401@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <15961b1ce7e-5492-30a04@webprd-a56.mail.aol.com>
+Subject: Trend following
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_248189_766223439.1483402759804"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [98.215.126.219]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483402760;
+	bh=HS4hfGsdBA5FeNztm1UYOjb3eQxn3ZfO9rzzxzKjCwE=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=UwVk0v+p1nIJ6vj4DhCY+KKFyzpVDJKeVQT1288wFHXM1WadLHRRNncHxAH1ieNU1
+	 rHMscehOfQuslSC20Z5USNM3Gg2Gqfunvgt4fpmMRxPu+eHopgTd3w4bTrFJ3EzbHf
+	 YIQgTidYMiljXcB14zCdI6fvsDalY+AoN9bH2m7k=
+x-aol-sid: 3039ac1a32af586aee083dba
+
+------=_Part_248189_766223439.1483402759804
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Paul Wagner
+9700 Reding Circle
+Des Plaines, Il. 60016
+
+Thank you,
+Paul
+
+------=_Part_248189_766223439.1483402759804
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='Arial, Helvetica, sans-serif'>
+<div><font face="Arial, Helvetica, sans-serif" style="background-color: transparent;">Paul Wagner</font></div>
+
+<div>9700 Reding Circle</div>
+
+<div>Des Plaines, Il. 60016</div>
+
+<div>&nbsp;</div>
+
+<div>Thank you,</div>
+
+<div>Paul</div>
+</font>
+------=_Part_248189_766223439.1483402759804--
+

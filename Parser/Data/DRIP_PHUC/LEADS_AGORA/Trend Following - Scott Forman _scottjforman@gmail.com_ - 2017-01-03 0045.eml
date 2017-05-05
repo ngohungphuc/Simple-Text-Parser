@@ -1,0 +1,65 @@
+Return-Path: <scottjforman@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3D5334028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:42:23 -0500 (EST)
+Received: from mail-pg0-f43.google.com ([74.125.83.43])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102174520388_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:45:20 +0000
+X-RC-FROM: <scottjforman@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-pg0-f43.google.com with SMTP id i5so140853269pgh.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:45:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=jKeAsgixHBYcQ8BPU90M0qXcEP9f5Sbn9cxFbJiXTAU=;
+        b=jzfYMBcOZZfRmyfonUAXdgsmaDuxsdImJIL/bpcLh69r6oaIefsqCNCiHs2hAmWhon
+         ru3zWTxPm6wmBypL/1qJTO41vtl3Bcf4ZyHNPwSiGn4RsoNsZ4I9/WwCyYZZtifoHZoo
+         EamI6DUdqfs2UsSnwkQjI7vfPpSmFH4ePV1RoZ2+Mj6H/NYnJwbedZjNCIjvsnNJ3KrG
+         tCCFAF8K5jCOjNZF2y1lmispI9DVX6wq/aO6DrRw7niYhWIWdBSgbk6WKErpAGMZzG2S
+         cndoqYXfjGbim4QG6vVjnX52JXOLhUfxZvir9GlnGVvUHbBq48eTeSK4Vm0ldECkUJkV
+         qoaQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=jKeAsgixHBYcQ8BPU90M0qXcEP9f5Sbn9cxFbJiXTAU=;
+        b=IF3005w85mcLq66lHVT4fRciGhPPnln2SowJxpz8OyI1Yd1lSFt/n7CiGKUGmqjuy/
+         HhDZBcRqTaXeE3lJUH+hqZ3+Q0CwZTs1Kg88wenBjcKP60cmYNsZDksV7OoSc7XkC0F+
+         hShgZwvHRXwpJrJNciUwIPniZMjOMAAEeDkP5YDKS23kedTGJpDuTs8s9kWTumLDo+A2
+         amycglikwTCzxIkIMDWx68K3FUnXBmcmSJdg8N7OUnaUV69VjjbXWKBJD80w3kkGrrVf
+         6epkmq++0f/d5lFoG8KoO6/Kt/zG37f+bmD2mf0Ghbl+IWcNFut0o0sPltAMD4b5Mf2T
+         uvkA==
+X-Gm-Message-State: AIkVDXLNJ13sg1YGqJ7fYVSDTQcteQyAPSnEEISZQhA2nek+iINonI/+qnsWSaX2EYfWgw==
+X-Received: by 10.84.213.150 with SMTP id g22mr127672548pli.11.1483379103663;
+        Mon, 02 Jan 2017 09:45:03 -0800 (PST)
+Received: from [100.111.14.247] ([108.168.227.44])
+        by smtp.gmail.com with ESMTPSA id m69sm76467876pfj.34.2017.01.02.09.45.02
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 09:45:03 -0800 (PST)
+From: Scott Forman <scottjforman@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 10:45:01 -0700
+Subject: Trend Following
+Message-Id: <70C84F61-6D34-4796-8B34-4F9311C9A239@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14B100)
+
+Hi Mike, I'm upset to hear about the newsletter ending as you and Jonas have=
+ a unique way of presenting easy to understand info. =20
+
+Please send me info on your next steps.
+
+Thank you and good luck!
+
+Scott=
+

@@ -1,0 +1,83 @@
+Return-Path: <diphasic@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id D378D4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 23:13:37 -0500 (EST)
+Received: from resqmta-ch2-05v.sys.comcast.net ([69.252.207.37])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170104041633306_0459
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 04:16:33 +0000
+X-RC-FROM: <diphasic@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-ch2-12v.sys.comcast.net ([69.252.207.108])
+	by resqmta-ch2-05v.sys.comcast.net with SMTP
+	id OcztclP8RGIG7Oczzczclw; Wed, 04 Jan 2017 04:16:27 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483503387;
+	bh=NAJdcU5wlQK2oqJ6SmdkGlongB/fIm6uESM9cG6MO34=;
+	h=Received:Received:Message-ID:From:To:Subject:Date:MIME-Version:
+	 Content-Type;
+	b=FFQUZ2GHhga8zj08LgnB0/ekfjwsS5zusplLT5HJSlMhLwHqfoozrJH12z0C9ruep
+	 SS3FUejPBJgBq++swr1s68+UOe1qHKWNiRHAByIn5CgkE/hyFkETf1Zq71+PDiLcGM
+	 L/sXpcqlF+r5EW55kHSnAUcMpC5npfOj0WamenjcZDc0RISoZenaLdUzpX5l3832JE
+	 zWHBPJPoIv79IqHaQB3iRwV5rhrCaGk5MdyLKzrKqIPhHDuDhJYC3VqSJfntAZJKnP
+	 mmjBvOXyxnTk9KScqvYxSue/zhFgitPtaGP7xr6mNYSFskmM4RD2aYvzcO79pUVhRQ
+	 c0cf2QKD8kf/A==
+Received: from GuyPC ([IPv6:2603:3007:2704:8f00:5197:66aa:db5f:7ebb])
+	by resomta-ch2-12v.sys.comcast.net with SMTP
+	id Oczxcc0V7OYDyOczycVck7; Wed, 04 Jan 2017 04:16:27 +0000
+Message-ID: <B645CAAFB2CE42DC8DD9FF606270BCD6@GuyPC>
+From: "Guy Schenker" <diphasic@comcast.net>
+To: <mcovel@trendfollowing.com>
+Subject:
+Date: Tue, 3 Jan 2017 23:16:29 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_006B_01D26617.6A200510"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3528.331
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3528.331
+X-CMAE-Envelope: MS4wfIdV9UKJtVrR92F4kl9fpORIinffkqe3NDMszLIz63XCvc8oYQhxHELQNGuxPSs465e8oVizYYtXPYCywQ4h6aEOBFgZr2A1XbBkSh329eNyMIGwig6T
+ N/wUbTpRiKLyxgwu/7bzatw/kEPEm/QFQ9o=
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_006B_01D26617.6A200510
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+My email address is diphasic@comcast.net
+
+My snail mail address is:
+
+Guy Schenker
+1301 Boal Avenue
+Boalsburg, PA  16827
+
+------=_NextPart_000_006B_01D26617.6A200510
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>My email address is <A=20
+href=3D"mailto:diphasic@comcast.net">diphasic@comcast.net</A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>My snail mail address is:</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Guy Schenker</DIV>
+<DIV>1301 Boal Avenue</DIV>
+<DIV>Boalsburg, PA&nbsp; 16827</DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_006B_01D26617.6A200510--
+
+

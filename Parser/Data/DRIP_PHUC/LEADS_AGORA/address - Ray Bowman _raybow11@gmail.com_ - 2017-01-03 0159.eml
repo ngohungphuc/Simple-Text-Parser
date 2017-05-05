@@ -1,0 +1,71 @@
+Return-Path: <raybow11@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CC9794028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:57:01 -0500 (EST)
+Received: from mail-it0-f43.google.com ([209.85.214.43])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102185958208_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:59:58 +0000
+X-RC-FROM: <raybow11@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f43.google.com with SMTP id o141so260784150itc.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:59:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=nEiLh1XYd/60fGrL4qbDn0m+d2HbCm3ZAe1se9CHHYY=;
+        b=BDQ4h5DD1K0f78KkxGv3yWhyspWgeEPtxMPYHaIoX8NSEK1R4nUlmI4xUjz6mya8Xq
+         unrPADzPU7Vtd6kzmg3TAU1cVtJe45zB4x31a2XJe/WEJt9WwD8f2st1GyD+mvvt+DbE
+         M2sqrOQuLN1RPSgrPQ2gSQkUIG5ZOP3qe8dpLJSiOt3Uc0uI7Q/YFu/bVSi17achRnrX
+         fsZ4CBAtXSSjrIDEtv9RvOIgnH4pf+mg9zmK9R3BK9wixk9U42hua+bcOWi06stve6qA
+         txvIAFkXg+ob+65cSvZ02KBiwurUVdP/JpiRcOIl0eh1UOIqSYnPaa+gHbfKz7AkKAnY
+         mc2A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=nEiLh1XYd/60fGrL4qbDn0m+d2HbCm3ZAe1se9CHHYY=;
+        b=UD++CTOW7VlsafW54/7JMy0lmpPQiKbt4OuHmyjHmhLs0Z2O0mgor9HSXnxVHAjz7N
+         L6P5lEziNK0nUKokMcUnrWSpwTyLUdEQr1Yb8ny6zCgAG4O5IN4qv6BwiAL7nAgZne/o
+         LA5xCzPEDu5LXMPtipr8KLeyVrDbNmNE9IO/V6VFBuawu1WGOrHU1Qbams0JQpT3SS27
+         1EvE9kbx5rmi7m+vBhMZFbqQhB8tGxaF11pl0GtGyyDmgsCH/EYGpWCbnwujGPBSp+mz
+         qYt3zSP4yLojfoBDGXl8CPoRQmqezfqj6DF15tacTVHhr2DMUMmZrHZR+SUe5FD1CVvB
+         a1ew==
+X-Gm-Message-State: AIkVDXL63Qwi6y5XEP/w14Yw+NHM1ZvtdFaRuDihd7U1EnLu1Hr6bbQsuSXiGgYkoKKUvQZ6LlvATw3PEAGJgQ==
+X-Received: by 10.36.13.82 with SMTP id 79mr49432943itx.22.1483383584985; Mon,
+ 02 Jan 2017 10:59:44 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.36.53.82 with HTTP; Mon, 2 Jan 2017 10:59:44 -0800 (PST)
+From: Ray Bowman <raybow11@gmail.com>
+Date: Mon, 2 Jan 2017 10:59:44 -0800
+Message-ID: <CABT1d7tpzdiRqZ0ZVjzj5Bq+JvUYc2V-gBP=_=jY8ZAk1r-BnQ@mail.gmail.com>
+Subject: address
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113f6c1ca63a4e0545212794
+
+--001a113f6c1ca63a4e0545212794
+Content-Type: text/plain; charset=UTF-8
+
+74570 Azurite Circle E
+Palm Desert, CA. 92260
+
+email: raybow11@gmail.com
+
+-- 
+
+Ray Bowman
+
+--001a113f6c1ca63a4e0545212794
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>74570 Azurite Circle E<br></div>Palm Desert, CA.=
+ 92260<br><br></div>email: <a href=3D"mailto:raybow11@gmail.com">raybow11@g=
+mail.com</a><br clear=3D"all"><div><div><div><br>-- <br><div class=3D"gmail=
+_signature" data-smartmail=3D"gmail_signature"><p>Ray Bowman </p></div>
+</div></div></div></div>
+
+--001a113f6c1ca63a4e0545212794--
+

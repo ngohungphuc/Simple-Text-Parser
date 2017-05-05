@@ -1,0 +1,52 @@
+Return-Path: <wmhjack@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F20E44028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:34:27 -0500 (EST)
+Received: from nm49-vm9.bullet.mail.ne1.yahoo.com ([98.138.121.137])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102203724242_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:37:24 +0000
+X-RC-FROM: <wmhjack@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483389438; bh=mOyIghlqisgk5soUX+ffTAWGCFeUDLq6PeDcJk9RjKo=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=fOerTj3F+GLGTX16n48knZGNMBA3Y/g1EsjAepG8Sf99RNGyL7wYk4sgdXSP18u7odTgIgsTc4GyTKGUdbKjCu3Je/qJrb9dmEmsZYW7QOw4oDKDOKFsFe3gRl+UpTGN2s4tm5iMB0EXQ5k4WkUnJA7+JvIwuk2nfrJlEA4AnAqyYaRjxqe5dgPNfwOAIm0raUFDCo6Q/h6G7iFkRwxuodl7O3GfQXOmGcjf8yo9gmgYTJYXQNK24dmajXILcD4JXqu1oEEirEKKKy5+rPbiUDrWl14ZRPtCPk07Co9P1d2KcX+kmXdAz4+RduBGAESwWrEVv2rJTFkMeT2sW54ybA==
+Received: from [127.0.0.1] by nm49.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 20:37:18 -0000
+Received: from [98.138.100.112] by nm49.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 20:34:28 -0000
+Received: from [98.138.89.248] by tm103.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 20:34:28 -0000
+Received: from [127.0.0.1] by omp1040.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 20:34:28 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 145820.8903.bm@omp1040.mail.ne1.yahoo.com
+X-YMail-OSG: O8y6fMYVM1mfvyRttqRvOPkAbB11zTQEXmkpt_WJZwzfpQcsRHLcTxX4ZKCIM3s
+ _BIIlAT07M7cxQ5nCvSyznrUsemdjIIRPv_PyPHZR4rFWVelSKBxp_CXbpfZpsV3duXTf.Mbz.cC
+ flSVLqfYthsYcDz5eV8g1tFMitfPq1N_djIHHPiJm96ZHZvFrEV_YpM_i3i6tu6b8G8c9k7OrqcH
+ 0ULBKiS0LgfmOcuZWnJUyGnlmfLx3ngLhJAPl79oHInwMFpnhgqTZIXc82O4.VeRfuuqEjMnnBjy
+ 0njw0lBRzYb8KKNHEjd59NrwjZr1IFt.WcLVfE_hpIH8w9qWJcsjZ85VmLBNoSTXF8rnVnplKrwi
+ jBBbVS7PypLn9skW.mx2wc7i_CwOo.b7_u6k_r0v_7jZirdZYSBP4iuJlWc0VUVl3lWeApdjA6JM
+ 0E3moZlAiDDfeRW9qaZ6wM4capl.mbqOtWZXiuKpqRCI65HLmn700nRQjBLDHa8zLu0kGKq.e4PY
+ LkDdFn6VFGlUl_6RUJ5t_i7H7CgDQHjqbC1E-
+Received: from jws200015.mail.ne1.yahoo.com by sendmailws166.mail.ne1.yahoo.com; Mon, 02 Jan 2017 20:34:27 +0000; 1483389267.701
+Date: Mon, 2 Jan 2017 20:34:27 +0000 (UTC)
+From: william jack <wmhjack@yahoo.com>
+Reply-To: william jack <wmhjack@yahoo.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <2059917052.4923999.1483389267531@mail.yahoo.com>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_4923998_273843731.1483389267530"
+References: <2059917052.4923999.1483389267531.ref@mail.yahoo.com>
+
+------=_Part_4923998_273843731.1483389267530
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ William h=C2=A0 jack=C2=A0 105 first st=C2=A0 Chelsea, iowa 52215
+------=_Part_4923998_273843731.1483389267530
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px">  William h&nbsp; jack&nbsp; 105 first st&nbsp; Chelsea, iowa 52215</div></body></html>
+------=_Part_4923998_273843731.1483389267530--
+

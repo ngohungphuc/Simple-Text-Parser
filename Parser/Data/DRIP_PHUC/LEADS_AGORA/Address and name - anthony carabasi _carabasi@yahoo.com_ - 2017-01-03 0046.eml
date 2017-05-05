@@ -1,0 +1,47 @@
+Return-Path: <carabasi@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CD3124028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:43:27 -0500 (EST)
+Received: from nm36.bullet.mail.bf1.yahoo.com ([72.30.239.5])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102174613111_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:46:13 +0000
+X-RC-FROM: <carabasi@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483379165; bh=ICpn335vhblhFhiZZ74F3Y3t8q6mgJ9hWu+2VgNSre0=; h=From:Subject:Date:To:From:Subject; b=huqwSfHafKBvnXoqQ6TcFmIowXCkvH66QpUUs0Ypmd02GBohnLJha74ETJL8tvMu7OAEzAkms5Zm7jGHwZmH7YkiBo2i6xc3hio1ABGbQB1cn28//aqYC867sg+AfDSQo1SrdO+wCfSe04ZpCDnLlpnqpYOkOmWmkqyEQmoZ525mcYfKEFCCvk4jSchxjMy3jKYqb5OIdFSNrkJFhm82JhewVpAwRDOcMySutSRV+wO+llYOghYyaGe0Ph6bqqcumSotpiU6n5qsSmVZIDz6xcIlYPfEW4MOgVkpNxBXL/RxqauZmgLhX0IGavjTRa5TX6NUyhcoFt1XL9BP4HLPiA==
+Received: from [66.196.81.170] by nm36.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 17:46:05 -0000
+Received: from [98.139.213.15] by tm16.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 17:46:05 -0000
+Received: from [127.0.0.1] by smtp115.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 17:46:05 -0000
+X-Yahoo-Newman-Id: 315246.70731.bm@smtp115.mail.bf1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: Od6rve8VM1lU4.rb2To8d2z6e2OK1UTRm5MmSUIXuQ2mPVg
+ rp_2NBdwlMklps2I1KqDbpuO5gyxXBtlGPeVTwobBZwjbKzPsOoxQ5T7O30T
+ DSV7k6lcmh_wZ2heJW_T2G2JvquNGuXpoJ8NYnvCqqfAXlRh5ngFjnVwXVxx
+ Kw7ALHVx6P7SpBVwDixpyCia0b3qohtO5CrQ_aQdXKh3dm7wyqBLmtnju61W
+ GK6ia3HABqMNi6v11FLN2ZmrFN7zaAINaCokHCg8u1klqhQu4BA3ccqPAzjQ
+ qIYzVENhkq8Tk56edAgLs7fRa4hnPinNd1MhETyhG0Q3Wpc1HLNF83ywePIp
+ WRLMu40N0_iRsHXYLXOXQX289OlicBJfLC3kyiUold25O9.pDxLwqaT5YdN1
+ N6GoYDaJW.4wxy7Y68dFLrOAyqbjGgJ.RK8gf8sVdMQcfMYh6sejgJJaEUWx
+ sm5OyVMqUL2RA4N0Fhs.pYFWefbXgnK5YluLfaMsq_r8LiKxF4QIzQE4XCbc
+ HLE4ZEIsbDpwTf8VRcgLuMufjoUwGwh1uBDq7O2yh8o4NQ4iL
+X-Yahoo-SMTP: ZA.R4PSswBDjsN14oARmk55itSwt
+From: anthony carabasi <carabasi@yahoo.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Address and name
+Message-Id: <B63DF6C5-27A0-4893-BA7B-D99E895F33BD@yahoo.com>
+Date: Mon, 2 Jan 2017 12:46:04 -0500
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (13G36)
+
+Tony Carabasi
+818 Northwinds drive
+Bryn Mawr, Pa. 19010
+
+Sent from my iPhone
+

@@ -1,0 +1,58 @@
+Return-Path: <rgrbnn4@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id EEFB14028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:40:14 -0500 (EST)
+Received: from mail-it0-f66.google.com ([209.85.214.66])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102174311281_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:43:11 +0000
+X-RC-FROM: <rgrbnn4@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f66.google.com with SMTP id c20so48268908itb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:43:08 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:subject:message-id:date:to
+         :mime-version;
+        bh=a9Dt9MoVyeAGwnV5wE/yhxxYqh8k3cHUMNRQT7Tw5sI=;
+        b=HWdEAy83GDGTi/P2LNOmkksjp3dpmf7wJrYVc3SyaY/KUS3z/1xcG2CU/ec9YJirN+
+         Y26yVDT21XFsjmBlkEcIpy5ouGp3Drp9nWcUwJqP3FFi679lzTbXOHVa2r5iXGAcCsRV
+         vWh2FwBZfTGKYJse1W39gXM9v5JWWKkBta1ORKW7lmI9/SLwExlcYmZVexUEUkoy4ViR
+         1Pt7SN4F0E9m9F/oARYa5O1sU5ExVH9D6SNHzoqKaHWfAw3Ygpppn5TLFobIbZFAwZKh
+         sh7ZQsChhQ021iwQqk41U59QI1tou5ns3/qKworTCP4bV4Rw4oePKSRZT9vLzCFPIfIz
+         ycmg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:subject
+         :message-id:date:to:mime-version;
+        bh=a9Dt9MoVyeAGwnV5wE/yhxxYqh8k3cHUMNRQT7Tw5sI=;
+        b=gPA01sk8dDXB8bxwNw/V7IHFyXER5MpE39DspkubPMF/CIZy0/vS5nXfD6K+UlYzfo
+         J8rMBLCRzh1TaWa1aZlzCHpRrA13DhQiHCqaSWP9z6HkkVn4oiEiMpF58rawf+xNL5eE
+         yVZYo8OS3zflcfoUqw+ctJpbFS1ZRQk68q2ePPkfLIV1WdRgCSBxgaNGIL3Kl/rx1NQ8
+         LDGWRzm6htryWGjezCTxWdr6O5asxQHpxzMsLIAiQcEZkXqzC6YFGWQFK4oeIAkBYboJ
+         v6GYrErJ9hn/t2GPZbhWzPpTQG837FbgnMfmbm/c2fkxgD8/uTt/cajIJ+bIu+Iyl+hA
+         5+CQ==
+X-Gm-Message-State: AIkVDXKVJhMW/2KYSrUYkoV+rdYWiCe+7fxf1wYuSn++jA/tNo/NiA1cvLAmoRYx9kofOg==
+X-Received: by 10.36.61.207 with SMTP id n198mr51152906itn.60.1483378985264;
+        Mon, 02 Jan 2017 09:43:05 -0800 (PST)
+Received: from [192.168.0.4] ([98.29.19.146])
+        by smtp.gmail.com with ESMTPSA id g186sm30895478itb.21.2017.01.02.09.43.04
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 09:43:04 -0800 (PST)
+From: roger bunn <rgrbnn4@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Subject: INTERESTED
+Message-Id: <29855E65-52ED-445B-9625-BE463AB07FB6@gmail.com>
+Date: Mon, 2 Jan 2017 12:43:03 -0500
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 9.3 \(3124\))
+X-Mailer: Apple Mail (2.3124)
+
+ROGER BUNN/ P O BOX 750848/DAYTON OHIO   45475-0848ROGER BUNN  =
+<rgrbnn4@gmail.com>=
+

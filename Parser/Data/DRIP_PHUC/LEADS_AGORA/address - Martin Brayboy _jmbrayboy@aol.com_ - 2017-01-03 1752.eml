@@ -1,0 +1,61 @@
+Return-Path: <jmbrayboy@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 9C5194028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 05:49:23 -0500 (EST)
+Received: from omr-a013e.mx.aol.com ([204.29.186.60])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103105204715_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 10:52:04 +0000
+X-RC-FROM: <jmbrayboy@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aan01.mx.aol.com (mtaomg-aan01.mx.aol.com [172.27.19.79])
+	by omr-a013e.mx.aol.com (Outbound Mail Relay) with ESMTP id 795F038000AC
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 05:52:03 -0500 (EST)
+Received: from core-abx12c.mail.aol.com (core-abx12.mail.aol.com [172.27.155.129])
+	by mtaomg-aan01.mx.aol.com (OMAG/Core Interface) with ESMTP id 52CA438000082
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 05:52:03 -0500 (EST)
+Received: from 32.217.43.191 by webprd-a75.mail.aol.com (10.72.52.225) with HTTP (WebMailUI); Tue, 03 Jan 2017 05:52:03 -0500
+Date: Tue, 3 Jan 2017 05:52:03 -0500
+From: Martin Brayboy <jmbrayboy@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <15963f51498-3049-30b42@webprd-a75.mail.aol.com>
+Subject: address
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_247102_1470808643.1483440723094"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [32.217.43.191]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483440723;
+	bh=LzFQU5uRgJqtDGINwRgXr3ColRZ+ZhUoWVr8X7w74cQ=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=z55xn2w/2/9fhT24itPUV24lVPlWu5FgbAII5iUBQUAXdIs5iOC8gTxkvVPiClMKa
+	 6XRtkoDHo4KGJd03CGYzJYOTNxSfzmcHDGYueY7Y0CBvLodcpN1/xBYpNCc3XzLyLw
+	 jjLS+e2SQJaXjCi7jpyuFi9FPSyNGzCOjRk39nyQ=
+x-aol-sid: 3039ac1b134f586b82535272
+
+------=_Part_247102_1470808643.1483440723094
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+J Martin Brayboy	
+64 Whetstone Rd
+Harwinton, CT 06791
+
+------=_Part_247102_1470808643.1483440723094
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>J Martin Brayboy<span class="Apple-tab-span" style="white-space:pre">	</span>
+<div>64 Whetstone Rd</div>
+
+<div>Harwinton, CT 06791</div>
+</font>
+------=_Part_247102_1470808643.1483440723094--
+

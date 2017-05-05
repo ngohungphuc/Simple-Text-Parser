@@ -1,0 +1,87 @@
+Return-Path: <pfitzgerald@eaststar.com.sg>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 055604028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 18:40:44 -0500 (EST)
+Received: from APC01-SG2-obe.outbound.protection.outlook.com ([104.47.125.123])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102234341126_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 23:43:41 +0000
+X-RC-FROM: <pfitzgerald@eaststar.com.sg>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=eaststar.onmicrosoft.com; s=selector1-Eaststar-com-sg;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=2IqpQwRS4j2Xf8XpbLttFjlfWNlvrOil8Z+uJEP+fns=;
+ b=V81julZS7TyOXjsiNG+6LiFx7f/kr01GyCVUOyX8XLwp4tVkTHgVSgztApCF4Ui83Q2N96uhc+OxtuKxC1BCIbRWed9kt67iSf8g5IFE3ATxGMMtBbv8s6/26eCowBKF22cmuIvhBC9I40OI1JpiAhdTSLNqWzWeaJZycQIf5fg=
+Received: from SG2PR04MB1248.apcprd04.prod.outlook.com (10.169.57.154) by
+ SG2PR04MB1246.apcprd04.prod.outlook.com (10.169.57.152) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.817.10; Mon, 2 Jan 2017 23:43:29 +0000
+Received: from SG2PR04MB1248.apcprd04.prod.outlook.com
+ ([fe80::7521:9fc0:ff20:a470]) by SG2PR04MB1248.apcprd04.prod.outlook.com
+ ([fe80::7521:9fc0:ff20:a470%15]) with mapi id 15.01.0817.009; Mon, 2 Jan 2017
+ 23:43:29 +0000
+From: Phil FitzGerald <pfitzgerald@Eaststar.com.sg>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Will miss you
+Thread-Topic: Will miss you
+Thread-Index: AdJlUgS+lE0xFzc6Tyq3I0go5N5kZw==
+Date: Mon, 2 Jan 2017 23:43:29 +0000
+Message-ID: <SG2PR04MB1248AEE6628C02341F01F554F06F0@SG2PR04MB1248.apcprd04.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=pfitzgerald@Eaststar.com.sg;
+x-originating-ip: [59.189.112.74]
+x-ms-office365-filtering-correlation-id: 77f8b9c7-e374-4800-fe84-08d4336927ac
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:SG2PR04MB1246;
+x-microsoft-exchange-diagnostics: 1;SG2PR04MB1246;7:w+1R7W77XbfZk8RWWzlBE1FVXoepjqIUFYduEekABgbDXmRndb/isyXoJkD6l2J0YWlqkoQWdFg5TBQgVj5mGyo3g533DPAtUqZdbA2vRp/iS0Vc51T4/irJh4crO+5dR2MR0DjV/DxxccGcKX9FX7SZlYQW8OgqNdCF6MN/BST3fw8/wWgi/7V7SzQkOQ5F2dguM42pZSR4y3kJHLa8TG5VURU7bCeysTGY4szdYO339bK29RDZ2tw3WeAlqsV5GzzghEyO2yg+v2W/B9NAM9RJhY0D0NCFQUDQb/IxW/DtQkvx35/YTu3L/yxqpSbORKftMfBpLBT8JM81R0+MiDsHWYPLdZ1NY/2fVXGgG4BmgGUN+owb050pARUuUAKjfMVM0uxy6U3+qtZNh6Wht47O+Ucy971iPKDohMzbWXboaG/VJ8neixNnlSxNwzmfAOVcFQ2B/bAQhkIWscIjPA==
+x-microsoft-antispam-prvs: <SG2PR04MB1246A23674D6A7F2955D0846F06F0@SG2PR04MB1246.apcprd04.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040375)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6041248)(20161123564025)(20161123562025)(2016111802025)(20161123555025)(20161123560025)(6072148)(6043046)(6047074);SRVR:SG2PR04MB1246;BCL:0;PCL:0;RULEID:;SRVR:SG2PR04MB1246;
+x-forefront-prvs: 017589626D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(7916002)(39830400002)(39450400003)(39410400002)(189002)(199003)(42882006)(55016002)(6436002)(5640700003)(66066001)(74482002)(50986999)(74316002)(305945005)(92566002)(68736007)(3660700001)(33656002)(450100001)(105586002)(106356001)(86362001)(2351001)(7736002)(3846002)(102836003)(3280700002)(2906002)(6116002)(9686002)(1730700003)(81166006)(8936002)(189998001)(81156014)(38730400001)(8676002)(6916009)(54356999)(110136003)(2501003)(99286003)(5250100002)(5660300001)(7696004)(101416001)(3480700004)(7116003)(6506006)(107886002)(2900100001)(97736004);DIR:OUT;SFP:1102;SCL:1;SRVR:SG2PR04MB1246;H:SG2PR04MB1248.apcprd04.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:3;A:1;LANG:en;
+received-spf: None (protection.outlook.com: Eaststar.com.sg does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: Eaststar.com.sg
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 23:43:29.3731
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: c58e5eee-f4fb-4f29-95f2-805d6d1946ce
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2PR04MB1246
+
+Hi Michael,
+I have enjoyed your publications over the last several months. I have made =
+some money on vertical trade alert but more important I have learned to tra=
+de options better.
+
+I have been living and working in Asia for the last 30 years. I  Just finis=
+hed an 18 month contract in Thailand and hoping to win a new contract in wo=
+rking in Vietnam.
+
+Next time you are in Singapore -hope we can meet.=20
+All the best for your future.
+Phil
+
+
+Phil FitzGerald
+CEO
+Eaststar Global Pte. Ltd
+Thai Cell   +66 970600421
+Spore cell +65-90039459
+China cell  +8613249155885
+
+
+
+
+

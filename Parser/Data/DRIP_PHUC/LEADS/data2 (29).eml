@@ -1,0 +1,65 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m026.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DEF7C4020DED8
+	for <mcovel@trendfollowing.com>; Thu, 21 Jul 2016 15:10:26 -0400 (EDT)
+Authentication-Results: s12p02m026.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m026.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id 32e11975.0.372954.00-2336.775581.s12p02m026.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Thu, 21 Jul 2016 13:10:27 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=x/UVlKqWHMv4LU4wNABvQJAvdII=; b=vk6cq37WplbAWKcqPd906kg
+	OAPbMoSn03EMhH1RKeV6noislIqTi4HJnpcXZPw60LNXWZ8TqciK7IeOsmuWmGvp
+	l6lNbJKjO8qRWEydegHASvxkNrtmOUQU8I01OvScy5ZdFZUEWBNMaGAKvlJysXpR
+	aqFuqs+ADv11q3vYm4mQ=
+Received: by filter0473p1mdw1.sendgrid.net with SMTP id filter0473p1mdw1.442.57911E1039
+        2016-07-21 19:10:08.867280927 +0000 UTC
+Received: from getdrip.com (ec2-54-152-200-47.compute-1.amazonaws.com [54.152.200.47])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id S7qybT-cTy-LHHRTwWwr2g
+	for <mcovel@trendfollowing.com>; Thu, 21 Jul 2016 19:10:08.833 +0000 (UTC)
+Date: Thu, 21 Jul 2016 19:10:08 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57911e10c5353_fb43fe3c59b740c838c2@ip-172-30-0-183.mail>
+Subject: [Drip] aeelwell@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrUp7wzEKSpVV42MN82CcJXR4hF8hGmXA3Cs/
+ wl7IxykQAJrnQ7vgJJ7cyVSAcRQ7OroXR1bJde1WtOMABcuTgm9Y0U23tlJgloTbpVilbnc2QZiQBh
+ 1yqW6Y6pTIhhihl+MFZahIJivL1LTS5QaBGN36BGyDH0hPNuRwUiYGwqk6xZWaW0RToogdOWap5Y5s
+ s=
+Received-SPF: Pass (s12p02m026.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: aeelwell@gmail.com
+IP Address: 68.3.185.242
+city: Fountain Hills
+country: United States
+first_name: Allen
+last_name: Elwell
+last_trading_or_investment_book_read: Elwell
+state: AZ
+street1: 15208 E Palomino Blvd
+zip_code: 85268
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/sy3suonjszs6udrxzjz3
+
+Cheers,
+The Drip Team

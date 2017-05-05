@@ -1,0 +1,139 @@
+Return-Path: <heikoop@centurylink.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 09BCC402903C1
+	for <mcovel@trendfollowing.com>; Tue,  7 Feb 2017 20:36:30 -0500 (EST)
+Received: from smtp.centurylink.net ([205.219.233.9])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170208013923722_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 08 Feb 2017 01:39:23 +0000
+X-RC-FROM: <heikoop@centurylink.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=centurylink.net; s=ctl201402; c=relaxed/simple;
+	q=dns/txt; i=@centurylink.net; t=1486517952;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=k60vMxWWL0h2ViMVBB7QPtDABDE=;
+	b=FCtBooeLN3K3XLOrQq5ml9NjQoG41I2Z64ylzgUCvBGOhtUtUfgC6aV5+Naorkin
+	0lBonSHddGgDwk51tSdHdLB1OLwP/WT8j1pk4VpGwZw+ESnftPiMGpPRoypoQvoW
+	EASTWOkziOVUT3ng5EL2qlp3KFYB4I0r5to5x6fu95bR9u+pIDnkmWz3yvRk8/08
+	8mZ7boE6XcyhC1883H8N5Zi5ZHuC3v4zuRUuLwSTyBGps8u2HaYT+shbSoy8KpGz
+	av27gOjOwauOrjdCqVK9Yh0KcQnOJ2k6gDjjNLlsQBFOuUC0DkzVOB1Q12AOXRUe
+	NG9bZkTJRAszjV5I1RKlnQ==;
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=Bo7f+sf5 c=1 sm=1 tr=0 a=drt+CucRH4o6XJnCWDSN1g==:117 a=drt+CucRH4o6XJnCWDSN1g==:17 a=IkcTkHD0fZMA:10 a=pGLkceISAAAA:8 a=IKBqb-KBAAAA:8 a=nAJsxhIjYigJvurOcPAA:9 a=QEXdDO2ut3YA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=KXALN3v852yvSFdWanHA:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: aGVpa29vcEBjZW50dXJ5bGluay5uZXQ=
+Authentication-Results:  smtp03.agate.dfw.synacor.com smtp.user=heikoop@centurylink.net; auth=pass (LOGIN)
+Received: from [97.123.84.93] ([97.123.84.93:54101] helo=[192.168.0.27])
+	by smtp.centurylink.net (envelope-from <heikoop@centurylink.net>)
+	(ecelerity 3.5.1.37854 r(Momo-dev:3.5.1.0)) with ESMTPSA (cipher=AES128-SHA)
+	id A1/12-30858-FB67A985; Tue, 07 Feb 2017 20:39:12 -0500
+Subject: Re: trend following investment paper
+To: "M. Covel" <mcovel@trendfollowing.com>
+References: <8615c1c0-f163-6444-3db8-82c654f32e50@centurylink.net>
+ <23461f81-d6c7-3f89-f37d-84b017a75c5e@trendfollowing.com>
+From: Jeff & Cherylyn Heikoop <heikoop@centurylink.net>
+Message-ID: <7561cfed-7e2e-5b82-7f0a-8adf01a79609@centurylink.net>
+Date: Tue, 7 Feb 2017 18:39:12 -0700
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.7.0
+MIME-Version: 1.0
+In-Reply-To: <23461f81-d6c7-3f89-f37d-84b017a75c5e@trendfollowing.com>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Thanks, Michael.  Just sent a friend request through Facebook so that my 
+wife and I can see your special offer to former Agora subscribers.  I 
+don't use Facebook so the request will come from Lyn Heikoop; 
+ceheikoop@gmail.com. This is my wife's account.
+
+Best wishes.
+
+Jeff and Cherylyn
+
+> Hi Jeff,
+>
+> Thank you for taking the time to write after Agora’s unexpected 
+> closure of the Trend Following newsletter. Unfortunately, I have 
+> almost zero insight into their decision and can’t offer any further 
+> details regarding Agora’s move.
+>
+> But some background is in order for those awake …
+>
+> I have been helping investors and traders with trend following since 
+> 1996.
+>
+> That is seen across 5 books, a massive 500+ episode podcast and a 
+> documentary film—all dedicated to assisting investors to understand 
+> this superior under the radar investing strategy.
+>
+> And to reward your continued belief in my work I am creating special 
+> website access for former Agora subscribers. This access will be live 
+> by the end of January 2017 and will include:
+>
+> 1.    The free research white paper as promised.
+> 2.    Updates on a new Trend Following newsletter.
+> 3.    Special pricing on my Flagship trading product for Agora 
+> subscribers.
+>
+> Look, I know the investing landscape is a disaster. Gurus and their 
+> asinine predictions made nonstop 24/7 is par for the course. That’s 
+> not my world and I know it’s not your world.
+>
+> Thank you for sticking by me and be on alert for my next update 
+> shortly. And please excuse my delay in response to you. My flight 
+> literally just landed in Asia and time zone changes always slow me down!
+>
+> Best,
+> Michael Covel
+> President, Trend Following
+> www.trendfollowing.com
+>
+> PS. Have a question for me? I answer every email. No twenty-something 
+> staff fresh out of school will respond to you—ever.
+>
+> PPS. Many on my podcast do manage for retail! Yes.
+>
+>
+>
+> On 1/4/17 7:53 AM, Jeff & Cherylyn Heikoop wrote:
+>> Hi, Michael.  Sorry to hear about the termination of your Agora 
+>> services.  I was a lifetime member of Trend Following and a member of 
+>> Vertical Trades.  I have enjoyed your insights and would be 
+>> interested in your investment paper.
+>>
+>> Jeff Heikoop
+>> 310 Garver Lane
+>> White Rock, NM
+>> 87547
+>>
+>> On a related note, I realize that you can't offer specific investment 
+>> advice, but do you have any general advice for the retail investor 
+>> when it comes to trend following?  I just don't have the time right 
+>> now to learn the system that you offer on your website, which is why 
+>> I valued your service through Agora so much.  Maybe when I'm not 
+>> working 12 hour days...
+>>
+>> I'm aware of GMOM, which you pointed out in the early days of your 
+>> services (thank-you), the Equinox Chesapeake fund based on Jerry 
+>> Parker's work (I really enjoyed your Turtle Traders book), and I have 
+>> looked at the funds in Tim Price's recent book on your 
+>> recommendation.  The funds in Price's book, however, seem to be for 
+>> accredited or high net worth investors.  Do any of your trend 
+>> following colleagues manage funds for retail investors?
+>>
+>> Thanks again for your insight.  I will miss your service. Keep up the 
+>> good fight.  After the 'Trump Bump' I don't know how anyone can 
+>> believe in macro predictions any more.....
+>>
+>> Take care,
+>>
+>> Jeff
+>>
+>>
+>
+
+

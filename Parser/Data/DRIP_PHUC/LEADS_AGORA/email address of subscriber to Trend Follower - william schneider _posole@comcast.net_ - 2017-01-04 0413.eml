@@ -1,0 +1,44 @@
+Return-Path: <posole@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 45A6D4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 16:10:43 -0500 (EST)
+Received: from resqmta-po-04v.sys.comcast.net ([96.114.154.163])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103211338810_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 21:13:38 +0000
+X-RC-FROM: <posole@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-po-08v.sys.comcast.net ([96.114.154.232])
+	by resqmta-po-04v.sys.comcast.net with SMTP
+	id OWOacfonnrdcjOWOicXMSK; Tue, 03 Jan 2017 21:13:32 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483478012;
+	bh=DlFxCGl4tXQO3H3ZNIifqfWp0JMU9+ZwkM6zxaW1OSA=;
+	h=Received:Received:From:Content-Type:Subject:Message-Id:Date:To:
+	 Mime-Version;
+	b=PiL60xAZ77A2IAHHGOc3/QvKEcbAcSV88H4yw/1rKHJxT2vZt/AFY5/FQH5ViUDKH
+	 1fqGa73JWOumCxE0KdvJIFm6ABWEHWzBTKcCvd6v6/n/e2QE6r7QmmeFOcoqG/6wA0
+	 RjrCDwNWfymv9JvWqgEgG+I8gGVR4lPEdmpiHNW9WJrZAqrZ9GoHNvEQSPmjnPI80A
+	 k0w8DsMfm5P4SNwY9eT1mCW/wXAni8R5Em4UP6nAC7CmMwZEMmmB0zUxQPPWz7Uuo5
+	 r+9b+/XKyieq1Y5GgjhPpkocWT7qNpcf8tnEs07qcF29Y7zcvOSFD0uVEjdhLotxDV
+	 Q0Vg1NCuepSnQ==
+Received: from [192.168.1.9] ([174.48.200.110])
+	by resomta-po-08v.sys.comcast.net with SMTP
+	id OWOhcybjcsBlpOWOicReAc; Tue, 03 Jan 2017 21:13:32 +0000
+From: william schneider <posole@comcast.net>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: email address of subscriber to Trend Follower
+Message-Id: <43192D6A-6253-44BF-BC28-B269F68B9FEE@comcast.net>
+Date: Tue, 3 Jan 2017 16:13:30 -0500
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 9.3 \(3124\))
+X-Mailer: Apple Mail (2.3124)
+X-CMAE-Envelope: MS4wfHBrI1tl6GRpRL5xRbTRGXLxEJtcbZwIRZ/hiRi5l1mSdsdXP0LMDHgKLcki3gUsNNmo9Kd7HjDmSGFPfhQ+uN6ImnzPP4WbqDwHKwITn/EdEOGolIck
+ WBPlMzQCc9Vu6Va1tF782Fimf5ROxSLnozANsHlpPG92cjTe1nO+xeOJpIijyb+eb2BuWhz2q3YBsg==
+
+posole@comcast.net       Dan Schneider
+

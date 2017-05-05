@@ -1,0 +1,66 @@
+Return-Path: <alex.g.wong888@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3D8794028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:37:34 -0500 (EST)
+Received: from mail-yw0-f182.google.com ([209.85.161.182])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102174028787_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:40:28 +0000
+X-RC-FROM: <alex.g.wong888@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f182.google.com with SMTP id t125so271696789ywc.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:40:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=2xe09LtUFOUjwVuVkSa3RdNNZl6dONtmB0a9mJwQHj8=;
+        b=Ebid/Bsmq+mhhkB/EfANW4HNnQRVsLM5Km09o5CRA2tirWOWkaTVHQe3UwAlgz1HQT
+         bDHBKC+gMfmgRd9ylOcluKwm7SEbgX24KYjDNlslBcbhQkNmxPEKUGjn1wRmuJUJEnmO
+         y3GzHLYgWkAh1ngMXnrfpXtdI8uYhUPs3m+znPOgj9ou6dKRAckrnr/y8Q6/bM4HqW/+
+         Rx0tngjPebUonE/x5AWl7qKVoM8DlmMwcBirFJxQedgtBw8ccO2IDJlZe3plT3+Oi0iH
+         5gxMWdwbLIK10s2JvYmNNN6uA9QFyhTw2HaIC//soxhWl5nwewUBhBpCzrcbz0TsZvdE
+         sOSQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=2xe09LtUFOUjwVuVkSa3RdNNZl6dONtmB0a9mJwQHj8=;
+        b=GvDFb8bN/tVHRRtNHzBmnus2gF+vskZaGPUO2cbLDy76YKpIRen+GregLCr6tbF/3W
+         /O4KI6duYDkUAGqk0TxjNhZI80acuGVrdJgKHPYHrBI2bzJ5RGDUEgv5BIawwC6RuU/K
+         xPrULnHpGRvBpVqEvQzUdnWdIq+7II5ei95f/mJqed+4tNKVIuPU3QUp4x5dYJ5NooQM
+         awVlgVuwiqeYqBlQHKSJyMtmbJ2QfBB6DyE4p6rra26ZFFToXe3acpWXF/HyF/KkcPT/
+         J90lVaJc2ueT34vFlRnsKKMibSHaj5nPQH5XcXJx7fhiqpo9B7y5CuhNmb4EKQzhfAd9
+         gBfQ==
+X-Gm-Message-State: AIkVDXL87OSHJmVIxd6jZEuMXovcxFfq6r+j6A3aiUdBRWDqG5RJMRIBhXPAh/dy5Vzzjw==
+X-Received: by 10.129.153.5 with SMTP id q5mr53203147ywg.256.1483378812426;
+        Mon, 02 Jan 2017 09:40:12 -0800 (PST)
+Received: from ?IPv6:2602:302:d1fb:61d8:d529:cde4:7930:6941? ([2602:302:d1fb:61d8:d529:cde4:7930:6941])
+        by smtp.gmail.com with ESMTPSA id x185sm6950751ywe.35.2017.01.02.09.40.11
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 09:40:12 -0800 (PST)
+From: "Alex G. Wong" <alex.g.wong888@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 11:40:11 -0600
+Subject: Trend following/Agora
+Message-Id: <408C6ADA-57A7-46F0-AD61-91119ACFB28E@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPad Mail (14C92)
+
+Mike,
+
+I DM'd you on twitter last week. Here is my address. 
+
+Alex Wong
+110 San Antonio Street, Apt 1611
+Austin TX 78701
+
+Sent from my iPad 
+

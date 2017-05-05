@@ -1,0 +1,65 @@
+Return-Path: <austinjflj@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6A94D4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:50:41 -0500 (EST)
+Received: from resqmta-po-08v.sys.comcast.net ([96.114.154.167])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102175337537_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:53:37 +0000
+X-RC-FROM: <austinjflj@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-po-15v.sys.comcast.net ([96.114.154.239])
+	by resqmta-po-08v.sys.comcast.net with SMTP
+	id O6nTcD4W2wySVO6nccSCLq; Mon, 02 Jan 2017 17:53:32 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483379612;
+	bh=y+OGZyWdkjeV2jAI6AnnGtO3ylugG+EZmViEVi4RlyA=;
+	h=Received:Received:Date:From:Reply-To:To:Message-ID:Subject:
+	 MIME-Version:Content-Type;
+	b=pzBwY75uNxE9KCFGtAIEmLxmvwtBTjmbw6rIaJiLNKCkd/gCHNCWqO8Ph5TTAmeQ3
+	 IpY23dHSGIZPjGLuUhWcawyLVMcKvj5TqlX/9H24WN+c0KfwpIWGTG4b3vdefRAj7x
+	 5VvLWeLYNvflUZikSfFdcptC1nnDuHkIP8vL/3KnE+s/ZO9/VfviC6fAMa6Vry0ylB
+	 sfiV0MEMA7WGkst82jAjWhbKuZHa4oY+LHsNo8kXlyb+++9675K8UTKM6N3J+Y8Fwr
+	 wQPaZrw5E+3G0FeuH0fdNbxix/DLHerHh93GVmXFlrKtcMkWXZSAGiSu7jvLQeV7vU
+	 4ipmu9btUD5vA==
+Received: from oxapp-wcc-27o.email.comcast.net ([96.118.166.185])
+	by resomta-po-15v.sys.comcast.net with SMTP
+	id O6nbcsFbOW0VBO6nbcDy6C; Mon, 02 Jan 2017 17:53:32 +0000
+Date: Mon, 2 Jan 2017 12:53:30 -0500 (EST)
+From: JAMES AUSTIN <austinjflj@comcast.net>
+Reply-To: JAMES AUSTIN <austinjflj@comcast.net>
+To: mcovel@trendfollowing.com
+Message-ID: <643760598.56775.1483379611392@connect.xfinity.com>
+Subject: austinjflj@comcast.net
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_56774_676791390.1483379611390"
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.8.2-Rev15
+X-Originating-IP: 2601:40d:8100:fc56:d441:3b46:14df:5234
+X-Originating-Client: open-xchange-appsuite
+X-CMAE-Envelope: MS4wfH1zpQvkAD62dEbne7zsdSa0kVK1YZAHblFBdwzkVLKVBPAlLiHR/UGDF6CX//G2Pgk9XJBvq71BC+mgQOpZLHYiXby3d6KONc8xiPqwGJiRv2XNPSWk
+ Bc1okr6zZamHxfJMXlopzDOOeYBCmu1QLpBaf6RnrhtE8MyQXvoyiPHE3FrxoOJ50vKen7bstDgbeYZtFCUp2geaBRfhXLabV7E=
+
+------=_Part_56774_676791390.1483379611390
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+James Austin
+------=_Part_56774_676791390.1483379611390
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html><head>
+    <meta charset="UTF-8">
+</head><body><p><span style="color: rgb(51, 51, 51); font-family: helvetica, arial, sans-serif; font-size: 12pt; background-color: transparent;">James Austin</span></p></body></html>
+ 
+------=_Part_56774_676791390.1483379611390--
+

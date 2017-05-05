@@ -1,0 +1,81 @@
+Return-Path: <kleiner.eric@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 163A54028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 13:12:05 -0500 (EST)
+Received: from mail-io0-f177.google.com ([209.85.223.177])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170104181501760_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 18:15:01 +0000
+X-RC-FROM: <kleiner.eric@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f177.google.com with SMTP id p42so460698346ioo.1
+        for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 10:14:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=C+Aq4DoUFZ4HtkFxr2J7PGJoXyR4FZdJ3fXdbR+sdlg=;
+        b=gmYWzZM/U2m3ePJw0Xo6CLjperH66EzeHtm5miA0nZKVdSJ0H7eombE7KlBvcfuadc
+         gcADNQ57OJ1HrAL/uJb2Y7klisNZA/OiwdeP5Dv9Z1G3s6ZekqbrTpylN6kAnKB+eTtV
+         XiBQ/PLiSGS+YIvGZ436R1nMTFY3F0KgLBZ0U+caYOU80MjMRhJXvdsfC3SB2QE3perS
+         DRRZ1/yrGKCQOdZCkqH8KXzDzjeljLXEv7/StQMFdHXds7KXDfoxCI/oqojFxh+eUEyh
+         G0R9p0hJJ/UBW1aMwQI7ln5sWDisWuMZOEASF0mwXijxPwnCk+APCsgyleweIaEYi083
+         NECw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=C+Aq4DoUFZ4HtkFxr2J7PGJoXyR4FZdJ3fXdbR+sdlg=;
+        b=oWZZurPmfXBq6FsAAunR/UazJuuua40e2KRbOfF0KHE9pJQuik1RfotQERSZ7yGZSc
+         CIippLyDYqe6OXV9MnCx1iy/HVuLulH054xvpUmwF+2jUOT0b1yDCWrhhy6ynBCLR2fq
+         rSr8xCgVg6pWP6HwE8ocogmjyhszRD8mF57+xT+smhTqUfefm4Xpjoq9X7LXqgbMHMDH
+         YC+eLOKYE8LZj5nlla4SjFucBkQEKIM614TK/CxtCWP7s5Yak7YzElhKQKCiTkl3xbsX
+         LqGZfzpXq13KucJTiRw4avyjSy3BtnVe0zFVQYtlfxw57mvI9srMcHi5wtf8n0tFLbZY
+         fKYQ==
+X-Gm-Message-State: AIkVDXJxxTzrnleRbreBEFHEez3+mpu6ihJ5cs+Lf8GwZx0goyD6notfCwF5kYbfvmFuZUkCyNvsEpbrjknvxA==
+X-Received: by 10.107.22.6 with SMTP id 6mr61592578iow.8.1483553694386; Wed,
+ 04 Jan 2017 10:14:54 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.36.85 with HTTP; Wed, 4 Jan 2017 10:14:54 -0800 (PST)
+From: Eric Kleiner <kleiner.eric@gmail.com>
+Date: Wed, 4 Jan 2017 10:14:54 -0800
+Message-ID: <CAJ7EQxkH-SDU++TrjM9O0-QgJ8qL=-oOds9QCFiCqkr5kyvLAg@mail.gmail.com>
+Subject: Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c05b4eef5918a054548c281
+
+--94eb2c05b4eef5918a054548c281
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael,
+
+I was a subscriber to your trend following newsletter and was sorry to hear
+about it being discontinued. I enjoyed it the most of any Agora
+subscriptions I have had thus far. I would like to continue following your
+work as you noted in the last email I received.
+
+Here is my contact information:
+
+Eric Kleiner
+33038 Paterno St.
+Temecula, CA 92592
+
+Thanks and best of luck,
+Eric
+
+--94eb2c05b4eef5918a054548c281
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Michael,<div><br></div><div>I was a subscriber to your =
+trend following newsletter and was sorry to hear about it being discontinue=
+d. I enjoyed it the most of any Agora subscriptions I have had thus far. I =
+would like to continue following your work as you noted in the last email I=
+ received.</div><div><br></div><div>Here is my contact information:</div><d=
+iv><br></div><div>Eric Kleiner</div><div>33038 Paterno St.</div><div>Temecu=
+la, CA 92592</div><div><br></div><div>Thanks and best of luck,</div><div>Er=
+ic</div></div>
+
+--94eb2c05b4eef5918a054548c281--
+

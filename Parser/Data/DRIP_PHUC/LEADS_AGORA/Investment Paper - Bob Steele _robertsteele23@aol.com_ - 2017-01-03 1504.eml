@@ -1,0 +1,68 @@
+Return-Path: <robertsteele23@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3A4554028F219
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 03:01:27 -0500 (EST)
+Received: from omr-a020e.mx.aol.com ([204.29.186.66])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103080423331_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 08:04:23 +0000
+X-RC-FROM: <robertsteele23@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aaa01.mx.aol.com (mtaomg-aaa01.mx.aol.com [172.27.1.227])
+	by omr-a020e.mx.aol.com (Outbound Mail Relay) with ESMTP id 47DC93800092
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 03:04:14 -0500 (EST)
+Received: from core-acc02b.mail.aol.com (core-acc02.mail.aol.com [172.26.125.12])
+	by mtaomg-aaa01.mx.aol.com (OMAG/Core Interface) with ESMTP id 10FC038000083
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 03:04:14 -0500 (EST)
+Received: from 184.100.144.253 by webprd-a87.mail.aol.com (10.72.109.39) with HTTP (WebMailUI); Tue, 03 Jan 2017 03:04:13 -0500
+Date: Tue, 3 Jan 2017 03:04:13 -0500
+From: Bob Steele <robertsteele23@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <159635b6ffc-6267-2de01@webprd-a87.mail.aol.com>
+Subject: Investment Paper
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_236202_1126712830.1483430653946"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [184.100.144.253]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483430654;
+	bh=cPfS+aDNfDDZ294Z4yQwl5DgWDR2j1UXTN6EzPOq4WU=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=ENMAuYvMPc+51BkKnVDcJz9DCmGESViegMEN0AnINtOhSKaxotIUeXRdSMt3Y4zOr
+	 9+cWAcvt3G4n7owBlgS86ZYPF/Y8OLGZFzjrdE0pzbtyM2n6oxkqQQvKpO8MKH8b2s
+	 wu8XchaRuoqaZ2vghIE1Ww1QQr0CHbG9camTR+Wk=
+x-aol-sid: 3039ac1b01e3586b5afe4cf3
+
+------=_Part_236202_1126712830.1483430653946
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Please send me the investment paper when you have a chance
+
+
+
+
+Thanks
+
+------=_Part_236202_1126712830.1483430653946
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='Arial, Helvetica, sans-serif'>Please send me the investment paper when you have a chance
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>Thanks</div>
+</font>
+------=_Part_236202_1126712830.1483430653946--
+

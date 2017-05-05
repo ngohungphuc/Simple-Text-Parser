@@ -1,0 +1,63 @@
+Return-Path: <stlucer@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id AACD14028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 12:33:46 -0500 (EST)
+Received: from mail-ua0-f179.google.com ([209.85.217.179])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103173642321_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 17:36:42 +0000
+X-RC-FROM: <stlucer@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-ua0-f179.google.com with SMTP id i68so224270866uad.0
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 09:36:39 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=5L1I2NAQnt38cSk6imPYEp+1vwZxusVoGaEREWrsCE8=;
+        b=KmGfw4D3f4B4nnET7zAFwWj5VlTLyhwiPGsho9nbteaTjofpYXkJbBn2+FRGfikJX8
+         1RhtUILG1VQfTXmwOTrzF2sNzb4uQSnZYfrSZJjxr7m/7hu3JdP6MFgmwW84trQuVEQZ
+         6K20S0iF9ZT/n/o6BevDDX9aVC6865a1+YI+IhAiaqUb67uOdojW24YLHgp0ntpcx7vl
+         z0ImUBtSMaGmrub29tVgSNtKZ/2TdYoMYGH3D5UlS8H5jem0MHbY59XpWAqpj6o9DnEt
+         8MiUmsJau7zE3T8LJrItURCXxGrbNa58jZiseyww0OtFbLNQnY+LVIOXgQHbox5+9FNG
+         +kkA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=5L1I2NAQnt38cSk6imPYEp+1vwZxusVoGaEREWrsCE8=;
+        b=OEeEZ52qY+vEaGUmMuIiBZ244UfW+89Wl7cmCeTwBPrSblWyUV/xX+osKUcqZ5zy48
+         I5CrM3l1TvUflpi7+2OTDiPVbac0DUFosNxuaLyLn+zUqerjq8lADit/MQ5mgOla0gAb
+         7qnDEu0BJJI+2LDmqwMyICFGNgt6TFe8IlCfXACpL/i78AeCYshUypmX54t3Y1U4YO47
+         oi76kCVE4/DApmQCxNoa2cQezPsjit5WfT7kvkmIfq+QDbDj43xqVcVZkNj00c32U9Th
+         IiIhjhFpdvWQFd3BOM1of7eDODr9yXV/Mmu1M22hyWZggBIeiC3wVqCQxM3iLpwaUqVd
+         iKbg==
+X-Gm-Message-State: AIkVDXJ61vbLOIhbcmwq8EJuCIijHx+5Wpcvyk2QbkMNhP+UMpm/Fa3+MCMO2vmuJiR0nMoC0T+RTSKPHXIl+g==
+X-Received: by 10.159.33.1 with SMTP id 1mr47660193uab.134.1483464995804; Tue,
+ 03 Jan 2017 09:36:35 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.125.17 with HTTP; Tue, 3 Jan 2017 09:36:35 -0800 (PST)
+From: "Rosemary St.Luce" <stlucer@gmail.com>
+Date: Tue, 3 Jan 2017 12:36:35 -0500
+Message-ID: <CABSAqpEo1no7En=VA_8REuOLL8uipsHPH-JDCDn4K9jxXCpVZw@mail.gmail.com>
+Subject: Name & Address - Subscriber :stlucer @gmail.com
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0b77461c9af40545341c56
+
+--94eb2c0b77461c9af40545341c56
+Content-Type: text/plain; charset=UTF-8
+
+Rosemary St Luce
+32 Grace Street
+Scarborough, ONTARIO
+M1J 2M4
+CANADA
+
+--94eb2c0b77461c9af40545341c56
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Rosemary St Luce<div>32 Grace Street</div><div>Scarborough, ONTARIO</div><div>M1J 2M4</div><div>CANADA<br></div></div>
+
+--94eb2c0b77461c9af40545341c56--
+

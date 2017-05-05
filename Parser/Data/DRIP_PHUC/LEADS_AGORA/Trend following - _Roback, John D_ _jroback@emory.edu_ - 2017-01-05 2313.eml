@@ -1,0 +1,132 @@
+Return-Path: <jroback@emory.edu>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 75A7C4028F212
+	for <mcovel@trendfollowing.com>; Thu,  5 Jan 2017 11:10:59 -0500 (EST)
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com ([104.47.38.45])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170105161356283_0659
+          for <mcovel@trendfollowing.com>;
+          Thu, 05 Jan 2017 16:13:56 +0000
+X-RC-FROM: <jroback@emory.edu>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=emory.onmicrosoft.com;
+ s=selector1-emory-edu;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=dayBb0KNF+YKzlcEnQHexuzSZn9EVjjvyLjVSFwnJD0=;
+ b=LH/oGNMXfUKIQg/U5Z1mLFlwVwxdO9PoaAeELXeloCPxRbOK+rUFa6Lybd6+VGAS0qHnYkll6FFXi7VKQHoC9BRoyzaQtB6/jql6ls9g9wy5ugcyISzUhUjUBVFTvXJAHKLp/35JZ0kY4enn7kfZUPU19x6auzc8+Lo/i82Okjc=
+Received: from BN6PR05MB3266.namprd05.prod.outlook.com (10.172.147.16) by
+ BN6PR05MB3266.namprd05.prod.outlook.com (10.172.147.16) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.829.4; Thu, 5 Jan 2017 16:13:50 +0000
+Received: from BN6PR05MB3266.namprd05.prod.outlook.com ([10.172.147.16]) by
+ BN6PR05MB3266.namprd05.prod.outlook.com ([10.172.147.16]) with mapi id
+ 15.01.0829.007; Thu, 5 Jan 2017 16:13:50 +0000
+From: "Roback, John D" <jroback@emory.edu>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Trend following
+Thread-Topic: Trend following
+Thread-Index: AQHSZ26zaap3MyMNn02SbIF+puZ00A==
+Date: Thu, 5 Jan 2017 16:13:50 +0000
+Message-ID: <9CC73734-E545-4534-A4F5-299CCC13A5EF@emory.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=jroback@emory.edu;
+x-ms-exchange-messagesentrepresentingtype: 1
+x-originating-ip: [70.196.11.161]
+x-ms-office365-filtering-correlation-id: 93bd49ac-1733-4eb8-9672-08d43585d659
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BN6PR05MB3266;
+x-microsoft-exchange-diagnostics: 1;BN6PR05MB3266;7:YRXCA3ku45Tv3FxV9IDWNoyIIX1khIFVlCyKw9rljl5GQaDuu9BCPtJ/tvGGB+adjOtJ3RohNLOfaw/6Jb8C/7YhSvraeLrTRb8McT0E3ZaemIDelCTg0CIQjQVyDGih762EGOiMAs68duqt/kdGy1LuOKwtsK035kIV20f40sZb+oOfVnuB1+v+/JsEGKbCgkGBjbLesuzGpDa4NkgWpYlSqR7vFzLoQRQw6gYtxovWPUys6j3cDXg6YAAQf31ALfZkMMA7DQjm/ikjMRCy68ASLPj6y1VmsMGBcthKJxwoY0MO7DdpKVShMypgaNaMnQOOqJBLV/7GqSV5quRYJHhC8zKTB/ONTBgtQNt066/T/M5bALgbuGma8v2HsCwSX+fXwrft5jqeSmVzsgacx1vtSf5/Dxt2fHVXpCEZREArR27SoCQ7YYhZM1JgKmTOFj5SeRWMNMVc0UBCYD+Vww==
+x-microsoft-antispam-prvs: <BN6PR05MB32665669390AF8ADDAFE0FF3B0600@BN6PR05MB3266.namprd05.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(166309043207732);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040375)(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046)(6041248)(20161123560025)(20161123558021)(20161123555025)(20161123562025)(20161123564025)(6072148);SRVR:BN6PR05MB3266;BCL:0;PCL:0;RULEID:;SRVR:BN6PR05MB3266;
+x-forefront-prvs: 0178184651
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(7916002)(39450400003)(189002)(199003)(36304003)(50986999)(3660700001)(54356999)(2501003)(102836003)(3846002)(66066001)(6116002)(6916009)(1730700003)(122556002)(81156014)(81166006)(92566002)(450100001)(3280700002)(221733001)(88552002)(5660300001)(2906002)(2351001)(105586002)(5890100001)(106116001)(3480700004)(106356001)(8936002)(101416001)(6436002)(33656002)(75432002)(7116003)(99286003)(36756003)(107886002)(110136003)(6512006)(6506006)(38730400001)(77096006)(5640700003)(6486002)(83716003)(25786008)(68736007)(189998001)(82746002)(54896002)(2900100001)(97736004)(7736002)(8676002)(86362001)(104396002);DIR:OUT;SFP:1101;SCL:1;SRVR:BN6PR05MB3266;H:BN6PR05MB3266.namprd05.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+received-spf: None (protection.outlook.com: emory.edu does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_9CC73734E5454534A4F5299CCC13A5EFemoryedu_"
+MIME-Version: 1.0
+X-OriginatorOrg: emory.edu
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 Jan 2017 16:13:50.7539
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: e004fb9c-b0a4-424f-bcd0-322606d5df38
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN6PR05MB3266
+X-MS-Exchange-CrossPremises-AuthAs: Internal
+X-MS-Exchange-CrossPremises-AuthMechanism: 04
+X-MS-Exchange-CrossPremises-AuthSource: BN6PR05MB3266.namprd05.prod.outlook.com
+X-MS-Exchange-CrossPremises-SCL: 1
+X-MS-Exchange-CrossPremises-messagesource: StoreDriver
+X-MS-Exchange-CrossPremises-BCC: "Roback, John D" <jroback@emory.edu>
+X-MS-Exchange-CrossPremises-originalclientipaddress: 70.196.11.161
+X-MS-Exchange-CrossPremises-avstamp-service: 1.0
+X-MS-Exchange-CrossPremises-disclaimer-hash: 956ca9582f0c56a948c0eab4336682eb81d9fee3fb5d7d73573c398a9b6d648a
+X-MS-Exchange-CrossPremises-antispam-scancontext: DIR:Originating;SFV:NSPM;SKIP:0;
+X-MS-Exchange-CrossPremises-processed-by-journaling: Journal Agent
+X-OrganizationHeadersPreserved: BN6PR05MB3266.namprd05.prod.outlook.com
+
+--_000_9CC73734E5454534A4F5299CCC13A5EFemoryedu_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+SGkgTWljaGFlbDoNCg0KU29ycnkgdG8gaGVhciB0aGF0IHRoaXMgYWR2aXNvcnkgc2VydmljZSBp
+cyBjbG9zaW5nIHVwIHNob3AuIEkgZm91bmQgaXQgdG8gYmUgdmVyeSBlZmZlY3RpdmUgYW5kIHBy
+b2ZpdGFibGUuDQoNClBsZWFzZSBhZGQgbWUgdG8geW91ciBsaXN0IGZvciBmdXR1cmUgdHJlbmQg
+Zm9sbG93aW5nIHNlcnZpY2VzOg0KDQpKb2huIFJvYmFjaw0KNDU4NyBQb2xvIExhbmUNCkF0bGFu
+dGEsIEdBLiAzMDMzOQ0KSnJvYmFja0BlbW9yeS5lZHU8bWFpbHRvOkpyb2JhY2tAZW1vcnkuZWR1
+Pg0KDQpCZXN0LCAgSm9obg0KDQoNCg0KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18N
+Cg0KVGhpcyBlLW1haWwgbWVzc2FnZSAoaW5jbHVkaW5nIGFueSBhdHRhY2htZW50cykgaXMgZm9y
+IHRoZSBzb2xlIHVzZSBvZg0KdGhlIGludGVuZGVkIHJlY2lwaWVudChzKSBhbmQgbWF5IGNvbnRh
+aW4gY29uZmlkZW50aWFsIGFuZCBwcml2aWxlZ2VkDQppbmZvcm1hdGlvbi4gSWYgdGhlIHJlYWRl
+ciBvZiB0aGlzIG1lc3NhZ2UgaXMgbm90IHRoZSBpbnRlbmRlZA0KcmVjaXBpZW50LCB5b3UgYXJl
+IGhlcmVieSBub3RpZmllZCB0aGF0IGFueSBkaXNzZW1pbmF0aW9uLCBkaXN0cmlidXRpb24NCm9y
+IGNvcHlpbmcgb2YgdGhpcyBtZXNzYWdlIChpbmNsdWRpbmcgYW55IGF0dGFjaG1lbnRzKSBpcyBz
+dHJpY3RseQ0KcHJvaGliaXRlZC4NCg0KSWYgeW91IGhhdmUgcmVjZWl2ZWQgdGhpcyBtZXNzYWdl
+IGluIGVycm9yLCBwbGVhc2UgY29udGFjdA0KdGhlIHNlbmRlciBieSByZXBseSBlLW1haWwgbWVz
+c2FnZSBhbmQgZGVzdHJveSBhbGwgY29waWVzIG9mIHRoZQ0Kb3JpZ2luYWwgbWVzc2FnZSAoaW5j
+bHVkaW5nIGF0dGFjaG1lbnRzKS4NCg==
+
+--_000_9CC73734E5454534A4F5299CCC13A5EFemoryedu_
+Content-Type: text/html; charset="utf-8"
+Content-ID: <26C2934643084E4E845E55426AD92CC0@mscloud.emory.net>
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IGRpcj0iYXV0byI+DQo8
+ZGl2PkhpIE1pY2hhZWw6PC9kaXY+DQo8ZGl2IGlkPSJBcHBsZU1haWxTaWduYXR1cmUiPjxicj4N
+CjwvZGl2Pg0KPGRpdiBpZD0iQXBwbGVNYWlsU2lnbmF0dXJlIj5Tb3JyeSB0byBoZWFyIHRoYXQg
+dGhpcyBhZHZpc29yeSBzZXJ2aWNlIGlzIGNsb3NpbmcgdXAgc2hvcC4gSSBmb3VuZCBpdCB0byBi
+ZSB2ZXJ5IGVmZmVjdGl2ZSBhbmQgcHJvZml0YWJsZS4mbmJzcDs8L2Rpdj4NCjxkaXYgaWQ9IkFw
+cGxlTWFpbFNpZ25hdHVyZSI+PGJyPg0KPC9kaXY+DQo8ZGl2IGlkPSJBcHBsZU1haWxTaWduYXR1
+cmUiPlBsZWFzZSBhZGQgbWUgdG8geW91ciBsaXN0IGZvciBmdXR1cmUgdHJlbmQgZm9sbG93aW5n
+IHNlcnZpY2VzOjwvZGl2Pg0KPGRpdiBpZD0iQXBwbGVNYWlsU2lnbmF0dXJlIj48YnI+DQo8L2Rp
+dj4NCjxkaXYgaWQ9IkFwcGxlTWFpbFNpZ25hdHVyZSI+Sm9obiBSb2JhY2s8L2Rpdj4NCjxkaXYg
+aWQ9IkFwcGxlTWFpbFNpZ25hdHVyZSI+NDU4NyBQb2xvIExhbmU8L2Rpdj4NCjxkaXYgaWQ9IkFw
+cGxlTWFpbFNpZ25hdHVyZSI+QXRsYW50YSwgR0EuIDMwMzM5PC9kaXY+DQo8ZGl2IGlkPSJBcHBs
+ZU1haWxTaWduYXR1cmUiPjxhIGhyZWY9Im1haWx0bzpKcm9iYWNrQGVtb3J5LmVkdSI+SnJvYmFj
+a0BlbW9yeS5lZHU8L2E+PGJyPg0KPGJyPg0KQmVzdCwgJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQt
+c2l6ZTogMTNwdDsiPkpvaG48L3NwYW4+DQo8ZGl2PjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEz
+cHQ7Ij48YnI+DQo8L3NwYW4+PC9kaXY+DQo8ZGl2PjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEz
+cHQ7Ij48YnI+DQo8L3NwYW4+PC9kaXY+DQo8L2Rpdj4NCjxicj4NCjxocj4NCjxmb250IGZhY2U9
+IkFyaWFsIiBjb2xvcj0iR3JheSIgc2l6ZT0iMSI+PGJyPg0KVGhpcyBlLW1haWwgbWVzc2FnZSAo
+aW5jbHVkaW5nIGFueSBhdHRhY2htZW50cykgaXMgZm9yIHRoZSBzb2xlIHVzZSBvZjxicj4NCnRo
+ZSBpbnRlbmRlZCByZWNpcGllbnQocykgYW5kIG1heSBjb250YWluIGNvbmZpZGVudGlhbCBhbmQg
+cHJpdmlsZWdlZDxicj4NCmluZm9ybWF0aW9uLiBJZiB0aGUgcmVhZGVyIG9mIHRoaXMgbWVzc2Fn
+ZSBpcyBub3QgdGhlIGludGVuZGVkPGJyPg0KcmVjaXBpZW50LCB5b3UgYXJlIGhlcmVieSBub3Rp
+ZmllZCB0aGF0IGFueSBkaXNzZW1pbmF0aW9uLCBkaXN0cmlidXRpb248YnI+DQpvciBjb3B5aW5n
+IG9mIHRoaXMgbWVzc2FnZSAoaW5jbHVkaW5nIGFueSBhdHRhY2htZW50cykgaXMgc3RyaWN0bHk8
+YnI+DQpwcm9oaWJpdGVkLjxicj4NCjxicj4NCklmIHlvdSBoYXZlIHJlY2VpdmVkIHRoaXMgbWVz
+c2FnZSBpbiBlcnJvciwgcGxlYXNlIGNvbnRhY3Q8YnI+DQp0aGUgc2VuZGVyIGJ5IHJlcGx5IGUt
+bWFpbCBtZXNzYWdlIGFuZCBkZXN0cm95IGFsbCBjb3BpZXMgb2YgdGhlPGJyPg0Kb3JpZ2luYWwg
+bWVzc2FnZSAoaW5jbHVkaW5nIGF0dGFjaG1lbnRzKS48YnI+DQo8L2ZvbnQ+DQo8L2JvZHk+DQo8
+L2h0bWw+DQo=
+
+--_000_9CC73734E5454534A4F5299CCC13A5EFemoryedu_--
+

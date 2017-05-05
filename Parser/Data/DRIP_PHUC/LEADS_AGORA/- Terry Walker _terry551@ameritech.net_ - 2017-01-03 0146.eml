@@ -1,0 +1,51 @@
+Return-Path: <terry551@ameritech.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3912E4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:45:29 -0500 (EST)
+Received: from nm21.bullet.mail.bf1.yahoo.com ([98.139.212.180])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102184825470_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:48:25 +0000
+X-RC-FROM: <terry551@ameritech.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ameritech.net; s=s2048; t=1483382888; bh=d+REv+RdTqneYfscIkk88Ym4kaEP2c8tMKpiXdOH20Y=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=pxT7Qyrt9tTEuxyrqSxyvh9KaLU5T81PeGfrNSL++v+AdbSa0szGfbcUVUPwwuo1QKNk/xNlRJ7wf0AK6W/mUheK9WPZJKF3pSoSvkWgcO6asutx/pekJiTgyYT1fj3ImJIm5bM2b/aUrWTc1ZR4UmiT7MeXxIqCtww6dApQLTt/CnzaZ/S97hD3UO6RZxyhSOfKVZ759EsRrCCdr1a0podXWsjp88s4uk78kEupn03fcO+Q87/pB+bsyeuhu2g5QCznUiDruepl7xH8Nf9KUUkmA/NDaAIkbJgqYXSmixGcqTg9b0Gox7vpzHd8SdRBr/tttHRksFNkLOMKTxyrsg==
+Received: from [98.139.215.140] by nm21.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:48:08 -0000
+Received: from [98.139.212.234] by tm11.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:48:08 -0000
+Received: from [127.0.0.1] by omp1043.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:48:08 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 450403.56545.bm@omp1043.mail.bf1.yahoo.com
+X-YMail-OSG: aGUb1X8VM1m4R.X0j_1cA_2WHLWk2.kPx1BFfd8D5u9Z08ZLao4qE0P4q2GlwIF
+ t39Ptkf890oJ7KWEp_8ET.c_xoszCUteX2qAIZpF.WQPcegih3.WeXGiQ0ELDRHFRXajPK6MUn8L
+ tz7fuZLtKydadQeafbcqVuuHFsuPwJgfAHlGQJgPWtXcUUdfByEWJN6YOZQUxsEKRauMob1DRpWu
+ yb0SI7VKTSC9xZNX_dmCCVWfvAwjq9_bmLWGyq_1Lmeo7N2wsTzXOqhPjdfHAT9qaldFg07eK7nr
+ gMAUI2pI_ifKnpu4O_G1kRk.y7tlMdtMqNuCtLfZVn6g.FuGlBxirCvKBhtPZ4Zru1fRLZWoh01C
+ bio7PgAABfzarX3N56_Sgh_HkTYIBE8tq.qwZcmNxnCB.rdX77NrtAQphOBlS0rT_Mhje9Kpiygh
+ iKWZKZGYIQ2pDDK5Xt5Wwz1DkTbLmVmu6rM7gbzAtuk6DKbTQnLuw_WG8KA7wupGX3XcGTjyAJFo
+ e9K1Knv613DJR7Rn9qJ96UNGmIiqpKAYfBbpLEqMJv453xt5B
+Received: from jws400087.mail.bf2.yahoo.com by sendmailws152.mail.bf1.yahoo.com; Mon, 02 Jan 2017 18:48:08 +0000; 1483382888.040
+Date: Mon, 2 Jan 2017 18:46:14 +0000 (UTC)
+From: Terry Walker <terry551@ameritech.net>
+Reply-To: Terry Walker <terry551@ameritech.net>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <1367020991.5444110.1483382774978@mail.yahoo.com>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_5444109_569576056.1483382774977"
+References: <1367020991.5444110.1483382774978.ref@mail.yahoo.com>
+
+------=_Part_5444109_569576056.1483382774977
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+S. Terry Walker3s770 River RdWarrenville, IL 60555
+------=_Part_5444109_569576056.1483382774977
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:24px"><div id="yui_3_16_0_ym19_1_1483253774544_242696">S. Terry Walker</div><div id="yui_3_16_0_ym19_1_1483253774544_242696">3s770 River Rd</div><div id="yui_3_16_0_ym19_1_1483253774544_242696">Warrenville, IL 60555</div></div></body></html>
+------=_Part_5444109_569576056.1483382774977--
+

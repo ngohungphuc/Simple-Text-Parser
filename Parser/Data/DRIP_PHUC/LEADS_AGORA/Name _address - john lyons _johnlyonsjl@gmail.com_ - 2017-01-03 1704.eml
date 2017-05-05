@@ -1,0 +1,85 @@
+Return-Path: <johnlyonsjl@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 5D4044028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 05:01:55 -0500 (EST)
+Received: from mail-vk0-f43.google.com ([209.85.213.43])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103100451644_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 10:04:51 +0000
+X-RC-FROM: <johnlyonsjl@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f43.google.com with SMTP id 137so272386654vkl.0
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 02:04:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=NMe7BQt4Ti49iUiBaJIxhbV5VrxJnXvkITyJAW1UPcA=;
+        b=hKCYCi55vwtfBbqab1Gj4tHrGN71JuxbNSxTBqC/YmCquwj5Fi9AchSU8UdWYjrSnP
+         8cJPfwlxBKXt131gzQP4eroe4ZJJEhzFjUawTuLKthN6dVmj/G9C2S7OH+8m9T/cOP9k
+         2KmoCONcTSekjmb32mc9zhG6scPOTrM0dMRGTTmSVP2VeSUT7yGjg1I2TtX+c79hB+9B
+         o/A5P+PAUI87sjN9Tqmdnoa5Vazf95usMC4ADM07oWRm/GyRGUi01R2KSX9jP9hUCFKM
+         tjXMrDg+hltcgwNt91WOG6ln+v5PB93aUg4MG8VJPY8s29U7NaQ8i94R9WsZ4DRN7hzL
+         MXLQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=NMe7BQt4Ti49iUiBaJIxhbV5VrxJnXvkITyJAW1UPcA=;
+        b=PlOhxsWvWLzmpmZ/q4Ui5p5vL3XzBovGAqEX0F8OJPEtANY7YnTcSsofZxAjOvsQWW
+         WGAH2N8LzHXHVCJJSV2JFjQeKzCMrys7gnWGsQB2QRmCxaC3kDwc7LbEA+pOCVAaOiey
+         3i9LosZSrgaHT9la2JVeHRoWnODzBZXS+jqHohjN0+HLZJI9iHCvt0iE/BLUo7YHvjak
+         vPEVaZ+TgfnC9Cx8xjO71IACppzwA38ZNf7/FkVB8S5jO3br/yfdZfYy085BhWSCEIVD
+         hC9XfQgSOh5ZNTznhDWAAvZXOXE6yMmajV2wvwAntumDiUyqU/lYFtoWTnh3uqWKKPkW
+         Z/3Q==
+X-Gm-Message-State: AIkVDXL4BL3oTN5R8gaMkcidzU3w5W+mhbbfL8bsmTrsDI7J7nBCwKSVMDm5uJ4+b5t1V+tOFYBjvxf3g6YZZw==
+X-Received: by 10.31.88.1 with SMTP id m1mr22225994vkb.83.1483437878317; Tue,
+ 03 Jan 2017 02:04:38 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.64.21 with HTTP; Tue, 3 Jan 2017 02:04:36 -0800 (PST)
+Received: by 10.103.64.21 with HTTP; Tue, 3 Jan 2017 02:04:36 -0800 (PST)
+In-Reply-To: <CANZDXsZUKswhOZ0y8PgxHT2RobGRw=hcP8DAPC1W64REp0vgVw@mail.gmail.com>
+References: <CANZDXsYbSQ9Bqd+U2GnhY8y2hCOxQ3ugPpeM=Kqr8gGBze5nNw@mail.gmail.com>
+ <CANZDXsZUKswhOZ0y8PgxHT2RobGRw=hcP8DAPC1W64REp0vgVw@mail.gmail.com>
+From: john lyons <johnlyonsjl@gmail.com>
+Date: Tue, 3 Jan 2017 10:04:36 +0000
+Message-ID: <CANZDXsZXA6WPGFEA+0BposZ2OF+DOWW6cp011yHcqFD0pPz4Jg@mail.gmail.com>
+Subject: Name /address
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114e5364c8967005452dcb45
+
+--001a114e5364c8967005452dcb45
+Content-Type: text/plain; charset=UTF-8
+
+John Lyons
+Rinneen
+Kiltarton
+Gort
+Galway
+IRELAND
+
+Thanks  MIKE.
+Best wishes.
+Send me the advice pack.
+Thanks for your work on investment.
+
+--001a114e5364c8967005452dcb45
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">John Lyons<br>
+Rinneen <br>
+Kiltarton <br>
+Gort <br>
+Galway <br>
+IRELAND </p>
+<p dir=3D"ltr">Thanks=C2=A0 MIKE. <br>
+Best wishes. <br>
+Send me the advice pack.<br>
+Thanks for your work on investment.<br>
+</p>
+
+--001a114e5364c8967005452dcb45--
+

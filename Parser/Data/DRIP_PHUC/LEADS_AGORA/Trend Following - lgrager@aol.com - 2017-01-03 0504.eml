@@ -1,0 +1,60 @@
+Return-Path: <lgrager@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 251574028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 17:02:02 -0500 (EST)
+Received: from omr-m015e.mx.aol.com ([204.29.186.15])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102220459468_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 22:04:59 +0000
+X-RC-FROM: <lgrager@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aae01.mx.aol.com (mtaomg-aae01.mx.aol.com [172.27.1.99])
+	by omr-m015e.mx.aol.com (Outbound Mail Relay) with ESMTP id 79BAB3800095
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 17:04:52 -0500 (EST)
+Received: from core-mee01e.mail.aol.com (core-mee01.mail.aol.com [172.27.117.11])
+	by mtaomg-aae01.mx.aol.com (OMAG/Core Interface) with ESMTP id 53F2538000086
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 17:04:52 -0500 (EST)
+Received: from 97.41.129.95 by webprd-m92.mail.aol.com (10.74.71.97) with HTTP (WebMailUI); Mon, 02 Jan 2017 17:04:51 -0500
+Date: Mon, 2 Jan 2017 17:04:52 -0500
+From: lgrager@aol.com
+To: mcovel@trendfollowing.com
+Message-Id: <1596136b300-7287-2f27f@webprd-m92.mail.aol.com>
+Subject: Trend Following
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_239477_891757508.1483394691839"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS TABLET
+X-Originating-IP: [97.41.129.95]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483394692;
+	bh=g+AXOrfiid7RXmRKURm2I+VbS5DvEhX7tcjwD6XmRzs=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=aXdpCCUPi7TVnQo91rLE6dCOxaZ0ShK7CsBx0aNhRBozW1l9Lp7SpMFuKD+Zg1GFy
+	 qVjbWgFlXOHT76grGeqgzwUsoVNKFl6kxlC3UH4vsfYfjCB3mRh5iX1OsvDpzgZDg+
+	 Ame1V72nplT5dHHqvDZQzNGeXAqsBb7i9AM45EoU=
+x-aol-sid: 3039ac1b0163586ace8470e9
+
+------=_Part_239477_891757508.1483394691839
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Larry Grager
+6525 Gregory Lane
+Paradise, CA 95969
+
+Thanks for your insights.
+
+Sent from AOL Mobile Mail 
+------=_Part_239477_891757508.1483394691839
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Larry Grager<div>6525 Gregory Lane</div><div>Paradise, CA 95969</div><div><br></div><div>Thanks for your insights.<br><br>Sent from AOL Mobile Mail&nbsp;</div>
+------=_Part_239477_891757508.1483394691839--
+

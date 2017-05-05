@@ -1,0 +1,61 @@
+Return-Path: <jameshove@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 28CC44028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 12:15:16 -0500 (EST)
+Received: from mail-yw0-f182.google.com ([209.85.161.182])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170104171811340_0459
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 17:18:11 +0000
+X-RC-FROM: <jameshove@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f182.google.com with SMTP id a10so320360762ywa.3
+        for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 09:18:08 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=bL+pjFlX1CY1UdLBtqZOo1Hqe2kF3xM6ZMtXcSzcock=;
+        b=tNQkU4O85UR28JCp7tSLlVprJ9WTj+wv7KejnwLSo6NGQrymTqdbpkeL5CPXEcVxDV
+         EsANzkSHXj3AXLFOw7dFlgEqF63nl5csIlQ2Xk4hO+MCOhL0f/IurbtM8Bk3HCgSFAvG
+         ZcyomVWzbdBFehseBsA6hi5/3NaTY95AfhQgl6epq0u23fZ3cKoab99RLqjAyoPq6N/m
+         41u9OOEzXPn2Ko0wS7YT7kBH3LJu9+t467hsqHBQ7O8gzsK7HaK232I8NZi6WuCSXPNS
+         h6EH1rrpVMjaSsTQerYw3295xAh5eo1/epnTpBLqRaatCs0tJdjOINizI2gFd2NPNFx/
+         JsiQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=bL+pjFlX1CY1UdLBtqZOo1Hqe2kF3xM6ZMtXcSzcock=;
+        b=lFtGGxBUPl8tCqn0YuEfQhqnoAqAwLe3XCpGlLiFfyOKL82/x2P9KeK6lwx25CXdFH
+         3gxPidKUjUw8V2nbEj6GERnEWAZW40B90AyDjxBP/+vkMJFCyWL52zLT4V5JLjsnOsoa
+         UKpZY+256IIRiFgQ7QP+FtP8o4NOvM8JyyryRREDbj6lVk24e7O0lQzMnZuJ/sV7RbS2
+         X5cqIthoB3enKL2iLjXeOzcCSCVaQpYt6n3JJOEopWujBuMge6CvMHMLdLyRQ2z5fcWD
+         cQRtvzGP5oLaWrO/1r0ZQo8ZF9yU08IuScsMRE/b737Rf5GiZFxQwNKgBpiGN8BRzan5
+         MZmw==
+X-Gm-Message-State: AIkVDXIMx7BapZHOqv/729ha24x8dzg+akkzL+jpaxcKPx4RDQbAx899woLW5qXUlpD8X6BYJ0sG4hAW117H1w==
+X-Received: by 10.129.118.80 with SMTP id j16mr2792424ywk.269.1483550284996;
+ Wed, 04 Jan 2017 09:18:04 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.129.159.137 with HTTP; Wed, 4 Jan 2017 09:18:04 -0800 (PST)
+From: James Hove <jameshove@gmail.com>
+Date: Wed, 4 Jan 2017 11:18:04 -0600
+Message-ID: <CAMROrBvY_1hHpcAN2Q-40F6GFc0r=yEKqcdCCnufaYpNN09CvQ@mail.gmail.com>
+Subject: Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=f403045ef50ebe6381054547f73d
+
+--f403045ef50ebe6381054547f73d
+Content-Type: text/plain; charset=UTF-8
+
+Please send me the info:  jameshove@gmail.com   Thanks,  Jim
+
+--f403045ef50ebe6381054547f73d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Please send me the info:=C2=A0 <a href=3D"mailto:jameshove=
+@gmail.com">jameshove@gmail.com</a>=C2=A0=C2=A0 Thanks,=C2=A0 Jim<br></div>
+
+--f403045ef50ebe6381054547f73d--
+

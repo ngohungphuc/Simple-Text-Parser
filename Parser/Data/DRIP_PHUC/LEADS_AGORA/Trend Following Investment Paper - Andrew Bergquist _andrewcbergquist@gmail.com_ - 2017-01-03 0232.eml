@@ -1,0 +1,72 @@
+Return-Path: <andrewcbergquist@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E2ACE4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:29:39 -0500 (EST)
+Received: from mail-qt0-f170.google.com ([209.85.216.170])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102193237233_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:32:37 +0000
+X-RC-FROM: <andrewcbergquist@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f170.google.com with SMTP id d45so225124057qta.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:32:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-transfer-encoding;
+        bh=TL6iWWFTBn9k5DoLGbHDSb1qgCW0GWKtwcRUTEcVgSw=;
+        b=e/Nrb9ihMekTijbyH4nhqrgMPMXeIlpYokL3ofnkcKGPsTwzuDb8NzZ2Y14bIcFgIb
+         Q4yec07+tbhvyt2ZtyMqmI18Axwg5iH3v15OkRqJm5hVo/CG9VXFFFr8SZck7oZTQZ4U
+         GVuDKa4s8olWdHTiHAEt5hLrATaaA0LGiwz2UtZ8aINmopgqmFSMWnI1cNe4Cgzrxq52
+         RwFHU3rjU7qErUQVqudbGzo+TJhFaGK1eJSA/VAUx/EafVe9NtGuwrv8Utz6xIyDi6F/
+         9EZhhZecw5STxW2lTMBsbqlagq1BjWat9hdC7lnD6/3v+ZQB2HxOg2pV5kdL5vPagSlq
+         1/mQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:subject:message-id:date:user-agent
+         :mime-version:content-transfer-encoding;
+        bh=TL6iWWFTBn9k5DoLGbHDSb1qgCW0GWKtwcRUTEcVgSw=;
+        b=Z4r3QmT7CfhvbuAPOS9WBb2UG3KN7Faia5wOz1IV/uDHkMule6jZkB4Bd1lIBuxUt7
+         FiqKgXm4GfcbsZUrazCxNwykhScQ6ndTCHZ17dpOftIQFt8J7a/ZJ7X9EJ/8gr8CpA7h
+         zaAEa3rpGHyibLRTaBm+vN9ZV9pozWRmVQJjwpOsSVzjB3vDrOfybK4gLAuif3wIPK03
+         WsRfVpQceQv8PX/UyfyO6GdG3WHtEA7Y5YeuTfZZXZ/zDQvQxjKn1QCvzT9jXw3Lg8+9
+         7CR5N+FHsi47MAfEFbBrE7lIasvQ/vzoOI6VSk+ejNOr8xo4YsKTK5xIDKYnUziDhrzK
+         cVtA==
+X-Gm-Message-State: AIkVDXLh8aAbSHqVlq+Pajt8sKTC8bTPMJCnpOInARSgniVy47iEznXNs6OuZip0fsAl+Q==
+X-Received: by 10.200.48.120 with SMTP id g53mr60077743qte.113.1483385546802;
+        Mon, 02 Jan 2017 11:32:26 -0800 (PST)
+Received: from gmail.com (pc-149-79-120-200.cm.vtr.net. [200.120.79.149])
+        by smtp.gmail.com with ESMTPSA id c76sm42006954qke.0.2017.01.02.11.32.26
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 11:32:26 -0800 (PST)
+To: mcovel@trendfollowing.com
+From: Andrew Bergquist <andrewcbergquist@gmail.com>
+Subject: Trend Following Investment Paper
+Message-ID: <13a5d80b-748b-0320-b729-2794ddb6c805@gmail.com>
+Date: Mon, 2 Jan 2017 16:32:25 -0300
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0)
+ Gecko/20100101 Thunderbird/45.6.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Greetings,
+
+As a lifetime subscriber to your Trend Following newsletter with Agora, 
+as well as a subscriber to Covel Uncensored, I'm very sorry to hear that 
+they've been discontinued. I guess there was just a bit too much truth 
+in them for the average person to handle.
+
+In the last email you mentioned an investment paper and requested a full 
+address... I can give you my address but since I live in Chile maybe it 
+would be easier to simply send a digital copy?
+
+Thank a lot for introducing me to the trend following world,
+Andrew Bergquist
+
+P.S. Are you working on any similar services at the moment?
+

@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1103E4029224E
+	for <mcovel@trendfollowing.com>; Mon, 23 Jan 2017 10:09:05 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170123151200185_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 23 Jan 2017 15:12:00 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=quhQmLNdLPrOVJupS6agWL1PppA=; b=Ob1Qx1lWy+sc4X5/OHZjBRO
+	HDmpM3ryV/i6RZy+BaKLCz7Ig78fplSbDuH3zI1R/ZsnO2WdTqpsn3sU6gcDmCeL
+	iVMI7awM8GbH1SSCkrdqMI43tI25whwuvmUOo6auY3Vxa81ziVEaEz5Fw8F4BpNX
+	Z8bogtUFLzL6pPmSk0Fs=
+Received: by filter1110p1mdw1.sendgrid.net with SMTP id filter1110p1mdw1-26281-58861D38-43
+        2017-01-23 15:11:52.67395283 +0000 UTC
+Received: from getdrip.com (ec2-54-174-13-209.compute-1.amazonaws.com [54.174.13.209])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id LREUzUaGTkeOZnesyXYJVA
+	for <mcovel@trendfollowing.com>; Mon, 23 Jan 2017 15:11:52.322 +0000 (UTC)
+Date: Mon, 23 Jan 2017 15:11:52 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <58861d383ea43_35133fa6b4de3e481878b2@ip-172-30-1-154.mail>
+Subject: [Drip] eltarika@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_58861d383dd86_35133fa6b4de3e481877f5";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPp3V6PxuP42w8sFKvEib2fR+9U+MU74bwPFQh
+ Bmf1suAXecZhAzGktPTZ8v8wgzvIvQEdSU1XJ5JZmgRDs9eICkkgm0mnRcwvp+sMmTINm1FZWSi1GV
+ nEzdPBFTGEMe4zXI+IKwdxXYGRSHwJywLIXPOtVfbNcgmIFYTK7sTlrmtXHSuYGJKhkIm0obVyNWN/
+ o=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+X-MAG-EWAV: unavailable
+
+----==_mimepart_58861d383dd86_35133fa6b4de3e481877f5
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Agadir
+country: Maroc
+first_name: Hgf
+last_name: Hg
+state: Agadir hvhb
+street1: Gfg
+street2: F
+zip_code: B1864
+id: 3ccqicuhayz7zhj5urve
+email: eltarika@gmail.com
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2017-01-23 15:11:51 UTC
+lead_score:
+
+View their full profile here:
+
+eltarika@gmail.com ( https://www.getdrip.com/3513718/subscribers/3ccqicuhayz7zhj5urve )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_58861d383dd86_35133fa6b4de3e481877f5
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Agadir<br />country: Maroc<br />first_name: Hgf<br />last_name: Hg<br />state: Agadir hvhb<br />street1: Gfg<br />street2: F<br />zip_code: B1864<br />id: 3ccqicuhayz7zhj5urve<br />email: eltarika@gmail.com<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdrequest", "optedin-dvdrequest"]<br />created_at: 2017-01-23 15:11:51 UTC<br />lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/3ccqicuhayz7zhj5urve" style="color: blue">eltarika@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_58861d383dd86_35133fa6b4de3e481877f5--
+

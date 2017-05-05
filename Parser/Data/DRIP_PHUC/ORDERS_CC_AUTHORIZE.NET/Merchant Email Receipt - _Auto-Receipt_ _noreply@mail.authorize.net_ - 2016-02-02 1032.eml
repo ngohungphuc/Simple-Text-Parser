@@ -1,0 +1,109 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m043.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B12D240201533
+	for <mcovel@trendfollowing.com>; Mon,  1 Feb 2016 22:32:35 -0500 (EST)
+Authentication-Results: p01c11m043.mxlogic.net; spf=pass
+Received: from unknown [198.241.168.129] (EHLO cportal8.visa.com)
+	by p01c11m043.mxlogic.net(mxl_mta-8.5.0-6) over TLS secured channel
+	with ESMTP id 75320b65.0.560718.00-2164.1219375.p01c11m043.mxlogic.net (envelope-from <noreply@mail.authorize.net>);
+	Mon, 01 Feb 2016 20:32:39 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1454383959; x=1485919959;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=qDnTK8E7Arx7LzhsYTZBRKalSz7bzrORLh6itwmTsxw=;
+  b=fBJfsAnwX4r/Jzi1Aqh0Ez+oQ1vdH0zfIS2x4+ggxsnAUMNgekNBgH3m
+   t3uEqJOS3aeTSF3b35pU5YRKtejebIuk2C2c5p+y6HKzHouW2iZr/XA0t
+   4A66T/g+yLXHbg+iMYRTv7xsLqjzUZeOor1ElZ3FDZqkvF8xw0Dom1iq5
+   U=;
+thread-index: AdFdal3LIC5dHld3Q5qnCxnAwYJQaw==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Tue, 2 Feb 2016 03:32:39 -0000
+Message-ID: <37331A68A6B3478E91113E914D951110@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 02 Feb 2016 03:32:39.0402 (UTC) FILETIME=[5DEA7CA0:01D15D6A]
+X-AnalysisOut: [v=2.1 cv=c4mtNEJl c=1 sm=1 tr=0 a=bVAnNvkIJaZYOGIZwaY4uw==]
+X-AnalysisOut: [:117 a=bVAnNvkIJaZYOGIZwaY4uw==:17 a=jFJIQSaiL_oA:10 a=69E]
+X-AnalysisOut: [AbJreAAAA:8 a=DlMgfus4tjM5h6b8LFIA:9 a=z2TS5JLVuMGGUGY6:21]
+X-AnalysisOut: [ a=d96GoIC30QxZPrMt:21 a=hduH2CrMo7AA:10 awl=host:2746]
+Received-SPF: Pass (p01c11m043.mxlogic.net: domain of mail.authorize.net designates 198.241.168.129 as permitted sender)
+X-Spam: [F=0.1581961346; B=0.500(0); STSI=0.500(-12); STSM=0.400(-12); CM=0.500; CY=0.50; MH=0.529(2016020106); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <noreply@mail.authorize.net>
+X-SOURCE-IP: [198.241.168.129]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 1-Feb-2016 22:32:38 EST
+
+========= ORDER INFORMATION =========
+Invoice : 24947
+Description : Trend Following Trading Systems &amp; Research from Michael Covel - Order 24947
+Amount : 2096.00 (USD)
+Payment Method: American Express xxxx1007
+Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 8
+Description: Trend Following Investment R...
+SKU: STANDARD
+Quantity: 1
+Unit Price: 1997.00 (USD)
+Item Total: 1997.00 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : 226480
+Transaction ID : 7945604441
+Address Verification : Street Address: No Match -- First 5 Digits of Zip: No Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 0
+First Name : GAOHUI
+Last Name : HUANG
+Company : 
+Address : 825 CHURCH STREETUNIT 2207
+City : TORONTO
+State/Province : ON
+Zip/Postal Code : M4W 3Z4
+Country : CA
+Phone : 6478719096
+Fax : 
+E-Mail : lixiaoli17@hotmail.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : XIAOLI
+Last Name : LI
+Company : 
+Address : 825 CHURCH STREETUNIT 2207
+City : TORONTO
+State/Province : ON
+Zip/Postal Code : M4W 3Z4
+Country : CA
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 

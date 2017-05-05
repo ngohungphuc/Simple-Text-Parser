@@ -1,0 +1,128 @@
+Return-Path: <billgabbycrab@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1739D4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:09:36 -0500 (EST)
+Received: from mail-vk0-f41.google.com ([209.85.213.41])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181232176_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:12:32 +0000
+X-RC-FROM: <billgabbycrab@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f41.google.com with SMTP id x186so266257367vkd.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:12:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=YFDRPWjpo3usbM0v65Tfv2IHeKQYTft7+9jIkeA7Jaw=;
+        b=S/cOX5B6uJqap34HdGLnNdBU5dgk6NvvHkm9Flfg91ZjWlvzPqHIJS5F8Cb1jEbJJx
+         G+KR94Q2AeP75Dflr2ELGcMeKx6Ekb7BEjKFHGO8ybYNRGxEDUc/xfPcbjlrFjuVAtWb
+         hdPZJFCw/vuQYHOaOHuStY63KSiNvgLuUphj9PftcCRi+HF8sbRnNekwMgRbjFZmlap6
+         G9eK7J4Inj4dotscXLkIOh8pQm6Ga+Ab9vPCtqxtHmQOuAZ4PezFSiBlP5yPzWmz/ekY
+         jGedslKa+LZKfRMb5lwTsslRZb1mPS5N3dprvhyl4mGxQgH/5ADcq/2+VEuCi6jbyhz8
+         wlpA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=YFDRPWjpo3usbM0v65Tfv2IHeKQYTft7+9jIkeA7Jaw=;
+        b=Yf8JduvcxijpduiiizCVFg4JUQXUHtCdyACAmN58m8kfQ+NqGP/dEcYEqoW3v5IYnI
+         NC+W96bgLrIHz4xW2br8tiROOGG3yOa0lq4aEENtUDBRDOWYts9Bz1Cgw6wF387SyLTg
+         poZgQijrvEaKj9EPtiGfM5LMoBsHPF3JR0q96axw5sw+DmawKo3faMoJP5tyxzGkE/kL
+         Kv/SuV/rrNlKBGANpcJtSVG22hok3PEUEP8xH2288KaijdEkt/m4FhJQlJZxfJBUUrc8
+         KAWS0zLCLsCmOWPzaqUgGaXzMId1XXwruGYVcrcsPvbTjXzoawqo9Md8yXugBB+4Q7V1
+         KNAg==
+X-Gm-Message-State: AIkVDXIftwFo8/NdhrF6HAl5c+CyKF2n6W3m9GTfFYF3VV82hbXiaGr8dcOvOAJW8zK6qQN54CxxyjFx0a3tkw==
+X-Received: by 10.31.107.15 with SMTP id g15mr19276327vkc.172.1483380739156;
+ Mon, 02 Jan 2017 10:12:19 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.114.1 with HTTP; Mon, 2 Jan 2017 10:12:18 -0800 (PST)
+From: Bill Krause <billgabbycrab@gmail.com>
+Date: Mon, 2 Jan 2017 13:12:18 -0500
+Message-ID: <CAHnSgJch-SSUZDvqAJB3V1Nxi6vUQn6egUe8-kJpDEvwnCCrdg@mail.gmail.com>
+Subject: newsletter
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1142ed180630fb0545207e32
+
+--001a1142ed180630fb0545207e32
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi, So Trend is moving out from Agora.....always follow the $$.
+
+But, add me to your email list >> bill@gabbycrab.com
+
+Thanx and Happy New Year!
+
+*It=E2=80=99s a Great Day at the Beach!*
+
+*Don=E2=80=99t Forget to Flip =E2=80=98Em!*
+
+Bill
+
+Bill Krause PE
+
+bill@gabbycrab.com
+
+The Gabby Crab
+
+Slaughter Beach, DE
+
+610.812.2306
+
+Our policy, per Executive Order, the DMCA, and the NDAA, is that the
+information contained in this e-mail, including any attachment(s), is
+intended solely for use by the named addressee(s).   If you are not this
+person(s), our remedy to violation of this policy includes drone attack,
+globally, in perpetuity, without any further notification or warning, and
+solely at our determination.  Unlimited enforcement of this executive
+order(s) will be exhaustively pursued, until successful conclusion, via
+Tantric Astral Projection and the Z formation. Blah, Blah, Blah!
+
+--001a1142ed180630fb0545207e32
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:tahoma,s=
+ans-serif;color:#660000">Hi, So Trend is moving out from Agora.....always f=
+ollow the $$.</div><div class=3D"gmail_default" style=3D"font-family:tahoma=
+,sans-serif;color:#660000"><br></div><div class=3D"gmail_default" style=3D"=
+font-family:tahoma,sans-serif;color:#660000">But, add me to your email list=
+ &gt;&gt; <a href=3D"mailto:bill@gabbycrab.com">bill@gabbycrab.com</a></div=
+><div class=3D"gmail_default" style=3D"font-family:tahoma,sans-serif;color:=
+#660000"><br></div><div class=3D"gmail_default" style=3D"font-family:tahoma=
+,sans-serif;color:#660000">Thanx and Happy New Year!</div><div><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><p=
+><i><span style=3D"color:rgb(56,86,35);font-family:&quot;Arial Rounded MT B=
+old&quot;,&quot;sans-serif&quot;;font-size:12pt">It=E2=80=99s a Great Day a=
+t the Beach!<u></u><u></u></span></i></p><p><i><span style=3D"color:rgb(56,=
+86,35);font-family:&quot;Arial Rounded MT Bold&quot;,&quot;sans-serif&quot;=
+;font-size:12pt">Don=E2=80=99t Forget to Flip =E2=80=98Em!<u></u><u></u></s=
+pan></i></p><p><span style=3D"color:rgb(0,0,102);font-family:&quot;Brush Sc=
+ript MT&quot;;font-size:22pt">Bill<u></u><u></u></span></p><p><span style=
+=3D"color:rgb(0,0,102);font-family:&quot;Arial Rounded MT Bold&quot;,&quot;=
+sans-serif&quot;;font-size:12pt">Bill Krause PE<u></u><u></u></span></p><p>=
+<span style=3D"color:rgb(0,0,102);font-family:&quot;Arial Rounded MT Bold&q=
+uot;,&quot;sans-serif&quot;;font-size:12pt"><a href=3D"mailto:bill@gabbycra=
+b.com" target=3D"_blank"><span style=3D"color:rgb(0,0,102)">bill@gabbycrab.=
+com</span></a><u></u><u></u></span></p><p><span style=3D"color:rgb(0,0,102)=
+;font-family:&quot;Arial Rounded MT Bold&quot;,&quot;sans-serif&quot;;font-=
+size:12pt">The Gabby Crab<u></u><u></u></span></p><p><span style=3D"color:r=
+gb(0,0,102);font-family:&quot;Arial Rounded MT Bold&quot;,&quot;sans-serif&=
+quot;;font-size:12pt">Slaughter Beach, DE<u></u><u></u></span></p><p><span =
+style=3D"color:rgb(0,0,102);font-family:&quot;Arial Rounded MT Bold&quot;,&=
+quot;sans-serif&quot;;font-size:12pt">610.812.2306</span></p><p><span style=
+=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Our policy, per E=
+xecutive Order, the DMCA, and the NDAA, is that the information contained i=
+n this e-mail, including any attachment(s), is intended solely for use by t=
+he named addressee(s). =C2=A0 If you are not this person(s), our remedy to =
+violation of this policy includes drone attack, globally, in perpetuity, wi=
+thout any further notification or warning, and solely at our determination.=
+=C2=A0 Unlimited enforcement of this executive order(s) will be exhaustivel=
+y pursued, until successful conclusion, via Tantric Astral Projection and t=
+he Z formation. Blah, Blah, Blah!</span></p></div></div></div>
+</div>
+
+--001a1142ed180630fb0545207e32--
+

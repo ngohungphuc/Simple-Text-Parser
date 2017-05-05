@@ -1,0 +1,85 @@
+Return-Path: <mgduckstein@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6F0B54028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 13:42:33 -0500 (EST)
+Received: from mail-lf0-f48.google.com ([209.85.215.48])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170104184529217_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 18:45:29 +0000
+X-RC-FROM: <mgduckstein@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f48.google.com with SMTP id b14so310060193lfg.2
+        for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 10:45:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=VuuNTdSg15Bj8DIfMIuG4lodsDn5xJVaJt4BzhTcvkM=;
+        b=Crd4e+bvtbaN2y4+GWGoazZfjN4yXMTVtlfppaLWaKVSOYmY8CUIN+VeFS8P7ZAI37
+         zvMKdcnEa9Znj08IAQQ74LA5tOApOQH/nZ3waV0WY682/5Y/pXbFwC7fGFho5NrZO6Ic
+         yPlbVjtGj07iSq7s/ktoBurM6Yv5ayX5us7W3r02qt6ZOPldPiHC6Hw3FiFASL34puy0
+         st/UrqHX461x8A1ShIMAJm110WWJkrQrSWXm9w7t+GUXWqVr7b2inRKNnpMpp+U+/P01
+         NzlRAuJ+7HXcBRXLS4prD8p19+zKalk1oqm4d5XoI801LsIboUfwEjg/yT6bL8hTcYeo
+         hvDg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=VuuNTdSg15Bj8DIfMIuG4lodsDn5xJVaJt4BzhTcvkM=;
+        b=HygnW0tj8VhOdMvptK+qcgIzAWm6u7QX3L9T/Sa2zJ6VNauG+OH83NFCHrggXnw444
+         MqpYaAupNF1dcGW0KIpjXQhJBvPc2xvfve3FIVfDbp4XG+pwAhL44Hy/z9AeoMcc9YVx
+         zOym+TibLVW3MJZOi3OAYbRFQDeVN/8LFn7Ehtxh2zCL5GwElObp5VznceMfNjFtQSBB
+         m6ZbNloRdhkXalKX6tZUXWi98VVNIJ8KZBgM3WQ4sgj081OBbT7PakaAI3DnjMr64/DC
+         2wRjqMOQgyTB8w/24e1vf08S8tQY1Az5fyrPCcwJ4Tmrxm9ZJCBGCyaoGMZe1aD1KWlr
+         ewsQ==
+X-Gm-Message-State: AIkVDXIja/rFoUxKYnXVm2qGoLtU/4OXblwjZlRGyPR65rcNDtq3xg4hgV5ynvyrMEiM3tnNLIGEgDwsWLHHWQ==
+X-Received: by 10.25.155.9 with SMTP id d9mr23146100lfe.105.1483555522159;
+ Wed, 04 Jan 2017 10:45:22 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.199.13 with HTTP; Wed, 4 Jan 2017 10:45:21 -0800 (PST)
+From: "m@" <mgduckstein@gmail.com>
+Date: Wed, 4 Jan 2017 13:45:21 -0500
+Message-ID: <CAEPJMOe8yrbQUji5rQpjeyVSmDZv4o1HGt6YvH1UGz0m2fOqgg@mail.gmail.com>
+Subject: The end of Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a11401f98e727d00545492f29
+
+--001a11401f98e727d00545492f29
+Content-Type: text/plain; charset=UTF-8
+
+Michael,
+
+Coming back from holiday, I was catching up on emails and found out that
+the Trend Following subscription is ending.  I had a life time membership,
+and am sad to see it end.  I am still very interested in the Trend
+Following methods you talk about, and and listen to your podcasts when I
+can.
+
+You mentioned an investment paper I may be interested in reviewing.  If it
+is still available, please refer to my address below.  Thanks, and good
+luck.
+
+-Cheers.
+
+Matt Duckstein
+51 Baytree Circle
+Boynton Beach, FL 33436
+
+--001a11401f98e727d00545492f29
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div>Michael,<br><br></div>Coming back from=
+ holiday, I was catching up on emails and found out that the Trend Followin=
+g subscription is ending.=C2=A0 I had a life time membership, and am sad to=
+ see it end.=C2=A0 I am still very interested in the Trend Following method=
+s you talk about, and and listen to your podcasts when I can.=C2=A0 <br><br=
+>You mentioned an investment paper I may be interested in reviewing.=C2=A0 =
+If it is still available, please refer to my address below.=C2=A0 Thanks, a=
+nd good luck.<br><br></div>-Cheers.<br><br>Matt Duckstein<br></div>51 Baytr=
+ee Circle<br></div>Boynton Beach, FL 33436<br><div><div><div><br><br></div>=
+</div></div></div>
+
+--001a11401f98e727d00545492f29--
+

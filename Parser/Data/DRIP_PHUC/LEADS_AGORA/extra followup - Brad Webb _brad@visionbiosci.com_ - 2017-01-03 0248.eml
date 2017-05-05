@@ -1,0 +1,153 @@
+Return-Path: <brad@visionbiosci.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C008E4028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:45:29 -0500 (EST)
+Received: from NAM02-CY1-obe.outbound.protection.outlook.com ([104.47.37.133])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102194826141_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:48:26 +0000
+X-RC-FROM: <brad@visionbiosci.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=VisionBiosci.onmicrosoft.com; s=selector1-visionbiosci-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=QMH1kxdijCkheg3L9nRl9gaG5T3mnewNSn2hzG/ttfM=;
+ b=kUrMw4V5V4TzwEhWez1G58RB2lR6slKZkgmGtBzFyXlVuUE5AIl8VanSGbNyRsywduHYEm1wYXI1Xx1yUbxsd88RykJLRaBWxaCGB1NFR677oxp8JyHM2MbDiNYDLvvOK57wWbOlJ2SBZOh9UHh245TApxr3+1Wl+paAKyMNkU0=
+Received: from BLUPR0201MB1586.namprd02.prod.outlook.com (10.163.120.141) by
+ BLUPR0201MB1585.namprd02.prod.outlook.com (10.163.120.140) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.817.10; Mon, 2 Jan
+ 2017 19:48:18 +0000
+Received: from BLUPR0201MB1586.namprd02.prod.outlook.com ([10.163.120.141]) by
+ BLUPR0201MB1586.namprd02.prod.outlook.com ([10.163.120.141]) with mapi id
+ 15.01.0803.021; Mon, 2 Jan 2017 19:48:18 +0000
+From: Brad Webb <brad@visionbiosci.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: extra followup
+Thread-Topic: extra followup
+Thread-Index: AdJlMRwqDspTHswcTvuFfBoRyIwBBw==
+Date: Mon, 2 Jan 2017 19:48:17 +0000
+Message-ID: <BLUPR0201MB1586CD09BB3C3902BDE2D1A2B96F0@BLUPR0201MB1586.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=brad@visionbiosci.com;
+x-originating-ip: [77.234.42.180]
+x-ms-office365-filtering-correlation-id: 7393012d-792b-4734-e040-08d433484ca8
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BLUPR0201MB1585;
+x-microsoft-exchange-diagnostics: 1;BLUPR0201MB1585;7:tu3/X1UgcPIy4Xw5vURREI1bgQydxoDbdNgo0KIHsul1wFZFVr4w7uENpMCULPYu7khQmuPmkL2y9A/4GsiHf6PVwCwroSodhRRrbfurIDsXMLETnEE1RpZ4wr0ONZ9Esy0VCze3Dp2aZeJUVthve8T/7uvt9yUySwecqDdehIBtLlhJuN8ill0ByUX4CWqJK/9wCZOrnSMyF8WpdNYM6hBfsim8zKNsmWSoTKSu8FtrAZu81OdxoCIvMBsPkcM5WRJr+/rbTGnjmaGPq0Bg4WIFdfBgzT3VZhjaJQQ2BZQByUYpEr0zRkQ0wiZGe4QJtWaG0Agfw6P45wgfNgZMOliFoh9qmyTRhKfkuyzf+dkSJ5hJkexM+cb9hUQ+iNqZHLw9z7efYUkvDSWn0Z3Bfibj1nitzqvaTpExEkGqyQ3Xafcd0G5ZntJJd29Xj19KYK5LkzppsIrVV6yHxC5NXQ==
+x-microsoft-antispam-prvs: <BLUPR0201MB158502700FAAC3A21CC51F09B96F0@BLUPR0201MB1585.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040375)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6041248)(20161123564025)(20161123562025)(2016111802025)(20161123555025)(20161123560025)(6072148)(6043046);SRVR:BLUPR0201MB1585;BCL:0;PCL:0;RULEID:;SRVR:BLUPR0201MB1585;
+x-forefront-prvs: 017589626D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(7916002)(39450400003)(189002)(199003)(54356999)(8936002)(3846002)(92566002)(6916009)(7736002)(33656002)(3660700001)(2900100001)(102836003)(122556002)(5660300001)(5630700001)(3480700004)(6116002)(790700001)(3280700002)(81156014)(450100001)(81166006)(2906002)(1730700003)(101416001)(7116003)(74316002)(97736004)(50986999)(7696004)(110136003)(8676002)(221733001)(5640700003)(2351001)(86362001)(25786008)(38730400001)(558084003)(99286003)(55016002)(66066001)(68736007)(2501003)(77096006)(107886002)(9686002)(106356001)(6436002)(105586002)(6506006)(189998001);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR0201MB1585;H:BLUPR0201MB1586.namprd02.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:0;LANG:en;
+received-spf: None (protection.outlook.com: visionbiosci.com does not
+ designate permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR0201MB1586CD09BB3C3902BDE2D1A2B96F0BLUPR0201MB1586_"
+MIME-Version: 1.0
+X-OriginatorOrg: visionbiosci.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 19:48:17.7855
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 4eb6638f-9372-430d-b957-2a216e753db7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR0201MB1585
+
+--_000_BLUPR0201MB1586CD09BB3C3902BDE2D1A2B96F0BLUPR0201MB1586_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Please send me trendfollowing information as offered.
+
+Brad
+brad@visionbiosci.com<mailto:brad@visionbiosci.com>
+805-969-5833
+
+
+
+--_000_BLUPR0201MB1586CD09BB3C3902BDE2D1A2B96F0BLUPR0201MB1586_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Times New Roman",serif;
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Times New Roman&quo=
+t;,serif">Please send me trendfollowing information as offered.&nbsp;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Times New Roman&quo=
+t;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Times New Roman&quot;,serif">Brad<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><a href=3D"mailto:brad@visionbiosci.com">brad@vi=
+sionbiosci.com</a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">805-969-5833<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BLUPR0201MB1586CD09BB3C3902BDE2D1A2B96F0BLUPR0201MB1586_--
+

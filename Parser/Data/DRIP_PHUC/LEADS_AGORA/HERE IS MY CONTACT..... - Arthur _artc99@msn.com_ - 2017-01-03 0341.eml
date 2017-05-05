@@ -1,0 +1,102 @@
+Return-Path: <artc99@msn.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C481C4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:39:13 -0500 (EST)
+Received: from COL004-OMC2S18.hotmail.com ([65.55.34.92])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102204208566_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:42:08 +0000
+X-RC-FROM: <artc99@msn.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM03-DM3-obe.outbound.protection.outlook.com ([65.55.34.71]) by COL004-OMC2S18.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 12:41:58 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=msn.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=nA/7SFnrYt05foUoQBrFgnSxogfuLqJagYHL93TeKa8=;
+ b=pPZfgpOCS7vAzPBVTxZhFRpumL2F/LcF5+AJItUB8K7nGT8uzlB1lVYTz2cp5C41dXI925X7C+5jnTKGAkDfvqr0skBrjFIsCDBcyCqhiu9BSUPQnqbmY/AuhifHvhcsMfxaQdCCVeE6L0X6edcPpkz9TaJ1ucjX/5y3dS4iqil0+kor7ZCi50ybCJUjjw+djQCG7pFWis0zIJDAj+ID/BAYTrROuLx/AfUfH9Ll3BkF2hO95cYMaGf+Y4BrCBF0WzEyqsU5dOYKgTj+/G6bpMldG1bpF9grZoBAJiwETgEEFyR6yogLdBl26AbtbpP8urKQQsZu4zZpeFgM8ubMHA==
+Received: from CO1NAM03FT045.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.55) by CO1NAM03HT242.eop-NAM03.prod.protection.outlook.com
+ (10.152.81.165) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 20:41:58 +0000
+Received: from BL2PR07MB2321.namprd07.prod.outlook.com (10.152.80.53) by
+ CO1NAM03FT045.mail.protection.outlook.com (10.152.81.214) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 20:41:57 +0000
+Received: from BL2PR07MB2321.namprd07.prod.outlook.com ([10.167.101.11]) by
+ BL2PR07MB2321.namprd07.prod.outlook.com ([10.167.101.11]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 20:41:56 +0000
+From: Arthur <artc99@msn.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: HERE IS MY CONTACT.....
+Thread-Topic: HERE IS MY CONTACT.....
+Thread-Index: AQHSZTg63Rq+vBejQk6bFs4RQpFdzw==
+Date: Mon, 2 Jan 2017 20:41:56 +0000
+Message-ID: <BL2PR07MB2321528CC0919AD160CE8BF3C16F0@BL2PR07MB2321.namprd07.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none header.from=msn.com;
+x-incomingtopheadermarker: OriginalChecksum:00372C9850F3C1E7F6167A9B43269D7A8981AA71B5E26A40FDC30AEE75795186;UpperCasedChecksum:3C7409140CBC68451822E2228FB7C88551742E107BC2F1B136C7F79D9706958D;SizeAsReceived:7145;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [HdsOsDwCVQ2i0d+XN+kLJ45eUj0Do7sF]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;CO1NAM03HT242;7:oypQu3Tx+uiYg+DeUS4EDmRzkt7LxFY6ETMHUb39jz6Tfsvy1meIu1cinJ+4F/6Nlh1zMHNq3NZVQfaX5CGDF8LA8YgAAA9kR64opHsjzyKAOa2I8UI1U22/sgvpbfjHPt9dWDUTz6RVAgxsxatDEIKpSu63jaMDZAsW72hGJ6XNVqiuofNosbsSV3yb+qCcTNU2hwbJFY4LttW0+7iOBcwBdFXG+wDe2krpE/i5DO021q/0r01YPzBQoRtmjV2g3Rx+Ku/yk3oylJmNnqI9G0wuBlP5KMd0aUrqfw0WWRsdJUw3542/SdvF7OIuVCp06hbdy0sIwJwIbHgq8EXGVSfUBo9JfhawRmDvJrwvS0P1UIMiRNuJRUZKcg9ZhI7iQE7Bl6uj5yWgi9y5/Mf2IKW8EJR4kPPDpdBH41Ul29tyy5XPEE9f9wRnYzJA4IwAeLm5b6ka6UpvHd3IrQiDwA==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:CO1NAM03HT242;H:BL2PR07MB2321.namprd07.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 177d664a-a745-47c5-92c8-08d4334fcafe
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506318)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:CO1NAM03HT242;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:CO1NAM03HT242;BCL:0;PCL:0;RULEID:;SRVR:CO1NAM03HT242;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BL2PR07MB2321528CC0919AD160CE8BF3C16F0BL2PR07MB2321namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 20:41:56.5925
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM03HT242
+X-OriginalArrivalTime: 02 Jan 2017 20:41:58.0696 (UTC) FILETIME=[A9B52280:01D26538]
+
+--_000_BL2PR07MB2321528CC0919AD160CE8BF3C16F0BL2PR07MB2321namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+NAME.......   ART CAVALIERE
+
+ADDRESS.....103 ST. MARKS PL. APT. 1A
+
+                        NEW YORK, N.Y. 10009
+
+--_000_BL2PR07MB2321528CC0919AD160CE8BF3C16F0BL2PR07MB2321namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>NAME....... &nbsp; ART CAVALIERE</p>
+<p>ADDRESS.....103 ST. MARKS PL. APT. 1A</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; NEW YORK, N.Y. 10009</p>
+</div>
+</body>
+</html>
+
+--_000_BL2PR07MB2321528CC0919AD160CE8BF3C16F0BL2PR07MB2321namp_--
+

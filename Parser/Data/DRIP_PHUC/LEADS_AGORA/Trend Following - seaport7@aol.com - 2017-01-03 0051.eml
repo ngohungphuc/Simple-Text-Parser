@@ -1,0 +1,87 @@
+Return-Path: <seaport7@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4B7584028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:48:42 -0500 (EST)
+Received: from omr-a011e.mx.aol.com ([204.29.186.59])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102175136173_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:51:36 +0000
+X-RC-FROM: <seaport7@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mad02.mx.aol.com (mtaomg-mad02.mx.aol.com [172.26.221.208])
+	by omr-a011e.mx.aol.com (Outbound Mail Relay) with ESMTP id B7989380006D
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:51:29 -0500 (EST)
+Received: from core-mca06g.mail.aol.com (core-mca06.mail.aol.com [172.27.33.6])
+	by mtaomg-mad02.mx.aol.com (OMAG/Core Interface) with ESMTP id 656D83800008C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:51:29 -0500 (EST)
+Received: from 98.116.98.128 by webstg-a10.mail.aol.com (10.72.57.46) with HTTP (WebMailUI); Mon, 02 Jan 2017 12:51:29 -0500
+Date: Mon, 2 Jan 2017 12:51:29 -0500
+From: seaport7@aol.com
+To: mcovel@trendfollowing.com
+Message-Id: <159604eb92d-7fe7-1b71b@webstg-a10.mail.aol.com>
+Subject: Trend Following
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_138782_414435226.1483379489067"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [98.116.98.128]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483379489;
+	bh=lrdHGtIs/h73/7k2ly0B4ChCB/vaeuTibrkaS5uXM3c=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=iQDOq6VvcSlErIWgKyyIEA2wCH66FhbhB6h1NGQEsvZZ3kXwKyY13j3bWwkEg3Ffz
+	 /3yMxInE0fv68HdhGPgnpTjzNUDbFCuIPg3lpnIHf2Zu9uJhrN11wVuz9s5USOM27j
+	 cLazRoidzdlJ9PGzYaUb4/QuRBuMhc3H8nXt0dPE=
+x-aol-sid: 3039ac1addd0586a93213c77
+
+------=_Part_138782_414435226.1483379489067
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Michael,
+
+Hello and a very Happy New Year,
+
+Sorry to hear about Trend Following. The service was great. All of your work is!!!
+
+Hope this does not affect Vertical Trade Alert in which I am on my way to becoming a life member ( 2 more payments coming up). A great service, also.
+
+Thanks for your work,
+
+George Pavarini
+Seaport7@Aol.com
+
+
+
+ 
+
+------=_Part_138782_414435226.1483379489067
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'><font size="2">Michael,<br>
+<br>
+Hello and a very Happy New Year,<br>
+<br>
+Sorry to hear about Trend Following. The service was great. All of your work is!!!<br>
+<br>
+Hope this does not affect Vertical Trade Alert in which I am on my way to becoming a life member ( 2 more payments coming up). A great service, also.<br>
+<br>
+Thanks for your work,<br>
+<br>
+George Pavarini<br>
+Seaport7@Aol.com<br>
+<br>
+<br>
+<br>
+&nbsp;<br>
+</font>
+</font>
+------=_Part_138782_414435226.1483379489067--
+

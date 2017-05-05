@@ -1,0 +1,73 @@
+Return-Path: <kat11ray@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 689214028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:01:03 -0500 (EST)
+Received: from mail-io0-f179.google.com ([209.85.223.179])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102180352535_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:03:52 +0000
+X-RC-FROM: <kat11ray@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f179.google.com with SMTP id d9so416035512ioe.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:03:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=CZVw5ZlA/p3Y3yp+fEiNSzpQ7DimL1trQdWtGO0Z7Zk=;
+        b=gzgwSk/pGfTWcvEazQ5VmoVDsJpLK5i+U9YSoMss5wOBbnjEC6YnIU2/G9/mC4fhf6
+         LlgojdhZ4gTnncnK1Rz7j4P7SIHZwdvw5xKGhpuaLEml9IOimIE0uM45peSzXy5g3HqU
+         XAsn2UIhCnv9Vd3LDaDm3Zzaccq7holee+xhNklBMgKBagR0wJ+SW5VMefDaO/fIQizD
+         xCxDpI6/VsTZsLEbPNC6aGOZ/3fMBqwaFXja6b74JN7HSN6Uf3qSpUqDoYdsf4zwQsXk
+         bKNqOlAtkkepUcJIH0zZu4s5LMZtYWiTs6w/GIgn+gykxftOcal7AHxfgrvbGrSd95kc
+         TZrQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=CZVw5ZlA/p3Y3yp+fEiNSzpQ7DimL1trQdWtGO0Z7Zk=;
+        b=Q6Hh7lGnmtWOib8u9ncBQKp1CASDtSdk8tn5U1Z+NhMmO68ydRfWANKkrzBYBrkz9w
+         W7QI9gG7xtS2QajUwL3ukzNeIAf3OfHxgPPXXIrdihUvB8U2CDaoXZdioo8hmTlwqAwa
+         njuD/3/mWhziHgzbdZK+kY1pIDut/aWEIvC0vpyqkJXVfyacw1//33zqmms8/imekiQO
+         9i78TRVf8DQB0gOZgvGBOaI5jjQymKppgfb8saDo91/tWX0t7NoV0xZxUuBmcrKIUixR
+         BN0fjnuUNrkkoSQlg2yiBfU5yQ4v9qTJdIseJ9KaGnRgAvKIxpaYBfCmlZorMs7g96fO
+         BHQw==
+X-Gm-Message-State: AIkVDXJmVBKSuLotvRnj98Oftce1zlfqlfnBEmOJv7yBwqfCaS9zcZ2TTEIafJlcNDlUr0O7AQmJvoplbP8NYw==
+X-Received: by 10.107.197.197 with SMTP id v188mr43964771iof.119.1483380226284;
+ Mon, 02 Jan 2017 10:03:46 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.44.131 with HTTP; Mon, 2 Jan 2017 10:03:45 -0800 (PST)
+From: Kathy Ray Anderson <kat11ray@gmail.com>
+Date: Mon, 2 Jan 2017 12:03:45 -0600
+Message-ID: <CAPhwLyTgZ9-n-exZJuXZA8VHMo6VQNCskLKmiba2n-3kBy54zQ@mail.gmail.com>
+Subject: Investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c18a9b074604f0545205f99
+
+--94eb2c18a9b074604f0545205f99
+Content-Type: text/plain; charset=UTF-8
+
+Hello Michael,
+
+Please send me your investment paper.
+
+Kathy Ray Anderson
+837 Oakbrook Court
+St. Louis,  MO   63132
+
+--94eb2c18a9b074604f0545205f99
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:large">Hel=
+lo Michael,</div><div class=3D"gmail_default" style=3D"font-size:large"><br=
+></div><div class=3D"gmail_default" style=3D"font-size:large">Please send m=
+e your investment paper.</div><div class=3D"gmail_default" style=3D"font-si=
+ze:large"><br></div><div class=3D"gmail_default" style=3D"font-size:large">=
+Kathy Ray Anderson</div><div class=3D"gmail_default" style=3D"font-size:lar=
+ge">837 Oakbrook Court</div><div class=3D"gmail_default" style=3D"font-size=
+:large">St. Louis,=C2=A0 MO=C2=A0=C2=A0 63132<br></div></div>
+
+--94eb2c18a9b074604f0545205f99--
+

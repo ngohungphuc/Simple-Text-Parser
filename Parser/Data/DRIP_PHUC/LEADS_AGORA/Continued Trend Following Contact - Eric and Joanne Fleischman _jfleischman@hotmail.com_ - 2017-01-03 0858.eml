@@ -1,0 +1,127 @@
+Return-Path: <jfleischman@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C5D364028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 20:56:10 -0500 (EST)
+Received: from BAY004-OMC4S13.hotmail.com ([65.54.190.215])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103015858132_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 01:58:58 +0000
+X-RC-FROM: <jfleischman@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM04-CO1-obe.outbound.protection.outlook.com ([65.54.190.201]) by BAY004-OMC4S13.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 17:58:52 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=LP+eiogtuQ4pLRkBbhz3+2P3VAmY0fK0D4EOdJRBaNg=;
+ b=L8dYAMUYzPNZQAtaFOfxVlOMctRaOj0p4Pv1NVHD1y1DZ2WOU/43G34qkXY5Rmtbm8dnZM9/Tvg23HiJSK/aJ7YL5F5SryDFn20SVA3jMVCxLvklqomF40/oPsd6EsZIyz3Yh+8mveAg7aP9WHgbzo4jYt8fQZexagGhnliHCgktqJSfu3VlerzuaXoMVxiw/hYBitKSwoQORxN85z1JPnHDnh+oROIkZC9DCF1bWP86vtMJdlfSe7/sJKslKhjKxpMims5bVNeqZ6cUiz9E1Y+tD2Gy1cFYyKwHfrn2T1qJq9JjXkkCg3dURBjKOpj43Y10JmjYwtjjJYqwX5wCTA==
+Received: from BN3NAM04FT022.eop-NAM04.prod.protection.outlook.com
+ (10.152.92.51) by BN3NAM04HT059.eop-NAM04.prod.protection.outlook.com
+ (10.152.93.7) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Tue, 3 Jan
+ 2017 01:58:50 +0000
+Received: from BL2PR07MB2420.namprd07.prod.outlook.com (10.152.92.58) by
+ BN3NAM04FT022.mail.protection.outlook.com (10.152.92.174) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Tue, 3 Jan 2017 01:58:50 +0000
+Received: from BL2PR07MB2420.namprd07.prod.outlook.com ([10.167.101.144]) by
+ BL2PR07MB2420.namprd07.prod.outlook.com ([10.167.101.144]) with mapi id
+ 15.01.0817.009; Tue, 3 Jan 2017 01:58:51 +0000
+From: Eric and Joanne Fleischman <jfleischman@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Continued Trend Following Contact
+Thread-Topic: Continued Trend Following Contact
+Thread-Index: AQHSZWTs19Yayh0P7EyHzMp9rfSNzg==
+Date: Tue, 3 Jan 2017 01:58:50 +0000
+Message-ID: <BL2PR07MB2420E562865D24167B791E5BB96E0@BL2PR07MB2420.namprd07.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:6175733D076EF4E5AB4D7C1E660499A2CE59AF2B7804E13481D146E4A9F27983;UpperCasedChecksum:E583EC1BD2B98AE26060079912F557332CEBAF8C4DE98F8D0EE0B65496EF9C39;SizeAsReceived:7263;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [T4b3OoZvMYZlYD/hAfMaR2YfEfAdeCc0]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BN3NAM04HT059;7:Vz3gfaAg5seJUjSs/7vF0HiTbLm4WmmYzA9JnsIrQFl/zBd9JSfWwOK1FsNbyO4MpGw626hOCS7rXW8QNunsZfvOk00H2PcNSU3lYwASp1cYjEEHijTx85VpN1aoqp3sOSdxVBW3TusYItsixRVFbOd5PFitkEbCLpo/1ZLwgb6rMJlBF9MHChPBIAqQVMcpk+/tv56uzWmiTCqhtY5/6x3hQUf8yQ56GNMywAXd8X+xfFpz2d2gM3d0t/ZfdktianlS5BkgFd1gsYlM0zWDv43JUctSPz2ZXe27VjM1qucsjI8N2Gqgd79gZMXCeMKSrwVLQseqOTLc9CvrPRpLloUmKHTED4EGMA42J4yvODppJ5CIP7dDnqcSQoLUrk9m0OU1Uezsyhe/hEhpVT6tr3hMCpXQlerHZ9590aHWOWwpi8VR+dwNjIx/GcR0Gu0ZAwll92QjAXicPxyO2sYieA==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BN3NAM04HT059;H:BL2PR07MB2420.namprd07.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: d687280e-6b71-42da-141b-08d4337c1078
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506318)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:BN3NAM04HT059;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BN3NAM04HT059;BCL:0;PCL:0;RULEID:;SRVR:BN3NAM04HT059;
+x-forefront-prvs: 01762B0D64
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BL2PR07MB2420E562865D24167B791E5BB96E0BL2PR07MB2420namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jan 2017 01:58:50.7135
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN3NAM04HT059
+X-OriginalArrivalTime: 03 Jan 2017 01:58:52.0447 (UTC) FILETIME=[EEC94AF0:01D26564]
+
+--_000_BL2PR07MB2420E562865D24167B791E5BB96E0BL2PR07MB2420namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Michael,
+
+
+Let's stay in contact about Trend Following:
+
+
+Eric Fleischman
+
+51 Nicolai Road
+
+Ellensburg, WA 98926
+
+
+Best wishes,
+
+
+--Eric
+
+--_000_BL2PR07MB2420E562865D24167B791E5BB96E0BL2PR07MB2420namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<em id=3D"OWAItalicID">
+<p>Michael,</p>
+<p><br>
+</p>
+<p>Let's stay in contact about Trend Following:</p>
+<p><br>
+</p>
+<p>Eric Fleischman</p>
+<p>51 Nicolai Road</p>
+<p>Ellensburg, WA 98926</p>
+<p><br>
+</p>
+<p>Best wishes,</p>
+<p><br>
+</p>
+<p>--Eric</p>
+</em></div>
+</body>
+</html>
+
+--_000_BL2PR07MB2420E562865D24167B791E5BB96E0BL2PR07MB2420namp_--
+

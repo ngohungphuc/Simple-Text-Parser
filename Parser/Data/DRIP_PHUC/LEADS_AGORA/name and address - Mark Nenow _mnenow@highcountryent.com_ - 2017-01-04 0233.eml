@@ -1,0 +1,65 @@
+Return-Path: <mnenow@highcountryent.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DD0124028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 14:30:52 -0500 (EST)
+Received: from mail-wm0-f43.google.com ([74.125.82.43])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103193348328_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 19:33:48 +0000
+X-RC-FROM: <mnenow@highcountryent.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wm0-f43.google.com with SMTP id k184so242702271wme.1
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 11:33:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=highcountryent-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=cmZYmEuPXDoYAXO/FvfAmF3NjwrFqq00+Qca8cGvClk=;
+        b=WhAaJqthsv2M+4R5vuYGJVr31aUSSY5G8tPxxWKPPYE1WPH1joZ3Ml8zqlLH2JOHIv
+         ZHSq6wxAom7tgnvLj4+JNsgmhP4/gFVNiEAilRa7UEmrmznaplfyEhoUAwQ935wAc0oU
+         x2iV2td3zfHKT55I9tD20j8ggsgA+CbNw+HHFpcdxTf+gwlPbRwsdnofyMEouJvi1SdD
+         yGY6DPZJgC98H//PTqkIvUpNlVcvL85PJ2UQtkjKh8TPjx2OPBNQVm87Lcy9peOlBI0+
+         mxJqtWQCZWJOfIZll2445nIInrjlaeAn8bHvrA/gAMqT1N8ZDmZB6bnj2VBAr9W8NJWZ
+         dbkg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=cmZYmEuPXDoYAXO/FvfAmF3NjwrFqq00+Qca8cGvClk=;
+        b=QnrdoklbM+HLPkQHzcQh9NplVMpcBuraYnxVK+qN3e6wUchydgDUgK+SwLQXl76JUS
+         jTRJMS/TIlUSpPiiZgGq2Nq7iQeT4V6gkE/yaZnWBJlsle5dRcLzg7hiUdQiD0v7ObsD
+         HqWYmNEqyvicQpneUTTJp5+XGkfdzoLx/Hyn7ErJomv6pFAP7yACqiRC2xJWIgniCasy
+         lTWYyw/AOaa+qdID+tLvX5isRVYhFJdm0rTHIMSzWuD/lP5+BTuGE3wLAOFE5pw/utvY
+         r3k7LPskE16z26vTuo09gDiVuOP5VQgtPOTKPYC967a4SWnI03wTkSoxDJRhhGRcFWXx
+         Wjog==
+X-Gm-Message-State: AIkVDXL7U44QDkCGqpw2kVl5mtleRs8BKhpXBXNOB5DTu/4WI7ZKC//F2snXhbTn/WybfS4UYlPGqL9DECvl0Q==
+X-Received: by 10.28.8.202 with SMTP id 193mr51575342wmi.101.1483472022089;
+ Tue, 03 Jan 2017 11:33:42 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.93.37 with HTTP; Tue, 3 Jan 2017 11:33:41 -0800 (PST)
+From: Mark Nenow <mnenow@highcountryent.com>
+Date: Tue, 3 Jan 2017 14:33:41 -0500
+Message-ID: <CAE1Ep-UQR9yBU3Ax2uZjDUD9LM=JtH=JNyZLtb-Fvr6F-EAvJQ@mail.gmail.com>
+Subject: name and address
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a11442382e95c64054535bedf
+
+--001a11442382e95c64054535bedf
+Content-Type: text/plain; charset=UTF-8
+
+Sorry to see you go.
+
+Mark Nenow
+232 Wildwood Lane
+Boone NC 28607
+
+mnenow@highcountryent.com
+
+--001a11442382e95c64054535bedf
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><div><div><div><div>Sorry to see you go.<br><br></div>Mark Nenow<br></div>232 Wildwood Lane<br></div>Boone NC 28607<br><br></div><a href="mailto:mnenow@highcountryent.com">mnenow@highcountryent.com</a><br></div>
+
+--001a11442382e95c64054535bedf--
+

@@ -1,0 +1,52 @@
+Return-Path: <adpau@rogers.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2D7074028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:02:28 -0500 (EST)
+Received: from nm5.bullet.mail.gq1.yahoo.com ([98.136.218.70])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102180516365_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:05:16 +0000
+X-RC-FROM: <adpau@rogers.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rogers.com; s=s2048; t=1483380310; bh=znLmkP0VhNnpM99kEde9RSLYFamu6SoCYqArNz/RQmw=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=pimq/gVrRBynK3nWNG6uHcz3NsTRGjH7C8569fqhwuGaaf3PRTib5JpnsF22LUauz/ymasREVPbGfEx71+BWMI7r2xQKTDFhYFHUQw7p0D3nTAedrW6cfzymmCisGRKjcVUUKz8UK8K6OV1r+bWEp/+QeiC9m2ko9TcPO4zlANBvpS4VwaKX4MA7WpNqNTOt50oc0l8Xzn5TZS96jzy4LiZhqyvbVAULvotnndgCMd49p/qCYBC6OY19vP52sJ4nhrBVJBm94EdgqUhrMlDHhnchZ1vpALDHzapesHinWCCMNJgqCB/GyE+I8vLUSqHmPaoeskzOALq+b1lYeEn7Vg==
+Received: from [98.137.12.62] by nm5.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:05:10 -0000
+Received: from [98.137.12.219] by tm7.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:05:10 -0000
+Received: from [127.0.0.1] by omp1027.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:05:10 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 902761.18109.bm@omp1027.mail.gq1.yahoo.com
+X-YMail-OSG: tKsXefwVM1ks5e0b1rdqy7kI6PngfT4C4DnmmosPR07O_l_q585zZHK7.FLAlDC
+ TIKn7foV7_8sCYqxTF884JuY_W3UbsBLf_x108PHs8rFxpD8UCwNVv4O6sQpheQt2jOHmzdcThva
+ Is9wCR89GXQ2WWVqr9CPuQk.MJ._vPproV5aJaUcj8AZL7FbYsx545I6_BrDcTWy0h57JgBCYWCb
+ lEFtqw8mGZvFvemC8Zl0aQwRqi7cubvE542JeBaIyZ1it3LRXB1kwi8108TuS.tZQxphYqq_OjhW
+ KaECQJgN9yWRbzjIv8.mjQ9tIdYkGL1G1SmgbVZeGJidyhFUYz8y1uyCbF8p_OPC3bGyClIH.f7L
+ LCTWZUAN46q2YtgkQg2CwSQSTetov.dIdXBnJNsgcEki2aYAMtEZSCuVV8WAxfzHe6uZVOmhdtGL
+ FzhV3M00GgMkKdgXYEV3Pf7b6zCf8gY0VsFbug5gz8U38m5F6SaGo5M_tnAh6dM_1VLkgcRJTdzN
+ U_po46vxsk14_LXvzN0sOet2z_6s2inTxVn09mHZUZPIqCkfjL7GZ90ouueSKM0z8Ddc6qg--
+Received: from jws300009.mail.gq1.yahoo.com by sendmailws125.mail.gq1.yahoo.com; Mon, 02 Jan 2017 18:05:10 +0000; 1483380310.534
+Date: Mon, 2 Jan 2017 18:05:10 +0000 (UTC)
+From: ADAM DLUGOSZ <adpau@rogers.com>
+Reply-To: ADAM DLUGOSZ <adpau@rogers.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <381018449.5699491.1483380310367@mail.yahoo.com>
+Subject: Trend following closure
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_5699490_871179503.1483380310366"
+References: <381018449.5699491.1483380310367.ref@mail.yahoo.com>
+
+------=_Part_5699490_871179503.1483380310366
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Adam Dlugoszadpau@rogers.com
+
+------=_Part_5699490_871179503.1483380310366
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:18px"><div id="yui_3_16_0_ym19_1_1483365613775_122774">Adam Dlugosz</div><div dir="ltr" id="yui_3_16_0_ym19_1_1483365613775_122773">adpau@rogers.com</div><div dir="ltr" id="yui_3_16_0_ym19_1_1483365613775_122772"><br></div></div></body></html>
+------=_Part_5699490_871179503.1483380310366--
+

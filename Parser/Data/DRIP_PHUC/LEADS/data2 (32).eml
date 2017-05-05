@@ -1,0 +1,233 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B90FE4028F20C
+	for <mcovel@trendfollowing.com>; Sun,  1 Jan 2017 08:18:12 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170101132108577_0459
+          for <mcovel@trendfollowing.com>;
+          Sun, 01 Jan 2017 13:21:08 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=CP9DAgPyRuWYax7zkmlJHs1Q6ms=; b=MipUJ0spQnENZdOqzBzD2w9
+	kUKcQGHptmedbzbYDgyPZnYyu4xlhCH2aiobawlIVE+X46MQrU3aOnVmgVvcc45g
+	CpVIH50IPOtbWwMNH5mJCW++h7J+3ZR/iETxBu7Afe25wXz14tfY+jc/vFMpzb1Z
+	8mgKiELr0Eq46NkvIggg=
+Received: by filter0531p1mdw1.sendgrid.net with SMTP id filter0531p1mdw1-31225-586901F7-2B
+        2017-01-01 13:19:51.960492157 +0000 UTC
+Received: from getdrip.com (ec2-54-165-160-207.compute-1.amazonaws.com [54.165.160.207])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id gySbeTdDSXyIfLYucnghog
+	for <mcovel@trendfollowing.com>; Sun, 01 Jan 2017 13:19:51.904 +0000 (UTC)
+Date: Sun, 01 Jan 2017 13:19:51 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <586901f7d5373_6f93fb5b4c9125c9337e@ip-172-30-1-153.mail>
+Subject: [Drip] agungor06@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_586901f7d4b52_6f93fb5b4c9125c9327a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrcwwQ7BeLSc7S4yUrqjxilmn7aFqQsX0IADm
+ sGIgvieuGIM1kPSiZO7cCSTJKL9VRFlKWBx/3gqoCT4y8IrCizZ+eqTnKBH91eR4pg4hjkM5wL2UiN
+ DgKXV+YyKnZ0X1+y/IkKNVVlTxA+8YznMcT3Rc2OIdwWx92qjswqRC873Y9VBB0yPbjw1FvVanRJzn
+ 0=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_586901f7d4b52_6f93fb5b4c9125c9327a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: ANKARA
+country: TURKEY
+first_name: ATT=C4=B0LA
+has_read_LBoT: NO
+has_read_TC: YES
+has_read_TF: YES
+last_name: G=C3=9CNG=C3=96R
+last_trading_or_investment_book_read: NO
+state: POLATL=C4=B0
+street1: GAZ=C4=B0 MAH.ANITTEPE CAD.NO:39/12
+zip_code: 06900
+id: 4pihzsibi4oagm8ycuzv
+email: agungor06@gmail.com
+utc_offset: 120
+visitor_uuid: f4469b90b2510134122d120ee762fe7d
+status: active
+time_zone: Europe/Helsinki
+friendly_time_zone: EET
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2017-01-01 13:14:05 UTC
+lead_score:
+
+View their full profile here:
+
+agungor06@gmail.com ( https://www.getdrip.com/3513718/subscribers/4pihzsibi=
+4oagm8ycuzv )
+
+Cheers,
+
+The Drip Team=
+
+----==_mimepart_586901f7d4b52_6f93fb5b4c9125c9327a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+  <title></title>
+=20=20
+  </head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important"><style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^=3D"tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  a[href^=3D"sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  .mobile_link a[href^=3D"tel"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+  .mobile_link a[href^=3D"sms"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 102=
+4px) {
+  a[href^=3D"tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  a[href^=3D"sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: defau=
+lt;
+  }
+  .mobile_link a[href^=3D"tel"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+  .mobile_link a[href^=3D"sms"] {
+    text-decoration: default; color: orange !important; pointer-events: aut=
+o; cursor: default;
+  }
+}
+</style>
+  <div id=3D"main-content" style=3D"color: #222222; font-family: 'Helvetica=
+', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; w=
+idth: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: ANKARA<br />country: TURKEY<br />first_name: ATT=C4=B0LA<br /=
+>has_read_LBoT: NO<br />has_read_TC: YES<br />has_read_TF: YES<br />last_na=
+me: G=C3=9CNG=C3=96R<br />last_trading_or_investment_book_read: NO<br />sta=
+te: POLATL=C4=B0<br />street1: GAZ=C4=B0 MAH.ANITTEPE CAD.NO:39/12<br />zip=
+_code: 06900<br />id: 4pihzsibi4oagm8ycuzv<br />email: agungor06@gmail.com<=
+br />utc_offset: 120<br />visitor_uuid: f4469b90b2510134122d120ee762fe7d<br=
+ />status: active<br />time_zone: Europe/Helsinki<br />friendly_time_zone: =
+EET<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"=
+, "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created=
+_at: 2017-01-01 13:14:05 UTC<br />lead_score: <br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href=3D"https://www.getdrip.com/3513718/subscribers/4pihzsibi4oa=
+gm8ycuzv" style=3D"color: blue">agungor06@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_586901f7d4b52_6f93fb5b4c9125c9327a--
+

@@ -1,0 +1,66 @@
+Return-Path: <ssworkman@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C832D4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:01:02 -0500 (EST)
+Received: from mail-yw0-f182.google.com ([209.85.161.182])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103000359174_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 00:03:59 +0000
+X-RC-FROM: <ssworkman@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f182.google.com with SMTP id r204so277281850ywb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 16:03:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:subject:message-id:date:to
+         :mime-version;
+        bh=p2H5Y5Gb+qcxjRoyTwqlqXAt67ZREiVhJ/Dtsz/hTE8=;
+        b=u90WSU+imWt6oIXYX0NI7M5O551fTjBWbfSvVidQ4aaz8tEaITCqqzJHK5JpN7eJE1
+         fiCrQ/hQzTckeQtznVUc8FIaZ+RPQ/gjCL0yJ1mivrGAOWQFhZ7gZapl/bNlJ5oFi62F
+         tepVahY1bFmwRafYTBz/9d+4yz2uKLoVz4hsh6iaPvh+PmCgMffkGRRP2fc2f1NYWC02
+         ZiWGj3hps5dgMD/Gv6lTATTDRoPcXHbnnmKvXv2JBKojiVGcZaY4HJkF07V+7WZ5Zi+X
+         z4KYoNTl++oLHktIpEtIw6kiicBXAi8IDc0+/if0kRiK+pgAKz8hYzJoAXG5T7e2/Twb
+         JfPQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:subject
+         :message-id:date:to:mime-version;
+        bh=p2H5Y5Gb+qcxjRoyTwqlqXAt67ZREiVhJ/Dtsz/hTE8=;
+        b=qYPyUPA6UTM29tJtrNddQ+Yzjt8taAdX4rBAcbv999no95xm5lIKTIe+L8IQhxiXy8
+         RoUoWzH2kWq28Dj8lq5OzpqxL/vv2rJTsy05uCm7HJBL6qIAZxl9HALEAzB4ZTTzZbfp
+         wFEibLTY99CtARZs7UAdTJ4aUvUmpXirJiMvF2/NW3jNeIZ8zXsazBWoRyL63hyFmM4s
+         ZbZlTH/KWWf2NYwh666QTg+legtHqzafyXhA3sq4Fxnf/s/X6Dc9usl4BUPYus2y9wBF
+         pvefgPahwnPxclxcavtnAre/PrjyKXD/3A4uJIPAhiwD/bfeiR+XiKcItvhse7FHKQVM
+         /nfw==
+X-Gm-Message-State: AIkVDXJhGQMroLjVUjTJW22G/KnzbSIgwsRGi+yHchFnxwTLkNWlFCN0J/nUoa00YygyBA==
+X-Received: by 10.13.248.193 with SMTP id i184mr57237337ywf.265.1483401823892;
+        Mon, 02 Jan 2017 16:03:43 -0800 (PST)
+Received: from [10.0.0.2] (host-23-251-76-139.JENOLT6.epbfi.com. [23.251.76.139])
+        by smtp.gmail.com with ESMTPSA id d5sm27949314ywf.20.2017.01.02.16.03.43
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 16:03:43 -0800 (PST)
+From: Stephen Workman <ssworkman@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Investments
+Message-Id: <65481563-193F-4FE5-B20F-85639E2566A3@gmail.com>
+Date: Mon, 2 Jan 2017 19:03:42 -0500
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+X-Mailer: Apple Mail (2.2104)
+
+Michael,
+Here is my address. Please email or send me whatever you like. 
+I have enjoyed your newsletter.
+
+Steve Workman
+PO Box 2706
+Chattanooga, TN 37409
+
+Thanks,
+Steve
+

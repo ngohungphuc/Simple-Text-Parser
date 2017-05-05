@@ -1,0 +1,51 @@
+Return-Path: <johncnwy@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DA6584028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:34:32 -0500 (EST)
+Received: from nm8-vm0.bullet.mail.bf1.yahoo.com ([98.139.213.95])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102183729281_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:37:29 +0000
+X-RC-FROM: <johncnwy@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483382243; bh=goTCIzyUb8govAkGiGnTkuyb+NWaysDpDWHWX4CkhDE=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=JVntiiwFkWDFIum+bIZYQkjtUO9J/SofGwzd4lq0NbQKEEnHF+Y57doUaJYz2oOBN4et/VZkh6P3W4uEFLkrMCPjSTksfHN3K+b75aq7DRxljEIb8boImrB/t/vWZBJ6j0qXKDc/tnm75Q/LWM18oQI0Ur+Jg0NAY8a2t0SdqnDnMSdvOyJ8Vt02FqklTnHl6xfhGKjYZiCOY3/1fhpI3117Pt7mdesFRQRuVdZeZapdmhrQrJl3L6tYJNebwxjHAJYfGTxY9H4G/qvewMkwHcC+Ot8Wc/Okkq5yPxniI57zu0RqQ4n63cy7MayK9j60qWplnqMLRP01aJTQo7IkzA==
+Received: from [66.196.81.172] by nm8.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:37:23 -0000
+Received: from [98.139.212.207] by tm18.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:37:23 -0000
+Received: from [127.0.0.1] by omp1016.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:37:23 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 829025.38563.bm@omp1016.mail.bf1.yahoo.com
+X-YMail-OSG: wqokHMwVM1n6WXyAinLRTKp7_obhY84PQxJHMP8UbEwmCEz6SC9vn87vv0j.Xzq
+ SBgO7qwcqOsxSWEFM1tV1sYSyEfg5UKOnIWdGREUQWiX.SQDpoIYwNX67ttgVGWyDhjXk4Mmkfff
+ gjHhx4ksdWKLV8TZKs5IaA_XIG3Jev1hMRiCXkeyXXwC7Ca0aKZy6DBwkZqoI6mAcR6IKHtzIHwL
+ PaRJZYD8F9oc2Lvsuoo7PTjxODlixKTg0q82YCVV4hBRPokDEZudYV3sdQqjlkSrBp6R0Xate9Rd
+ I0g5eGfTIR9HJM4c5cdzV9VPutQCvZ40gEmoylvxyWGK7geIaD5WTvtCyeG1WgTVsJ.EIgE7L0fI
+ W9SF2ELT7ciK0_PhSxaS16TLQVUnn9srnDhf31LPS4KWpa.1tkcnRxzO722rEi70k_lNq_ctK4p3
+ po7v3mhUXYTr.KC1_xjH9a2pw_7KnHKdENAm_jIaaEaGetPI7YTWqb4qhBYMNRgIv7JHIiZA6sNI
+ REwuVsze2qzmX.OdtOmvMmLgYDqY6QA--
+Received: from jws400023.mail.bf2.yahoo.com by sendmailws130.mail.bf1.yahoo.com; Mon, 02 Jan 2017 18:37:23 +0000; 1483382243.431
+Date: Mon, 2 Jan 2017 18:37:23 +0000 (UTC)
+From: John Conway <johncnwy@yahoo.com>
+Reply-To: John Conway <johncnwy@yahoo.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <832550859.5431442.1483382243254@mail.yahoo.com>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_5431441_1396722247.1483382243254"
+References: <832550859.5431442.1483382243254.ref@mail.yahoo.com>
+
+------=_Part_5431441_1396722247.1483382243254
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+ john e.conway 76 damon rd.rockland ma.02370
+------=_Part_5431441_1396722247.1483382243254
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px"><div>  john e.conway </div><div dir="ltr">76 damon rd.</div><div dir="ltr">rockland ma.02370</div></div></body></html>
+------=_Part_5431441_1396722247.1483382243254--
+

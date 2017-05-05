@@ -1,0 +1,281 @@
+Return-Path: <rbronkman@gmail.com>
+X-Original-To: michael@covel.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m031.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3F0BF4019ECE2
+	for <michael@covel.com>; Mon,  7 Mar 2016 19:13:27 -0500 (EST)
+Authentication-Results: s12p02m031.mxlogic.net; spf=pass
+Received: from unknown [209.85.192.47] (EHLO mail-qg0-f47.google.com)
+	by s12p02m031.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id 9291ed65.0.4537953.00-2058.8511147.s12p02m031.mxlogic.net (envelope-from <rbronkman@gmail.com>);
+	Mon, 07 Mar 2016 17:13:29 -0700 (MST)
+Received: by mail-qg0-f47.google.com with SMTP id u110so111039474qge.3
+        for <michael@covel.com>; Mon, 07 Mar 2016 16:13:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:to:references:from:message-id:date:user-agent:mime-version
+         :in-reply-to;
+        bh=8j51gaYE2RQJALYxVb4UKeLaAb4+E88f+xLbuD0fJXM=;
+        b=uoK50nXmSl/VM8VaE/+22/xWN4ZwFqKJeKKdHGEeprEaYqv7XcS+GjimsRQRFBzKwt
+         iKAFxqxHsmclER0wM3fvj2l/QpNkfJ5NBV1vOWn1+N3aJHJjMrGiKj3wle7TRqMz7ZRr
+         qI9V4+XccezLSLrxtTHGVc49MLZrhIDNKsT29IDxX3w/CMRimFLIj+zQIKg5SWevuMp5
+         +ATXGC2eDVkUIv/GezP26xNLe/WP61LGC+YP3uM/NFntpU834fGzuHvWuTjK22q1NxzS
+         rOWT/pxDH7vqvRLRA5YW24AsWlSR868tpxsvoFH4fpevRzTv316xK8W220y9MeYoqg6n
+         ngBA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:subject:to:references:from:message-id:date
+         :user-agent:mime-version:in-reply-to;
+        bh=8j51gaYE2RQJALYxVb4UKeLaAb4+E88f+xLbuD0fJXM=;
+        b=NI6ygvRQb0iKra1SihGTVRjjrMZvgATDgirHaDk1vcqzjZvSojD8B0c9McvQHz8dHJ
+         VOdaaXlDysHRK9Pe3SxMOfavBinr992XbkuQJPlBF1ldhXrRzeAUDyzwppEEea8plAbz
+         YoMalbJANB/iXBKk/c3yV5NXPMX+af1aGPtcq7Q5KwTPSu3QislRo7IgvIz+Lol9wr9H
+         vXAw9X9UgeWigySl2CYLrR43pDLxsB4ZozoGvdoGW+wn2WrqVfyEDPzlRsYiZBAJ8+D9
+         LN+cKXsPRY4raekRjzSWs9i5rCiNUBIdTVvVhnnCp71iQERDJftf/DjkURJeOrRUAO+/
+         hh6A==
+X-Gm-Message-State: AD7BkJI/0C69kt8WFYtk3FdNQS2hdmkGm3aSfc72ZQmHreaoG/tSHDXY5+d21dlwqmxJlA==
+X-Received: by 10.140.20.39 with SMTP id 36mr31749187qgi.15.1457396008859;
+        Mon, 07 Mar 2016 16:13:28 -0800 (PST)
+Received: from [192.168.1.13] (cpe-142-105-130-158.nycap.res.rr.com. [142.105.130.158])
+        by smtp.googlemail.com with ESMTPSA id u13sm93280qkl.17.2016.03.07.16.13.27
+        for <michael@covel.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 07 Mar 2016 16:13:28 -0800 (PST)
+Subject: Re: Michael Covel Trend Following Update
+To: Michael Covel <michael@covel.com>
+References: <C8.BA.01088.EBA8DD65@momentum1-mta4>
+From: Rob <rbronkman@gmail.com>
+Message-ID: <56DE1926.8020204@gmail.com>
+Date: Mon, 7 Mar 2016 19:13:26 -0500
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101
+ Thunderbird/38.6.0
+MIME-Version: 1.0
+In-Reply-To: <C8.BA.01088.EBA8DD65@momentum1-mta4>
+Content-Type: multipart/alternative;
+ boundary="------------000007000805090609030508"
+X-AnalysisOut: [v=2.1 cv=FYkxscK6 c=1 sm=1 tr=0 a=rk2D3aAw2PAuWEHugMizkA==]
+X-AnalysisOut: [:117 a=i0U2HqpM7jHHp3GrrQ31Ag==:17 a=7OsogOcEt9IA:10 a=r77]
+X-AnalysisOut: [TgQKjGQsHNAKrUKIA:9 a=pGLkceISAAAA:8 a=uDb4aMAuAAAA:8 a=sl]
+X-AnalysisOut: [UH9QLNbmpQR0-vgOkA:9 a=QEXdDO2ut3YA:10 a=A45cWGUHgmp3uWJ7_]
+X-AnalysisOut: [XoA:9 a=MeMHKxPAUa-xNIIc:21 a=_W_S_7VecoQA:10]
+Received-SPF: Pass (s12p02m031.mxlogic.net: domain of gmail.com designates 209.85.192.47 as permitted sender)
+X-Spam: [F=0.4963652533; B=0.500(0); STSI=0.500(0); STSM=0.500(0); CM=0.500; CY=0.50; MH=0.510(2016030715); S=0.486(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <rbronkman@gmail.com>
+X-SOURCE-IP: [209.85.192.47]
+
+This is a multi-part message in MIME format.
+--------------000007000805090609030508
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+rbronkman@gmail.com
+
+On 3/7/2016 9:04 AM, Michael Covel wrote:
+>
+>
+>     FIRST MASTERMIND GROUP
+>
+> I am organizing a *#trendfollowing* *#mastermind* group. This will be 
+> a new offering for Flagship 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=0Vxg8bzU9uugbkzKHolTsg> 
+> clients. Information to follow, but please send an email to be 
+> notified: contact 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=HVZH6VApj0tmmD53dM2NAQ>.
+>
+>
+>     NEW PODCAST EPISODES
+>
+> Ep. 430 (NEW; Mar 7): Michael Covel 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=jNhj3G88jL5VT8Ws8q_iJw> 
+> (on the Mob Rules).
+> Ep. 429 (NEW; Mar 4): Jim Rogers 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=nPZNCw5slanye.RTmDS7dQ> 
+> (on The Fed).
+> Ep. 428: Michael Covel 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=PticcgOnGn58JwzbNhsFlg> 
+> (on Never Punting).
+> Ep. 427: Michael Ellsberg 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=lQnH6l9LWanom3Yc2IEdEw> 
+> (on Investing in You).
+> Ep. 426: Vineer Bhansali 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=2virdoxGf1BeIz1Q9fNyNg> 
+> (on Tail Investing).
+> Ep. 425-1: All trend following podcast episodes on iTunes and Android 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=XIQsezDtBRCDoqYsf9oKag>.
+>
+>
+>     NEW ARTICLES
+>
+> Read 1: Ep. 430: Michael Covel on the Mob Rules 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=Oo7CBlErzhu1o9_9EKHpGg>
+> Read 2: Trading Food for Thought: March 6th Edition 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=S22Ug68YnaEs1EuJlO3b5A>
+> Read 3: For those unwilling to think deeply... 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=1mo3i8hhwgdRc9Odv7resg>
+> Read 4: Cole Wilcox CEO Longboard: Top Business Principles Reading 
+> List 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=z6mX31PRL34P.GTFfHcpXA>
+> Read 5: Ep. 429: Jim Rogers Interview with Michael Covel on Trend 
+> Following Radio 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=FqL7h4ag55xXK56OObLy4w>
+> Read 6: Peak: Secrets from the New Science of Expertise by Anders 
+> Ericsson 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=PhmAYELuiwD44XPndD1.hw>
+> Read 7: Ted Williams, Stephen Curry, Barry Ritholtz and Nokia; See the 
+> Connection? 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=GjjQAfGUljXOJCndXNrqSw>
+> Read 8: Passionately Converting One Trader at a Time! 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=LWBMni3dXY7nyttRzthXlg>
+>
+>
+>     ABOUT
+>
+> Michael Covel is president of Trend Following™, a privately owned 
+> research firm with clients in more than 70 countries. He is the 
+> four-time bestselling author of The Little Book of Trading 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=rQJGv8GNzFGJ5fCSIwSBew>, 
+> Trend Commandments 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=v7IvvwtA6uCUoDvtzd2cMA>, 
+> The Complete TurtleTrader 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=RPFYEpvv45gDqEAli64PAw>, 
+> and the classic Trend Following 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=pr.SZ5afRgOZ6tt.hebrNg>. 
+> His service is an overall trend trader education with exact trend 
+> following systems that can be applied immediately to your investment 
+> account.
+>
+> Trend Following™ Flagship Product 
+> <http://clicks.aweber.com/y/ct/?l=Lstxg&m=3dup3kabbT5.F2x&b=0Vxg8bzU9uugbkzKHolTsg>.
+>
+> 11654 Plaza America drive, 224, Reston, Virginia 20190, USA
+>
+> Unsubscribe 
+> <http://www.aweber.com/z/r/?zMwcjBwcDLSsHOyszEycjLRGtMyMjAws7Ays> | 
+> Change Subscriber Options 
+> <http://www.aweber.com/z/r/?zMwcjBwcDLSsHOyszEycjLRGtMyMjAws7Ays>
+>
+
+
+--------------000007000805090609030508
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <div class="moz-cite-prefix"><a class="moz-txt-link-abbreviated" href="mailto:rbronkman@gmail.com">rbronkman@gmail.com</a><br>
+      <br>
+      On 3/7/2016 9:04 AM, Michael Covel wrote:<br>
+    </div>
+    <blockquote cite="mid:C8.BA.01088.EBA8DD65@momentum1-mta4"
+      type="cite">
+      <title></title>
+      <h2>FIRST MASTERMIND GROUP</h2>
+      <p>I am organizing a <b>#trendfollowing</b> <b>#mastermind</b>
+        group. This will be a new offering for <a
+          moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=0Vxg8bzU9uugbkzKHolTsg"
+          target="_blank">Flagship</a> clients. Information to follow,
+        but please send an email to be notified: <a
+          moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=HVZH6VApj0tmmD53dM2NAQ"
+          target="_blank">contact</a>.</p>
+      <h2>NEW PODCAST EPISODES</h2>
+      <p>Ep. 430 (NEW; Mar 7): <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=jNhj3G88jL5VT8Ws8q_iJw"
+          target="_blank">Michael Covel</a> (on the Mob Rules).<br>
+        Ep. 429 (NEW; Mar 4): <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=nPZNCw5slanye.RTmDS7dQ"
+          target="_blank">Jim Rogers</a> (on The Fed).<br>
+        Ep. 428: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=PticcgOnGn58JwzbNhsFlg"
+          target="_blank">Michael Covel</a> (on Never Punting).<br>
+        Ep. 427: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=lQnH6l9LWanom3Yc2IEdEw"
+          target="_blank">Michael Ellsberg</a> (on Investing in You).<br>
+        Ep. 426: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=2virdoxGf1BeIz1Q9fNyNg"
+          target="_blank">Vineer Bhansali</a> (on Tail Investing).<br>
+        Ep. 425-1: All trend following podcast episodes on <a
+          moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=XIQsezDtBRCDoqYsf9oKag"
+          target="_blank">iTunes and Android</a>.</p>
+      <h2>NEW ARTICLES</h2>
+      <p>Read 1: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=Oo7CBlErzhu1o9_9EKHpGg">Ep.
+          430: Michael Covel on the Mob Rules</a><br>
+        Read 2: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=S22Ug68YnaEs1EuJlO3b5A">Trading
+          Food for Thought: March 6th Edition</a><br>
+        Read 3: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=1mo3i8hhwgdRc9Odv7resg">For
+          those unwilling to think deeply...</a><br>
+        Read 4: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=z6mX31PRL34P.GTFfHcpXA">Cole
+          Wilcox CEO Longboard: Top Business Principles Reading List</a><br>
+        Read 5: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=FqL7h4ag55xXK56OObLy4w">Ep.
+          429: Jim Rogers Interview with Michael Covel on Trend
+          Following Radio</a><br>
+        Read 6: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=PhmAYELuiwD44XPndD1.hw">Peak:
+          Secrets from the New Science of Expertise by Anders Ericsson</a><br>
+        Read 7: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=GjjQAfGUljXOJCndXNrqSw">Ted
+          Williams, Stephen Curry, Barry Ritholtz and Nokia; See the
+          Connection?</a><br>
+        Read 8: <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=LWBMni3dXY7nyttRzthXlg">Passionately
+          Converting One Trader at a Time!</a></p>
+      <h2>ABOUT</h2>
+      <p>Michael Covel is president of Trend Following™, a privately
+        owned research firm with clients in more than 70 countries. He
+        is the four-time bestselling author of <a
+          moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=rQJGv8GNzFGJ5fCSIwSBew"
+          target="_blank">The Little Book of Trading</a>, <a
+          moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=v7IvvwtA6uCUoDvtzd2cMA"
+          title="Trend Commandments" target="_blank">Trend Commandments</a>,
+        <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=RPFYEpvv45gDqEAli64PAw"
+          title="The Complete TurtleTrader" target="_blank">The Complete
+          TurtleTrader</a>,
+        and the classic <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=pr.SZ5afRgOZ6tt.hebrNg"
+          title="Trend Following: Learn to Make Millions in Up or Down
+          Markets" target="_blank">Trend Following</a>. His service is
+        an overall trend trader education with exact trend following
+        systems that can be applied immediately to your investment
+        account.</p>
+      <p>Trend Following™ <a moz-do-not-send="true"
+href="http://clicks.aweber.com/y/ct/?l=Lstxg&amp;m=3dup3kabbT5.F2x&amp;b=0Vxg8bzU9uugbkzKHolTsg"
+          target="_blank">Flagship Product</a>.</p>
+      <center>
+        <div style="background-color:#ffffff !important; color:#000000
+          !important; font-family:Verdana !important; font-size:10px
+          !important; max-width:600px; padding:8px !important;
+          text-align:left; width:100%;"> 11654 Plaza America drive, 224,
+          Reston, Virginia 20190, USA <br>
+          <br>
+          <a moz-do-not-send="true"
+            href="http://www.aweber.com/z/r/?zMwcjBwcDLSsHOyszEycjLRGtMyMjAws7Ays"
+            style="color: #00f !important;">Unsubscribe</a> | <a
+            moz-do-not-send="true"
+            href="http://www.aweber.com/z/r/?zMwcjBwcDLSsHOyszEycjLRGtMyMjAws7Ays"
+            style="color: #00f !important;">Change Subscriber Options</a>
+          <br>
+          <br>
+          <img moz-do-not-send="true"
+            src="https://openrate.aweber.com/y/o/?l=Lstxg&amp;m=3dup3kabbT5.F2x"
+            height="1" width="1">
+        </div>
+      </center>
+    </blockquote>
+    <br>
+  </body>
+</html>
+
+--------------000007000805090609030508--

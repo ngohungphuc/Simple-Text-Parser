@@ -1,0 +1,57 @@
+Return-Path: <charlesj@staxxon.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 534884028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 16:40:09 -0500 (EST)
+Received: from mail-vk0-f44.google.com ([209.85.213.44])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170104214306424_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 21:43:06 +0000
+X-RC-FROM: <charlesj@staxxon.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f44.google.com with SMTP id 137so293140571vkl.0
+        for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 13:43:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=staxxon.com; s=staxxon;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :to;
+        bh=IZCP7dPSzU4fx5rW9hGVhDup5Sb++Suxussx1QC6uuc=;
+        b=DDK7VFfdL/R8DLoRsKqEP28mobjQD+ebHsqSqINuMgub+B5l2ouUkZl4THKyE6ccTo
+         GJWY9rA+WVjQDdp2I3Qtqj9gV7LE1CugrZpGjmRu2ucPHxD8Iok8StvT1p6d5Ob4PcAh
+         zY1h81u6BedEKnoJrrKustPSRXDXKUKxpWuP0=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:to;
+        bh=IZCP7dPSzU4fx5rW9hGVhDup5Sb++Suxussx1QC6uuc=;
+        b=aQ30yvJf5m+awBYn5XTF+SnHdni9KL2MtmYyVT0GKjRvyPSzttnyos26ge6lp8ds3t
+         iCMgqmyrmDeXRNtSZEBi/Xf2LN6Ju93BN0A4Sf2+ct86gX4yTHV1bPeywNzke4+L8mRl
+         4fkIYKKMqlSidtknU9FRJWDwwweCyUrG0Hjjaa7E2osPWJZ1S9xrklIoQUkDJLbmfQPo
+         E1zVWYBaNw1HHZu1J+WiHXrnKS3fukrKMMqvp7IC3u/gyvmVcewrwK5h0dG9NQun76uT
+         dW7z6fRuiRC0azIqxpqa5MvliTTv61hX+TbiIBBceCde+IIlLZsBQc9QL9a+V71Jlsaq
+         xRsQ==
+X-Gm-Message-State: AIkVDXIOfZ/3Y41pOV1MoQybFY3eqYvCGgrCGRyg3BDbGjvETDNSgH16Jz8YJMC2SIy1F2o6
+X-Received: by 10.31.102.134 with SMTP id a128mr18680139vkc.104.1483566180843;
+        Wed, 04 Jan 2017 13:43:00 -0800 (PST)
+Received: from ?IPv6:2601:346:c002:194d:ad7a:65e4:6731:77d3? ([2601:346:c002:194d:ad7a:65e4:6731:77d3])
+        by smtp.gmail.com with ESMTPSA id i2sm23135978uab.14.2017.01.04.13.42.59
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 04 Jan 2017 13:43:00 -0800 (PST)
+From: Charles Johnson <charlesj@staxxon.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (Mac OS X Mail 10.0 \(3226\))
+Subject: Follow up on trend following
+Message-Id: <35F01021-E9D5-4A6D-982B-C20A9A320A35@staxxon.com>
+Date: Wed, 4 Jan 2017 16:42:58 -0500
+To: mcovel@trendfollowing.com
+X-Mailer: Apple Mail (2.3226)
+
+My email is with this email and I would like to stay in touch with you.
+Have a great 2017.
+
+Charlie Johnson
+

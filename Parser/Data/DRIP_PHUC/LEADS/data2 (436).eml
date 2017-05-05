@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m032.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 066DF4019ED01
+	for <mcovel@trendfollowing.com>; Mon, 27 Jun 2016 03:24:17 -0400 (EDT)
+Authentication-Results: p01c11m032.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m032.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 2a4d0775.0.33640954.00-2224.60034213.p01c11m032.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 27 Jun 2016 01:24:18 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=Mbxqjfp+Evju+VKX1r/CGyhWPLc=; b=F7RT2wo8jvGntUNOnecE4Zk
+	Ha49N2bpKtpDi6Hz7zmt9lyVz9xkB/UYnDSLkxuJk+maJZP2kAg6FMV49Ui4Ry2l
+	O8dkDKGHw/soJN4XUfYuCA9x8Ncqk4/cVHyNlAXAPWXqAzuoN04IkIAcfMd1FpDk
+	7Pszgj5IdLwVVKa3YJVo=
+Received: by filter0544p1mdw1.sendgrid.net with SMTP id filter0544p1mdw1.15192.5770D4A030
+        2016-06-27 07:24:16.690827906 +0000 UTC
+Received: from getdrip.com (ec2-52-90-26-126.compute-1.amazonaws.com [52.90.26.126])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id JFM8MDwbSWuQcHq55cJkCw
+	for <mcovel@trendfollowing.com>; Mon, 27 Jun 2016 07:24:16.791 +0000 (UTC)
+Date: Mon, 27 Jun 2016 07:24:16 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5770d4a089dd9_40cd3fa85dc22ba49554@ip-172-30-0-204.mail>
+Subject: [Drip] Gearoidozz@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqKIwHWgD171PCEJZjWl+otY0gqhfSwZtzF7s
+ bsyIeEjQ5x5/IC+8amY2KfNXYPe6IK1tlPZX/uyniSr+RcGu6Q5zdaDJvh3F5XtiU7sEwYtvwPyGkd
+ 74WR3Nqk6EswMCTz+KKExJIg/vLnBJgFsec0UkPPK+QKb7q+/5lv5hP8cN1niAyuqlQ7ucVgAbjigf
+ 4=
+Received-SPF: Pass (p01c11m032.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: Gearoidozz@gmail.com
+IP Address: (not provided)
+city: st ives
+country: Australia
+first_name: Gearoid
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: Ryan
+last_trading_or_investment_book_read: the economic cliff
+state: NSW
+street1: 7 Garrick Road
+zip_code: 2075
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/hfoyeqsygn8zasbzbp1y
+
+Cheers,
+The Drip Team

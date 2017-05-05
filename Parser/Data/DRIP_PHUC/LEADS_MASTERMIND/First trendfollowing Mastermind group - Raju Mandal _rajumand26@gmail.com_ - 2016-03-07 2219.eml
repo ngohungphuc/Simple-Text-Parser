@@ -1,0 +1,68 @@
+Return-Path: <rajumand26@gmail.com>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m034.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id AE6DC4019ECE2
+	for <info@trendfollowing.com>; Mon,  7 Mar 2016 10:19:04 -0500 (EST)
+Authentication-Results: s12p02m034.mxlogic.net; spf=pass
+Received: from unknown [209.85.220.44] (EHLO mail-pa0-f44.google.com)
+	by s12p02m034.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id beb9dd65.0.3518196.00-2381.6384753.s12p02m034.mxlogic.net (envelope-from <rajumand26@gmail.com>);
+	Mon, 07 Mar 2016 08:19:07 -0700 (MST)
+Received: by mail-pa0-f44.google.com with SMTP id fy10so79981737pac.1
+        for <info@trendfollowing.com>; Mon, 07 Mar 2016 07:19:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:from:message-id:date:to:content-transfer-encoding
+         :mime-version;
+        bh=o+iC+lQaZyipLdAAzHH1PpssmpHjZyVujMtgqLe66Tw=;
+        b=yaieHw09y3JLT3hJzTACAgaW0yyINT7VMy+3kxP0JsAPxzmzksbmz7KO4IFtWAe3PK
+         1q0mO+u9QlWueaBGjtdySUGLgr5MWBpAC87L+7VcsJ6hmqrqdWgqan2KRNqFE+5PPzze
+         M2tm7Yru5BDaWmL++BhR2WNQQkIf4qtQiavYBeaOMKd1oENLV9F98R86GIqTAwAI8HUS
+         ocZ+78zyJDukF/5VMpbZytpY7UrZ1pbw4r9DYjzRqifX7EuPiNOxTqPt8lnaToiS6K8u
+         cBYfush8NnceN7WNelynwIleaPlzX52lDUx0vMM5x/JAdRTfLx04q3TMNkE1aDcmSgIG
+         P9zw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:subject:from:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=o+iC+lQaZyipLdAAzHH1PpssmpHjZyVujMtgqLe66Tw=;
+        b=EfHAkr9CAP6yBj85WDmCf5EOlYwWSDsReiH5zzRs5xKqgMQmpw4fnqdVCKrx8Mc9g0
+         FU2L3l94vgvyRQBxB+JX/x+cBzPFnSf1MVYOqgS6JTlswTzTJcwCmF4uOceNuiIBDC9v
+         SVZPLUpShuXjcqXVW1EC18NUwzDrk8gXWxPOf0X8852Z09NhO1C+Xft1ixqTTEGMGN02
+         pUg01ATOi6iZb1HRDg2ln8vZRuU0C62/ZYG/2VAWkt0M2OR8jn433wPLgMu9lwloeQIv
+         fwWlL/p9DEjhJsCctoKZ8p57b/w+QxXoNKlrJ/nddXbHwQABL8lObpq3FlaR2ux8N7ke
+         0ZgQ==
+X-Gm-Message-State: AD7BkJI0ZOkujkLhhPDbdYVpm5G/sFfiaq4Kr6TImOtixDVrJjZyDieDZWL3xjOgtWzDow==
+X-Received: by 10.67.14.138 with SMTP id fg10mr34231102pad.145.1457363946877;
+        Mon, 07 Mar 2016 07:19:06 -0800 (PST)
+Received: from [192.168.1.11] ([117.214.103.79])
+        by smtp.gmail.com with ESMTPSA id i11sm4404420pfi.55.2016.03.07.07.19.05
+        for <info@trendfollowing.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 07 Mar 2016 07:19:06 -0800 (PST)
+Subject: First trendfollowing Mastermind group
+From: Raju Mandal <rajumand26@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPhone Mail (12F70)
+Message-Id: <7CB1ED76-D773-4E7A-8007-1764EF31EA10@gmail.com>
+Date: Mon, 7 Mar 2016 20:49:00 +0530
+To: "info@trendfollowing.com" <info@trendfollowing.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-AnalysisOut: [v=2.1 cv=Bp+btNj5 c=1 sm=1 tr=0 a=EGXREkvI48izAybVQFTOuQ==]
+X-AnalysisOut: [:117 a=ZIwg7eNwIOAx8kGj1wMQTw==:17 a=kj9zAlcOel0A:10 a=7Os]
+X-AnalysisOut: [ogOcEt9IA:10 a=fCvEjGmVAiqyBDPPUuAA:9 a=CjuIK1q_8ugA:10]
+Received-SPF: Pass (s12p02m034.mxlogic.net: domain of gmail.com designates 209.85.220.44 as permitted sender)
+X-Spam: [F=0.2000000000; B=0.500(0); STSI=0.500(0); STSM=0.500(0); CM=0.500; CY=0.50; MH=0.500(2016030706); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <rajumand26@gmail.com>
+X-SOURCE-IP: [209.85.220.44]
+
+Hi Micheal,
+
+Pl send the details,
+
+Regards,
+
+Raju

@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m014.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2782B4019ECFF
+	for <mcovel@trendfollowing.com>; Fri,  9 Sep 2016 03:06:41 -0400 (EDT)
+Authentication-Results: s12p02m014.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m014.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id 83062d75.0.15641871.00-2170.29443977.s12p02m014.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 09 Sep 2016 01:09:44 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=NxWoEe5C2VSUF8FFuFYEiLejLbw=; b=QqOVFyKarCJ0Vv0twfSh9kS
+	8a6ge8STKj+EUf9B6hD756mFtHB6ET2daTLrB0ykQNZAfyc++K0RiisgDxhfkkYn
+	Z0CDLbUMuCjLISpyoszJ1ZuC5hlkK2Q9+mqIqpxm7th78EMcsrvcbDePa8Dv4oyM
+	X12CCz0HUFbUojTUE514=
+Received: by filter0972p1mdw1.sendgrid.net with SMTP id filter0972p1mdw1.8507.57D2603620
+        2016-09-09 07:09:42.924030819 +0000 UTC
+Received: from getdrip.com (ec2-52-90-81-35.compute-1.amazonaws.com [52.90.81.35])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id vJ0tnp3uSC-PLqGxXWbS8w
+	for <mcovel@trendfollowing.com>; Fri, 09 Sep 2016 07:09:42.816 +0000 (UTC)
+Date: Fri, 09 Sep 2016 07:09:42 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57d26036c23e7_4a6d3fcc180038bc314fd@ip-172-30-0-182.mail>
+Subject: [Drip] ash@samadi.com.au just triggered Authorize.net purchase -->
+ Tag subscriber, trigger conversion
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57d26036c1ee5_4a6d3fcc180038bc313e7";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPqdEldMVKm2YKxqiENGlMYbvneMjiZ2H2VLJH
+ LJQdPOENM/Z9hnlbv84ZVQWh3TJeYNbLJ/1Ep3h2bYr0c4VbuOM+9+qdVcRYFpUd71yuCW2wlT3LZO
+ OWYOBsoD6+O/DlwDlRPLK6VKiMGAs+LkCOOnzykPSjkkDExZ+/Zx8EuA15+sZUKCQQepKZZ5KuV9F9
+ 8=
+Received-SPF: Pass (s12p02m014.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57d26036c1ee5_4a6d3fcc180038bc313e7
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+address: 1070
+city: Bondi Junction
+country: AUS
+first_name: Ash
+last_name: Samadi
+phone: 293285223
+state: NSW
+zip: 1355
+id: akndk5tmyh5tmofpvqsm
+email: ash@samadi.com.au
+utc_offset: 600
+visitor_uuid: ae1aa2504bac0134918b0e9dd67883c3
+status: active
+time_zone: Australia/Sydney
+friendly_time_zone: AEST
+tags: ["optedin-sitewide-turtletrading.com",
+"optedin-sitewide-trendfollowing.com", "Customer",
+"Customer-Trend Following Trading Systems from Michael Covel -
+Order 27982", "optedin-sitewide-turtletrading.com",
+"optedin-sitewide-trendfollowing.com", "customer",
+"customer-trend following trading systems from michael covel -
+order 27982"]
+created_at: 2016-08-23 22:13:12 UTC
+
+View their full profile here:
+
+ash@samadi.com.au ( https://www.getdrip.com/3513718/subscribers/akndk5tmyh5tmofpvqsm )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57d26036c1ee5_4a6d3fcc180038bc313e7
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        address: 1070<br />city: Bondi Junction<br />country: AUS<br />first_name: Ash<br />last_name: Samadi<br />phone: 293285223<br />state: NSW<br />zip: 1355<br />id: akndk5tmyh5tmofpvqsm<br />email: ash@samadi.com.au<br />utc_offset: 600<br />visitor_uuid: ae1aa2504bac0134918b0e9dd67883c3<br />status: active<br />time_zone: Australia/Sydney<br />friendly_time_zone: AEST<br />tags: ["optedin-sitewide-turtletrading.com", "optedin-sitewide-trendfollowing.com", "Customer", "Customer-Trend Following Trading Systems from Michael Covel - Order 27982", "optedin-sitewide-turtletrading.com", "optedin-sitewide-trendfollowing.com", "customer", "customer-trend following trading systems from michael covel - order 27982"]<br />created_at: 2016-08-23 22:13:12 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/akndk5tmyh5tmofpvqsm" style="color: blue">ash@samadi.com.au</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57d26036c1ee5_4a6d3fcc180038bc313e7--

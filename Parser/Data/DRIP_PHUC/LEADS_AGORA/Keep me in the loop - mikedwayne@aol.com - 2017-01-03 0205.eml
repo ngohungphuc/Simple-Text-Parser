@@ -1,0 +1,61 @@
+Return-Path: <mikedwayne@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 614884028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:02:51 -0500 (EST)
+Received: from omr-m016e.mx.aol.com ([204.29.186.16])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102190540058_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:05:40 +0000
+X-RC-FROM: <mikedwayne@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mad02.mx.aol.com (mtaomg-mad02.mx.aol.com [172.26.221.208])
+	by omr-m016e.mx.aol.com (Outbound Mail Relay) with ESMTP id 8490D3800091
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:05:26 -0500 (EST)
+Received: from core-mab04c.mail.aol.com (core-mab04.mail.aol.com [172.27.62.4])
+	by mtaomg-mad02.mx.aol.com (OMAG/Core Interface) with ESMTP id 4D5B538000089
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:05:26 -0500 (EST)
+Received: from 216.115.248.132 by webprd-a53.mail.aol.com (10.72.57.68) with HTTP (WebMailUI); Mon, 02 Jan 2017 14:05:26 -0500
+Date: Mon, 2 Jan 2017 14:05:26 -0500
+From: mikedwayne@aol.com
+To: mcovel@trendfollowing.com
+Message-Id: <15960926d94-7160-310df@webprd-a53.mail.aol.com>
+Subject: Keep me in the loop
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_249092_565910359.1483383926163"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [216.115.248.132]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483383926;
+	bh=pc7Rq7+LouWqxN3NNLhVXAl8FBSSruxdj7E0vcBSBKU=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=Qng1cuKAd7zs3Ex2OlRvfy11JDuAnQEhNjZoH2xwBeowE8Nw2LfsHsqzV1Kgm1p8Z
+	 I8JM9R8XEZHkkk4Qu8eGqiGBOVTfV1EYrgPHEx3D+EwqkrdB3PoiIzIrVOUz0PU/wL
+	 Y3b7QhmiQPfJBXF7DNmbl6PS4dymVsX7wZ+it16w=
+x-aol-sid: 3039ac1addd0586aa4766666
+
+------=_Part_249092_565910359.1483383926163
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mike Wayne
+3135C Via Serena North
+Laguna Woods, CA 92637
+
+------=_Part_249092_565910359.1483383926163
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>Mike Wayne
+<div>3135C Via Serena North</div>
+
+<div>Laguna Woods, CA 92637</div>
+</font>
+------=_Part_249092_565910359.1483383926163--
+

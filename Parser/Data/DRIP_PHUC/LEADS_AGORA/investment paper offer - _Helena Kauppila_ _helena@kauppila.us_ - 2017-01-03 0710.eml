@@ -1,0 +1,150 @@
+Return-Path: <helena@kauppila.us>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C463E4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:07:45 -0500 (EST)
+Received: from mail-oi0-f46.google.com ([209.85.218.46])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103001032584_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 00:10:32 +0000
+X-RC-FROM: <helena@kauppila.us>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f46.google.com with SMTP id 3so310584405oih.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 16:10:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=kauppila.us; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=q3UMk7CdKm0UnGTQkxZLDDBYPwHS98mCh5XZ8EYm8RQ=;
+        b=dAXWqAQdeXwk+Ha+ZIeKgV811B4vrvJTVozgn3HE4ewe/mJ5k4f8Vu4615eF0We9TS
+         YM1+Zg6igJH9HkNXstxnwjFVt0dvklInLXv+z6YBfmIH0/rYYt/OwQtx3xUAB5QtVT9T
+         tXegEmBeagxUc+6o8sqREy+ylKMv6cX4L75vg=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=q3UMk7CdKm0UnGTQkxZLDDBYPwHS98mCh5XZ8EYm8RQ=;
+        b=YDH+nhVmMmWjpAy0+CalNq8ekHYskRG9qE11S3X6NfI5QskkyiWPInZJ9mddLVHPi6
+         +ZlA6lXuBWY/n/A1/gvWxRJYY8ogqc+ZZSACQMeDKmipUUbL30E8yIOc0N1id+ddkF8s
+         lQgdOS4w5kk9Ji5HiZS/nEw1oLExs8lu+PpVfTyFZCAELnpUhfKUBSnCmxH60pSp6rai
+         BSecQL8lWAZMf4YKO01FhO5Wz2sLC4UBwe0X8O432FjYub3+azLGcR3crlkqRsE3PgJb
+         kys8QrcxXCzD3amRCxxkfoALWqH0p5SkLG/g2dSqrVJ1a5q8A2kFekk5ssDXvgRsIE0E
+         fpAA==
+X-Gm-Message-State: AIkVDXJKkyGlOrMnw4sHxXEFgM+NeFMJz5FPwZ8h+jXONyGB5Hzajsco7GrvzUwYYhgx4A==
+X-Received: by 10.157.8.197 with SMTP id 63mr32253282otf.212.1483402223660;
+        Mon, 02 Jan 2017 16:10:23 -0800 (PST)
+Received: from HelenaPC (c-50-162-61-167.hsd1.tx.comcast.net. [50.162.61.167])
+        by smtp.gmail.com with ESMTPSA id 73sm31712732otf.16.2017.01.02.16.10.23
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 16:10:23 -0800 (PST)
+From: "Helena Kauppila" <helena@kauppila.us>
+To: <mcovel@trendfollowing.com>
+Subject: investment paper offer
+Date: Mon, 2 Jan 2017 18:10:22 -0600
+Message-ID: <006301d26555$c6cf8500$546e8f00$@us>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0064_01D26523.7C351500"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdJlVcZ86ScIn6g2RVCvG1hUAV66+Q==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0064_01D26523.7C351500
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Helena Kauppila
+
+179 Highland Terrace
+
+League City,  TX  77573
+
+ 
+
+helena@kauppila.us
+
+ 
+
+Thank you Michael for the offer of the trend following investment paper
+
+I am sorry that the Trend Following newsletter did not work out.I wish you
+all the best in 2017 in your other endeavors.
+
+ 
+
+Helena
+
+
+------=_NextPart_000_0064_01D26523.7C351500
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Helena =
+Kauppila<o:p></o:p></p><p class=3DMsoNormal>179 Highland =
+Terrace<o:p></o:p></p><p class=3DMsoNormal>League City,&nbsp; TX&nbsp; =
+77573<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><a =
+href=3D"mailto:helena@kauppila.us">helena@kauppila.us</a><o:p></o:p></p><=
+p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thank you =
+Michael for the offer of the trend following investment =
+paper<o:p></o:p></p><p class=3DMsoNormal>I am sorry that the Trend =
+Following newsletter did not work out&#8230;I wish you all the best in =
+2017 in your other endeavors.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Helena<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0064_01D26523.7C351500--
+
+

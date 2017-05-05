@@ -1,0 +1,349 @@
+Return-Path: <cpfoundation@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 0FAE44028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:45:42 -0500 (EST)
+Received: from mail-it0-f54.google.com ([209.85.214.54])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102174838701_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:48:38 +0000
+X-RC-FROM: <cpfoundation@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f54.google.com with SMTP id 75so250932912ite.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:48:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=s/XxgR5Ke9xfyQOjGDdNHg2jhy1Oee4WaIa82H2O6jk=;
+        b=Ns0nqsdxAWAdyi6SfHcMqZ28ADoEqC6XvLWyn1COna/fDBmt7lO8MPXYRgPCzpWt9O
+         7/HJCtbkVE5hWomFvhwN+aBRvQX2G9CfU8IqizfeZAM9ZX8YhbYGH0R3vlrAH6OtWAK9
+         18xjTi/E76qdOl54N+8PDusTbVkQILNYRTJmjlL+cBxRv1CDgxQ+3i9pBaDPgOLL1sus
+         JpdUQzXevwtNWcgI6xl5ePR7nie38Z+Dbvs2AkLW2k2RpBLnLLyCMS/f2NToT/QUojJx
+         vQj9uZCcLynQhELYTm6508+9VcH5mJgRa2C3YrMUxoiYCoPYYGDsd0upLLHn4A6i3/wX
+         EXLg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=s/XxgR5Ke9xfyQOjGDdNHg2jhy1Oee4WaIa82H2O6jk=;
+        b=M7iVrYi6kxk4VGIDaClGwEWOCBtGUPbyoJqXRBPkpDIS0DPTuVfcYqR2hGlngmEuS1
+         zaHJvB/a8ho4IiPp02hXxKXI2pNSXXzANU2Jxc271pKC97nUlTGjnTOApNfQym4MXYHP
+         YL5971xz7gibw8ZeudNmcGCDqQ0qtReAPOS3SXoE2RSNNHrGgt+oL4QiCYKj68rmk/nW
+         VdGYWND+6OivdcvA7xsO/f8HyWldP2DJntaqV0eC7wmm+e3uqcdRPWVj7nn8UNbGgu/w
+         V/e5v2AJSERJN2vsQE4oOK/amUm0eQDHROkacQVPkGpJ9Yjw0Zl6Kfhrnq3VOOPn7Fgu
+         I9hA==
+X-Gm-Message-State: AIkVDXLv+SSyhu8Hj+ZfBS8j1OLH65DSkFVSpZL1qF6dAASchlQc0tYf1myoZNvbpI3w8LL9TqIQBRLyz5SsJA==
+X-Received: by 10.36.192.84 with SMTP id u81mr45610707itf.51.1483379302057;
+ Mon, 02 Jan 2017 09:48:22 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.167.26 with HTTP; Mon, 2 Jan 2017 09:48:21 -0800 (PST)
+In-Reply-To: <583B2853.2080806@trendfollowing.com>
+References: <CAL9yba+eNAK_awO9TPogz1rawoe7Gmo1xBFXXxPiG1BUM0zuVg@mail.gmail.com>
+ <0B03968E-FC59-4B4B-91DA-3548FEE1B985@trendfollowing.com> <CAL9ybaK1sUsF_kPTyXJE3nQOuYWeSR6_jg2yh2V7AcRf-LQ92Q@mail.gmail.com>
+ <583B2853.2080806@trendfollowing.com>
+From: George Simon <cpfoundation@gmail.com>
+Date: Mon, 2 Jan 2017 18:48:21 +0100
+Message-ID: <CAL9yba+JnedAiZ=KLX1J6XddHo7G7+CZcTWni5_Tot-be6uNOQ@mail.gmail.com>
+Subject: Re: TurtleTrader book extras
+To: "M. Covel" <mcovel@trendfollowing.com>
+Content-Type: multipart/alternative; boundary=94eb2c058ce85dce2f05452028cd
+
+--94eb2c058ce85dce2f05452028cd
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Michael,
+
+I am sad to hear that you will stop working with Agora. I sincerely hope
+that when you will start something new, then I will be informed. So, my
+email address is cpfoundation@gmail.com and my address is Amerikai st. 59.,
+H-1145 Budapest, Hungary.
+In the meantime I wish you and your family a Happy New Year!
+
+Best regards,
+
+Laszlo Kiss
+
+On Sun, Nov 27, 2016 at 7:39 PM, M. Covel <mcovel@trendfollowing.com> wrote=
+:
+
+> deal!!
+>
+>
+>
+>
+> On 11/27/16 1:10 PM, Laszlo Kiss wrote:
+>
+> Dear Mike,
+>
+> thanks for the answer. The file looked as if it is ready for sending to
+> printers with some markers.
+>
+> It is great pleasure to learn from you! If you come to Budapest, you are
+> welcome for a drink (or two :)
+>
+> Have a great day,
+>
+> Best regards,
+>
+> Laszlo Kiss
+> Budapest - Hungary
+>
+> Be 2016. november 27. -on 19:03:36, Michael Covel (
+> mcovel@trendfollowing.com) =C3=8Drt:
+>
+> Hi,
+>
+> The file is fine. The extras only refer to things mentioned in the audio
+> book.
+>
+> There are not many things needed for the file--that's why it's small. It'=
+s
+> not the print version of the book.
+>
+> What is not complete? If we are in error, we will fix.
+>
+> Best,
+> Mike
+>
+> ---
+> Michael Covel
+> 1 800 480 0581 <(800)%20480-0581>
+> michael@covel.com
+>
+> Web: trendfollowing.com
+> Podcast: trendfollowing.com/podcast
+> Twitter: twitter.com/covel
+>
+> On Nov 27, 2016, at 12:45 PM, George Simon < <cpfoundation@gmail.com>
+> cpfoundation@gmail.com> wrote:
+>
+> Hi,
+>
+> I purchased the audiobook version of the Complete TurtleTrader and in the
+> Preface section Michael mentioned the book extra which can be found at
+> turtletrader.com/turtletrader. Unfortunately the file is far from
+> complete and looks as if it is not ready for publishing.
+>
+> Can you check?
+>
+> Thanks
+>
+> Laszlo Kiss
+> Budapest - Hungary
+>
+>
+> --
+>
+> Michael Covel
+>
+> Voice: +1 800 480 0581 <(800)%20480-0581>
+> Email: mcovel@trendfollowing.com
+> Email: trendfollowing@gmail.com
+>
+> Site: trendfollowing.com
+> Podcast: trendfollowing.com/podcast
+> Twitter: twitter.com/covel
+> Facebook: facebook.com/covel
+>
+>
+
+--94eb2c058ce85dce2f05452028cd
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Michael,<div><br></div><div>I am sad to hear that you=
+ will stop working with Agora. I sincerely hope that when you will start so=
+mething new, then I will be informed. So, my email address is <a href=3D"ma=
+ilto:cpfoundation@gmail.com">cpfoundation@gmail.com</a> and my address is A=
+merikai st. 59., H-1145 Budapest, Hungary.</div><div>In the meantime I wish=
+ you and your family a Happy New Year!</div><div><br></div><div>Best regard=
+s,</div><div><br></div><div>Laszlo Kiss</div></div><div class=3D"gmail_extr=
+a"><br><div class=3D"gmail_quote">On Sun, Nov 27, 2016 at 7:39 PM, M. Covel=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:mcovel@trendfollowing.com" target=
+=3D"_blank">mcovel@trendfollowing.com</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid=
+;padding-left:1ex">
+ =20
+   =20
+ =20
+  <div bgcolor=3D"#FFFFFF" text=3D"#000000">
+    deal!!<div><div class=3D"h5"><br>
+    <br>
+    <br>
+    <br>
+    <div class=3D"m_191642729509036250moz-cite-prefix">On 11/27/16 1:10 PM,=
+ Laszlo Kiss wrote:<br>
+    </div>
+    <blockquote type=3D"cite">
+     =20
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto">Dear
+        Mike,</div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto"><br>
+      </div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto">thanks
+        for the answer. The file looked as if it is ready for sending to
+        printers with some markers.</div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto"><br>
+      </div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto">It
+        is great pleasure to learn from you! If you come to Budapest,
+        you are welcome for a drink (or two :)</div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto"><br>
+      </div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto">Have
+        a great day,</div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto"><br>
+      </div>
+      <div id=3D"m_191642729509036250bloop_customfont" style=3D"font-family=
+:Helvetica,Arial;font-size:13px;color:rgba(0,0,0,1.0);margin:0px;line-heigh=
+t:auto">Best
+        regards,</div>
+      <br>
+      <div id=3D"m_191642729509036250bloop_sign_1480270028289385984" class=
+=3D"m_191642729509036250bloop_sign">
+        <div>Laszlo Kiss</div>
+      </div>
+      <div>Budapest - Hungary</div>
+      <br>
+      <p class=3D"m_191642729509036250airmail_on">Be 2016. november 27. -on=
+ 19:03:36, Michael
+        Covel (<a href=3D"mailto:mcovel@trendfollowing.com" target=3D"_blan=
+k">mcovel@trendfollowing.com</a>)
+        =C3=8Drt:</p>
+      <blockquote type=3D"cite" class=3D"m_191642729509036250clean_bq"><spa=
+n>
+          <div dir=3D"auto">
+            <div>
+             =20
+              <div>Hi,</div>
+              <div id=3D"m_191642729509036250AppleMailSignature"><br>
+              </div>
+              <div id=3D"m_191642729509036250AppleMailSignature">The file i=
+s fine. The extras
+                only
+                refer to things mentioned in the audio book.</div>
+              <div id=3D"m_191642729509036250AppleMailSignature"><br>
+              </div>
+              <div id=3D"m_191642729509036250AppleMailSignature">There are =
+not many things
+                needed for
+                the file--that&#39;s why it&#39;s small. It&#39;s not the p=
+rint
+                version of the
+                book.</div>
+              <div id=3D"m_191642729509036250AppleMailSignature"><br>
+              </div>
+              <div id=3D"m_191642729509036250AppleMailSignature">What is no=
+t complete? If we
+                are in
+                error, we will fix.</div>
+              <div id=3D"m_191642729509036250AppleMailSignature"><br>
+              </div>
+              <div id=3D"m_191642729509036250AppleMailSignature">Best,</div=
+>
+              <div id=3D"m_191642729509036250AppleMailSignature">Mike=C2=A0=
+</div>
+              <div id=3D"m_191642729509036250AppleMailSignature"><br>
+              </div>
+              <div id=3D"m_191642729509036250AppleMailSignature">---
+                <div>Michael Covel</div>
+                <div><a href=3D"tel:(800)%20480-0581" value=3D"+18004800581=
+" target=3D"_blank">1 800 480 0581</a></div>
+                <div><a href=3D"mailto:michael@covel.com" target=3D"_blank"=
+>michael@covel.com</a></div>
+                <div><br>
+                </div>
+                <div>Web: <a href=3D"http://trendfollowing.com" target=3D"_=
+blank">trendfollowing.com</a></div>
+                <div>Podcast: <a href=3D"http://trendfollowing.com/podcast"=
+ target=3D"_blank">trendfollowing.com/podcast</a></div>
+                <div>Twitter: <a href=3D"http://twitter.com/covel" target=
+=3D"_blank">twitter.com/covel</a></div>
+              </div>
+              <div><br>
+                On Nov 27, 2016, at 12:45 PM, George Simon &lt;<a href=3D"m=
+ailto:cpfoundation@gmail.com" target=3D"_blank"></a><a class=3D"m_191642729=
+509036250moz-txt-link-abbreviated" href=3D"mailto:cpfoundation@gmail.com" t=
+arget=3D"_blank">cpfoundation@gmail.com</a>&gt;
+                wrote:<br>
+                <br>
+              </div>
+              <blockquote type=3D"cite">
+                <div>
+                  <div dir=3D"ltr">Hi,
+                    <div><br>
+                    </div>
+                    <div>I purchased the audiobook version of the
+                      Complete TurtleTrader
+                      and in the Preface section Michael mentioned the
+                      book extra which
+                      can be found at <a href=3D"http://turtletrader.com/tu=
+rtletrader" target=3D"_blank">turtletrader.com/turtletrader</a>.
+                      Unfortunately the file is far from complete and
+                      looks as if it is
+                      not ready for publishing.</div>
+                    <div><br>
+                    </div>
+                    <div>Can you check?</div>
+                    <div><br>
+                    </div>
+                    <div>Thanks</div>
+                    <div><br>
+                    </div>
+                    <div>Laszlo Kiss</div>
+                    <div>Budapest - Hungary</div>
+                  </div>
+                </div>
+              </blockquote>
+            </div>
+          </div>
+        </span></blockquote>
+    </blockquote>
+    <br>
+    </div></div><span class=3D"HOEnZb"><font color=3D"#888888"><pre class=
+=3D"m_191642729509036250moz-signature" cols=3D"72">--=20
+
+Michael Covel
+
+Voice: <a href=3D"tel:(800)%20480-0581" value=3D"+18004800581" target=3D"_b=
+lank">+1 800 480 0581</a>
+Email: <a class=3D"m_191642729509036250moz-txt-link-abbreviated" href=3D"ma=
+ilto:mcovel@trendfollowing.com" target=3D"_blank">mcovel@trendfollowing.com=
+</a>
+Email: <a class=3D"m_191642729509036250moz-txt-link-abbreviated" href=3D"ma=
+ilto:trendfollowing@gmail.com" target=3D"_blank">trendfollowing@gmail.com</=
+a>
+
+Site: <a href=3D"http://trendfollowing.com" target=3D"_blank">trendfollowin=
+g.com</a>
+Podcast: <a href=3D"http://trendfollowing.com/podcast" target=3D"_blank">tr=
+endfollowing.com/podcast</a>
+Twitter: <a href=3D"http://twitter.com/covel" target=3D"_blank">twitter.com=
+/covel</a>
+Facebook: <a href=3D"http://facebook.com/covel" target=3D"_blank">facebook.=
+com/covel</a></pre>
+  </font></span></div>
+
+</blockquote></div><br></div>
+
+--94eb2c058ce85dce2f05452028cd--
+

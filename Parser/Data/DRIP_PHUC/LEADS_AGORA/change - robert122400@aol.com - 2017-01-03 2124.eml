@@ -1,0 +1,54 @@
+Return-Path: <robert122400@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A4BF34028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 09:21:46 -0500 (EST)
+Received: from omr-a004e.mx.aol.com ([204.29.186.52])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103142443783_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 14:24:43 +0000
+X-RC-FROM: <robert122400@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aad01.mx.aol.com (mtaomg-aad01.mx.aol.com [172.26.127.227])
+	by omr-a004e.mx.aol.com (Outbound Mail Relay) with ESMTP id 1A52738000BD
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 09:24:42 -0500 (EST)
+Received: from core-lex09b.mail.aol.com (core-lex09.mail.aol.com [10.76.17.10])
+	by mtaomg-aad01.mx.aol.com (OMAG/Core Interface) with ESMTP id B48BD38000085
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 09:24:41 -0500 (EST)
+Received: from 23.112.83.64 by webprd-a64.mail.aol.com (10.72.57.77) with HTTP (WebMailUI); Tue, 03 Jan 2017 09:24:40 -0500
+Date: Tue, 3 Jan 2017 09:24:41 -0500
+From: robert122400@aol.com
+To: mcovel@trendfollowing.com
+Message-Id: <15964b7bed8-53c5-2e42c@webprd-a64.mail.aol.com>
+Subject: change
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_237876_1662120177.1483453480662"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [23.112.83.64]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483453482;
+	bh=E7+VFpQBvrMhjw6hZbwzjwGa1CYCXow78zY1jYV3J5k=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=jNvcgYowtfKddG7ryhwKYXHw9uk9GRytazk0B3HFf5UYgVcPA1etP6SCiDCROyVxt
+	 8cUg7uYzWgra5/HyFKoJAwGg3/inIRIWHsqkoXX+cJwCD4znMZmmDez06q58xgfs/e
+	 tMmUJg5XdvW6+FzNuKBvlAstO0IYKDjJkDicprYU=
+x-aol-sid: 3039ac1a7fe3586bb4290873
+
+------=_Part_237876_1662120177.1483453480662
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Robert Gaffey robert122400@aol.com 819 washington st fairfield,ca.94533
+------=_Part_237876_1662120177.1483453480662
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>Robert Gaffey robert122400@aol.com 819 washington st fairfield,ca.94533</font>
+------=_Part_237876_1662120177.1483453480662--
+

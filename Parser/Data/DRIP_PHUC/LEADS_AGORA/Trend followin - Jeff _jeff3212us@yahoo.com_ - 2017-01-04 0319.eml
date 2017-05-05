@@ -1,0 +1,48 @@
+Return-Path: <jeff3212us@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7A1DE4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 15:16:20 -0500 (EST)
+Received: from nm22-vm8.bullet.mail.gq1.yahoo.com ([98.136.217.71])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103201916684_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 20:19:16 +0000
+X-RC-FROM: <jeff3212us@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483474750; bh=M3HbroAWXOcBPzbqmedXU1NbQlyqgJAhJMp4SVlPb3Q=; h=From:Date:Subject:To:From:Subject; b=Cd5x9F2mWz3QMSj0aMV2M5uBOc5d05IsmSrMQE40TQc3hYOKlYJee+R4eLx//5lnws2Ar0wYmdl/Ge1WPOQOGJTCzBa88SaTxUvYW1APANlW80eA+9KRrL1Y/3kTEyvD5xb5O0bnPPRe+BFRn1pigBL8ESC6x1RyPyw0GxF1iGHK2JgjOhNFHMeFion/TwiWgZEHj9QAq6MaYvUaK5lxRVqNSf0wYrkuTTn0lM2Rw6rKP71DrwlhLTdwmUGmn9iWWl9tl4V1QaQ4Wfkn8RpbabK3PpsCxRE0qqvBucyCMeAF6OGwhBW/xLPnmtoL76mM5r4Xj4ce02sYswx8gdnqaw==
+Received: from [216.39.60.184] by nm22.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 20:19:10 -0000
+Received: from [98.137.12.222] by tm20.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 20:19:10 -0000
+Received: from [127.0.0.1] by omp1030.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 20:19:10 -0000
+X-Yahoo-Newman-Id: 587486.84691.bm@omp1030.mail.gq1.yahoo.com
+Received: (qmail 66195 invoked from network); 3 Jan 2017 20:19:10 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1483474750; bh=M3HbroAWXOcBPzbqmedXU1NbQlyqgJAhJMp4SVlPb3Q=; h=From:Content-Type:Content-Transfer-Encoding:Mime-Version:Date:Subject:Message-Id:To; b=g/rOUqUa7etAFJF1TiqjDZcelwx1peBF5EWaa8Y4qa9f/lAg59MH79j2Fw75ulXYlYC8NtORzgqZ8L7z2xE68gVd062uBQL5uuA7DnG2ifFNbJqZtzEAKUp8tm5IhDMFaHXSf9S0TMG+UgxRgxaMfinTxjyVDQoDR3qXF9ortPA=
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: sZJsb4sVM1kLSUd_cW6EfA15Glfzx2XhPN4ZXLi34xk0dyf
+ wVxPHYvmp93oMP8ZyX02LfxDgT5yzE6bdJX6cn19J01hYfBvgHkBGOgPQzAD
+ 9uvHhYOKuknVqyaKPD2QHsGNdn4OX21P8mVo3Fy7RcZcCGvJGOBpTnO_vs_Y
+ ABaVZr.exOYv_vBP1NECoVfyHNTb91FEObQ0qtMHgdStvfN2_ObOVuy__.2O
+ 97aox6a2LBmf6z6N6V68muPDxS1p4GTsCUAmwZ8cuxgYx1m1JwZulIWmaH8j
+ T2RT0RmEkdKLTf3BXPkIGchjJTs6Pha13kHlupAvq0cKcL.glAMW8C2Zx5kA
+ UQ0pQ9XSZ9EtvTw8L09su6ycb1L_1pXixIsCT8jn6rTm1ZamzauGriEEvwvz
+ zN.ZlBvqjTxEyTWok4tU6G4OtKXeGt_fmWgL4hzNoawdIoBISfhawFSWJEEl
+ ZLOTDrnrZ1gsJ4Jh.dx5NQFI7V8WE1EM8oYH5GUWc4MNPGgEGHcpwo0XWMjX
+ EOpVjNMqNXr_kcCIV1zId_UyH3KYijLAo9c1pjyud3Ii9rQTw
+X-Yahoo-SMTP: VHjI8P.swBDDPbsBS6SWB7tRu.X_Tag-
+From: Jeff <jeff3212us@yahoo.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Tue, 3 Jan 2017 15:19:08 -0500
+Subject: Trend followin
+Message-Id: <800E3729-BFB5-4728-86C1-6913F3296647@yahoo.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPad Mail (14C92)
+
+Jeff Marshall
+Jeff3212us@yahoo..com
+
+Sent from my iPad
+

@@ -1,0 +1,64 @@
+Return-Path: <bobtuckerone@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 94E2B4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:34:03 -0500 (EST)
+Received: from mail-vk0-f46.google.com ([209.85.213.46])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102173659906_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:36:59 +0000
+X-RC-FROM: <bobtuckerone@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f46.google.com with SMTP id p9so265816346vkd.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:36:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=51vV6OYW20m53UvWB4B/B5QAGJji99jpUwmj+SSOYsI=;
+        b=YxeEercdxARsw6aqVZyBW04r0Shz6C5sl0DtdvCaobqODwBpLwhPV9tsBb76020/25
+         4t4jFaBOQuoQVuXcN2aQlVVQ7952A3z2pM/uMMWflg7wUtWgmxQ88I/SM48/qOPfLpaE
+         nXt/3xjSdTZULvfZufLTn/no4D50nRNhrYrR3jmZ7B+DDpf+WYQEua/N2Z19UCp3ufR3
+         +WgdWRVyBsGqPphK26j7CwTZ1m3L0AUVDGyxKeNCBeVMqdnklKZhe1xnLD3ALnqMMwyV
+         8m36GoCC0pdUKkuqFW0svfIWvb6ta878TRBlN889mpQajChHAq9pq8799hZKsnMPI+bk
+         XMcg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=51vV6OYW20m53UvWB4B/B5QAGJji99jpUwmj+SSOYsI=;
+        b=dhz0y4CZmKSTo1GfrA7eWmSlpX+li5JJrMsIPf0Hn9JDS6UKDK8BIK7RNsgXKl2dzr
+         Yz0FGmEHJpuKoi4rFyutBelLNLP20x6F5dTVOaaCJXGkVkxWEThKt7uIxI+HgSRzPPw8
+         yNfwtoaMyHQaMBFEscMyqyRSVzHVkc4i4nXA3XqDeFfl4dZHbFDTSrXIMkd+XQ7jZ7fM
+         3YcUm6HFnsuDuBrZleygoKq4eJ64hUv3xbZF2t+FjA9nWDxWnn9eRq3ktxL5RM5+Bs/3
+         LyqKgaNLLiJ1rJbFTa8TLGthkGXaL7Zomj7fLJLSj2E4slj3dpTIjgT9EHZ1eY9LuS4J
+         6GIQ==
+X-Gm-Message-State: AIkVDXItO0POU76gNdGoLbcP2qweQBXpfIz7vomFjySn0GDhQMnP8yN0evp82Fyo3aLJ92xeb72IbW3qLhpoqg==
+X-Received: by 10.31.51.65 with SMTP id z62mr20965701vkz.42.1483378613581;
+ Mon, 02 Jan 2017 09:36:53 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.159.33.144 with HTTP; Mon, 2 Jan 2017 09:36:53 -0800 (PST)
+Received: by 10.159.33.144 with HTTP; Mon, 2 Jan 2017 09:36:53 -0800 (PST)
+From: bob tucker <bobtuckerone@gmail.com>
+Date: Mon, 2 Jan 2017 11:36:53 -0600
+Message-ID: <CAG4bE4rSfycXFpW46SwuzueRucg4Gb7T4dC1q_C752bhN-88eg@mail.gmail.com>
+Subject: MCOVEL
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a11447a44547d1205451fffd2
+
+--001a11447a44547d1205451fffd2
+Content-Type: text/plain; charset=UTF-8
+
+Thank you for your invitation,...
+Please send ,......
+Bob T
+
+--001a11447a44547d1205451fffd2
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">Thank you for your invitation,...<br>
+Please send ,......<br>
+Bob T</p>
+
+--001a11447a44547d1205451fffd2--
+

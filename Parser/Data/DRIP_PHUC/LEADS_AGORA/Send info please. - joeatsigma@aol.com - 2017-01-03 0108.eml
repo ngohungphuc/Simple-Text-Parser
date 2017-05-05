@@ -1,0 +1,51 @@
+Return-Path: <joeatsigma@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CACC84028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:05:16 -0500 (EST)
+Received: from omr-a001e.mx.aol.com ([204.29.186.53])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102180812734_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:08:12 +0000
+X-RC-FROM: <joeatsigma@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaout-aak01.mx.aol.com (mtaout-aak01.mx.aol.com [172.27.2.225])
+	by omr-a001e.mx.aol.com (Outbound Mail Relay) with ESMTP id 6F65B380009A
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:08:11 -0500 (EST)
+Received: from [172.17.155.30] (unknown [50.249.100.33])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-aak01.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id 4031138000083
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:08:11 -0500 (EST)
+From: joeatsigma@aol.com
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 12:08:08 -0600
+Subject: Send info please.
+Message-Id: <E1456CC3-9E61-4A02-9995-07BCD0141F63@aol.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14C92)
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483380491;
+	bh=AYb5KwJ4e3gMWxagjdPkUYLCQDV4Y3H/4Y+xQpbbZTk=;
+	h=From:To:Subject:Message-Id:Date:Mime-Version:Content-Type;
+	b=QyL7Pfi+dKWh2jU+JPkwUbjbxzzTA+hckGlM/OKqdxBXLv3Efp+jTupWrS4Ns5yMx
+	 EWSsQJ+3j9cpYoyuO265g+USiSWDN+MZyxpK8li8EIk94g+uecIB7+zpQ9FgVkOhqF
+	 NECc5oXuBWTBTjAcbJAnXK1jXBroYLON00TsRo9Q=
+x-aol-sid: 3039ac1b02e1586a970b70ff
+X-AOL-IP: 50.249.100.33
+
+
+Joe Springer
+5404 tunbridge crossing
+Fort Wayne IN
+46815
+
+
+Sent from my iPhone
+

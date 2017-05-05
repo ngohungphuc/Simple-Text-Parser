@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m022.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 67E67404DEDD5
+	for <mcovel@trendfollowing.com>; Tue, 11 Oct 2016 11:12:50 -0400 (EDT)
+Authentication-Results: p02c11m022.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p02c11m022.mxlogic.net(mxl_mta-8.5.0-1466) over TLS secured channel
+	with ESMTP id 7220df75.0.19536550.00-2255.35999355.p02c11m022.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Tue, 11 Oct 2016 09:15:52 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=HbBx089FN+X7Vihas4WbhsjQbss=; b=RMXCE9N/flDr5yIP3QA290r
+	HjswTeR2hIDFExPkmvVJmiSUdApKsjEnq18ZzI2ls6j+4SW68iwGHJlqUdxpuOt6
+	t5LAap8kRxvT5OdxJC4LFSUK6MSEzxhbpgz4yE/1nX5+7JuXFQLA2hvrbWz2gXPs
+	62uDKKrSqoNBabpKqorQ=
+Received: by filter0807p1mdw1.sendgrid.net with SMTP id filter0807p1mdw1.20922.57FD021341
+        2016-10-11 15:15:31.894787583 +0000 UTC
+Received: from getdrip.com (ec2-52-23-194-121.compute-1.amazonaws.com [52.23.194.121])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id MWOQdIOqStGFw7t96efvEA
+	for <mcovel@trendfollowing.com>; Tue, 11 Oct 2016 15:15:31.837 +0000 (UTC)
+Date: Tue, 11 Oct 2016 15:15:31 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57fd0213cb3d4_32093fa333d1ad4c20418@ip-172-30-1-152.mail>
+Subject: [Drip] brunofhc@hotmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57fd0213cae40_32093fa333d1ad4c203a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPr2obBTU8V1Tr0Q7HnvWturaLQbp2Mmy6RxKi
+ d5yRJ3AMJvwBcf6gMACYTMcf3rijKr6Wkjh6QJa9mDd6+agn9jlwyL3ZC2ZqIXF3M077bf1+WMPOb0
+ psnT77Vkd5mYVWIaq6Bo4Zy6/vcD2TBM6YpO+c9/ztuYqGnVJNUd2dDWYu8E9M0GdqKPo/XYEAHo6Z
+ E=
+Received-SPF: Pass (p02c11m022.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57fd0213cae40_32093fa333d1ad4c203a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Recife
+country: Brazil
+first_name: Bruno
+has_read_LBoT: Yes
+has_read_TC: Yes
+has_read_TF: Yes
+last_name: Cavalcanti
+last_trading_or_investment_book_read: Trend Following Bible
+state: PE
+street1: Rua Aristides Muniz, 121 Apto 302
+street2: Boa Viagem
+zip_code: 51020-150
+id: oxdxcfoyeus2bbazmzte
+email: brunofhc@hotmail.com
+utc_offset: -180
+visitor_uuid: d206604008120134eb610e0f1dc449ed
+status: active
+time_zone: America/Argentina/Buenos_Aires
+friendly_time_zone: ART
+tags: ["imported-from-aweber-March 20, 2016", "optedin-sitewide",
+"optedin-dvdrequest", "imported-from-aweber-march 20, 2016",
+"optedin-sitewide", "optedin-dvdrequest"]
+created_at: 2016-03-21 16:35:03 UTC
+
+View their full profile here:
+
+brunofhc@hotmail.com ( https://www.getdrip.com/3513718/subscribers/oxdxcfoyeus2bbazmzte )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57fd0213cae40_32093fa333d1ad4c203a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Recife<br />country: Brazil<br />first_name: Bruno<br />has_read_LBoT: Yes<br />has_read_TC: Yes<br />has_read_TF: Yes<br />last_name: Cavalcanti<br />last_trading_or_investment_book_read: Trend Following Bible<br />state: PE<br />street1: Rua Aristides Muniz, 121 Apto 302<br />street2: Boa Viagem<br />zip_code: 51020-150<br />id: oxdxcfoyeus2bbazmzte<br />email: brunofhc@hotmail.com<br />utc_offset: -180<br />visitor_uuid: d206604008120134eb610e0f1dc449ed<br />status: active<br />time_zone: America/Argentina/Buenos_Aires<br />friendly_time_zone: ART<br />tags: ["imported-from-aweber-March 20, 2016", "optedin-sitewide", "optedin-dvdrequest", "imported-from-aweber-march 20, 2016", "optedin-sitewide", "optedin-dvdrequest"]<br />created_at: 2016-03-21 16:35:03 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/oxdxcfoyeus2bbazmzte" style="color: blue">brunofhc@hotmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57fd0213cae40_32093fa333d1ad4c203a--

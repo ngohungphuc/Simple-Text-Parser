@@ -1,0 +1,155 @@
+Return-Path: <roberteholly@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6B16B4028F219
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 01:42:57 -0500 (EST)
+Received: from mail-it0-f46.google.com ([209.85.214.46])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103064553471_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 06:45:53 +0000
+X-RC-FROM: <roberteholly@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f46.google.com with SMTP id x2so290598685itf.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 22:45:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=qRH3HeBgwQ4MbkT2sax1FrMtk84nAQEL7ZifRbnR/qU=;
+        b=oTf+5yKEFnVo+jm6qPKyJ4VG/3b4n3dMFRUabfVTS/0R7gC260Q3p8ylC10pT2CLp0
+         8I+YyrUBpZU7lN0YeCXSmvUCmtfErZz2YtTntixvOnvEJhTMBxNDb6caIFtGeYdXtXiG
+         XXWuPoKcuYfi7Om/nGj0/lljpPlE8RE9GUamDnKXt/g4wEfGDKfAgrgfjVhFuv9YDCJd
+         9KfjwYRY9OOKE1B8SfiIY6BZrj1fjcIrTWXt1wRCy/+ihKOtvFoFdhSh7JAYfz1jh6SK
+         KmYfz0fdXDxGV6nlOsW84QAxnxHsO+AnpvEc5hL9vsSuDjzcyCfEXN0yMHxN7op+Smo2
+         ZIDA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=qRH3HeBgwQ4MbkT2sax1FrMtk84nAQEL7ZifRbnR/qU=;
+        b=a1Wz/Nin5Ncac3bOau288hq+Z5uW4tRKHN0I3h4xyhy8LNnzJ0m+k3JZR+9rBR/rHv
+         wuaVuKtXpS8dNmdHFXMDT/midy+oC1xoTBF7Q7W1VA97SSQHAehT3phfSOXhJ4YGBOlb
+         LXgIFkX3dvVyWDJHoSKzl1I3enhvdKiZtXCVntiSO8mxrrqmheoHkf65EnJvHiHgATx5
+         Ce/94dBxd+a8Sg1Ezbq5oefTHf1W/heruFKXx1N6HZNRq1+8JAzGEPR6q9TZzu6TZF3k
+         n64cCWlJ63xaL0WaSx82WtAwK3vXLfrjTvEviLoPMj0P7uEpfkTSQY0mzt8g4qASpmro
+         q2kA==
+X-Gm-Message-State: AIkVDXKU3fdLo3dKnQcumzV9Q1cgsmHvCxD8Wo0chmHN3Ttc+vgzJjdQmnkoEgVkKGtZZQ==
+X-Received: by 10.36.116.202 with SMTP id o193mr49169037itc.96.1483425947523;
+        Mon, 02 Jan 2017 22:45:47 -0800 (PST)
+Received: from USERPC (65-130-20-171.slkc.qwest.net. [65.130.20.171])
+        by smtp.gmail.com with ESMTPSA id g190sm3228546ioe.30.2017.01.02.22.45.46
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 22:45:46 -0800 (PST)
+From: "Bob Holly" <roberteholly@gmail.com>
+To: <mcovel@trendfollowing.com>
+Subject: Hate to see Trend Following close ....
+Date: Mon, 2 Jan 2017 23:45:44 -0700
+Message-ID: <001e01d2658d$02b312d0$08193870$@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01D26552.565684C0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdJljPPLi+MxrIZgR/Cstetl119cNQ==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_001F_01D26552.565684C0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Michael,
+
+ 
+
+I am (was ?) one of your Lifetime Subscribers in the Trend Following
+newsletter. Sorry to hear its being folded. I'm interested in receiving your
+white paper, and following more of your work. Keep me posted.
+
+ 
+
+Thanks,
+
+ 
+
+Bob Holly
+
+Salt Lake City, Utah
+
+roberteholly@gmail.com
+
+ 
+
+ 
+
+
+------=_NextPart_000_001F_01D26552.565684C0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal>Michael,<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>I am (was ?) =
+one of your Lifetime Subscribers in the Trend Following newsletter. =
+Sorry to hear its being folded. I&#8217;m interested in receiving your =
+white paper, and following more of your work. Keep me =
+posted.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Thanks,<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Bob =
+Holly<o:p></o:p></p><p class=3DMsoNormal>Salt Lake City, =
+Utah<o:p></o:p></p><p class=3DMsoNormal><a =
+href=3D"mailto:roberteholly@gmail.com">roberteholly@gmail.com</a><o:p></o=
+:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_001F_01D26552.565684C0--
+
+

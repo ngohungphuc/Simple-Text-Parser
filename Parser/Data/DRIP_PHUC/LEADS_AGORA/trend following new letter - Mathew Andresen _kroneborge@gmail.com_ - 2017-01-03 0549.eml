@@ -1,0 +1,74 @@
+Return-Path: <kroneborge@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 58E014028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 17:46:52 -0500 (EST)
+Received: from mail-wj0-f171.google.com ([209.85.210.171])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102224948649_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 22:49:48 +0000
+X-RC-FROM: <kroneborge@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wj0-f171.google.com with SMTP id v7so433252401wjy.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 14:49:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=UGzP0hJWTTkSzi2AZxboYIBYoQ4xwC401vpYXuqy8rc=;
+        b=gzitSQ9buPBcmukUnjbcFVjHvJceLaXzAVIpykcyQrZlMOfbwmqOoFy3MbKW6kNlJD
+         BKgJW2/stmTQ8CG2P5q0we5VeXxrQy2GG8WrBOALxl+u47RfzXwobFwsRKFB30r1DLf5
+         t4pulGhcEqKr8swLbWbrcwDQ93l0XvaTSoUCzt73tHYA+wKdYdutY5RFwIjML1oSjQ/M
+         mbGFH8N5o9zPEr+7Pt4Ap6M86cfRmNZdBdPRY4V8/lIGaxzOIdFDcqWZND8Vgi1OZlKh
+         9veWnWJl+46HBzqF4362IZywjP40/1Y+3Od928NY4Wkn8F1wHVq2FJdT8xUhXXbM/OKJ
+         1tJQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=UGzP0hJWTTkSzi2AZxboYIBYoQ4xwC401vpYXuqy8rc=;
+        b=Hiq7uHwmDfqQdzni8J/RQ/NxM4SRx5GgoBv3PD5rIW2+WdSwd+OsjKkLt/bbrJzjuu
+         /mZQ72lSfee2y1mYKThMbtApom5aHxj5TMJTk7TccV13UpGe324+Nq1Y9htTBFD7iOXO
+         RIvch+cLvMJychJ8biBHY6bYkh8LUNvo38y1+46BPdvaMvFPmkE5ZtSivwVmPrbCkVmj
+         Gi/hP8SUpjOiWm87+un4h3TTCSBmTyYPPK9vqo7fXyztFctBlBhw3lWLW+mhGxgmIxcH
+         4WYe54o4Tt89neyWdiOX0N87k1xxur4hPgVV8FQzsXId64+lQ69Vg0Do/om2ow8FEUbD
+         ncAA==
+X-Gm-Message-State: AIkVDXIEIWklLtIHQ4JBwqPR0H4iFc+T5W5mASOHYWg9dNo1sPmzlnqsubd25ZBmNJc6zvCLRbSKgZ1svejc2w==
+X-Received: by 10.194.228.100 with SMTP id sh4mr39209022wjc.116.1483397381996;
+ Mon, 02 Jan 2017 14:49:41 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.80.142.200 with HTTP; Mon, 2 Jan 2017 14:49:41 -0800 (PST)
+From: Mathew Andresen <kroneborge@gmail.com>
+Date: Mon, 2 Jan 2017 14:49:41 -0800
+Message-ID: <CAN0V6ZdcAgXhYX5JMmYeMDFNk_Br6_7SexQ4EeT4DuADNwn91g@mail.gmail.com>
+Subject: trend following new letter
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a11369afc03c7f90545245ed1
+
+--001a11369afc03c7f90545245ed1
+Content-Type: text/plain; charset=UTF-8
+
+Hi,
+
+I'm interested in your news letter.  Right now I'm mainly just using
+donchian channnels for my breakouts.  I did read the orginal turtle trading
+paper.
+
+Thanks,
+
+Mathew Andresen
+3368 Rucker Road
+Lompoc CA, 93436
+
+--001a11369afc03c7f90545245ed1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div><div>Hi,<br><br></div>I&#39;m interest=
+ed in your news letter.=C2=A0 Right now I&#39;m mainly just using donchian =
+channnels for my breakouts.=C2=A0 I did read the orginal turtle trading pap=
+er.<br><br></div>Thanks,<br><br></div>Mathew Andresen<br></div>3368 Rucker =
+Road<br></div>Lompoc CA, 93436<br></div>
+
+--001a11369afc03c7f90545245ed1--
+

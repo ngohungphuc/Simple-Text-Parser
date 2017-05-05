@@ -1,0 +1,73 @@
+Return-Path: <pbdoubleblow@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 841D04028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 04:46:35 -0500 (EST)
+Received: from mail-wm0-f51.google.com ([74.125.82.51])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103094930888_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 09:49:30 +0000
+X-RC-FROM: <pbdoubleblow@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wm0-f51.google.com with SMTP id k184so229047816wme.1
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 01:49:28 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=MGbDYru19/4XMPr6JcVNFV2mR5S1M6ZOCp7nRlQZJEk=;
+        b=QNQeRdkIXOyro+acZCsiA1W1gKBXIEWA0JZrU7KTVjePomqGPpXilaJ2GD/aZvOt/0
+         zcdfKFnrRfAK/ZL4i3a27/R8/wvnXA7kWgwZi1t1BvpRKvq2ULsZCoiwN4JQkzv5Voil
+         hc9iaxi4NKSHlh5PCNJjNVruAHhoKQhOLjDmD9wB82mQFK/Lqk1x1rlEa8DKJehRJrbb
+         wfblJ4JxVXpPjeLC3G4jIpDLwf2g4W/RLZlYb3DTV3KE3fq721e1nxeeEKmLukVLkzpe
+         hZCuHh98CjF/pvDkNT6FN6L3RrIOtR4NnYxC5rnLD2WNlQubshREFe3v6b3hfLZGmT74
+         uaKg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=MGbDYru19/4XMPr6JcVNFV2mR5S1M6ZOCp7nRlQZJEk=;
+        b=HeThkUzgoD8ZDomy0Y5zCF+8gMjXgvEOrC/HtYKXAaw2nwN5/50/ice9RTi74XxSQp
+         Vv8JQN9xvbbGsjCedRH+0EIp45i7P2eMCK91VG4GNs+EVtQbtOIboGOMolk3SAGW6+ym
+         x3Kj9L2jfCUVybyuGPKTBNv36IkoYyAEU2+KWEGechRtHlzp/pZJOxq+fDCkqhMcejh8
+         62EjRDsz4ph7pC/hKtk9hN6cSVWr4EbYF0yPbbEZKAV/WUpNSiorQdIbBGvM8XLXCfHR
+         vyG+UQFr2oEn1JIewmmuctHHmGSisseFTfgqWpMprke+usWxTUJdVNUA6Nb2bIkPaw3N
+         jNiw==
+X-Gm-Message-State: AIkVDXKmNyvdhcOgNbtoK947vF996p4iSXOepAk1K2+UZ+tCJ3xYZq2Hz+taYerwVEjQRvQNjfmkGgYXpLgalA==
+X-Received: by 10.28.0.210 with SMTP id 201mr51251520wma.49.1483436955359;
+ Tue, 03 Jan 2017 01:49:15 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.32.194 with HTTP; Tue, 3 Jan 2017 01:49:14 -0800 (PST)
+From: Phil Bollen <pbdoubleblow@gmail.com>
+Date: Tue, 3 Jan 2017 09:49:14 +0000
+Message-ID: <CAP5V8Buq3EmRVXpdyYs54HFDyBWsN3EP2NW7Az77M3ygFAtFcw@mail.gmail.com>
+Subject: Special 'Trend Following' Investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113ca7acc560d905452d948c
+
+--001a113ca7acc560d905452d948c
+Content-Type: text/plain; charset=UTF-8
+
+Thanks for your offer which I would be grateful if you will send me at:
+pbdoubleblow@gmail.com
+
+Sorry to hear that various of your publications are being terminated and
+good luck going forward.
+
+Kind regards
+
+Philip Bollen
+
+--001a113ca7acc560d905452d948c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Thanks for your offer which I would be grateful if you wil=
+l send me at: =C2=A0<a href=3D"mailto:pbdoubleblow@gmail.com">pbdoubleblow@=
+gmail.com</a><div><br></div><div>Sorry to hear that various of your publica=
+tions are being terminated and good luck going forward.</div><div><br></div=
+><div>Kind regards</div><div><br></div><div>Philip Bollen =C2=A0 =C2=A0</di=
+v></div>
+
+--001a113ca7acc560d905452d948c--
+

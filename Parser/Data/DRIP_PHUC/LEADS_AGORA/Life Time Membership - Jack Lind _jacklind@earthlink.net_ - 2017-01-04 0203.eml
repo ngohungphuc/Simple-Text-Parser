@@ -1,0 +1,55 @@
+Return-Path: <jacklind@earthlink.net>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3278F4028F208
+	for <info@trendfollowing.com>; Tue,  3 Jan 2017 14:00:29 -0500 (EST)
+Received: from elasmtp-curtail.atl.sa.earthlink.net ([209.86.89.64])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103190323552_0459
+          for <info@trendfollowing.com>;
+          Tue, 03 Jan 2017 19:03:23 +0000
+X-RC-FROM: <jacklind@earthlink.net>
+X-RC-RCPT: <info@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=earthlink.net;
+	s=dk12062016; t=1483470203; bh=jh4R6sMP6ALQ38T1z+6a/8ZbUXY92F2GKjgJ
+	b6kErz8=; h=Received:From:Content-Type:Content-Transfer-Encoding:
+	 Mime-Version:Subject:Message-Id:Date:To:X-Mailer:X-ELNK-Trace:
+	 X-Originating-IP; b=Y4+A7objIxxXuXfoDbT7cfC57yDq3QxnpGd4VuOKjImYc1
+	IMTEmEA0HEWNDqaTmKXxNNytv16rKBvbFvBz3Qzot0LKrUNpYCAxVhOk+oUoFdXd6Y9
+	1PIENsngEpVpPaQopEi5g16Gz+YeJkRzZRl8zhfNRRMjvBrjxHbmh0n6cOedkVGHYU3
+	wupgZhPS8eitwvpjX8JNYjX4SQjxwjH4lMSD8x2X8TkCe5HJYahxpoQyeoluE+KOkMJ
+	xJaCxB0nIKbZ03T1TEMbbqmWT4NKL2bhUdoHiBr+UZMoM+v/ct0ITHU2gy95p3q1VMP
+	r1F6pLmwwFAbtsdLh7ml7hilhgqA==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=dk12062016; d=earthlink.net;
+  b=cA9JMnMPs0p+P/QM/c/1oipqI5ICC2tfqrb3Lb4avLV7Wq/jECeaM4ztl4acImm+6+6yd7rlZiukLu6eCBqHhSQm/iDA6AtpUaz+Okv6VelAzzSk2tB7bDh3/3h5H6dFSi/fhb06wW6Yf9c3OGGu7nQCzE7d4R2PIKTgHXwkFapOHt/697WIU9k0Px2kFdWsQu+TVRYYp8LC2Y2xVmJQiEmzKJhlUoWt3shaz+YHE6qCigimONGve1hkEVuFaIwhEh/2V7BvhiQA5uM60AN+8CBik9Ii+MkuiG1EO/OtiHL3KKt6JkvT/az1QY9tU4NwwvAkfIte6yknal1saRFHOA==;
+  h=Received:From:Content-Type:Content-Transfer-Encoding:Mime-Version:Subject:Message-Id:Date:To:X-Mailer:X-ELNK-Trace:X-Originating-IP;
+Received: from [73.241.118.173] (helo=[10.0.1.3])
+	by elasmtp-curtail.atl.sa.earthlink.net with esmtpsa (TLSv1:AES256-SHA:256)
+	(Exim 4.67)
+	(envelope-from <jacklind@earthlink.net>)
+	id 1cOUMV-0005HQ-Hl
+	for info@trendfollowing.com; Tue, 03 Jan 2017 14:03:07 -0500
+From: Jack Lind <jacklind@earthlink.net>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: Life Time Membership
+Message-Id: <FEB03EC2-D3CF-42B7-BA1D-CC721E7E1119@earthlink.net>
+Date: Tue, 3 Jan 2017 13:03:05 -0600
+To: info@trendfollowing.com
+X-Mailer: Apple Mail (2.3259)
+X-ELNK-Trace: 3ff8266da2eac3031aa676d7e74259b7b3291a7d08dfec790d72e9996b6a9c41f863462eecc8f388350badd9bab72f9c350badd9bab72f9c350badd9bab72f9c
+X-Originating-IP: 73.241.118.173
+
+I=E2=80=99m tempted to write a snotty email to Agora but I=E2=80=99ll =
+hold off until I know the whole story.  I kid you not, I was planning on =
+closing out my losing positions in the other Agora newsletter =
+recommendations today and using those assets for your trend following =
+recommendations but then I saw your relationship was terminated as of =
+yesterday.  I specifically bought a life time membership last year =
+because I believed in you and thought the options trades would be good.  =
+Will that life time membership transfer in any way?  =E2=80=94Thanks, =
+Jack Lind=
+

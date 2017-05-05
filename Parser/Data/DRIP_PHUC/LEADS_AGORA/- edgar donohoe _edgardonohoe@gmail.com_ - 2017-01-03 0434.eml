@@ -1,0 +1,64 @@
+Return-Path: <edgardonohoe@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 75AAA4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:31:50 -0500 (EST)
+Received: from mail-qt0-f177.google.com ([209.85.216.177])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102213447775_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:34:47 +0000
+X-RC-FROM: <edgardonohoe@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f177.google.com with SMTP id k15so209989096qtg.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:34:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=b6W2EKMoozSuQwJn7j1sSpwfUtTk67MceHqHXc9Zpxs=;
+        b=XBpFvmWgEBfoVZoTp/p+bk+gha9uT1Bg5jlywtdqPQx7Y17QQ7iN3A1js+WpOB8aty
+         fn9DxuDWCl0Yl9Yxp71n6opI9C0tEko3liHRAefFIAQIfsXcNEDyBcnWI2D0AZDjsaVP
+         RYzqbVkFHvI7vTH0PhpeIqLog+zqlvyneUvB7KrjpUimQFzRoMnXS66zJxa72qUYDfvL
+         mlj/+VYSlRkbwYSq9JPopTRpEse2vxwTtwBYpYC1w1atgpTyhf0gABcQWfWPi12b58c4
+         86DS4CQdR3OD8tVuLb0TCheSnC0XCepSkf6HLHrpyH7T+nfkCcKXQWx9i4548Z3RgAY7
+         UbpQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=b6W2EKMoozSuQwJn7j1sSpwfUtTk67MceHqHXc9Zpxs=;
+        b=R81hlkaUKxDIbKUrezDDTJ6UXMgPKt3YVwSp821fwKVSqttbM/kubJWobz7fFMuC0n
+         h02cJ/vg46do65Tib1G+I77gVZXHz53Ysenh0/rzum4hsLFYakfYTIJkdUlmkDNc1mFC
+         prMibM6NWKvWWBkTttI+OAK0HaD8xQBtyx8TWPOjrdd5dCVYb7ydo508Ktu11zz+E4wW
+         nL3V+WF5OIF/utW0l9tZuIKlR5h/mvg3NDeO5Ip0rTvvcy+O6hDaX2QJatTmtF/jOHNw
+         kIMM1XUMhZi3y5qksec2qo1TeANO+oJa4TY1A1vzUeuWX1UgXIHdroSLt/tkVxrM1oZM
+         3imw==
+X-Gm-Message-State: AIkVDXLJyrJh1ZyPASModRwdipbd9fgqPR7QevlRNUUuv/PncrKJV9ogRTQPkfOHAfZoALjKm5QJce02gGTThg==
+X-Received: by 10.200.53.138 with SMTP id k10mr61514468qtb.4.1483392881833;
+ Mon, 02 Jan 2017 13:34:41 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.163.3 with HTTP; Mon, 2 Jan 2017 13:34:41 -0800 (PST)
+Received: by 10.12.163.3 with HTTP; Mon, 2 Jan 2017 13:34:41 -0800 (PST)
+From: edgar donohoe <edgardonohoe@gmail.com>
+Date: Mon, 2 Jan 2017 16:34:41 -0500
+Message-ID: <CAHxCGdFuDs+i5grzKPOd=_1-4n2S4H9erMsAMJ6wTZDFfiZCkg@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113751a2c8bb6f0545235157
+
+--001a113751a2c8bb6f0545235157
+Content-Type: text/plain; charset=UTF-8
+
+Ed Donohoe
+37 Anthony Wayne Rd
+Morristown NJ 07960
+
+--001a113751a2c8bb6f0545235157
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Ed Donohoe<div dir=3D"auto">37 Anthony Wayne Rd=C2=A0</di=
+v><div dir=3D"auto">Morristown NJ 07960</div></div>
+
+--001a113751a2c8bb6f0545235157--
+

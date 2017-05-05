@@ -1,0 +1,76 @@
+Return-Path: <jordanzitoun@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CAFB34028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:31:15 -0500 (EST)
+Received: from mail-qk0-f180.google.com ([209.85.220.180])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102173409508_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:34:09 +0000
+X-RC-FROM: <jordanzitoun@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f180.google.com with SMTP id u25so344680941qki.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:34:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=PYm6d9duXgZd/uxXkiNsLkljt7OwYrtgwB3wWSG8ifk=;
+        b=THMXBwJpye26Cs822+dJdqT/9r57Ze6qo5c1dSEw3pw6eyuKcqSXATKEpUkP6zRG0S
+         L34HQNizoutEdZJkTMKFsx2Izh317FvOxl9SuPFWIzQ4AssTjKy3FFxLo+GsHPU7yx6m
+         XI8y2sbtteXM+8o/sfLOgpOGq8lekYDoQ9AK13MZ79+hy5Q9juzZCOI+0LF6D1v6PYd1
+         TZYafvtGbROR2ErFNH3/g/XWbpyHFM9MzKCsOt0t3IKO9dMOhK+tW29lga1K9rVTV0yV
+         juktW/+shJ8JuhB8xo7v+a9N+k47iqdW8hSQMMZ4LAEpA51RPvfoxa/9fyqFnDAiqA2z
+         8a2g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=PYm6d9duXgZd/uxXkiNsLkljt7OwYrtgwB3wWSG8ifk=;
+        b=RAlfqWO7hEsg3Be8pw3D2Qn6kqqz+nwRccEnrnBF2v7BwUFef1GZTa1q99eVwjIgwD
+         uiW/9bhhy2VeHKRw+krkVy6wZteJH19SOnwCkAVNc1wINm3y3bt8Aut83kM2lF2xLDc8
+         wQSD1joAr0XnuGJvi1+a2NtzH4O90b9hwpcZ7KoGhSRquNNlbi4KlsPXQxmn8WL6OP4O
+         FYozj81oA4PObHFrih5VlNi4xO5WnbRa5/NH1HYJNFFojcJznEuCOsnkomnxxj++ZgFw
+         F/zNADCDiLBn3eakIvnmR5Fjb6wWYPufddvXR+ertFRd+uLdxmDz6sqqUSvxi99MxJxm
+         6syA==
+X-Gm-Message-State: AIkVDXLOaV1R+6JqNFLRyN9Zzt+zECOoRYkpVigI534MGunRhorImYo08INCZt6LsItMGb2Cg5w0o2AmF9XCQw==
+X-Received: by 10.55.5.134 with SMTP id 128mr62073332qkf.261.1483378443808;
+ Mon, 02 Jan 2017 09:34:03 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.136.212 with HTTP; Mon, 2 Jan 2017 09:34:03 -0800 (PST)
+From: Jordan Zitoun <jordanzitoun@gmail.com>
+Date: Mon, 2 Jan 2017 11:34:03 -0600
+Message-ID: <CAKpPH=kzPP==Rw-N7V1SVj2VWZHyR-mA9PeU2Z-k3av-n9Fziw@mail.gmail.com>
+Subject: Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114c819e35f62e05451ff58a
+
+--001a114c819e35f62e05451ff58a
+Content-Type: text/plain; charset=UTF-8
+
+Jordan Zitoun
+3215 Bryan St.
+Dallas, Tx, 75204
+
+-- 
+Jordan Zitoun
+469-777-0878
+jordanzitoun@gmail.com
+Premier Property Marketing Group
+4848 Lemmon Ave #331, Dallas, Tx, 75219
+
+--001a114c819e35f62e05451ff58a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Jordan Zitoun<div>3215 Bryan St.=C2=A0</div><div>Dallas, T=
+x, 75204</div><div><div><br></div>-- <br><div class=3D"gmail_signature" dat=
+a-smartmail=3D"gmail_signature"><div dir=3D"ltr">Jordan Zitoun<br>469-777-0=
+878<br><div><a href=3D"mailto:jordanzitoun@gmail.com" target=3D"_blank">jor=
+danzitoun@gmail.com</a><br></div><div>Premier Property Marketing Group<br><=
+/div><div>4848 Lemmon Ave #331, Dallas, Tx, 75219<br></div><div><br></div><=
+/div></div>
+</div></div>
+
+--001a114c819e35f62e05451ff58a--
+

@@ -1,0 +1,89 @@
+Return-Path: <bill.solano@egs-consulting.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 466334028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:07:07 -0500 (EST)
+Received: from mail-wm0-f49.google.com ([74.125.82.49])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102201003430_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:10:03 +0000
+X-RC-FROM: <bill.solano@egs-consulting.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wm0-f49.google.com with SMTP id c85so186297889wmi.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 12:10:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=egs-consulting-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=EoaWHDkpK1u1uFnMNRbzFX+h0l9qDMKrX1OXrvqxG+E=;
+        b=S3mj0bLFdI0dUqtLLfqjzOQZjBp1jxI79ZQA2ARRWiy4H12aLV1JGUhRZYo857TTaY
+         nGRALRvySG1EPpuzJK2vr5NQT+zdgby4s721fLNdsqUVxUn9E5FVLmiYpVQhoYemQ5kQ
+         75yVRl0le8ox6Xw8F8dvIlP+D0a+S2Flwbp/mFNNPFjOKLeVw8NMBSIDedz8O7xRvycZ
+         slAFDv3FwC7EVMhkNOn92q2vWzz1/RnKDJouI178FM70B4IcMnH0AZ4rCFMxya5087sA
+         +55qYba6LpOjUi4gye0SWa42g+uECuekKqXw/uPSdujz3dbDMhKKbzTjW5s3xT4PKXYC
+         1q0g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=EoaWHDkpK1u1uFnMNRbzFX+h0l9qDMKrX1OXrvqxG+E=;
+        b=lTSdc3cngB4/E3yKH/jlQqfDiJttjol/REiXpLjobrBPgpCvH0Xl6A1OLjsSe/ntxL
+         t86DyWvxEtWAO2X01NxJWTQjEQb3LXARLgTKuPcb+AWhAse76mIoSKrTMNcyURieTJuC
+         CpzDCqX0k51gQBIEYH5WWgKmesjLKBHkCUvHehCmJkMlB+WYCFAb6sQ8nROtM2vt/uMn
+         TcdTUhb2iywQsKHNCjTQT7jvSx7c01vOVHDhghuWEQiwRIAScwOp8zZl6ekbypdff6C3
+         NvTIfqQy06hvXtpE0tm1jWc0lYyGYTn/yui3zRn8+P+ZeomgAUWOgH2iMXIq3tNzDjWC
+         RFjg==
+X-Gm-Message-State: AIkVDXJo1Dflh9uMzX9Ye3Iq1HXLj1iQicmqiLLciSf+PD4FEG1My67cd73ceCr4kn1x0FrqU81b0zZT4nnAvw==
+X-Received: by 10.28.130.137 with SMTP id e131mr50760597wmd.21.1483387797263;
+ Mon, 02 Jan 2017 12:09:57 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.80.168.166 with HTTP; Mon, 2 Jan 2017 12:09:56 -0800 (PST)
+From: Bill Solano <bill.solano@egs-consulting.com>
+Date: Mon, 2 Jan 2017 15:09:56 -0500
+Message-ID: <CAG9H+oqir3D75amK1dAfo5Ku=J48Zi65QiBZ=j0PT2i8K4oDpg@mail.gmail.com>
+Subject: Thanks for Trend Following -
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114426deb8da2f054522221d
+
+--001a114426deb8da2f054522221d
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael,
+
+Sorry to hear that your newsletter didn't catch on, I am a Lifetime member
+and your wisdom and whit will be sorely missed.
+
+Please add me to you mailing list and keep in touch with what you're doing
+in the future. I look forward to any contributions you make to Rude
+Awakening Pro!
+
+My contact information is:
+
+Bill Solano
+441 Don Crciel SW
+Mariette GA, 30064
+
+Besr Regards,
+Bill
+-- 
+
+(404)403-6808
+
+--001a114426deb8da2f054522221d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div><div><div>Hi Michael,<br><br></div>Sor=
+ry to hear that your newsletter didn&#39;t catch on, I am a Lifetime member=
+ and your wisdom and whit will be sorely missed.<br><br></div>Please add me=
+ to you mailing list and keep in touch with what you&#39;re doing in the fu=
+ture. I look forward to any contributions you make to Rude Awakening Pro!<b=
+r><br></div>My contact information is:<br><br></div>Bill Solano<br></div>44=
+1 Don Crciel SW<br></div>Mariette GA, 30064<br clear=3D"all"><div><div><div=
+><div><div><div><div><br></div><div>Besr Regards,<br></div><div>Bill <br></=
+div><div>-- <br><div class=3D"gmail_signature" data-smartmail=3D"gmail_sign=
+ature"><div dir=3D"ltr"><div><br>(404)403-6808</div></div></div>
+</div></div></div></div></div></div></div></div>
+
+--001a114426deb8da2f054522221d--
+

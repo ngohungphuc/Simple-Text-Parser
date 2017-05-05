@@ -1,0 +1,75 @@
+Return-Path: <jrnordlund@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 5B0D74028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 22:32:13 -0500 (EST)
+Received: from mail-it0-f49.google.com ([209.85.214.49])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103033509564_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 03:35:09 +0000
+X-RC-FROM: <jrnordlund@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f49.google.com with SMTP id c20so278993156itb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 19:35:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=kc5sWXHxovktKQ1IXpXcvMJKqMHZAW8unx4Uib+7Tvc=;
+        b=lxU4ca8wsUtu904pHhS6ihZSAOyOi4fCWvwTUWcz8/yxUaI5in+RV0V1Sm/2hvozlQ
+         S3ySgAvMNg7XKgMNdrFSfqRetQA+1OmWRms0L96yIpaR/O2fGilAzodINs7csDQ0q4Tn
+         odE4Kbv/af9EeJ/oZEXmxZP+BqueaaDx+RSns42Dcb6sT0m1RJID77REHIurGHgx2j64
+         zn637V9I88CGCRvXvycFvrBfYzHpyNAqtsZKKxtvV2kWF/utdZLBZCHrdLsL9Mx1h1HB
+         55bCQ+KmSvkEWsSsQSvyOb8AKmmQmWueCSw2R8W/M6W1vYT2HtIU8blvI6uSH03l+7Jb
+         7WIw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=kc5sWXHxovktKQ1IXpXcvMJKqMHZAW8unx4Uib+7Tvc=;
+        b=IJu+TjSPlrq8yUFM391kl4VbedpvpslzZI7+6S6mhrfwaBcnpSEBsSs26fErcfBBO4
+         pcV+TZZgpAGVa3zPOejyjH6sJ4mJVFILQYL8ov66sjN4PRMdk3uD6osZYeFhjjAp1NsH
+         QJtpVqLrpLEuRM0uGmEvBEJ51EGvKe4pwa3d98sWmFvOgUx9UgcKXmPhQ0LSXPKmush6
+         URL3fDwq8F5vlVpvvhLWbKk2vwYrVbVZZ5knVnPsuyZjXxWyNt0hZ+q3YZEss4+cGl29
+         +33KhDI/99d1LDbPuhtTQslusHdRv54YvDXzFZmqevm3tli1tj2kCAow6V4WafJFpwy3
+         RXbA==
+X-Gm-Message-State: AIkVDXJ65GkWwLBWAxYarmy3+ginTAv/6sHf48JgXgujvS774z+Xac27XsiL412IiUQ7NlTPPusZ4Nz0WnDLYg==
+X-Received: by 10.36.36.146 with SMTP id f140mr54367564ita.75.1483414496878;
+ Mon, 02 Jan 2017 19:34:56 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.181.141 with HTTP; Mon, 2 Jan 2017 19:34:55 -0800 (PST)
+From: Jason Nordlund <jrnordlund@gmail.com>
+Date: Mon, 2 Jan 2017 21:34:55 -0600
+Message-ID: <CABHSrKhE9Qaa8HVm7FApjJnF9wHkwrEj+RSxiLr00_P2vtkbxw@mail.gmail.com>
+Subject: Trend Following Subscriber
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1147bbc0243b6d0545285ad5
+
+--001a1147bbc0243b6d0545285ad5
+Content-Type: text/plain; charset=UTF-8
+
+Hello Michael,
+
+Sorry to hear you are moving on from Agora.
+
+11468 Marketplace Drive
+Suite 600, #200
+Champlin, MN 55316
+
+
+*Jason Nordlund*
+612.232.0777
+
+--001a1147bbc0243b6d0545285ad5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Michael,<div><br></div><div>Sorry to hear you are mo=
+ving on from Agora.</div><div><br></div><div>11468 Marketplace Drive</div><=
+div>Suite 600, #200</div><div>Champlin, MN 55316</div><div><br clear=3D"all=
+"><div><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><b=
+r><b>Jason Nordlund</b><br>612.232.0777<br></div></div>
+</div></div>
+
+--001a1147bbc0243b6d0545285ad5--
+

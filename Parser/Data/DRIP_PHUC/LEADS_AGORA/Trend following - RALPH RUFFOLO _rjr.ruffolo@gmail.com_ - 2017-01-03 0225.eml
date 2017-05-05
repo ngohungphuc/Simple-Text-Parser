@@ -1,0 +1,65 @@
+Return-Path: <rjr.ruffolo@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B35E04028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:23:14 -0500 (EST)
+Received: from mail-yw0-f174.google.com ([209.85.161.174])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102192612015_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:26:12 +0000
+X-RC-FROM: <rjr.ruffolo@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f174.google.com with SMTP id t125so273287992ywc.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:26:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=zFhfZtbji1pl1BRRkHg5vTbFjXSEANBIWNvIYzR23+8=;
+        b=NQoQn0Xg3nVGBVQjybzLmbv20hhn6jXVLH9ATQpCTW4PSyWKm+uACqmT7UvAI6Qgwx
+         7XpiG86j4f6KSTZQfDNXy9UWg0+nmdUC3ivzngVl1E/8B6NYFiS3PLUi917X/mda1OBL
+         zLOf7O7aatBWI+ROxTaMAff16xkt6M92rgMBouuJVoYEz/PKovI6fTcMLZBG33rQVY3h
+         dUrSuGiy84KHRrxUf5R5ZfxlGoCed7PnAo/RsF9DW+fZbKdobWgTECN8dzaPUzXlabtf
+         75mGWIubKepKdtN64EO8GR2bbGAscf9JRTLaoL3hm/se1p/sMf05tz/JsnT1EOKUeH/0
+         K4Bg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=zFhfZtbji1pl1BRRkHg5vTbFjXSEANBIWNvIYzR23+8=;
+        b=TzI3hBW4n43HnauPZtKIa60HcOYgGPs3FUJPFYdbJAuI04yt4D/uMk5ZRbZgmTe2rB
+         faeWVhCE7tgqTpeCMs7dLYRhmpqwmoAytSsrclaI9a22a8KVZM2eCM/1m0Y3B+TaIZEh
+         xe4I4IyMKpJrmkNRONJQecVS/p/I1kRmQfBugDA9Fq/HkI8WAjR4hb9JA+/22Akud9D8
+         V5E2ostI7kP4A9EJw2gbCYseiIPOjqph9egoAfUbQhxOLRVpmAS6Ll+6jVTDR2LnYhzc
+         y/nsMBEFzomPpjxxheWShdJDx7aicDK8DjVlsAodQYd5P3U3cSMkgOkU5FKKRQ/SxR2c
+         VVNg==
+X-Gm-Message-State: AIkVDXKBVPJqhlWz5vaH8PurpFAz2ygt94noFHOR0J/jqBVvMK8RpYN+gECgrbzIRm2jo3TDxeBUeeynALVAkw==
+X-Received: by 10.129.179.197 with SMTP id r188mr55196545ywh.102.1483385157865;
+ Mon, 02 Jan 2017 11:25:57 -0800 (PST)
+MIME-Version: 1.0
+From: RALPH RUFFOLO <rjr.ruffolo@gmail.com>
+Date: Mon, 02 Jan 2017 19:25:47 +0000
+Message-ID: <CAMb3uWi+=bMJwpZf_1tDpf_JYMS-X3a4YXcdZCNSWY4WrjQyYQ@mail.gmail.com>
+Subject: Trend following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114ae96666571a0545218567
+
+--001a114ae96666571a0545218567
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael,  sorry to hear of the end of Trend Following.  Please send your
+report to:
+Ralph Ruffolo
+8602-3rd Ave
+Pleasant prairie, wi 53158
+
+--001a114ae96666571a0545218567
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Michael, =C2=A0sorry to hear of the end of Trend Following.=C2=A0 Please=
+ send your report to:<div>Ralph Ruffolo</div><div>8602-3rd Ave</div><div>Pl=
+easant prairie, wi 53158</div><div><br></div>
+
+--001a114ae96666571a0545218567--
+

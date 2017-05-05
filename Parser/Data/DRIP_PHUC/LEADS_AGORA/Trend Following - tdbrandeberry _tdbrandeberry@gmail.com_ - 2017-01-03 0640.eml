@@ -1,0 +1,83 @@
+Return-Path: <tdbrandeberry@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3A85D4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 18:38:04 -0500 (EST)
+Received: from mail-pg0-f49.google.com ([74.125.83.49])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102234059912_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 23:40:59 +0000
+X-RC-FROM: <tdbrandeberry@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-pg0-f49.google.com with SMTP id i5so143079813pgh.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 15:40:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=date:subject:message-id:from:to:mime-version:importance
+         :content-transfer-encoding;
+        bh=o0gDQ+vPoBGjfV61Gde5MTkoyiwMDMA39gsIS7kx9GM=;
+        b=iT+MadSkDimi2NWrjXYFCsTNLkIw3CPY+gmnt2tTjmcPAYECYzoOB43jJcsZYBOC00
+         aJehDhroEc6ho+5lGOr1BWchmc1+1x6bzM21O8FFyyYPlUGKQYhY4wa8SozXAkYsJF4W
+         vKVhFYZhTv8aIpLbDvf7YL+b7BmFhruQbm5CVmS1ps9BsUkxzJPTB0sdkeiT05jeduh6
+         oIvlACvr3pniNoggLrREcQlLrICkacc8AyPPT3LCk5L31MfDZOUYKnBRtYI2IAxfUYAk
+         H/sS7ptOyixa5f1O9+nILqIhZMKBfRyMhoIH2yqcaFu1jni0as9YlXt9ozk5X9MKC1zl
+         4bMw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:subject:message-id:from:to:mime-version
+         :importance:content-transfer-encoding;
+        bh=o0gDQ+vPoBGjfV61Gde5MTkoyiwMDMA39gsIS7kx9GM=;
+        b=rxy3WGj1xnkSdFhm++PMS/x8kZG8jrZRQm67X2qjsOzacQgAW1TdlciIQafpotQA4p
+         gWAhEOo9IWp4FMYr6sZq+oLed7BU+DNFdUcXYbuGTmpU+u2yd/pop7qmpzn625Ldaf0/
+         3zw3krlXRIWcFk1F4lO3fR3F0BuJSPPz6lAIa3Jw2CizpkdNkRbHDwKgEzrhGCAk6x+u
+         bPcW8ZUOe+I7qmoW98EhrVcgq8xFXlZ4Ns9sP+Kif4E7mTdtSiT2PuLIUHnBrD7czkSG
+         qgxHhJAyEc3ZlsAYzHlLHr+Sk3WFm0RaOqf+dp+N5w2zNGnshK+eDhpSSI4ggrHR6gsl
+         1/vw==
+X-Gm-Message-State: AIkVDXJTnkf57H5nyNn7cBGOJgQOybumdfG4fi2NZuB3mH1TXqPdKPxCX2a/v3dtuEKO4g==
+X-Received: by 10.84.225.133 with SMTP id u5mr125809921plj.76.1483400453450;
+        Mon, 02 Jan 2017 15:40:53 -0800 (PST)
+Received: from [192.168.1.2] (ip70-178-53-3.ks.ks.cox.net. [70.178.53.3])
+        by smtp.gmail.com with ESMTPSA id r1sm86134806pgn.48.2017.01.02.15.40.51
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 15:40:51 -0800 (PST)
+Date: Mon, 02 Jan 2017 17:40:49 -0600
+Subject: Trend Following
+Message-ID: <1lhbtdh460xe121oy9r8apwx.1483400449613@email.android.com>
+From: tdbrandeberry <tdbrandeberry@gmail.com>
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+X-Priority: 3
+Importance: Normal
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SSBhbSBqdXN0IGxlYXJuaW5nIGFib3V0IHRyZW5kIGZvbGxvd2luZy4uLiBJbiBhZGRpdGlvbiB0
+byBhIGJvb2sgSSBiZWxpZXZlIHRoYXQgeW91IHNlbnQgdG8gbWUgSSBwdXJjaGFzZWQgYSBjb3B5
+IG9mIHlvdXIgdXBkYXRlZCBlZGl0aW9uIG9mIFRyZW5kIEZvbGxvd2luZyBmcm9tIFRocmlmdEJv
+b2tzLi4uIEJlaW5nIHRoYXQgdGhlIGZsdSBoYXMgY2F1Z2h0IHRvIG1lIEkndmUgYmVlbiBzdHVk
+eWluZyB0aG9zZSBhbmQgRGFuIEhvbHpjbGF3J3MgYm9va3Mgb24gUGVubnkgU3RvY2tzIGFuZCBN
+aWNyb2NhcCBpbnZlc3RpbmcuICAKCkF0IDUzLCBJJ20gbGF0ZSB0byB0aGUgZ2FtZS4uLiBGb3Ig
+dGhlIHBhc3QgMTcgeWVhcnMgSSd2ZSB3b3JrZWQgaW4gcG9zaXRpb25zIHRoYXQgaGF2ZW4ndCBw
+cm92aWRlZCBiZW5lZml0cyBhbmQgdG8gdG9wIHRoYXQgMiBvZiBteSAzIGNoaWxkcmVuIGFyZSBh
+dXRpc3RpYy4uLi4gVGhlIG9sZGVyIG9mIHRoZSB0d28gaXMgaGlnaGVyIGZ1bmN0aW9uaW5nIGJ1
+dCBzdGlsbCB1bmFibGUgdG8gaG9sZCBhIGpvYiBkdWUgdG8gdmFyaW91cyBvdGhlciBoZWFsdGgg
+aXNzdWVzLiAgVGhlIHlvdW5nZXIgb2YgdGhlIHR3byB3ZSBhcmUgYXR0ZW1wdGluZyB0byBlbnJv
+bGwgaW4gYSBzaGVsdGVyZWQgd29ya3Nob3AuICBNeSBtaWRkbGUgY2hpbGQgaXMgaW4gZ3JhZCBz
+Y2hvb2wgc3R1ZHlpbmcgaGlnaGVyIGVkdWNhdGlvbiBhZG1pbi4uLiBGb3IgQ2hyaXN0bWFzIEkg
+b3BlbmVkIGFuIGludmVzdG1lbnQgYWNjb3VudCBmb3IgaGVyIGFuZCBpbnN0cnVjdGVkIGhlciB0
+byB0cmFuc2ZlciB3aGF0ZXZlciBzaGUgY291bGQgdG8gaXQgZWFjaCBtb250aCBhbmQgSSB3b3Vs
+ZCBoZWxwIGhlciBtYW5hZ2UgaXQuLi4gSSBjYW4ndCBkbyB0aGF0IGZvciB0aGUgb3RoZXIgdHdv
+IGJlY2F1c2UgdGhleSB3b3VsZCBsb3NlIHRoZWlyIGJlbmVmaXRzIGFuZCBuZWl0aGVyIGNhbiBt
+YW5hZ2UgbW9uZXkuCgpJIHdva2UgdXAgb25lIG1vcm5pbmcgbm90IHRvbyBsb25nIGFnbyBhbmQg
+aGFkIGFuIGVwaXBoYW55Li4uIEF0IG15IGFnZSwgYW5kIHdpdGggbXkgZmFtaWx5IGR5bmFtaWMs
+IEknbSBuZXZlciBnb2luZyB0byBiZSBhYmxlIHRvIHJldGlyZSB3aXRob3V0IGxlYXJuaW5nIHRv
+IGludmVzdC4gIEkgZG9uJ3QgaGF2ZSBtdWNoIGluIHRoZSB3YXkgb2YgInBsYXkgbW9uZXkiIHNv
+IHRoZXNlIGlkZWFzIHRoYXQgcnVuIGNvbnRyYXJ5IHRvIHRoZSBpZGVhIG9mIGJ1eSBhbmQgaG9s
+ZCBoYXZlIGEgbG90IG9mIGludGVyZXN0IGZvciBtZS4gIEknbSBzbyBoYXBweSB0aGF0IHlvdSBh
+cmUgbWFraW5nIG9uZ29pbmcgdHJhaW5pbmcgYXZhaWxhYmxlLgoKVGVycnkgQnJhbmRlYmVycnkg
+CjIwNiBOIERvZ3dvb2QgU3QKU2lsb2FtIFNwcmluZ3MsIEFSIDcyNzYx
+
+

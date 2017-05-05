@@ -1,0 +1,94 @@
+Return-Path: <rocket.jac@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6B51F40292244
+	for <mcovel@trendfollowing.com>; Wed, 11 Jan 2017 14:21:13 -0500 (EST)
+Received: from BAY004-OMC4S25.hotmail.com ([65.54.190.227])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170111192408852_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 11 Jan 2017 19:24:08 +0000
+X-RC-FROM: <rocket.jac@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com ([65.54.190.201]) by BAY004-OMC4S25.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Wed, 11 Jan 2017 11:24:02 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=h1+K5EowShbtUS7NOG/fMqiLeztpN97d5NcYM8UVpys=;
+ b=brLHEuUejcE+QXRIrSWtR+nEol+T7JoZWuufnNTFtgdydM1C+00f1hWISjO2IZwffVWEjnlp3OumPBB5oPYrVS7xKf1PK2C6SpYDVqBzwhkHqzqt985qEl1HQ5NQe+1yrmRO+cTXSbZuYd6SNLaD0q5I9gnRVKoNsQLajythwY/bxq9N1UEWjruLp2zlpuiWGf+vdAysZYPFTqc7BGQNiqG4w+5skvxRkem/J67ya4yIZ1sulnHMmsWicYvxhAp43HjmO7J3kJao72xkkqugcS+bTUIzOKyCcxo9FZakZbocYxCtSzmNV73mOXjNT0iIhCmTpjD8D/hSggyDnXA0gg==
+Received: from BY2NAM01FT054.eop-nam01.prod.protection.outlook.com
+ (10.152.68.59) by BY2NAM01HT116.eop-nam01.prod.protection.outlook.com
+ (10.152.68.153) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Wed, 11 Jan
+ 2017 19:24:02 +0000
+Received: from BN3PR0701MB1671.namprd07.prod.outlook.com (10.152.68.60) by
+ BY2NAM01FT054.mail.protection.outlook.com (10.152.68.139) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Wed, 11 Jan 2017 19:24:02 +0000
+Received: from BN3PR0701MB1671.namprd07.prod.outlook.com ([10.163.39.15]) by
+ BN3PR0701MB1671.namprd07.prod.outlook.com ([10.163.39.15]) with mapi id
+ 15.01.0845.013; Wed, 11 Jan 2017 19:24:01 +0000
+From: Jacques Richard <rocket.jac@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: TRND  FOWING
+Thread-Topic: TRND  FOWING
+Thread-Index: AQHSbEAQlEwMZzD98kWAZIov8Dagow==
+Date: Wed, 11 Jan 2017 19:24:01 +0000
+Message-ID: <BN3PR0701MB1671AB16CCCFAFCA161F636A8D660@BN3PR0701MB1671.namprd07.prod.outlook.com>
+Accept-Language: en-CA, en-US
+Content-Language: en-CA
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:C3B6D1670DF2EDCAC8F90F65735FEF22863FD51259D23799495A909E6A1CBCE0;UpperCasedChecksum:259D7A17D311227BD3EEF69BE13A2389E182738AFE0A64B7B074DE909780A1CF;SizeAsReceived:7415;Count:36
+x-tmn: [sztNsdZCc1OVGY42Ug1vO+T6MXoO9VGv]
+x-incomingheadercount: 36
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BY2NAM01HT116;7:p8xYyGuwD2e3xFXB6bYkEMXRxGf8J0aLw7kZ4shJI/9nMjUXOyxdRG8Gej25+7mD7g4Tuan0Wvwq8nUOIGknoiEtegSmuYS9b96R95aBaGxNcCWgzJQyKPfl+yE2dAamgPQcRGPoyUt/qAaTVOppe4oHS87Ha+MFNa3/04VxmNNzQz4NK9w2CO7J4j23/NUkgvd4LdibpVJPY2RUaNHHLuuaStkk1qpWO6HURTzSjzLnEwTRrV2Snl/7CItR2SdUH0wV6GKNicM8gzRBrwMM3Xu5TovVGTKrpJCSUbei9RFMw438/huK7mafCSOY9E9u7026btuTAiO1Hb5oZiLcbc5jDgZaiX/KaulJrVw8Mj43Do2h5gMPKNLNFzJ4OpCq1XOufabMeQr4Q+sau8IriDOKGCP0qAtHh5OZHZOi0WlLtfNgpydfFG/l7f44T28Kx68vbCHzybb/th02786pGg==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2NAM01HT116;H:BN3PR0701MB1671.namprd07.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 4c8b4166-63ce-4f08-4add-08d43a576639
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:(22001)(8291501021);SRVR:BY2NAM01HT116;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BY2NAM01HT116;BCL:0;PCL:0;RULEID:;SRVR:BY2NAM01HT116;
+x-forefront-prvs: 01842C458A
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN3PR0701MB1671AB16CCCFAFCA161F636A8D660BN3PR0701MB1671_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 11 Jan 2017 19:24:01.6678
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM01HT116
+X-OriginalArrivalTime: 11 Jan 2017 19:24:02.0619 (UTC) FILETIME=[444428B0:01D26C40]
+
+--_000_BN3PR0701MB1671AB16CCCFAFCA161F636A8D660BN3PR0701MB1671_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+1-11-17:    Hi Michael:    I'm  interested  in  what you the offer!
+
+--_000_BN3PR0701MB1671AB16CCCFAFCA161F636A8D660BN3PR0701MB1671_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>1-11-17:&nbsp;&nbsp;&nbsp; Hi Michael:&nbsp;&nbsp;&nbsp; I'm&nbsp; inter=
+ested&nbsp; in&nbsp; what you the offer!<br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_BN3PR0701MB1671AB16CCCFAFCA161F636A8D660BN3PR0701MB1671_--
+

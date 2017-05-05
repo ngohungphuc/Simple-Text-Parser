@@ -1,0 +1,60 @@
+Return-Path: <ajtylertx17@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id D92BA4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:40:57 -0500 (EST)
+Received: from mail-oi0-f49.google.com ([209.85.218.49])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102184354189_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:43:54 +0000
+X-RC-FROM: <ajtylertx17@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f49.google.com with SMTP id 128so292607766oig.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:43:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:message-id:to;
+        bh=hy17H3cyTA+TgVlsGU4RcFpYR1MupGwNeHm6mnSRbNE=;
+        b=m0fiOJHpHqkqgmspqONdzJzdK7w0IvQBFbqRheDEZnbB5211fAIw2aMWcuPmzDryhO
+         lVPzQSTgQNDCfJnnUlrRu4vitudbxOkk8Jo2ei008uXDuwMCtcTdDwS0yQXc9yyO++AS
+         NiY78MkSYZh1WyoxeEbvsmNGed38ljBQshVlA59zw0VZXOd/jXlNAbjZ5+nxryePUZ2X
+         mw1oJkRaKx+MA3fxIV+VMs/WTz/8L9MwayuT6pKhSdlLUXj+6Mbv4Sst9N+wNCLrI+B4
+         wMtuf7bmychuS8wyNWYNWJHlDJcYaF6YKuYgV96buUlwQetw10nYfMHPfC6cvKzqFWiI
+         wlSg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :message-id:to;
+        bh=hy17H3cyTA+TgVlsGU4RcFpYR1MupGwNeHm6mnSRbNE=;
+        b=qGyHHG1/ZHvMvO+8rMDMCdRFlXZFYmsTcxajijl2ulCqjXoI0O0eZErmLmeRgZxId9
+         nPaxVZ8Rhz7bwid0FwRNJ5vpbLS1QiKy77nBZwkdVm+AOk/1CUZ9A7q346kMONRyeXkX
+         GYgVgTHioyog/X1t6FlxXS/jZfBsfMD3MGGBFyPfd3NUuqc9UDRYwWouk+PIkKk0poZY
+         DJAxFhTClBKE9jvoiE5l8FjSUBQJtwlKlfnKCrAQsqWgEOSdXjTBn1uVZviaS3KiVter
+         ABMm+ww/CyYsnoPiAYreQY/8N66dbqBReCh3X94gVkhx9kCiQXPAj6i6OHZrCLn3nsAS
+         KkEQ==
+X-Gm-Message-State: AIkVDXIl4oztDUz/LdzMjoFDMch/pazKG7buWpKyOyPiGheWKU+RxCWoMNSoqmY9r7KnJQ==
+X-Received: by 10.157.58.131 with SMTP id y3mr21690340otc.33.1483382621948;
+        Mon, 02 Jan 2017 10:43:41 -0800 (PST)
+Received: from [10.100.8.108] ([208.180.62.78])
+        by smtp.gmail.com with ESMTPSA id 17sm31307418oty.17.2017.01.02.10.43.41
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 10:43:41 -0800 (PST)
+From: Aj McBride <ajtylertx17@gmail.com>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=us-ascii
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 12:43:41 -0600
+Message-Id: <33E6F4F6-F7D6-43DC-813A-8DCE823BA5CA@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14B100)
+
+AJ McBride
+POBox 6125
+Tyler Tx 75711
+
+Sent from my iPhone
+

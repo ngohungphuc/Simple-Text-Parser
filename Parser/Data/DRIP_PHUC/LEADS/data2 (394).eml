@@ -1,0 +1,78 @@
+Return-Path: <bounce-md_30115094.56f531e5.v1-c0f4d7d745394743bf43bf895ca7342f@click.dripemail2.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m026.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 745BB401EA704
+	for <mcovel@trendfollowing.com>; Fri, 25 Mar 2016 08:41:07 -0400 (EDT)
+Authentication-Results: s12p02m026.mxlogic.net; spf=pass
+Received: from unknown [198.2.178.9] (EHLO mail178-9.suw51.mandrillapp.com)
+	by s12p02m026.mxlogic.net(mxl_mta-8.5.0-9) over TLS secured channel
+	with ESMTP id 5e135f65.0.7763030.00-2250.15400049.s12p02m026.mxlogic.net (envelope-from <bounce-md_30115094.56f531e5.v1-c0f4d7d745394743bf43bf895ca7342f@click.dripemail2.com>);
+	Fri, 25 Mar 2016 06:41:09 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=getdrip.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@getdrip.com;
+ bh=HfjO5QDp0LGeQXNoaRGLhbbC/8w=;
+ b=SOOUxl5Wy8u2u0BVyVIRHS3icYcLHq3OoaQdn1IDb2f6Fp7fVU+kYyZiZ6kUMpVNDglr2bGqCVv5
+   t0rP0J2UCYLnr1LbpHVLqG64UfuULVoJDCoFe0Wfli/bqatFPF/zQ5HeKuhfEhURQuSmwIuwTu3a
+   C7dNf2aJEUBGFG8CRXI=
+Received: from pmta05.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail178-9.suw51.mandrillapp.com id hukoua22s10a for <mcovel@trendfollowing.com>; Fri, 25 Mar 2016 12:41:09 +0000 (envelope-from <bounce-md_30115094.56f531e5.v1-c0f4d7d745394743bf43bf895ca7342f@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1458909669; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=uh7SLzJtJq1Nz3LGgrs0fKPAYh5tE4OE7CG9wYVnHEA=; 
+ b=Lv3KDQmdGWYe3ztxgUdc0+pFB1vF2QFw4wpt/Q/J72gaj572p9O57ajRFhD0A7iwsc5vGP
+ DVgrhyjYlH5bguo4IVUC6enDvO2dXB2j2ydBSEUYGeWUCCJL4dIZAiK6EO0kAlW9c4vq8B/G
+ UK9Yc5PE4UVpDRBLTtCpPA4E9PzHk=
+From: Rob at Drip <support@getdrip.com>
+Subject: [Drip] eyadala60@gmail.com just triggered a notification from LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Received: from [54.165.149.144] by mandrillapp.com id c0f4d7d745394743bf43bf895ca7342f; Fri, 25 Mar 2016 12:41:09 +0000
+To: <mcovel@trendfollowing.com>
+Message-Id: <56f531e5a6d_7f543ff7308d3044487a9@ip-172-30-0-179.mail>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.c0f4d7d745394743bf43bf895ca7342f
+X-Mandrill-User: md_30115094
+Date: Fri, 25 Mar 2016 12:41:09 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-AnalysisOut: [v=2.1 cv=Nq3XBppJ c=1 sm=1 tr=0 b=1 a=Aeu8JyYEsjZCEwkX7Pw7]
+X-AnalysisOut: [1Q==:117 a=Aeu8JyYEsjZCEwkX7Pw71Q==:17 a=pGLkceISAAAA:8 a=]
+X-AnalysisOut: [lU03Z4yc7+u8VQHnwYB+2V2ltmY=:19 a=IkcTkHD0fZMA:10 a=Vp75NW]
+X-AnalysisOut: [7EbM4A:10 a=7OsogOcEt9IA:10 a=F-LrXtZbAAAA:8 a=-7bF9jFbsXk]
+X-AnalysisOut: [rAnqkt-4A:9 a=QEXdDO2ut3YA:10 a=zAW3KkLQiasA:10 a=pmb4DaUk]
+X-AnalysisOut: [x9kA:10]
+Received-SPF: Pass (s12p02m026.mxlogic.net: domain of click.dripemail2.com designates 198.2.178.9 as permitted sender)
+X-Spam: [F=0.2727272727; B=0.500(0); STSI=0.500(20); STSM=0.600(20); CM=0.500; CY=0.50; MH=0.500(2016032510); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <bounce-md_30115094.56f531e5.v1-c0f4d7d745394743bf43bf895ca7342f@click.dripemail2.com>
+X-SOURCE-IP: [198.2.178.9]
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --=
+> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: eyadala60@gmail.com
+IP Address: (not provided)
+city: Stockholm
+country: Sweden
+first_name: Eyad
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: ongoing
+last_name: Alahmad
+last_trading_or_investment_book_read: No
+state: Stockholms l=C3=A4n
+street1: St=C3=A5ngholmsbacken 10, Lgh 1202
+zip_code: 12740
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/ideapwenmbmpcaf5nazi
+
+Cheers,
+The Drip Team
+

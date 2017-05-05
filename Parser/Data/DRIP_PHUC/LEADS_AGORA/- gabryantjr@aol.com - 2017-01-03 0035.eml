@@ -1,0 +1,66 @@
+Return-Path: <gabryantjr@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A24034028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:33:01 -0500 (EST)
+Received: from omr-a014e.mx.aol.com ([204.29.186.62])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102173558990_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:35:58 +0000
+X-RC-FROM: <gabryantjr@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aab02.mx.aol.com (mtaomg-aab02.mx.aol.com [172.26.126.208])
+	by omr-a014e.mx.aol.com (Outbound Mail Relay) with ESMTP id 7FEA438000A1
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:35:58 -0500 (EST)
+Received: from core-acx10h.mail.aol.com (core-acx10.mail.aol.com [172.27.155.135])
+	by mtaomg-aab02.mx.aol.com (OMAG/Core Interface) with ESMTP id 50FD538000087
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:35:57 -0500 (EST)
+Received: from 76.110.15.66 by webprd-m108.mail.aol.com (10.74.63.52) with HTTP (WebMailUI); Mon, 02 Jan 2017 12:35:56 -0500
+Date: Mon, 2 Jan 2017 12:35:56 -0500
+From: gabryantjr@aol.com
+To: mcovel@trendfollowing.com
+Message-Id: <15960407ff4-2e8f-2e44f@webprd-m108.mail.aol.com>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_235943_1385470630.1483378556913"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [76.110.15.66]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483378558;
+	bh=YzRxKcZyKNViztyOxRha7dn9RDQdxcWyB9DI2/3fEDY=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=w5mRp8e802POmYs0DbZN4IOgkzHL04UGkMWUaydfqnzNA+68PxEqwOiDq6lAoJucZ
+	 lZkHe8k0q1ApUwex+eihjpCVa8ALuFvfBQW02iF7bNvGO7nMv3pa8M9aqmAFnM4JYF
+	 RqQodFDBmXvi5Z+qy1xJR97//U9v843lmRKPZ/1k=
+x-aol-sid: 3039ac1a7ed0586a8f7d34a4
+
+------=_Part_235943_1385470630.1483378556913
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+
+
+Glenn Bryant, Jr.
+gabryantjr@aol.com
+
+
+------=_Part_235943_1385470630.1483378556913
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'><br>
+<br>
+
+<div style="clear:both">Glenn Bryant, Jr.<br>
+gabryantjr@aol.com<br>
+</div>
+</font>
+------=_Part_235943_1385470630.1483378556913--
+

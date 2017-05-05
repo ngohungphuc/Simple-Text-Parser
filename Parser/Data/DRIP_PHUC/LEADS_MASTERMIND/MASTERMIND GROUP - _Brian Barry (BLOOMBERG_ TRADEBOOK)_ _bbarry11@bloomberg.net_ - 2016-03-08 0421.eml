@@ -1,0 +1,108 @@
+Return-Path: <bbarry11@bloomberg.net>
+X-Original-To: INFO@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m001.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 237784019ECE2
+	for <INFO@trendfollowing.com>; Mon,  7 Mar 2016 16:21:18 -0500 (EST)
+Authentication-Results: p02c11m001.mxlogic.net; spf=pass
+Received: from unknown [69.191.244.207] (EHLO mgnj5.bloomberg.net)
+	by p02c11m001.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id 0d0fdd65.0.660473.00-2115.1379044.p02c11m001.mxlogic.net (envelope-from <bbarry11@bloomberg.net>);
+	Mon, 07 Mar 2016 14:21:20 -0700 (MST)
+X-BB-Reception-Complete: 07 Mar 2016 16:21:19 -0500
+X-IP-Listener: Outgoing Mail
+X-IP-MID: 136026061
+Received: from p057.bloomberg.com (HELO p057) ([10.126.157.205])
+  by mgnj5.bloomberg.net with SMTP; 07 Mar 2016 16:21:19 -0500
+X-BLP-INETSVC: version=BLP_APP_S_INETSVC_1.0.1; host=mgnj5:25; conid=71
+Date: Mon, 7 Mar 2016 21:21:19 -0000
+From: "Brian Barry (BLOOMBERG/ TRADEBOOK)" <bbarry11@bloomberg.net>
+Reply-To: "Brian Barry" <bbarry11@bloomberg.net>
+To: INFO@TRENDFOLLOWING.COM
+MIME-Version: 1.0
+Message-ID: <56DDF0CF01FD026000390A06_0_6293@p057>
+X-BLP-GUID: 56DDF0CF01FD026000390A060000
+Subject: =?UTF-8?B?TUFTVEVSTUlORCBHUk9VUA==?=
+Content-Type: multipart/alternative;
+	boundary="BOUNDARY_56DDF0CF01FD026000390A06_0_7556_p057"
+Content-ID: <ID_56DDF0CF01FD026000390A06_0_5643@p057>
+X-AnalysisOut: [v=2.1 cv=H8rdtrsi c=1 sm=1 tr=0 a=DNQbyp4bsE/nKqykTPE4GQ==]
+X-AnalysisOut: [:117 a=DNQbyp4bsE/nKqykTPE4GQ==:17 a=7OsogOcEt9IA:10 a=wy1]
+X-AnalysisOut: [z44egAAAA:8 a=BNFp--SqAAAA:8 a=eOHZLoGzNwFps5IhA68A:9 a=QE]
+X-AnalysisOut: [XdDO2ut3YA:10 a=vLdYcLHHHqgA:10 a=K2cLxWssJNoA:10 a=yf_XvH]
+X-AnalysisOut: [_G5kwA:10 a=IfLdj6RjV1IA:10 a=W0xqNwQRWCYA:10 a=uDb4aMAuAA]
+X-AnalysisOut: [AA:8 a=IgweC2muJrmctnDbaQ0A:9 a=djV7ZQJdHILhR-yy:21 a=_W_S]
+X-AnalysisOut: [_7VecoQA:10]
+Received-SPF: Pass (p02c11m001.mxlogic.net: domain of bloomberg.net designates 69.191.244.207 as permitted sender)
+X-Spam: [F=0.1428571429; B=0.500(0); STSI=0.500(-16); STSM=0.400(-16); CM=0.500; CY=0.50; MH=0.500(2016030714); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <bbarry11@bloomberg.net>
+X-SOURCE-IP: [69.191.244.207]
+
+--BOUNDARY_56DDF0CF01FD026000390A06_0_7556_p057
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+RklSU1QgTUFTVEVSTUlORCBHUk9VUApJIGFtIG9yZ2FuaXppbmcgYSAjdHJlbmRmb2xsb3dpbmcg
+I21hc3Rlcm1pbmQgZ3JvdXAuIFRoaXMgd2lsbCBiZSBhIG5ldyBvZmZlcmluZyBmb3IgRmxhZ3No
+aXAgY2xpZW50cy4gSW5mb3JtYXRpb24gdG8gZm9sbG93LCBidXQgcGxlYXNlIHNlbmQgYW4gZW1h
+aWwgdG8gYmUgbm90aWZpZWQ6Y29udGFjdC4KCgpJ4oCZZCBiZSBpbnRlcmVzdGVkIGluIGZ1cnRo
+ZXIgaW5mb3JtYXRpb24uCgpSZWdhcmRzLApCcmlhbiBXLiBCYXJyeSwgQ01UCkJsb29tYmVyZyBU
+cmFkZWJvb2sKV2Vic2l0ZTogIGh0dHA6Ly93d3cuYmxvb21iZXJndHJhZGVib29rLmNvbS8KRW1h
+aWw6ICAgIGJiYXJyeTExQGJsb29tYmVyZy5uZXQKRGVzazogICAgICAoMjEyKS02MTctNzA3MApE
+aXJlY3Q6ICAgICg2NDYpLTMyNC0zMTM1CkNlbGw6ICAgICAgKDIwMSktNzI1LTM0NTcKCg==
+
+--BOUNDARY_56DDF0CF01FD026000390A06_0_7556_p057
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PHRpdGxlPjwvdGl0bGU+PC9oZWFkPjxib2R5PjwhLS0gcnRlLXZlcnNpb24g
+MC4yIDk5NDc1NTE2MzcyOTQwMDhiNzdiY2UyNWViNjgzZGFjIC0tPjxkaXYgY2xhc3M9InJ0ZS1z
+dHlsZS1tYWludGFpbmVyIiBzdHlsZT0id2hpdGUtc3BhY2U6IHByZS13cmFwOyBmb250LXNpemU6
+IHNtYWxsOyBmb250LWZhbWlseTogJ0NvdXJpZXIgTmV3JywgQ291cmllcjsgY29sb3I6IHJnYigw
+LCAwLCAwKTsiZGF0YS1jb2xvcj0iZ2xvYmFsLWRlZmF1bHQiIGJiZy1jb2xvcj0iZGVmYXVsdCIg
+ZGF0YS1iYi1mb250LXNpemU9Im1lZGl1bSIgYmJnLWZvbnQtc2l6ZT0ibWVkaXVtIiBiYmctZm9u
+dC1mYW1pbHk9ImZpeGVkLXdpZHRoIj48ZGl2IHN0eWxlPSJmb250LXdlaWdodDogYm9sZDsgZm9u
+dC1zaXplOiB4LWxhcmdlOyJkYXRhLWJiLWZvbnQtc2l6ZT0iaHVnZSIgYmJnLWZvbnQtc2l6ZT0i
+aHVnZSI+RklSU1QgTUFTVEVSTUlORCBHUk9VUDwvZGl2PjxkaXY+SSBhbSBvcmdhbml6aW5nIGE8
+c3BhbiBjbGFzcz0iYXBwbGUtY29udmVydGVkLXNwYWNlIj4gPHNwYW4gc3R5bGU9ImZvbnQtd2Vp
+Z2h0OiBib2xkOyI+PGEgc3BlbGxjaGVjaz0iZmFsc2UiIGJiZy1kZXN0aW5hdGlvbj0icnRlOmJp
+bmQiIGhyZWY9IiN0cmVuZGZvbGxvd2luZyIgZGF0YS1kZXN0aW5hdGlvbj0icnRlOmJpbmQiPiN0
+cmVuZGZvbGxvd2luZzwvYT48L3NwYW4+PC9zcGFuPjxzcGFuIGNsYXNzPSJhcHBsZS1jb252ZXJ0
+ZWQtc3BhY2UiPiA8c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6IGJvbGQ7Ij48YSBzcGVsbGNoZWNr
+PSJmYWxzZSIgYmJnLWRlc3RpbmF0aW9uPSJydGU6YmluZCIgaHJlZj0iI21hc3Rlcm1pbmQiIGRh
+dGEtZGVzdGluYXRpb249InJ0ZTpiaW5kIj4jbWFzdGVybWluZDwvYT48L3NwYW4+PC9zcGFuPjxz
+cGFuIGNsYXNzPSJhcHBsZS1jb252ZXJ0ZWQtc3BhY2UiPiA8L3NwYW4+Z3JvdXAuIFRoaXMgd2ls
+bCBiZSBhIG5ldyBvZmZlcmluZyBmb3I8c3BhbiBjbGFzcz0iYXBwbGUtY29udmVydGVkLXNwYWNl
+Ij4gPC9zcGFuPjxhIGJiZy1kZXN0aW5hdGlvbj0iaHR0cDovL2NsaWNrcy5hd2ViZXIuY29tL3kv
+Y3QvP2w9UFJmakkmYW1wO209M2R1cDNrYWJiVDUuRjJ4JmFtcDtiPTBWeGc4YnpVOXV1Z2JrektI
+b2xUc2cic3R5bGU9IiIgaHJlZj0iaHR0cDovL2NsaWNrcy5hd2ViZXIuY29tL3kvY3QvP2w9UFJm
+akkmYW1wO209M2R1cDNrYWJiVDUuRjJ4JmFtcDtiPTBWeGc4YnpVOXV1Z2JrektIb2xUc2ciZGF0
+YS1kZXN0aW5hdGlvbj0iaHR0cDovL2NsaWNrcy5hd2ViZXIuY29tL3kvY3QvP2w9UFJmakkmYW1w
+O209M2R1cDNrYWJiVDUuRjJ4JmFtcDtiPTBWeGc4YnpVOXV1Z2JrektIb2xUc2ciPkZsYWdzaGlw
+PC9hPjxzcGFuIGNsYXNzPSJhcHBsZS1jb252ZXJ0ZWQtc3BhY2UiPiA8L3NwYW4+Y2xpZW50cy4g
+SW5mb3JtYXRpb24gdG8gZm9sbG93LCBidXQgcGxlYXNlIHNlbmQgYW4gZW1haWwgdG8gYmUgbm90
+aWZpZWQ6PGEgYmJnLWRlc3RpbmF0aW9uPSJodHRwOi8vY2xpY2tzLmF3ZWJlci5jb20veS9jdC8/
+bD1QUmZqSSZhbXA7bT0zZHVwM2thYmJUNS5GMngmYW1wO2I9SFZaSDZWQXBqMHRtbUQ1M2RNMk5B
+USJzdHlsZT0iIiBocmVmPSJodHRwOi8vY2xpY2tzLmF3ZWJlci5jb20veS9jdC8/bD1QUmZqSSZh
+bXA7bT0zZHVwM2thYmJUNS5GMngmYW1wO2I9SFZaSDZWQXBqMHRtbUQ1M2RNMk5BUSJkYXRhLWRl
+c3RpbmF0aW9uPSJodHRwOi8vY2xpY2tzLmF3ZWJlci5jb20veS9jdC8/bD1QUmZqSSZhbXA7bT0z
+ZHVwM2thYmJUNS5GMngmYW1wO2I9SFZaSDZWQXBqMHRtbUQ1M2RNMk5BUSI+Y29udGFjdDwvYT4u
+PC9kaXY+PGRpdj48YnI+PGJyPknigJlkIGJlIGludGVyZXN0ZWQgaW4gZnVydGhlciBpbmZvcm1h
+dGlvbi48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PlJlZ2FyZHMsPC9kaXY+PC9kaXY+PGRpdiBj
+bGFzcz0icnRlLXN0eWxlLW1zZy1wZXJzb25hbC1kaXNjbGFpbWVyIiBzdHlsZT0iYm9yZGVyLXRv
+cDoxcHggZG90dGVkICMzODM4Mzg7IG1hcmdpbi10b3A6MTJweDsgcGFkZGluZy10b3A6IDEycHg7
+Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCAnQkIuUHJvcG9ydGlvbmFsJzsgZm9u
+dC1zaXplOiBzbWFsbDsgY29sb3I6IzM4MzgzODsiZGF0YS1iYi1mb250LXNpemU9Im1lZGl1bSI+
+PCEtLSBydGUtdmVyc2lvbiAwLjIgOTk0NzU1MTYzNzI5NDAwOGI3N2JjZTI1ZWI2ODNkYWMgLS0+
+QnJpYW4gVy4gQmFycnksIENNVDxicj5CbG9vbWJlcmcgVHJhZGVib29rPGJyPldlYnNpdGU6ICA8
+YSBocmVmPSJodHRwOi8vd3d3LmJsb29tYmVyZ3RyYWRlYm9vay5jb20vInNwZWxsY2hlY2s9ImZh
+bHNlIj5odHRwOi8vd3d3LmJsb29tYmVyZ3RyYWRlYm9vay5jb20vPC9hPjxicj5FbWFpbDogICAg
+PGEgaHJlZj0ibWFpbHRvOmJiYXJyeTExQGJsb29tYmVyZy5uZXQic3BlbGxjaGVjaz0iZmFsc2Ui
+PmJiYXJyeTExQGJsb29tYmVyZy5uZXQ8L2E+PGJyPkRlc2s6ICAgICAgKDIxMiktNjE3LTcwNzA8
+YnI+RGlyZWN0OiAgICAoNjQ2KS0zMjQtMzEzNTxicj5DZWxsOiAgICAgICgyMDEpLTcyNS0zNDU3
+PC9zcGFuPjxicj48YnI+PC9kaXY+PC9ib2R5PjwvaHRtbD4=
+
+--BOUNDARY_56DDF0CF01FD026000390A06_0_7556_p057--
+

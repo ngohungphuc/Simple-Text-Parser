@@ -1,0 +1,70 @@
+Return-Path: <ourvalue@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E954D4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 14:50:33 -0500 (EST)
+Received: from omr-a018e.mx.aol.com ([204.29.186.64])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103195329491_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 19:53:29 +0000
+X-RC-FROM: <ourvalue@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aal01.mx.aol.com (mtaomg-aal01.mx.aol.com [172.27.20.207])
+	by omr-a018e.mx.aol.com (Outbound Mail Relay) with ESMTP id 81B733800120
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 14:53:23 -0500 (EST)
+Received: from core-lfa03a.mail.aol.com (core-lfa03.mail.aol.com [10.76.10.3])
+	by mtaomg-aal01.mx.aol.com (OMAG/Core Interface) with ESMTP id 58F0538000088
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 14:53:23 -0500 (EST)
+Received: from 71.93.40.187 by webprd-m30.mail.aol.com (10.74.51.132) with HTTP (WebMailUI); Tue, 03 Jan 2017 14:53:23 -0500
+Date: Tue, 3 Jan 2017 14:53:23 -0500
+From: Ourvalue <ourvalue@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <15965e4afd8-4f8c-32738@webprd-m30.mail.aol.com>
+Subject: ourvalue@aol.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_255337_1889973544.1483473203158"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [71.93.40.187]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483473203;
+	bh=yAiR5ozHjP3CjI0z1Tq+IwTRBBlJaTLgcHZuuWX0t1k=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=iDpRO4URw7SafHelTyWV8HmabDC8s8zmeF+fkw8WBmX5iXqHMs8jQC1MCr5jUOabh
+	 Ra6AlEMcbg8eBEiLU+yu1KL0jgqhdrhrkKhZFGccypB+cmESpSQ+dhTN6Wm4jRhLzM
+	 WBwJwbvBgx4bQBoDcg3PtXdWooIoSVs6aV1bSiz4=
+x-aol-sid: 3039ac1b14cf586c013376d9
+
+------=_Part_255337_1889973544.1483473203158
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Thanks Michael.
+
+Regards,
+
+Brian Somodi
+
+------=_Part_255337_1889973544.1483473203158
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>
+<div><font face="Arial, Helvetica, sans-serif" style="background-color: transparent;">Thanks Michael.</font></div>
+
+<div>&nbsp;</div>
+
+<div>Regards,</div>
+
+<div>&nbsp;</div>
+
+<div>Brian Somodi</div>
+</font>
+------=_Part_255337_1889973544.1483473203158--
+

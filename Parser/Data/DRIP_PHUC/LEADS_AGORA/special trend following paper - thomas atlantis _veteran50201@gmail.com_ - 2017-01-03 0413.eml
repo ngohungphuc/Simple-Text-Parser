@@ -1,0 +1,61 @@
+Return-Path: <veteran50201@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 8F8BE4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:10:28 -0500 (EST)
+Received: from mail-qt0-f179.google.com ([209.85.216.179])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102211325791_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:13:25 +0000
+X-RC-FROM: <veteran50201@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f179.google.com with SMTP id d45so226613716qta.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:13:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=RWaW49posmzC9JdGq0CNgKCjPRc6sdcww3lbAF05FRo=;
+        b=Q2hfnNVESrYWt0lTBzDCHy9LfLRUMjb4u7kPONQ6IbZEC75UB1U9sCmItSlMm6IfWT
+         qlJ1waB/oGt6VeTJV0NVFM0Fhw6Yn1qTLhNdoUjMwR4dYZB1iX7pOvU3/JKo31j6oVs8
+         PMLR0KwxLJEfsjFBsmyfFJ6M3radrG+J5gV+iyLx0mf+m+162eHH8Adx+aU9V1CxzPJ7
+         XkGbN6e9tdSSG0gL5bFQdF70IXjM4qnCy8DBcb+JEWGh1CsBWsevs5jXpuxkfKenZdnf
+         xsFQ2n72Jt11TrhJlubbN6W+98oYEWG/vge20r/Ns1NLehLaogwELdYbRbWfXJPkJLZW
+         XKZA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=RWaW49posmzC9JdGq0CNgKCjPRc6sdcww3lbAF05FRo=;
+        b=q9YxUcRcJnYJ9n1KAMyq3FUEH8B8vrxvZru15h6pNtygxIXLc8MyYojYjf7MKlrWzb
+         9vUpvYNt0tq7rVBCZkaP2rvEJrHXZXIkTxN/cE0XWtCzmeXJmEAe4eoZzGZCxrRqjDhr
+         cq84dHoGL8dWVZj4zQbXxfRG7ukObrLhuU6EnvrZ7K6gPgvDr99JJeM0LhEyrCPupHkh
+         zMTXXMmvvdRIGYcNdbF5GAA4IyTGWN8H6O1/MJiSaBlfqnOw4AYpR0ZT+cHfJnGqpVNS
+         WADl0oYPTcvEnoDCC22Mck+xc9RlgYLs2ckD+OPBkO3+WrOKN7AdtxWpMIt04FvSWz8x
+         wHnQ==
+X-Gm-Message-State: AIkVDXIIu5rAQq2izRN0Wv8sG2/iWb1qy7yTBHu9BxDd2bZxAraL7+2lyoCnRIx1zwoLe82h4CxMDPmbwFNe3A==
+X-Received: by 10.200.44.202 with SMTP id 10mr57148115qtx.156.1483391594324;
+ Mon, 02 Jan 2017 13:13:14 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.140.18.145 with HTTP; Mon, 2 Jan 2017 13:13:13 -0800 (PST)
+From: thomas atlantis <veteran50201@gmail.com>
+Date: Mon, 2 Jan 2017 15:13:13 -0600
+Message-ID: <CABau41O75VAH4P5D0R-rcPQrGU4eBdHy5uDNQj435xEA0bbgHw@mail.gmail.com>
+Subject: special trend following paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113572ba0ae8470545230510
+
+--001a113572ba0ae8470545230510
+Content-Type: text/plain; charset=UTF-8
+
+Don Landis,  502 E Ave., Nevada, IA 50201   Thanks Micheal.
+
+--001a113572ba0ae8470545230510
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Don Landis,=C2=A0 502 E Ave., Nevada, IA 50201=C2=A0=C2=A0=
+ Thanks Micheal.</div>
+
+--001a113572ba0ae8470545230510--
+

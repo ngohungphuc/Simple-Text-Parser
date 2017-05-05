@@ -1,0 +1,72 @@
+Return-Path: <joedibattista@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E99194028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:21:12 -0500 (EST)
+Received: from mail-it0-f43.google.com ([209.85.214.43])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102192351358_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:23:51 +0000
+X-RC-FROM: <joedibattista@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f43.google.com with SMTP id o141so261135137itc.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:23:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=QxMt2pD7pEOnRThjOfL2e9iDoBu1aP6eLV9S/uW4Oe4=;
+        b=SX+0+PwBKlYnE5xKyDuB4RC5wJf+wpMkFIzJKT6bwnbmuljnRRKIAEU4bAwdNiG8wM
+         /g7sRO5C5GRTCx2O5P2g1odwa/BgLu0UQ0DD6G8g027grT7IsRx/WIpCVBRqkDVgB+HY
+         FWXXFgN3crmVO4Q8y/I39DIlmPkyhX9Lx4FKosiVP8K4AGKAZ+WVM9De0xWaBiqcGmqI
+         DR7/VryeTFnv6G59j8K6ZWoEfSavTUj4AT8NeFBCwBVwlNf8+0whSvGMkOK3RxbbZltP
+         bUJlKmD6Ft1biffnqd3bKpn91AMcyeADclCMGPRpGf7ZLm7fyuBWwVU6JjyVfxRTDw32
+         1U5A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=QxMt2pD7pEOnRThjOfL2e9iDoBu1aP6eLV9S/uW4Oe4=;
+        b=tbdQtYMQgdKdD9ErU+zOzaV92fA7Ng3SfVleATZpsDh25Z5H77yln3jYF98k3AKK+W
+         WeGakiPEUtjpi8nVBHbHPtJ/im93In+cYcLU3qetual8J+8u0m9qVn70vQfNymFaYw7a
+         oXM0680+MXuVkdvG3YEh+nLaeZ5oi9ZYhZP7XUMMAtujbVwnk8NEOGGd9bZ8kPMiEbt7
+         eP/LXopjYWScvgtYvfTCIA4vAXeyX9FV4I/RgBp82TttNdwjgCFBUM9U5DQO2ayQH2m7
+         PuxReQFh69O5IPp8OjuyEOwTRwefYVZ6ADawENYpP1OeTJlQv0VlrAhXDAJWjD+eRSXD
+         S0MA==
+X-Gm-Message-State: AIkVDXLDv/UGZLIj8gx/ZGetLckWIl2x8tq/MovvDED5KzdU62BI/4PPZe7dahVrwfdvPg==
+X-Received: by 10.36.124.70 with SMTP id a67mr47367947itd.49.1483385021416;
+        Mon, 02 Jan 2017 11:23:41 -0800 (PST)
+Received: from [192.168.0.5] (d72-39-201-11.home1.cgocable.net. [72.39.201.11])
+        by smtp.gmail.com with ESMTPSA id f187sm24706856ita.7.2017.01.02.11.23.40
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 11:23:41 -0800 (PST)
+From: Joe D <joedibattista@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 14:23:40 -0500
+Subject: Investment paper
+Message-Id: <533D163D-0E2C-488B-A2B0-7B86C48E5122@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14C92)
+
+
+Michael,
+
+Sorry to see you go.
+
+Below is my name and address for the trending following investment paper.
+
+Joe DiBattista
+2838 Brookridge Court
+Brights Grove, Ontario 
+Canada N0N 1C0
+
+joedibattista@gmail.com
+
+Sent from my iPhone
+

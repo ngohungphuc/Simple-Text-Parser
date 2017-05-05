@@ -1,0 +1,191 @@
+Return-Path: <obingram@ingramentities.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3CF934029E035
+	for <mcovel@trendfollowing.com>; Wed, 29 Mar 2017 17:44:28 -0400 (EDT)
+Received: from NAM03-BY2-obe.outbound.protection.outlook.com ([104.47.42.131])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170329214718986_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 29 Mar 2017 21:47:18 +0000
+X-RC-FROM: <obingram@ingramentities.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=Ingram2.onmicrosoft.com; s=selector1-ingramentities-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=MsUKkPrx+CC5uB+Q6ZYS0G7B8XEvxE3KWJIBESwqPSc=;
+ b=qkRaxmzV/qE9hoU6A4l0eEWj2QTJPExcZ1bIyRioufflQErHbJ8qaFw1MoniHr8E0uc6RVkJ6ymoYE3PYx/KxCsWzt5Ci4xOlVw3u4kqW5Zg8rVsfgT27vyBP814MnLitjb4zAv3kA5EGR3JMwn8LF4Z1TO7QpYmmWEVEBtYz80=
+Received: from BLUPR10MB0819.namprd10.prod.outlook.com (10.163.215.29) by
+ BLUPR10MB0819.namprd10.prod.outlook.com (10.163.215.29) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.991.14; Wed, 29 Mar 2017 21:47:10 +0000
+Received: from BLUPR10MB0819.namprd10.prod.outlook.com ([10.163.215.29]) by
+ BLUPR10MB0819.namprd10.prod.outlook.com ([10.163.215.29]) with mapi id
+ 15.01.0991.021; Wed, 29 Mar 2017 21:47:10 +0000
+From: Otis Ingram <obingram@ingramentities.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: subscription?
+Thread-Topic: subscription?
+Thread-Index: AdKo1Z1vWvNlgTHWRKOg+7JU7AbLog==
+Date: Wed, 29 Mar 2017 21:47:10 +0000
+Message-ID: <BLUPR10MB08193FDDA1D510254A88C784A5350@BLUPR10MB0819.namprd10.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=ingramentities.com;
+x-originating-ip: [99.172.26.185]
+x-microsoft-exchange-diagnostics: 1;BLUPR10MB0819;7:tHcwiufoTrGoWu6PA2r2x7y6RENy/WaY4KvBKb+2sGSGpsVQbPR3oIM9Jt3/WGZ8eXRZlkNLP7itPphpwGj0FiTv/DLYIzvfSQsF9J6xY8c1rNkulGZWPq86ll/U9t+yGKYRcl4wBT3kb9PtmwSa2Y+nVcKuwS6zP3avpROE7BloW8t+cmsOsJzPDR/c1JbIJz/EClQmvrkGv4zY5rrYe0+nJncNSWn/pmBnBt40qUp99WlYCJyKBGFYpdXfSqXyzSc1t17Ue7PDfie51qwoyJYG/veQ0/r1LbT4YOnBq79XDZkAc313TbcZ3mnV/xwHu1Zc0X0a7e0dvYYz8PSkNA==
+x-ms-office365-filtering-correlation-id: 897d88ce-2fb7-45dc-003a-08d476ed2798
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254075)(201703131423075);SRVR:BLUPR10MB0819;
+x-microsoft-antispam-prvs: <BLUPR10MB0819426D0D1E407375111E9FA5350@BLUPR10MB0819.namprd10.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040450)(601004)(2401047)(5005006)(8121501046)(93006051)(93001051)(10201501046)(3002001)(6041248)(20161123564025)(20161123560025)(2016111802025)(201703131423075)(201702281528075)(201703061421075)(201703061406075)(20161123558025)(20161123555025)(20161123562025)(6043046)(6072148);SRVR:BLUPR10MB0819;BCL:0;PCL:0;RULEID:;SRVR:BLUPR10MB0819;
+x-forefront-prvs: 0261CCEEDF
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(39400400002)(39410400002)(39830400002)(39450400003)(30594003)(33656002)(122556002)(5640700003)(6436002)(99286003)(53936002)(236005)(106356001)(66066001)(9686003)(2351001)(606005)(6916009)(81166006)(55016002)(7736002)(8676002)(7696004)(54896002)(102836003)(6306002)(790700001)(6116002)(81156014)(3846002)(1730700003)(110136004)(74316002)(38730400002)(3480700004)(3660700001)(189998001)(7906003)(5630700001)(2900100001)(6506006)(77096006)(3280700002)(7116003)(2906002)(2501003)(54356999)(25786009)(50986999)(5660300001)(8936002)(86362001);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR10MB0819;H:BLUPR10MB0819.namprd10.prod.outlook.com;FPR:;SPF:None;MLV:ovrnspm;PTR:InfoNoRecords;LANG:en;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR10MB08193FDDA1D510254A88C784A5350BLUPR10MB0819namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: ingramentities.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 29 Mar 2017 21:47:10.7350
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 4ad33bed-3d44-4457-8e63-cc11707808a1
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR10MB0819
+
+--_000_BLUPR10MB08193FDDA1D510254A88C784A5350BLUPR10MB0819namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I send an email earlier today to the info@trendfollowing .com.  I have reco=
+rded that I paid a trial subscription through one of the other investment n=
+ewsletters of 250.00 in August of 16 thought July of 18.  Do you have a rec=
+ord as I thought I have not been getting anything from your service?
+
+Thanks,
+
+Otis B. Ingram
+CEO/CFO
+Ingram Entities, Inc.
+PO Box 1037
+Forsyth, Ga 31029
+478-731-1000(cell)
+obingram@ingramentities.com<mailto:obingram@ingramentities.com>
+www.ingramentities.com<http://www.ingramentities.com/>
+
+www.visionmonroe.com<http://www.visionmonroe.com/>
+Forsyth's Economic Development Blog
+
+
+--_000_BLUPR10MB08193FDDA1D510254A88C784A5350BLUPR10MB0819namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"French Script MT";
+	panose-1:3 2 4 2 4 6 7 4 6 5;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">I send an email earlier today to the info@trendfollo=
+wing .com.&nbsp; I have recorded that I paid a trial subscription through o=
+ne of the other investment newsletters of 250.00 in August of 16 thought Ju=
+ly of 18.&nbsp; Do you have a record as I thought
+ I have not been getting anything from your service?<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Thanks,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:18.0pt;font-family:&quot;Fr=
+ench Script MT&quot;;color:#2E74B5">Otis B. Ingram</span><span style=3D"fon=
+t-size:18.0pt;font-family:&quot;French Script MT&quot;;color:#2E74B5"><o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D">CEO/CFO<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D">Ingram Entities, Inc.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D">PO Box 1037
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D">Forsyth, Ga 31029<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D">478-731-1000(cell)<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#2E74B5"><a href=3D"mailto:obingram@ingramentities.com"><span st=
+yle=3D"color:#0563C1">obingram@ingramentities.com</span></a><o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D"><a href=3D"http://www.ingramentities.com/"><span style=
+=3D"color:#0563C1">www.ingramentities.com</span></a>
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:gray"><a href=3D"http://www.visionmonroe.com/"><span style=3D"co=
+lor:gray">www.visionmonroe.com</span></a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,sans-s=
+erif;color:gray">Forsyth&#8217;s Economic Development Blog<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BLUPR10MB08193FDDA1D510254A88C784A5350BLUPR10MB0819namp_--
+

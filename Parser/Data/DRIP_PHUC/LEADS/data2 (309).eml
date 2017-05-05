@@ -1,0 +1,203 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A71C14028A4B8
+	for <mcovel@trendfollowing.com>; Sat, 19 Nov 2016 00:52:45 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20161119055544934_0459
+          for <mcovel@trendfollowing.com>;
+          Sat, 19 Nov 2016 05:55:44 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=oE/G0Cizg99U4qQELbYo8RdIfyM=; b=SBleytV1Pr3w1mndsaTX3Su
+	X5EEDLyUtvBMT7s/Dl7fP1Mt1GPefbEp05GOEHeJXyn1ndejQO/X1wh4CK3OQLaq
+	LebCQ+tfdZBBJXsrsvTUZkhh93vP69/ugdR0cGpcIKEa516SZZAuxCXUxI17epgS
+	wyQlIdxsMikct0whbLBA=
+Received: by filter1107p1mdw1.sendgrid.net with SMTP id filter1107p1mdw1-15092-582FE95B-12
+        2016-11-19 05:55:39.314119732 +0000 UTC
+Received: from getdrip.com (ec2-52-23-194-121.compute-1.amazonaws.com [52.23.194.121])
+	by ismtpd0026p1mdw1.sendgrid.net (SG) with ESMTP id BsPnjwO0TdmllI4Z9ZIAlQ
+	for <mcovel@trendfollowing.com>; Sat, 19 Nov 2016 05:55:39.128 +0000 (UTC)
+Date: Sat, 19 Nov 2016 05:55:39 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <582fe95b11c8f_303b3f986d6fa2e47711e@ip-172-30-1-152.mail>
+Subject: [Drip] dl8020@aol.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_582fe95b112e5_303b3f986d6fa2e47704a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrCkPtDPExjEeP/CuQTXQTW5ody4WyCsvKXzp
+ mdFC5lioZWyxmIquPWj0UKbXnBIDjPdSZOIgyJdEQTDg7wzO2JcL9sLNO3PHTCP19APzqEUnkrq/3S
+ fS8grvyRYZ+1u6zP4RoTomL5NxAWWWV6PqAFFElOHytSNNMiODECMhaUsW7E7wgJOgl0qgjt8N/2vY
+ w=
+X-MAG-PROFILE: mcovel@trendfollowing.com
+X-MAG-CATEGORY: SENDER
+X-MAG-FILTER: sender
+X-MAG-INFO: <support@getdrip.com>
+X-MAG-ACTION: ACCEPT
+
+----==_mimepart_582fe95b112e5_303b3f986d6fa2e47704a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: ALHAMBRA
+country: USA
+first_name: DONALD
+has_read_LBoT: NO
+has_read_TC: NO
+has_read_TF: YES
+last_name: BRENHOLT
+last_trading_or_investment_book_read: THE NEW CASE FOR GOLD
+state: CA
+street1: PO BOX 6611
+zip_code: 91802
+id: e5xmqgqfvvpaoq2ogbbd
+email: dl8020@aol.com
+utc_offset: -480
+visitor_uuid: f8b5d0007022013467900eefa7eab161
+status: active
+time_zone: America/Los_Angeles
+friendly_time_zone: PST
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-10-09 07:52:03 UTC
+lead_score: 27
+
+View their full profile here:
+
+dl8020@aol.com ( https://www.getdrip.com/3513718/subscribers/e5xmqgqfvvpaoq2ogbbd )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_582fe95b112e5_303b3f986d6fa2e47704a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: ALHAMBRA<br />country: USA<br />first_name: DONALD<br />has_read_LBoT: NO<br />has_read_TC: NO<br />has_read_TF: YES<br />last_name: BRENHOLT<br />last_trading_or_investment_book_read: THE NEW CASE FOR GOLD<br />state: CA<br />street1: PO BOX 6611<br />zip_code: 91802<br />id: e5xmqgqfvvpaoq2ogbbd<br />email: dl8020@aol.com<br />utc_offset: -480<br />visitor_uuid: f8b5d0007022013467900eefa7eab161<br />status: active<br />time_zone: America/Los_Angeles<br />friendly_time_zone: PST<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-10-09 07:52:03 UTC<br />lead_score: 27<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/e5xmqgqfvvpaoq2ogbbd" style="color: blue">dl8020@aol.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_582fe95b112e5_303b3f986d6fa2e47704a--
+

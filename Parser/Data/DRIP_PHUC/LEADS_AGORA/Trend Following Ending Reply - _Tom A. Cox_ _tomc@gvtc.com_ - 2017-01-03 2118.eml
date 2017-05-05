@@ -1,0 +1,55 @@
+Return-Path: <tomc@gvtc.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 62B634028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 09:35:49 -0500 (EST)
+Received: from smtp02.emerald.cmh.synacor.com ([208.47.184.7])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103143844305_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 14:38:44 +0000
+X-RC-FROM: <tomc@gvtc.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=CehK3/jl c=1 sm=1 tr=0 a=dh805iVr6C/RfXHFMFXw8g==:117 a=dh805iVr6C/RfXHFMFXw8g==:17 a=kj9zAlcOel0A:10 a=IgFoBzBjUZAA:10 a=zh-eaAJ7AAAA:8 a=5ZQbRaT2eGXrLXG_6WsA:9 a=CjuIK1q_8ugA:10 a=AFLtaDv_UiwA:10 a=jAqEqSeC2FQA:10 a=3o3SGs7eW5wA:10 a=NWRuBX8TfN8A:10 a=Q7dbGgJhv28A:10 a=LDOp7egpfvoA:10 a=-4EUDsxm50gA:10 a=z-pUQg4ojLkCqcOT4a6X:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: dG9tY0BndnRjLmNvbQ==
+X_CMAE_Category: , ,
+X-CNFS-Analysis:
+X-CM-Score:
+X-Scanned-by: Cloudmark Authority Engine
+Authentication-Results: smtp02.emerald.cmh.synacor.com header.from=tomc@gvtc.com; sender-id=neutral
+Authentication-Results: smtp02.emerald.cmh.synacor.com smtp.mail=tomc@gvtc.com; spf=neutral; sender-id=neutral
+Authentication-Results:  smtp02.emerald.cmh.synacor.com smtp.user=tomc@gvtc.com; auth=pass (LOGIN)
+Received-SPF: neutral (smtp02.emerald.cmh.synacor.com: 216.177.164.34 is neither permitted nor denied by domain of gvtc.com)
+Received: from [216.177.164.34] ([216.177.164.34:34052] helo=css686.cox.pvtnet)
+	by smtp.gvtc.emerald.synacor.com (envelope-from <tomc@gvtc.com>)
+	(ecelerity 3.6.1.42806 r(Platform:3.6.1.1)) with ESMTPA
+	id 97/C4-25748-6B2BB685; Tue, 03 Jan 2017 09:18:30 -0500
+Received: from css686.cox.pvtnet (css686.cox.pvtnet [192.168.2.2])
+	by css686.cox.pvtnet (Postfix) with ESMTP id 53070FFA7D
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 08:18:30 -0600 (CST)
+From: "Tom A. Cox" <tomc@gvtc.com>
+To: mcovel@trendfollowing.com
+Subject: Trend Following Ending Reply
+Date: Tue, 03 Jan 2017 08:18:29 -0600
+Message-ID: <4858800.AyqPXOrVJ4@css686.cox.pvtnet>
+Organization: Intellisystems
+User-Agent: KMail/4.14.5 (Linux/4.4.39-desktop-1.mga5; KDE/4.14.5; x86_64; ; )
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7Bit
+Content-Type: text/plain; charset="us-ascii"
+
+Tom A. Cox
+1520 Imbuto
+New Braunfels, TX 78132
+
+-- 
+Tom A. Cox
+IntelliSystems
+Systems Analyst and Consultant
+Phone: 830-885-7618  Email: Tom Cox <tomc@gvtc.com>
+
+

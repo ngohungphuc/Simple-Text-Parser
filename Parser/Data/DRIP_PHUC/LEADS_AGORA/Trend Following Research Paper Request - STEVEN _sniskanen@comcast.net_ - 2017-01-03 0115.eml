@@ -1,0 +1,65 @@
+Return-Path: <sniskanen@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id ACDAD4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:13:02 -0500 (EST)
+Received: from resqmta-po-05v.sys.comcast.net ([96.114.154.164])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181557865_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:15:57 +0000
+X-RC-FROM: <sniskanen@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-po-02v.sys.comcast.net ([96.114.154.226])
+	by resqmta-po-05v.sys.comcast.net with SMTP
+	id O79Ackwy9MqbUO79BcIx04; Mon, 02 Jan 2017 18:15:49 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483380949;
+	bh=yQIpH95fpMTxZvXHyYUEOBls7Ym/MorTLedDDM4Jy9I=;
+	h=Received:Received:Date:From:To:Message-ID:Subject:MIME-Version:
+	 Content-Type;
+	b=dTUe2ax2ed143xN7mtSWZIDm/BEwfF7mdz6ychxBkBCh1hUVBzXjevPujSV29du1h
+	 qbphGadBsmPMHmASFidjHPxnCG5jfPGOSDhjtvAHg6fJOHA5h6fHfEcpchGH39Wzbg
+	 bXlEYCf73B794ynS9hRgDTWiUreQmvYBvWqxu6eX2Kce45R7VYBo92HEDz6YZZUEG+
+	 1+5ZIEmERxFLqrXhHsr/1i3hXeqZT59LWBtFrDvG6x8+v+LTzIYH0fZ81sa9HeOwYI
+	 woMW3+/3d6A8t+YuTRhcdyJ6lVQGq3U4eEjEasq4Gupem6bekslxr0ej9EAiQAAy2e
+	 OAhDsHOKpu1CQ==
+Received: from resmail-po-748v.sys.comcast.net ([162.150.178.212])
+	by resomta-po-02v.sys.comcast.net with SMTP
+	id O79BcuxI0yYdiO79Bc8Owz; Mon, 02 Jan 2017 18:15:49 +0000
+Date: Mon, 2 Jan 2017 18:15:49 +0000 (UTC)
+From: STEVEN <sniskanen@comcast.net>
+To: mcovel@trendfollowing.com
+Message-ID: <1675102902.24063466.1483380949119.JavaMail.zimbra@comcast.net>
+In-Reply-To: <465322633.24063281.1483380934172.JavaMail.zimbra@comcast.net>
+Subject: Trend Following Research Paper Request
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_24063465_926199594.1483380949118"
+X-Originating-IP: [2601:2c3:200:6a88:a9a4:444a:f63e:11d8]
+X-Mailer: Zimbra 8.0.7_GA_6031 (ZimbraWebClient - GC55 (Win)/8.0.7_GA_6031)
+Thread-Topic: Trend Following Research Paper Request
+Thread-Index: Rk0Bz/vg6uFbSjEK8EzE4j7QSGaBSw==
+X-CMAE-Envelope: MS4wfIhdlcyY7JAMU0+pGILf3FKM9DVRA3oBO/IvbFkWLOoDqtwTKUnZidAh1AV5Ud3QgruYrZVjTXkA3tvD7pnZhlcb9p3pWeJ3hNX8ycPgXsT/aytv0E9W
+ 8S6Ik3z+qxbecEdiK1JYkOE9OUc8o9sK5jtJJzchIVTQwobyUAYnZL4eFTtrBquQn7MgjMJ0aDzHd6+nsYHAgmkpAn8H8keu/LU=
+
+------=_Part_24063465_926199594.1483380949118
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Michael, 
+
+Sorry to see that the Trend Following Service has been terminated. I did not get in early enough to enjoy the nice gains you made on precious metal related stocks, but the FMSA position still continues to do quite nicely. 
+
+Please send me the paper you mentioned. Thanks and Happy New Year! 
+
+Steve 
+
+------=_Part_24063465_926199594.1483380949118
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: Arial; font-size: 12pt; color: #000000"><div aria-label="Compose body">Michael,</div><div aria-label="Compose body"><br></div><div aria-label="Compose body">Sorry to see that the Trend Following Service has been terminated. &nbsp;I did not get in early enough to enjoy the nice gains you made on precious metal related stocks, but the FMSA position still continues to do quite nicely.</div><div aria-label="Compose body"><br></div><div aria-label="Compose body">Please send me the &nbsp;paper you mentioned. &nbsp;Thanks and Happy New Year!</div><div aria-label="Compose body"><br></div><div aria-label="Compose body">Steve</div></div></body></html>
+------=_Part_24063465_926199594.1483380949118--
+

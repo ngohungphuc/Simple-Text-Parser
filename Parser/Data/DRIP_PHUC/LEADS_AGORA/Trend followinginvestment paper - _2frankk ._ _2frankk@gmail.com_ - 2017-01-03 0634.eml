@@ -1,0 +1,74 @@
+Return-Path: <2frankk@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4C2514028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 18:31:48 -0500 (EST)
+Received: from mail-vk0-f54.google.com ([209.85.213.54])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102233444467_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 23:34:44 +0000
+X-RC-FROM: <2frankk@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f54.google.com with SMTP id 137so268618428vkl.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 15:34:33 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=98HRP3za6QZ3qhPaoiUs5aNfnE1calPRyqFoF3c8hZM=;
+        b=NxSmDKvE237DNRt4FXl007gdDTbKr/NtCDWkd7fcgSUal3k102I6QpbpxKKvvcdwoe
+         AEafP8VTxyUc48U/bTBvD3rfLEjf7v21ZyxaUystXVOi7qDDGMQxw4VChw8mmCnQM+h1
+         XT4EkiJII0XS43rouLQAhcQ3AUoCERPyMu9sRnfiwvSXMJGQiAL5DO90rRaTcR1ihE0h
+         p8cOLfnTFR9hMMc5EOnDTYo+gcFE0oc0gvrlXHBc69ijayIPQnj6Objzyvc+/8BwWTKu
+         VXlNrLqrkclP52djJCxbEo3gr4XJyzIJK+NlInN/VpuFsxtDEwxf/Dpxij0piqi6WKun
+         97GA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=98HRP3za6QZ3qhPaoiUs5aNfnE1calPRyqFoF3c8hZM=;
+        b=gK0PUujtuTZvce5E9ZEvaXkfmMRat8QmO6VECYC0EXrvU71LWgdcFGJktQQxe5w75A
+         8scGXgTRQb1tf6yhqLZNnSFxxJgpKLnJD/qU7mmPaV/KatSh/kU/6hP0oBVq/eXt6Ls0
+         aNxbWi1YTGH04OO9wRjDfmjBKvNaPLuK8A4Qc54HG8Y7cKbbb8VgJMLnaww1ZGfMiw61
+         XInQW23jnEa9xj6UOryevCN03JpOy9BOp2pk8bJdAji52ec6yPJ1LypRydrbIWs7JOZT
+         XpOOD5vdqDtU4IuotoqtwGpBzixv/SC2RCVYqwTjjW2a8JREevbFshmwboAvFCwTQ3tO
+         3gJg==
+X-Gm-Message-State: AIkVDXIGJqeZLApd0dMrJhjBEO7JSh19y7psXDynONBndpm4FKAVd7z9xVE2aXIX7IL1WV3szmcSsYkDUS6usg==
+X-Received: by 10.31.210.130 with SMTP id j124mr21145417vkg.111.1483400069992;
+ Mon, 02 Jan 2017 15:34:29 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.159.54.161 with HTTP; Mon, 2 Jan 2017 15:34:29 -0800 (PST)
+From: "2frankk ." <2frankk@gmail.com>
+Date: Mon, 2 Jan 2017 18:34:29 -0500
+Message-ID: <CAC1yP4Q=o0aUPuEoGJKCffAbGMHRSRM4Cc6L119-QA=DcScn2w@mail.gmail.com>
+Subject: Trend followinginvestment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c05ff0a3b55c7054524fe5a
+
+--94eb2c05ff0a3b55c7054524fe5a
+Content-Type: text/plain; charset=UTF-8
+
+Frank Kynoch
+The Mailbox
+Palapa Centre
+Airport Boulevard
+Sint. Maarten
+Neth. Antilles
+
+--94eb2c05ff0a3b55c7054524fe5a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:trebuche=
+t ms,sans-serif;font-size:large">Frank Kynoch<br></div><div class=3D"gmail_=
+default" style=3D"font-family:trebuchet ms,sans-serif;font-size:large">The =
+Mailbox<br></div><div class=3D"gmail_default" style=3D"font-family:trebuche=
+t ms,sans-serif;font-size:large">Palapa Centre<br></div><div class=3D"gmail=
+_default" style=3D"font-family:trebuchet ms,sans-serif;font-size:large">Air=
+port Boulevard<br></div><div class=3D"gmail_default" style=3D"font-family:t=
+rebuchet ms,sans-serif;font-size:large">Sint. Maarten<br></div><div class=
+=3D"gmail_default" style=3D"font-family:trebuchet ms,sans-serif;font-size:l=
+arge">Neth. Antilles<br></div></div>
+
+--94eb2c05ff0a3b55c7054524fe5a--
+

@@ -1,0 +1,197 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m051.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 98789404DEDD1
+	for <mcovel@trendfollowing.com>; Wed, 24 Aug 2016 07:38:12 -0400 (EDT)
+Authentication-Results: s12p02m051.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m051.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id 4278db75.0.371914.00-2286.670627.s12p02m051.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Wed, 24 Aug 2016 05:38:12 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=K6Y/neKnytvQAC72+c/QW35p8AQ=; b=P2lv1dxqrby0S+WXFiPXMqB
+	t1Yk6sqbJENywCCy05wW8PaT1pfQgi+34R8U5YOs2bQi5r8+Sa/vrcNbi6vx6499
+	3t+rqdg6FG1ciax2Fs7GhbPXvlD4XGQsENii1e5EeFjQeKmwPlVOjtY/hy4hkREk
+	LQDhT2tPvS659hV6zssI=
+Received: by filter0544p1mdw1.sendgrid.net with SMTP id filter0544p1mdw1.14087.57BD87232
+        2016-08-24 11:38:11.012644768 +0000 UTC
+Received: from getdrip.com (ec2-52-90-81-35.compute-1.amazonaws.com [52.90.81.35])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id N_NMngfoTU-3xEAAjzH2fw
+	for <mcovel@trendfollowing.com>; Wed, 24 Aug 2016 11:38:10.898 +0000 (UTC)
+Date: Wed, 24 Aug 2016 11:38:10 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57bd8722c6413_2eab3ff6a3d757241076a5@ip-172-30-0-182.mail>
+Subject: [Drip] fxferret@gmail.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57bd8722c5bf2_2eab3ff6a3d75724107548";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPo0WhIlx5od4kkJnAiL427ZLUijrESCc38JUj
+ NcmJaB07PNiltrspMpESb4CcBzUMWmiJAVEIAC44atIGkSUkgZG5YwPslO/UGnbjTMrsplGI5nwFGi
+ DqoPl0djLn3WMnfkYgNwZcQYN9B6G6+ocVmIGMs4aknzmk4R5JvbZpk04qKYfLqvR/ESYf2sOE58rZ
+ Y=
+Received-SPF: Pass (s12p02m051.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57bd8722c5bf2_2eab3ff6a3d75724107548
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Bridgend
+country: United Kingdom
+first_name: Simon
+has_read_LBoT: y
+has_read_TC: y
+has_read_TF: y
+last_name: Rowe
+last_trading_or_investment_book_read: NLP Charles Faulkner
+state: Mid Glam
+street1: 42 Treharne Drive
+street2: Pen-y-Fai
+zip_code: CF31 4NT
+id: sdkpzsfisomv1hmqg14g
+email: fxferret@gmail.com
+utc_offset: 0
+visitor_uuid:
+status: active
+time_zone:
+friendly_time_zone:
+tags: ["optedin-dvdrequest", "optedin-dvdrequest"]
+created_at: 2016-08-24 11:38:10 UTC
+
+View their full profile here:
+
+fxferret@gmail.com ( https://www.getdrip.com/3513718/subscribers/sdkpzsfisomv1hmqg14g )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57bd8722c5bf2_2eab3ff6a3d75724107548
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Bridgend<br />country: United Kingdom<br />first_name: Simon<br />has_read_LBoT: y<br />has_read_TC: y<br />has_read_TF: y<br />last_name: Rowe<br />last_trading_or_investment_book_read: NLP Charles Faulkner<br />state: Mid Glam<br />street1: 42 Treharne Drive<br />street2: Pen-y-Fai<br />zip_code: CF31 4NT<br />id: sdkpzsfisomv1hmqg14g<br />email: fxferret@gmail.com<br />utc_offset: 0<br />visitor_uuid: <br />status: active<br />time_zone: <br />friendly_time_zone: <br />tags: ["optedin-dvdrequest", "optedin-dvdrequest"]<br />created_at: 2016-08-24 11:38:10 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/sdkpzsfisomv1hmqg14g" style="color: blue">fxferret@gmail.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57bd8722c5bf2_2eab3ff6a3d75724107548--

@@ -1,0 +1,135 @@
+Return-Path: <chip_morrow@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id D6CCE40292257
+	for <mcovel@trendfollowing.com>; Tue, 17 Jan 2017 14:33:05 -0500 (EST)
+Received: from SNT004-OMC3S31.hotmail.com ([65.55.90.170])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170117193600884_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 17 Jan 2017 19:36:00 +0000
+X-RC-FROM: <chip_morrow@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM02-CY1-obe.outbound.protection.outlook.com ([65.55.90.136]) by SNT004-OMC3S31.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 17 Jan 2017 11:35:52 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=2FSLFdazzAPNJywT2GAKAYWf6AijmH3V+TN5+PLFcfM=;
+ b=px0rTMPBmyNanA4FeTzEYegb/g1i/ay6l1I0aTG3MMjXn1TQoF/TpnE0RGWVH+hx/rAQ9kKb+h2bsPWWI7OCPL3Zrbg14QvQtSa+fcp0W3jnOcneaXImp4iDcarFHL/mJmRvjM1GARCOO7BrcverFAvFQlhe3VHB8EW0FeI0qG6jfJowrjAjfua1dfgqmDBUKbpgSrH1VSIYv3f8anii1fMjgV5nSEe04esCce/Hk1sbleg4Y4O169R/mG/xHmbchgNp4pSFJQTwjA/2ng+Rnni6n5YSt0JO+cWWoueM6wxncV/sKYL+tPV3Yz4Chdu+1pP285FcXP19Ej8qFR9n3Q==
+Received: from SN1NAM02FT013.eop-nam02.prod.protection.outlook.com
+ (10.152.72.56) by SN1NAM02HT080.eop-nam02.prod.protection.outlook.com
+ (10.152.73.251) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Tue, 17 Jan
+ 2017 19:35:41 +0000
+Received: from BN6PR01MB2434.prod.exchangelabs.com (10.152.72.54) by
+ SN1NAM02FT013.mail.protection.outlook.com (10.152.72.98) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Tue, 17 Jan 2017 19:35:41 +0000
+Received: from BN6PR01MB2434.prod.exchangelabs.com ([10.173.139.144]) by
+ BN6PR01MB2434.prod.exchangelabs.com ([10.173.139.144]) with mapi id
+ 15.01.0845.013; Tue, 17 Jan 2017 19:35:40 +0000
+From: Chip Morrow <chip_morrow@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Trend Following subscription end
+Thread-Topic: Trend Following subscription end
+Thread-Index: AQHScPeG2zK6OJ6OA0uCuWIBxIz1bw==
+Date: Tue, 17 Jan 2017 19:35:40 +0000
+Message-ID: <BN6PR01MB243449166F78211317745A38987C0@BN6PR01MB2434.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:9F71C8C0E5A0A84EA660624AB265AF2FB3BB729CB4B3955301B492A2B7AB5181;UpperCasedChecksum:4CEB79308799D13B428C2111AEE4433DA1891BF4577192F532D13A8250A4B150;SizeAsReceived:7441;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [OIFgOPewaLNgeZfWPz8YEjbX9eF21S7U]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;SN1NAM02HT080;7:YGijzIuiORDM0qz3sMXm/H88dYtYCOicPdABAi3bSUIMlvxlL8NOyBDLCRKxSx8dR4z5GyhAWXLwcbIqvHHmqGYbvrj4Rjb5ujfqzQ5yuI1VFS6buQj4mAfiFH0ojKjXGA7VQRqfRy2KHor43VV0qxQXO9NUihGzf2U1PAKPmzU1zIINJdTxXTUOyflUZvP8a8PTOQL3h3ueN0mLtqiQOAAaEeU5RSfB9DUVkhxrNgiccAsuyqH2+mhpnUNq9jsZ4fj54Nz+EMyaSvz8HZMzZtKs3cMxNDklsl4xj/8rgJwNGsh0Ibf1f9gVxPpUW4B2Ny2M4xQK3qsJOhOBpoSak8nid4PMoHPUxJpF2NHP3bm/5AweLdmCz/yAcLjXZMtxsGOOYKSRdmkxeL02sqbxqcv8QIfE9WEh7l6C/Qny9aMO7d4ddL7T41BlqnBRg2gpc5AWs3z5kJEKG9B2/IwfvA==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900005);DIR:OUT;SFP:1102;SCL:1;SRVR:SN1NAM02HT080;H:BN6PR01MB2434.prod.exchangelabs.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: b6baa603-b0a9-43ea-922f-08d43f100563
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506344)(5061507293)(1603103113)(1603101340)(1601125047)(1701031023);SRVR:SN1NAM02HT080;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:SN1NAM02HT080;BCL:0;PCL:0;RULEID:;SRVR:SN1NAM02HT080;
+x-forefront-prvs: 01901B3451
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN6PR01MB243449166F78211317745A38987C0BN6PR01MB2434prod_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 17 Jan 2017 19:35:40.5708
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM02HT080
+X-OriginalArrivalTime: 17 Jan 2017 19:35:52.0042 (UTC) FILETIME=[E99804A0:01D270F8]
+
+--_000_BN6PR01MB243449166F78211317745A38987C0BN6PR01MB2434prod_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Michael
+
+
+I received your email notification that your Trend Following newsletter has=
+ ceased. I hated to hear that. Anyway, you mentioned at the end of the emai=
+l to send you my name and full address, in order to get some "special trend=
+ following investment paper". That is the purpose of this email. Please fin=
+d my information in my signature below.
+
+
+Thanks
+
+
+Charles Morrow
+
+178 Hickory Bluff
+
+Braselton, GA 30517
+
+chip_morrow@hotmail.com
+
+
+--_000_BN6PR01MB243449166F78211317745A38987C0BN6PR01MB2434prod_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Michael</p>
+<p><br>
+</p>
+<p>I received your email notification that your Trend Following newsletter =
+has ceased. I hated to hear that. Anyway, you mentioned at the end of the e=
+mail to send you my name and full address, in order to get some &quot;speci=
+al trend following investment paper&quot;.
+ That is the purpose of this email. Please find my information in my signat=
+ure below.</p>
+<p><br>
+</p>
+<p>Thanks</p>
+<p><br>
+</p>
+<p>Charles Morrow</p>
+<p>178 Hickory Bluff</p>
+<p>Braselton, GA 30517</p>
+<p>chip_morrow@hotmail.com</p>
+<p><br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_BN6PR01MB243449166F78211317745A38987C0BN6PR01MB2434prod_--
+

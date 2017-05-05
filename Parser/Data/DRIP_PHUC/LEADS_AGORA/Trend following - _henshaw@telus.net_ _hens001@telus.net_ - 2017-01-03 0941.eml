@@ -1,0 +1,59 @@
+Return-Path: <hens001@telus.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 9DD7B4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 21:39:18 -0500 (EST)
+Received: from cmta20.telus.net ([209.171.16.93])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103024154927_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 02:41:54 +0000
+X-RC-FROM: <hens001@telus.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtlp000016.email.telus.net ([172.20.100.250])
+	by cmsmtp with SMTP
+	id OF2jc1beM2s6tOF2jcogrZ; Mon, 02 Jan 2017 19:41:41 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=telus.net; s=neo;
+	t=1483411301; bh=6WUrP47RH/q0yqSbDcS8rj2hnM33fSti2PxgFtKUvQE=;
+	h=Date:From:To:Subject;
+	b=k4guImuinW9X5xu0B/Q6dM/P2TOxt44sxc1WXi7FiK+bXmQqUVGO7yIpaWmyjgFZE
+	 +a+X1Wx5kNbxoVqgBtJ+wD74rPeCxzuW4uw7XuSsg9GE2Pd5nO6jbHhvNUrtgYEMg2
+	 q0nTsTh7PEl105zsXWEOIwFq3GMYSD5TEJ3eYwVdCiLywO6hH52jxIkJ3lZBgGvNe7
+	 JQuc1uQ3cV6TOeW4krQ9ydBX06cq92SlB6RXE2P7o2c9v7+WN6CIzRs9K91GimflC/
+	 96kf+sg7em+JwTOcm6PhHhbbI06WeUw4vzd6AULb5kAbUPeMuVoFvG8fNAubTcXAvg
+	 E0uGxUTM0PlYQ==
+X-Authority-Analysis: v=2.2 cv=d7Ma8VrE c=1 sm=1 tr=0
+ a=4bd358MHcbnBkp+IcMzszA==:117 a=FKkrIqjQGGEA:10 a=7MSbaEVMgN4A:10
+ a=IkcTkHD0fZMA:10 a=aatUQebYAAAA:8 a=R-Qv99OC4-9j6In_RNYA:9 a=QEXdDO2ut3YA:10
+ a=BDaY9VHE1SEA:10 a=eJoTxFi-XUkA:10 a=7715FyvI7WU-l6oqrZBK:22
+Date: Mon, 2 Jan 2017 19:41:40 -0700 (MST)
+From: "henshaw@telus.net" <hens001@telus.net>
+To: mcovel@trendfollowing.com
+Message-ID: <1187374555.37533785.1483411300967.JavaMail.zimbra@mailid.telus.net>
+Subject: Trend following
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [75.157.21.94]
+X-Mailer: Zimbra 8.6.0_GA_1200 (ZimbraWebClient - GC55 (Win)/8.6.0_GA_1200)
+Thread-Topic: Trend following
+Thread-Index: kuIhagRjT7/8q3oCI9n3Uww7n81Cdw==
+X-CMAE-Envelope: MS4wfDAh0GPXpjpf/B7DezhLfue7dyYWKqMQ8rOAt9p+G/HmdtNo34xk+fTejXpJHdF5aQYa8/cHxJ3weOy0Vk2B7U83zmCr87m3TGL/gJNTAbEWecu0yCW4
+ 1Am4J8nTEueDxWeEVc4lJ9WjIc0kRabiRbDeZoJ+KG72MiEV2UNNiVVNqTpE9XNIOHo5Pc5+S8B2hw==
+
+Please add us to your Trend Following list.  As a life time membership subscriber to your Trend Following newsletter we would like to continue reading your future advisements and will definitely listen to your podcasts.
+
+E-mail:  henshaw@telus.net
+
+Address:
+31090 Deertrail Avenue
+Abbotsford, BC
+V2T 5J6
+
+Keep up the good work.
+
+Yours truly
+
+Gary Henshaw
+

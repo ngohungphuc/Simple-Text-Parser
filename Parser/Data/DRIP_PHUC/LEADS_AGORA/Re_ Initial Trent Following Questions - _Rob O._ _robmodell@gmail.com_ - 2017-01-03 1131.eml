@@ -1,0 +1,420 @@
+Return-Path: <robmodell@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1DC244028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 23:30:12 -0500 (EST)
+Received: from mail-yw0-f169.google.com ([209.85.161.169])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103043203545_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 04:32:03 +0000
+X-RC-FROM: <robmodell@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f169.google.com with SMTP id t125so279925632ywc.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 20:32:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=wZEiKg6U74xpHtPYobkj4x1Gn+4pOCkOAdM1Qvc2QUw=;
+        b=fEkzMxOiwsoNvFKe0xHPVo5czEqC7Bm2T5izB7Vhub92B5mqbDTmEF87zY3pTUiAjf
+         XAlDrtZocMfr0PCnKoqj+QPTup8DT2Xi0HC7P19MV5RDbc6XtKuzKbkOJanASMsFroRd
+         RqNZP0FL0ZA6f2QEKx8KvOrAZBOZMXxsq+1aEunLYBBruJU706yawtatWz6Th0CoE2Kg
+         Zvj7cMhhd1HhpORfrGy5BHDYeGoS3agvtfhgC96BvDpVEll5jzM1JgKRgYQRVJWG8cuk
+         gRNgNbHNV28bcK5PZgKJD+f+it86TxJIydF4hxf8fECWiqOKednuoPvB1FvZsF9Hb1tx
+         cOMQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=wZEiKg6U74xpHtPYobkj4x1Gn+4pOCkOAdM1Qvc2QUw=;
+        b=pd2oMU24/DrU9R/X8/FVvZfR1UcvLScjnlfM5rbt+EWlbU/wL5PNrkzUwGxovEOusL
+         jux66ctoT+8NHqQoUXyhkM2DkluVDrS44o/dx+j83Yz+9nD+BgUUwFGJOubzU08z8bAX
+         4gi7D3WD6QI8Q8XqW1VjWTXAm57xlu1AhPxXTQV1QQ/uA0IAerwuI97xrYsc32LJiSuc
+         p0p/fWX3mVo4AfF7HotKsEunUWEE1I1hcn1EudMP9IKklsQP9BEpThonaRfXTfsbRCjl
+         U0kvBcCNwirvknXULkmIeRyqtuauBiOn89JgFcKAdjSj0Ic4s3jTRxlY4H98L9NXg3SF
+         lkDQ==
+X-Gm-Message-State: AIkVDXIfV3Vm8tClKA+90HtVBYvuHw+6cErFsp18EqXtwqwuU2SRs+T7yr8AdV81V9OVNQdqBgJ6lgmTiGD3+g==
+X-Received: by 10.129.115.3 with SMTP id o3mr60900763ywc.93.1483417917447;
+ Mon, 02 Jan 2017 20:31:57 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.37.86.130 with HTTP; Mon, 2 Jan 2017 20:31:56 -0800 (PST)
+In-Reply-To: <ced158f2-6295-23c8-8e7b-baadf3af13fc@trendfollowing.com>
+References: <CAGWtdWOKJZDWugNo0xym9tYFYgaLqaanc-0vbujFC5PcUJj8CA@mail.gmail.com>
+ <ced158f2-6295-23c8-8e7b-baadf3af13fc@trendfollowing.com>
+From: "Rob O." <robmodell@gmail.com>
+Date: Mon, 2 Jan 2017 21:31:56 -0700
+Message-ID: <CAGWtdWMZeA1-wOVg5J3jXt83t=w+j+wHVyWJ_GduEkDUAGw6ZA@mail.gmail.com>
+Subject: Re: Initial Trent Following Questions
+To: "M. Covel" <mcovel@trendfollowing.com>
+Content-Type: multipart/alternative; boundary=001a11492c7805e32a0545292665
+
+--001a11492c7805e32a0545292665
+Content-Type: text/plain; charset=UTF-8
+
+Hey Michael,
+
+The Trade_Walk_Through was fantastic. Seeing that end to end with the notes
+made some new things click for me. The main rule for drawdown also lays
+things out well. I understand.
+
+After reviewing the "Portfolio_Instrument_Examples", I have a better
+understanding of what a possible portfolio mix looks like. I also realize
+I'll need to review the section on correlation before getting in to 2nd and
+3rd markets. However, I'm still not certain on where to begin researching
+trends for my first trade.
+
+Do I simply pick a market from 1_portfolio_for_example_purposes.png and get
+started looking for trends, or do you have a suggested beginning?
+
+I did a little research and found good reviews of "Generic Trade". Do you
+have a recommended platform? (I'm assuming it varies depending on what
+you're trading?)
+
+All the best,
+Rob
+
+
+On Sat, Dec 31, 2016 at 10:22 AM, M. Covel <mcovel@trendfollowing.com>
+wrote:
+
+> Hi Rob,
+>
+> See below.
+>
+>
+>
+> On 12/30/16 10:30 PM, Rob O. wrote:
+>
+> Hey,
+>
+> I've just finished the Trend Following Manifesto, Systems, Risk and
+> Behavior. I feel like I was following along really well until the Donchian
+> and Placing Orders sections. Is there a particular order that makes more
+> sense to follow for getting started?
+>
+>
+> 1. The core manual (you mention) that arrived Fedex is starting spot.
+>
+> 2. Videos. See dropbox: Market_Wizard_Videos
+>
+> 3. Familiarizing with dropbox. Keys:
+>
+> a. in dropbox: Portfolio_Instrument_Examples
+> b. in dropbox: Trade_Walk_Through
+> c. in dropbox: Money_Management_Guide
+>
+> Big picture beyond these cores there is not necessarily a straight line
+> for absorbing content. Depending on your starting knowledge you might not
+> need some resources in dropbox.
+>
+>
+>
+> I am re-reading now.
+>
+> The three main questions I have so far are,
+>
+>    1. which markets makes the most sense to start researching for entry
+>    signals if my account will be $8000? Should I look at more?
+>    - I'm assuming it should be more than one, similar to the "Small
+>       Account" examples on Page 52.
+>
+>
+>
+> Let's start with portfolio selection process. Have you reviewed in dropbox
+> "Portfolio_Instrument_Examples"? That's core first step for portfolio
+> selection.
+>
+>
+>
+>
+>
+>    1. I didn't understand the drawdown section on page 39. Do you have
+>    any other examples or articles that I could read?
+>
+>
+>
+>
+> This is a broad example that shows what you can expect if you 1) reduce
+> trading size and 2) don't reduce trading size.
+>
+> Key point:
+>
+> Main rule: for every 10% step in drawdown, you will cut your unit size by
+> 20%. If risking 2%, now risking 1.6%.
+> Let's start right there as no progress happens until we are on the same
+> page there.
+>
+>
+>
+>
+>
+>
+>    1. Is a position long or short based only on time or is there
+>    something more to that?
+>
+>
+>
+> Let's phrase it this way: you take long or short entry signals and add
+> units depending on long or short signal.
+>
+> You will not take a long signal unless you have the signal.
+>
+> Let me know if that helps or if further clarification is needed.
+>
+> Best,
+> Mike
+>
+>
+>
+>
+> Thanks for your help!
+>
+> --
+> All the best,
+> Rob O.
+>
+>
+> --
+> Michael Covel
+> Voice: +1 800 480 0581 <(800)%20480-0581>
+> Email: mcovel@trendfollowing.com
+> Email: trendfollowing@gmail.com
+>
+> Site: trendfollowing.com
+> Podcast: trendfollowing.com/podcast
+> Twitter: twitter.com/covel
+> Facebook: facebook.com/covel
+>
+>
+
+
+-- 
+All the best,
+Rob O.
+
+--001a11492c7805e32a0545292665
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hey Michael,=C2=A0<div><br></div><div>The Trade_Walk_Throu=
+gh was fantastic. Seeing that end to end with the notes made some new thing=
+s click for me. The main rule for drawdown also lays things out well. I und=
+erstand.</div><div><br></div><div>After reviewing the &quot;Portfolio_Instr=
+ument_Examples&quot;, I have a better understanding of what a possible port=
+folio mix looks like. I also realize I&#39;ll need to review the section on=
+ correlation before getting in to 2nd and 3rd markets. However, I&#39;m sti=
+ll not certain on where to begin researching trends for my first trade.=C2=
+=A0</div><div><br></div><div>Do I simply pick a market from=C2=A0<span styl=
+e=3D"color:rgb(61,70,77);font-family:&quot;open sans&quot;,&quot;lucida gra=
+nde&quot;,&quot;segoe ui&quot;,arial,verdana,&quot;lucida sans unicode&quot=
+;,tahoma,sans-serif;font-size:13px">1_portfolio_for_example_purposes.png=C2=
+=A0</span>and get started looking for trends, or do you have a suggested be=
+ginning?=C2=A0</div><div><br></div><div>I did a little research and found g=
+ood reviews of &quot;Generic Trade&quot;. Do you have a recommended platfor=
+m? (I&#39;m assuming it varies depending on what you&#39;re trading?)</div>=
+<div><br></div><div>All the best,</div><div>Rob</div><div><br></div><span c=
+lass=3D"gmail-file-modifier" style=3D"font-size:11px;color:rgb(123,137,148)=
+;font-family:&quot;open sans&quot;,&quot;lucida grande&quot;,&quot;segoe ui=
+&quot;,arial,verdana,&quot;lucida sans unicode&quot;,tahoma,sans-serif"></s=
+pan></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Sat,=
+ Dec 31, 2016 at 10:22 AM, M. Covel <span dir=3D"ltr">&lt;<a href=3D"mailto=
+:mcovel@trendfollowing.com" target=3D"_blank">mcovel@trendfollowing.com</a>=
+&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0=
+ 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+ =20
+   =20
+ =20
+  <div bgcolor=3D"#FFFFFF" text=3D"#000000">
+    <p>Hi Rob,</p>
+    <p>See below.</p><span class=3D"">
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class=3D"m_-5221052123005258804moz-cite-prefix">On 12/30/16 10:30 =
+PM, Rob O. wrote:<br>
+    </div>
+    <blockquote type=3D"cite">
+      <div dir=3D"ltr">Hey,
+        <div><br>
+        </div>
+        <div>
+          <div>I&#39;ve just finished the Trend Following Manifesto,
+            Systems, Risk and Behavior. I feel like I was following
+            along really well until the Donchian and Placing Orders
+            sections. Is there a particular order that makes more sense
+            to follow for getting started?</div>
+        </div>
+      </div>
+    </blockquote>
+    <br></span>
+    1. The core manual (you mention) that arrived Fedex is starting
+    spot.<br>
+    <br>
+    2. Videos. See dropbox: Market_Wizard_Videos<br>
+    <br>
+    3. Familiarizing with dropbox. Keys:<br>
+    <br>
+    a. in dropbox: Portfolio_Instrument_Examples<br>
+    b. in dropbox: Trade_Walk_Through<br>
+    c. in dropbox: Money_Management_Guide<br>
+    <br>
+    Big picture beyond these cores there is not necessarily a straight
+    line for absorbing content. Depending on your starting knowledge you
+    might not need some resources in dropbox.<span class=3D""><br>
+    <br>
+    <br>
+    <blockquote type=3D"cite">
+      <div dir=3D"ltr">
+        <div>
+          <div><br>
+          </div>
+          <div>I am re-reading now.</div>
+          <div><br>
+          </div>
+          <div>The three main questions I have so far are,=C2=A0</div>
+          <div>
+            <ol>
+              <li>which markets makes the most sense to start
+                researching for entry signals if my account will be
+                $8000? Should I look at more?<br>
+              </li>
+              <ul>
+                <li>I&#39;m assuming it should be more than one, similar to
+                  the &quot;Small Account&quot; examples on Page 52.</li>
+              </ul>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </blockquote>
+    <br>
+    <br></span>
+    Let&#39;s start with portfolio selection process. Have you reviewed in
+    dropbox &quot;Portfolio_Instrument_<wbr>Examples&quot;? That&#39;s core=
+ first step for
+    portfolio selection.<span class=3D""><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <blockquote type=3D"cite">
+      <div dir=3D"ltr">
+        <div>
+          <div>
+            <ol>
+              <li>I didn&#39;t understand the drawdown section on page 39.
+                Do you have any other examples or articles that I could
+                read?</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </blockquote>
+    <br>
+    <br>
+    <br></span>
+    This is a broad example that shows what you can expect if you 1)
+    reduce trading size and 2) don&#39;t reduce trading size.<br>
+    <br>
+    Key point:<br>
+    <br>
+   =20
+    <div class=3D"m_-5221052123005258804page" title=3D"Page 39">
+      <div class=3D"m_-5221052123005258804section">
+        <div class=3D"m_-5221052123005258804layoutArea">
+          <div class=3D"m_-5221052123005258804column">
+            <p><span style=3D"font-size:8.000000pt;font-family:&#39;ArialMT=
+&#39;;color:rgb(30.000000%,30.000000%,30.000000%)">Main rule: for every 10%=
+ step in drawdown,
+                you will cut your unit size
+                by 20%. If risking 2%, now risking 1.6%.
+              </span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    Let&#39;s start right there as no progress happens until we are on the
+    same page there.<span class=3D""><br>
+    <br>
+    <br>
+   =20
+    <br>
+    <br>
+    <br>
+    <blockquote type=3D"cite">
+      <div dir=3D"ltr">
+        <div>
+          <div>
+            <ol>
+              <li>Is a position long or short based only on time or is
+                there something more to that?</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </blockquote>
+    <br>
+    <br></span>
+    Let&#39;s phrase it this way: you take long or short entry signals and
+    add units depending on long or short signal.<br>
+    <br>
+    You will not take a long signal unless you have the signal.<br>
+    <br>
+    Let me know if that helps or if further clarification is needed.<br>
+    <br>
+    Best,<br>
+    Mike<span class=3D""><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <blockquote type=3D"cite">
+      <div dir=3D"ltr">
+        <div>
+          <div>
+            <div>Thanks for your help!</div>
+            <div><br>
+            </div>
+          </div>
+          -- <br>
+          <div class=3D"m_-5221052123005258804gmail_signature">
+            <div dir=3D"ltr">
+              <div>All the best,</div>
+              <div>Rob O.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </blockquote>
+    <br>
+    </span><span class=3D"HOEnZb"><font color=3D"#888888"><pre class=3D"m_-=
+5221052123005258804moz-signature" cols=3D"72">--=20
+Michael Covel
+Voice: <a href=3D"tel:(800)%20480-0581" value=3D"+18004800581" target=3D"_b=
+lank">+1 800 480 0581</a>
+Email: <a class=3D"m_-5221052123005258804moz-txt-link-abbreviated" href=3D"=
+mailto:mcovel@trendfollowing.com" target=3D"_blank">mcovel@trendfollowing.c=
+om</a>
+Email: <a class=3D"m_-5221052123005258804moz-txt-link-abbreviated" href=3D"=
+mailto:trendfollowing@gmail.com" target=3D"_blank">trendfollowing@gmail.com=
+</a>
+
+Site: <a href=3D"http://trendfollowing.com" target=3D"_blank">trendfollowin=
+g.com</a>
+Podcast: <a href=3D"http://trendfollowing.com/podcast" target=3D"_blank">tr=
+endfollowing.com/podcast</a>
+Twitter: <a href=3D"http://twitter.com/covel" target=3D"_blank">twitter.com=
+/covel</a>
+Facebook: <a href=3D"http://facebook.com/covel" target=3D"_blank">facebook.=
+com/covel</a></pre>
+  </font></span></div>
+
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><d=
+iv>All the best,</div><div>Rob O.</div></div></div>
+</div>
+
+--001a11492c7805e32a0545292665--
+

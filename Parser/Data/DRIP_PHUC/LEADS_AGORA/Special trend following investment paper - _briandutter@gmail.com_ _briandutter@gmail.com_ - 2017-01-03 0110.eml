@@ -1,0 +1,67 @@
+Return-Path: <briandutter@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4911F4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:07:47 -0500 (EST)
+Received: from mail-pf0-f171.google.com ([209.85.192.171])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181043540_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:10:43 +0000
+X-RC-FROM: <briandutter@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-pf0-f171.google.com with SMTP id d2so73661158pfd.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:10:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :to;
+        bh=ghNTgrB1f9WsiieiT51NVq816gjt/QWBqeOx8e6PMNQ=;
+        b=UaNmzjwv+C4le0zvH3iBZaVDTP+3eilh4X+u4wJJ2DhGTHmE/lXNcu8M+2gNKLE/+S
+         A2HWzI4qrdjiNXJW2Dx1xVlR6iYStakOfMf6u+HeXseEZLWg7JZIlQPq1PlhoEeqhiwL
+         3i5j64JoD6qrgxwq0Q7GJQJ04CTKTTrlGOg5bOi+rGan7Wg6VusIwcHg5SiKBAZvVdEe
+         FoX82vIy7viufijK8uBB0fjWHs6ihzRfzO3AP6wSLfi3pBw8UduRxQgpq7bQo031/TEo
+         vwFfGldS1yaNMaQF8UJYMNfaro5UeztPTpP1lNR/0cJL/BUFBPJPMlAV65JYApR2W0k1
+         oUvg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version
+         :subject:message-id:date:to;
+        bh=ghNTgrB1f9WsiieiT51NVq816gjt/QWBqeOx8e6PMNQ=;
+        b=nlXuxZfUfB0tej1pEGImJMNTGMjphDQkv6xmaeGy113uE9OPVnXI2Q7zojkcF1L37B
+         DExESaefcWZxTfQBreCIF/Rrij0TIgXVtiN7L/Ktyo0iF7SdcoOmBOfOyv4Kb5JLTGVo
+         SD3+AI9L1KOCEg5osmTXVu7ZwVsJzbVl4aiicMxoyICyYhBGQWQ+Kaf2xaRoLjZzkS/c
+         HvB9Ay5v+vVNCV5zBXO6qZnEnTMB6X0S8eXdjEYCb6Y4emv4XVl8OsG3CkJq7jEXu7UX
+         U/5IBQw33qmMuYTxK2TzAoJSf+c7axWWxpYXHD0uQf44sgivS7/Qd4CZkUbC7wCnrgeJ
+         3AXw==
+X-Gm-Message-State: AIkVDXIPh4UfS5LpPFIy5qW1pz1XaqiQWb4Gh80gHJTlC2ik82jdL9QbQuUfmGjcYR8PmA==
+X-Received: by 10.84.143.162 with SMTP id 31mr128566508plz.2.1483380637296;
+        Mon, 02 Jan 2017 10:10:37 -0800 (PST)
+Received: from [192.168.1.177] (ip184-189-247-38.sb.sd.cox.net. [184.189.247.38])
+        by smtp.gmail.com with ESMTPSA id f3sm57267921pga.1.2017.01.02.10.10.36
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 10:10:36 -0800 (PST)
+From: "briandutter@gmail.com" <briandutter@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: Special trend following investment paper
+Message-Id: <ED15A037-D369-4DBA-AA0D-FC9309F602B3@gmail.com>
+Date: Mon, 2 Jan 2017 10:10:35 -0800
+To: mcovel@trendfollowing.com
+X-Mailer: Apple Mail (2.3259)
+
+Michael,
+
+Sorry to see you go but I see this move as you being true to your trend =
+following roots.  The trend with subscriptions was not going your way so =
+you made an unemotional decision to sell your position.  Sounds like a =
+Trend Following move to me.  I would like to receive your latest =
+investment paper and look forward to watching your next moves from afar.
+
+Best wishes for future success,
+
+Brian Dutter=
+

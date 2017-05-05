@@ -1,0 +1,55 @@
+Return-Path: <andrewsimpson@shaw.ca>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DDDEF4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 20:23:42 -0500 (EST)
+Received: from smtp-out-so.shaw.ca ([64.59.136.138])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103012638374_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 01:26:38 +0000
+X-RC-FROM: <andrewsimpson@shaw.ca>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from cds077.dcs.int.inet ([10.0.141.105])
+	by shaw.ca with SMTP
+	id ODrrcZctBBSTMODrscy0Kd; Mon, 02 Jan 2017 18:26:24 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shaw.ca;
+	s=s20150330; t=1483406784;
+	bh=Kc6dzrnlwJE6402roGa/TBtyK/dYSSJxxDqcQ4pzgt4=;
+	h=Date:From:To:Subject;
+	b=MQVNE5zKATjCyZ+U5eJ1pvKDED7nIpfUb3bNC22O3DTMSXkf48qA4VKCRaoPqYWWA
+	 AtWr4m+jezw5Cuq/vONkhSAa9SnPb5HYh63HOrbjLf2VCNZ0bk06vPqV0K5dbAjRXG
+	 meQsrPqKTqHZh6HQxH9BxIKJTlolcvn8eNk84yN3eLAojPo5EisuBDgqiII/BNh2Rx
+	 ehIsU8cDl3pSBOy2lvUqIZHq9nSao3dXIEKlO1vIwosOZj4JhVVb9N+OHlK0yinO82
+	 NeHkKJh9ontVTWAvafK9/lYYMf8vfg5IxbQrhF9rUz8aWYVRFKTSnR1cdadpPuBRbn
+	 X2JGMVrKAbKqA==
+X-Authority-Analysis: v=2.2 cv=MKYQoIRl c=1 sm=1 tr=0
+ a=42c2/YOHUJa0cABBwGhR8A==:117 a=FKkrIqjQGGEA:10 a=OIntmKC7E6EA:10
+ a=tclcd6dtLQvEqt9_mmAA:9 a=QEXdDO2ut3YA:10 a=_W_S_7VecoQA:10 a=sD9EJtOAEhIA:10
+Date: Mon, 2 Jan 2017 18:26:23 -0700 (MST)
+From: Andrew Simpson <andrewsimpson@shaw.ca>
+To: mcovel@trendfollowing.com
+Message-ID: <297146072.126321547.1483406783071.JavaMail.root@shaw.ca>
+Subject: andrewsimpson@shaw.ca
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_126321546_1105638909.1483406783071"
+X-Originating-IP: [67.49.66.191, 184.64.81.194]
+X-Mailer: Zimbra 7.2.7_GA_2942 (ZimbraWebClient - FF3.0 (Win)/7.2.7_GA_2942)
+X-CMAE-Envelope: MS4wfLPUbXyMvUHv6TyAKXAAVz2jbsvpsAS0hiZXaka69cmvmoT9YwJGeu1fw3IJqSyJLqR44cjWgDzeMOQ33epRmGf5Eosm6hFdis1hrMW8OTS/EowPFcTj
+ qhyN8f5zfpgBW9onNDApFvvzlb3BTGr+x/Qz2UcUU/R2evrZvrlRCX48MAmQ95MZQPONXuYRYTCbEQ==
+
+------=_Part_126321546_1105638909.1483406783071
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+
+------=_Part_126321546_1105638909.1483406783071
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><style type='text/css'>p { margin: 0; }</style></head><body><div style='font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000'><br></div></body></html>
+------=_Part_126321546_1105638909.1483406783071--
+

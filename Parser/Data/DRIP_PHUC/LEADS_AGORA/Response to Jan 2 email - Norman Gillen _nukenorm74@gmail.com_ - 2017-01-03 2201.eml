@@ -1,0 +1,74 @@
+Return-Path: <nukenorm74@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id BC5444028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 09:59:30 -0500 (EST)
+Received: from mail-vk0-f50.google.com ([209.85.213.50])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103150131437_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 15:01:31 +0000
+X-RC-FROM: <nukenorm74@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f50.google.com with SMTP id 137so275274517vkl.0
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 07:01:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=350w9AX8W4c4nnfTl/IKjcfsSU0GWN39Tl+c6SBsnnc=;
+        b=SWm2aCOBkrGgaYrf9uQnchXIPlW5yVWSzWj8OeU0t83GvU19e/J3uoRe1nsBswdRPx
+         IblW/UPCIO7zpPEyIRck4VeE6UTimP8/KaJrJiZPgOdGHuo84lrsrxSfXf88VmMThWgp
+         gJ7LwuwEHkFP0ymz6WXp8kP5D97B7NuTxDlGUKf9Ook0LXacG+oNhWdlIKHlvL4ErDdN
+         lasIZ8vF2ub2QFqNoG/woTjRI2mWbCmH/ILUK3eZSkCFU5nMxLWkCPQ4e+JCDzTQDq9B
+         PjRo8r0Bw3kjJ1sNZtW2C4zVyv0YmTYe6yRhAvVAHSQjN12giLkBZPGk/3ZHdwtJF71+
+         IqHg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=350w9AX8W4c4nnfTl/IKjcfsSU0GWN39Tl+c6SBsnnc=;
+        b=lgnz0CZHmkIxdqhIVFav/VJmKilkV641v3Nfsmdgg4VQ/Mf/2vkX2IaOJa4OsYYp00
+         sYlrGMberPeQjMpQuI8soqxtStTsl45BTAsHvvLxEgZHHh8qEju8M5w3qmP4joZvFcaL
+         ny4q2dCcckSc8NFWqIduB5hhe+gJRrU+u3NLtOs4dOUNchjo/fSyL2MjeVm+aqQAoYkJ
+         Ooojqnwze62RCwY0puc/7sS6OcxXCrCC0yAmdPpiBwm/yQ+t6EjF6t7Lw1YnRn+gjAXf
+         cyD7rqNWNxKppfsM2tO/J9Xsyi+OGosRJd0VKgLQ/Tzy8dbyDEi+S37pRP6e8p8yaVFT
+         8CKw==
+X-Gm-Message-State: AIkVDXICPG4C2EROwSvOllwGhqNArzMnt/IRBgNr2UqLmtGiqLI6rdE5bFvfLRjn6Xh5YAfLIg8C1TYjWGQswQ==
+X-Received: by 10.31.185.144 with SMTP id j138mr19157239vkf.102.1483455683126;
+ Tue, 03 Jan 2017 07:01:23 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.159.39.9 with HTTP; Tue, 3 Jan 2017 07:01:22 -0800 (PST)
+Received: by 10.159.39.9 with HTTP; Tue, 3 Jan 2017 07:01:22 -0800 (PST)
+In-Reply-To: <CABA=+=mh-K5Y=qzr7GhjKoV4oBFKmPs=b20aPymrmCmg8t7YMA@mail.gmail.com>
+References: <CABA=+=k0gvqYa3dF6iG94ML9R=v119+6ugJ_NHPG6FrCuUg+mQ@mail.gmail.com>
+ <CABA=+=mh-K5Y=qzr7GhjKoV4oBFKmPs=b20aPymrmCmg8t7YMA@mail.gmail.com>
+From: Norman Gillen <nukenorm74@gmail.com>
+Date: Tue, 3 Jan 2017 08:01:22 -0700
+Message-ID: <CABA=+=kA+N7bysEpC7gzHWqDDREnabhmUFiQytt==KG7YKqUkw@mail.gmail.com>
+Subject: Response to Jan 2 email
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114397a6086dc5054531f195
+
+--001a114397a6086dc5054531f195
+Content-Type: text/plain; charset=UTF-8
+
+Please keep me on your contact list, and send your Trend Following info.
+
+I do enjoy your podcasts!
+
+Norman Gillen
+nukenorm74@gmail.com
+
+--001a114397a6086dc5054531f195
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Please keep me on your contact list, and send your Trend =
+Following info.<div dir=3D"auto"><br></div><div dir=3D"auto">I do enjoy you=
+r podcasts!</div><div dir=3D"auto"><br></div><div dir=3D"auto">Norman Gille=
+n=C2=A0</div><div dir=3D"auto"><a href=3D"mailto:nukenorm74@gmail.com">nuke=
+norm74@gmail.com</a>=C2=A0</div></div>
+
+--001a114397a6086dc5054531f195--
+

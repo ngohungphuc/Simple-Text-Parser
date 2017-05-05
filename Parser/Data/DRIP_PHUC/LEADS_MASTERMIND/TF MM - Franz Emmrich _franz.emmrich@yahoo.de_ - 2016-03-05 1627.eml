@@ -1,0 +1,60 @@
+Return-Path: <franz.emmrich@yahoo.de>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m001.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 53343401EA134
+	for <info@trendfollowing.com>; Sat,  5 Mar 2016 04:27:54 -0500 (EST)
+Authentication-Results: p02c11m001.mxlogic.net; spf=none
+Received: from unknown [212.82.96.237] (EHLO nm19-vm4.bullet.mail.ir2.yahoo.com)
+	by p02c11m001.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id c96aad65.0.699650.00-2357.1370239.p02c11m001.mxlogic.net (envelope-from <franz.emmrich@yahoo.de>);
+	Sat, 05 Mar 2016 02:27:57 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.de; s=s2048; t=1457170075; bh=+77h6tSINqEmS9TO950zGMR+ktlReimM7HNZCPl2jI4=; h=To:From:Subject:Date:From:Subject; b=H/lRYa8Mh1iiuabMfPO0QQSz+Zscpj+RpvmjXLsiLPyaCWLGVYKwBsLp7kQojh5aZ5x3VoWqWMsI0RgaM8RQGa9uBGgdHa6FbuZ2mz7lwlHDwpUKTP2z0gVx6WZoPPY0+T/Qk0X21fxrHvXLFSeVsMDhsdhuwYlaG7fDuDWSs7QGWdv5WR9UAjGhH4EExKEvUhkVC+D+MXgUCkcQXeoq5dkFLMNvi4uUiC6PZvqfHnPXDBFBWFljYdRHkzogTlSR2E3R8fTGc9zysFiMCxZ9Jm7LIGrqQHnsU4N+DJC3PfwOWfs1tIvbmiVbj+HUaUGWZplNdTqTpHCJP//paWqy8g==
+Received: from [212.82.98.54] by nm19.bullet.mail.ir2.yahoo.com with NNFMP; 05 Mar 2016 09:27:55 -0000
+Received: from [46.228.39.106] by tm7.bullet.mail.ir2.yahoo.com with NNFMP; 05 Mar 2016 09:27:55 -0000
+Received: from [127.0.0.1] by smtp143.mail.ir2.yahoo.com with NNFMP; 05 Mar 2016 09:27:55 -0000
+X-Yahoo-Newman-Id: 391261.21057.bm@smtp143.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: Xdo9OHIVM1lRTkXmloJzGFINGbmgfCvL08WiP50iF6YVEad
+ fJgxx.NOhkgaKU1z2M_jBMcXBKaozthZlSPGiAxTV.YinvdU1rMZTM7Q4glG
+ _J1S_ebcviiVaTmk0mKv27kw0mE3_4PbfiEYAo_Q6S2T.UZuwQg.gJOE49.f
+ gFUtXpDCwMYT1dqxYW.6HVK_Zzb3Z.cHyTus7ooqXZXEvgofuv3B44xdwkkI
+ YKL7zIXDoBQpLlXfGxRsSNWIk9MsdgPXzaYupxi4UXInnJakWT1uAOkvjCZU
+ yAfdBPvkkPdEyzrmxHuS0SXvJZlp4O02Jky.SgehUBNbQ82TodgXiW3N0r3E
+ 8h6P7G3KrOtyOtbryA_Ot2MlNbgqP0bUaTpJuf25_STX1DOubKj5.RxBl0oW
+ NzHstpeyuBcbL8bJ1p7dAIn3W_MmFE5hRthTUuWSidiRSb2ZiArjGMc9Xxci
+ oIXOIPXYOSR7DuFYTIl5nfxuykuXkHR2dSiOlRhRlbtvE6XERnY8H5X_WMLa
+ 9DiS3u7gAhCWZq_U1OO3OPrFiuM75sdYw
+X-Yahoo-SMTP: FGvm7x2swBDIFF3Plbz80YTvUmJy_9s7PG0-
+To: info@trendfollowing.com
+From: Franz Emmrich <franz.emmrich@yahoo.de>
+Subject: TF MM
+Message-ID: <56DAA698.7090303@yahoo.de>
+Date: Sat, 5 Mar 2016 10:27:52 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101
+ Thunderbird/38.6.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Antivirus: avast! (VPS 160304-1, 04.03.2016), Outbound message
+X-Antivirus-Status: Clean
+X-AnalysisOut: [v=2.1 cv=Bo+btNj5 c=1 sm=1 tr=0 a=1tfjCYHxKRJnIizgPuPfyA==]
+X-AnalysisOut: [:117 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10 a=1oJP67jkp3AA:10]
+X-AnalysisOut: [ a=ZZnuYtJkoWoA:10 a=7OsogOcEt9IA:10 a=JQHLOOc2M1MA:10 a=_]
+X-AnalysisOut: [6GpL_ENAAAA:8 a=wGEwdWBU0fKprHpXHdkA:9 a=QEXdDO2ut3YA:10 a]
+X-AnalysisOut: [=xupg4knwUDYA:10]
+Received-SPF: None
+X-Spam: [F=0.2000000000; B=0.500(0); STSI=0.500(0); STSM=0.500(0); CM=0.500; CY=0.50; MH=0.500(2016030503); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <franz.emmrich@yahoo.de>
+X-SOURCE-IP: [212.82.96.237]
+
+Hi Michael,
+please inform me about the TF Mastermind group.
+
+Thanks and enjoy the weekend!
+Franz
+
+---
+Diese E-Mail wurde von Avast Antivirus-Software auf Viren gepr=C3=BCft.
+https://www.avast.com/antivirus
+

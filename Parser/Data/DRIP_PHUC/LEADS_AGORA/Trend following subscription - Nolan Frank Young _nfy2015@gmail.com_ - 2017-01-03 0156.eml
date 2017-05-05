@@ -1,0 +1,91 @@
+Return-Path: <nfy2015@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 471334028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:54:21 -0500 (EST)
+Received: from mail-it0-f42.google.com ([209.85.214.42])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102185710422_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:57:10 +0000
+X-RC-FROM: <nfy2015@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f42.google.com with SMTP id 75so251675445ite.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:57:07 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=vmrCgzaMtAlwHrGFxjXkx+Uq/i0euuo+RGzPPjnuO/4=;
+        b=JmRsutPqCn/V4DB2/kRZZndU8uQVqrtwLB84fHN2b5aIRjAYMDf02a9LN5OWErCD1a
+         6D0PFy3LCdkFPurbgDyP3vHPe8AJBeT9OYUS0TO1CvuzGP1H1Pt3Knxke5b5KhUzfuvO
+         CzREGCSGBN8w5Kc/ehBUYyVAT/lqVwX8V43DsAcEP6gRrlaiAOVdLvn0BBVXSWK1Z4Fi
+         jhDkdJNLHL8Co5moowOReYauSTvEK2zky6ZBMFzBxzOsnZ1LbMbRA6kRs6XceqldylfE
+         Nvf21zr+g8P/gDiQ/ytFQzhr/AtA51H7P73qAXwLj6aHAAbQZ06FK9pA3wF34/dQTges
+         2lJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=vmrCgzaMtAlwHrGFxjXkx+Uq/i0euuo+RGzPPjnuO/4=;
+        b=n5l3daRs70zKvE1hXI8rrIDu3PbzoyMG1OLX7DQS3S/CM36Uj6wlWLE+blALkoZYu4
+         +EiPWACZ+ErDDrkYp8X1PLe5bhXxXuSeFk5p6aWfIgwptGdAbtg1yKJjg8vvSMN/Q9UI
+         lLLmpi8+fFzaF9dfysNMl5FsB5/Au6OmTWPglpaKU39e4WzC6/Hdb78PveqHxRMI9P6G
+         TE0JARla5uN7NmXXmpfJC8QN0kzkJU6D2ng1Wpy4xaa6Sn7U2ur8hcx3BvmhRFuPB/5B
+         NiYWbhEPtqrHwmctun7FoW5P9bf7wFWxZeZ2GgoR2ntxuyehOJsmj8o9MGPOuaVPZhaW
+         aWvA==
+X-Gm-Message-State: AIkVDXLn7jwEiM3p7T9spcmJS5LRX4Zalv/cCYprHhoukH1ZTFB1NQ6lhiCz5kpFIAuzRsfEMXBKssGENQNTow==
+X-Received: by 10.36.39.136 with SMTP id g130mr50711896ita.55.1483383417411;
+ Mon, 02 Jan 2017 10:56:57 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.130.10 with HTTP; Mon, 2 Jan 2017 10:56:57 -0800 (PST)
+From: Nolan Frank Young <nfy2015@gmail.com>
+Date: Mon, 2 Jan 2017 13:56:57 -0500
+Message-ID: <CAEpBewXm5UF+xJEj3x_wxR6aBJ8aKHZh0t7VoMJDw1YryjLG+g@mail.gmail.com>
+Subject: Trend following subscription
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1147c8b6a91f380545211dbf
+
+--001a1147c8b6a91f380545211dbf
+Content-Type: text/plain; charset=UTF-8
+
+Very sorry (really) to hear about the shut down of your Trend Following
+newsletter. Just to let you know, you are the only one that I ever
+purchased a lifetime subscription from.
+
+I read and purchased your books, and have officially given up on any other
+type of trading. Even more, I was actually making $$$ with Vertical Trade
+Alert, and I'm going to miss your commentary.
+
+I would love to receive the "special trend following investment paper", and
+please alert me to any future trend following letters you may operate in
+the future.
+
+So, my name and address is as following:
+
+Nolan F. Young
+Unit 302
+8 Hill Heights Road
+Toronto, Ontario
+Canada,  M8Y 1Z1
+--
+Wishing you the best.
+
+--001a1147c8b6a91f380545211dbf
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Very sorry (really) to hear about the shut down of your Tr=
+end Following newsletter. Just to let you know, you are the only one that I=
+ ever purchased a lifetime subscription from.<div><br><div>I read and purch=
+ased your books, and have officially given up on any other type of trading.=
+ Even more, I was actually making $$$ with Vertical Trade Alert, and I&#39;=
+m going to miss your commentary.</div><div><br></div><div>I would love to r=
+eceive the &quot;special trend following investment paper&quot;, and please=
+ alert me to any future trend following letters you may operate in the futu=
+re.</div><div><br></div><div>So, my name and address is as following:</div>=
+<div><br></div><div>Nolan F. Young</div><div>Unit 302=C2=A0</div><div>8 Hil=
+l Heights Road</div><div>Toronto, Ontario</div><div>Canada, =C2=A0M8Y 1Z1=
+=C2=A0</div><div>--</div><div>Wishing you the best.</div></div></div>
+
+--001a1147c8b6a91f380545211dbf--
+

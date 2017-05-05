@@ -1,0 +1,51 @@
+Return-Path: <ronespencer@earthlink.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E86DB4028F221
+	for <mcovel@trendfollowing.com>; Thu,  5 Jan 2017 18:22:44 -0500 (EST)
+Received: from elasmtp-mealy.atl.sa.earthlink.net ([209.86.89.69])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170105232539976_0459
+          for <mcovel@trendfollowing.com>;
+          Thu, 05 Jan 2017 23:25:39 +0000
+X-RC-FROM: <ronespencer@earthlink.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=earthlink.net;
+	s=dk12062016; t=1483658740; bh=wQPeuPcVmA+QFr5z4O/ay9dDJ4qiW/lULfC3
+	g1C6YEA=; h=Received:Received:Date:From:Reply-To:To:Message-ID:
+	 Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:
+	 X-Mailer:X-ELNK-Trace:X-Originating-IP; b=B1VkaVLRm2by3B/BjUXdb3PM
+	z67ujaUAxtbpQ0r5WxsnOp4pjFxjIBkWFJqeWejQweloNI20dcprln1t1VLhEdTi+ve
+	B4be9s89NTzQqsMRIX9Zl9v4QAvOAyRUZJVQ9C3ncDGcCLEFD01HvlQL2hdg6cYigeN
+	z/ueLAuf2cdjiOUK7N2f5glpQ7gP2MxlvGiP1jKShmRukgJ8fUJX5UyMYcUycwewgGU
+	Y1ZNL4kBpOPwfrcx31N9EqnSu5BmeOvTHuyAX1JcAP9cDAFHYdAIzzOkxYquV2GYSzk
+	FEzz3uIIZ4R5JynR7WZ4jSW2elIzbq/OzC4kpBUvxxM8J8vJ6A==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=dk12062016; d=earthlink.net;
+  b=K/6yCpFkvwg45CI58LMs3wxtLDQ6q1Ee+ZFcr6f4sf8vhQzLLBO1iZynUqk5Z8XVMjz0zzGrFgBw81Y6ktFKXcFeMCqg1aXHpjv04weQM6UZx2+Nke2dI4ovBi1nyCvv70bK80rnurqZ1Ujkhrp9Efpx9LcNqCFCQFadXKUj7imDIcPUCUpJ68hwVLAxL2SQ3UjjMfPNtllDcBXh+5DmmSTKC20GrtWLmD25yEv4Ib5EtgW3SwXWLpb3U5VHnwuqjt+2PkE4mEzLIo6+q2wyR3d87nwH5hN0DQvYl7mshBfDOc0wvTcqjdb5kpUo2B0RDMNHDGj+EbuQkv7qYSgqUw==;
+  h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:X-Mailer:X-ELNK-Trace:X-Originating-IP;
+Received: from [209.86.224.46] (helo=elwamui-royal.atl.sa.earthlink.net)
+	by elasmtp-mealy.atl.sa.earthlink.net with esmtpa (Exim 4.67)
+	(envelope-from <ronespencer@earthlink.net>)
+	id 1cPHPP-0004hK-Uz
+	for mcovel@trendfollowing.com; Thu, 05 Jan 2017 18:25:23 -0500
+Received: from 172.250.63.94 by webmail.earthlink.net with HTTP; Thu, 5 Jan 2017 18:25:23 -0500
+Date: Thu, 5 Jan 2017 15:25:23 -0800 (GMT-08:00)
+From: RON SPENCER <ronespencer@earthlink.net>
+Reply-To: RON SPENCER <ronespencer@earthlink.net>
+To: mcovel@trendfollowing.com
+Message-ID: <22288882.16245.1483658723874@elwamui-royal.atl.sa.earthlink.net>
+Subject: Gift
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: EarthLink Zoo Mail 1.0
+X-ELNK-Trace: 3b4fd28bf7fdda1066363cd9596623819ef193a6bfc3dd4823a355e74e934e74822b66de047eb85a30febb85a5f48815350badd9bab72f9c350badd9bab72f9c
+X-Originating-IP: 209.86.224.46
+
+Ronald Spencer
+
+17312 Quesan Place
+Encino, California 91316
+

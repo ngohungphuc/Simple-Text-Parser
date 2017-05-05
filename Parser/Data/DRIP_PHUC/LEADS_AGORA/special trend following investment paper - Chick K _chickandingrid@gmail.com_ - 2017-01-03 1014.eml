@@ -1,0 +1,67 @@
+Return-Path: <chickandingrid@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 301264028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 22:11:56 -0500 (EST)
+Received: from mail-wm0-f50.google.com ([74.125.82.50])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103031452336_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 03:14:52 +0000
+X-RC-FROM: <chickandingrid@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wm0-f50.google.com with SMTP id c85so190553846wmi.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 19:14:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=5GA6NvZtb9sFmL5YGK9APr+H1idwJ/16PFbHnbhYHfQ=;
+        b=ueBrYmpt6XygTvJHsikT86NY4FlCfssQ08B50gmtwImJl0wNGxuErAfrnkTwdtPV3s
+         GRg2uYDcwiaAHmYYiXoLMbL47WJl991n53qleOT8SCzKMQWMlFPVgevNdGvkBSTjC2mc
+         S8ajDDVVr9/sPqpsSzj9bty3NXlILGt3dzPiIcUz9+ytFL3DlVmccbUwBIuAABAIwPgl
+         7iEvYxQs+NPyDJocynpKfZKzu8mE7JBZK2/msVWtmfW8DnN4NeC+/NZGY5ce6apkVxZK
+         ACCwlHadbAhjaX/e0W/v53ZPL3cpZIkPPhDOOUAd5peGTSk5XEr6UpJV/myHVoL33CZJ
+         b0OA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=5GA6NvZtb9sFmL5YGK9APr+H1idwJ/16PFbHnbhYHfQ=;
+        b=Ki3xPVAC9MajGPSlxQWRDdjduOS9XcdXhi4yOLMRlbbYpNfr2il7pqPIOltiB7S4S/
+         QvpMQV9a+7v7lnQaj0j8KhnmwuYEoCZDUzxo4axqcbaWWbt19U95G4j5IH9rWiXQyiR2
+         tmEv4bpO5b96bUQ6sh92qyWQLJV5bN8hcVGUOe3khxzsLqNCUV9Js7gOjYzbDTSFYgYo
+         RS6N8mG9LqU72Nn4p1RfgwDpfdtufzmItMR1X7J10tWNHyJxiu5kwp+a+XLusjAoE9rZ
+         dx4q1lArSjP8foVpqVqL3lu/n5D7qjFx0l2wCLDuiOrXZ5K72O0uOQZwGJVPP3ays4hz
+         U/2w==
+X-Gm-Message-State: AIkVDXLb0oSZTCh2Dn/tWM+UNx3D+DKTYTL8/hcLE55wxCmYEv7dFx19rqXzCUxCkOiid8sjxiWbpwzlRRSVrg==
+X-Received: by 10.28.173.4 with SMTP id w4mr48018039wme.70.1483413285963; Mon,
+ 02 Jan 2017 19:14:45 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.58.134 with HTTP; Mon, 2 Jan 2017 19:14:45 -0800 (PST)
+From: Chick K <chickandingrid@gmail.com>
+Date: Mon, 2 Jan 2017 19:14:45 -0800
+Message-ID: <CAFj2QHnQQB2vkZVZ4-RxCf5urOUoySKo+jTeSSSWRoWF9a+7+w@mail.gmail.com>
+Subject: special trend following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1144214ef70c060545281146
+
+--001a1144214ef70c060545281146
+Content-Type: text/plain; charset=UTF-8
+
+Charles Koenig
+P,O, Box 910
+meadow Vista, CA 95722
+
+--001a1144214ef70c060545281146
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,he=
+lvetica,sans-serif;color:rgb(0,0,0)">Charles Koenig<br></div><div class=3D"=
+gmail_default" style=3D"font-family:arial,helvetica,sans-serif;color:rgb(0,=
+0,0)">P,O, Box 910<br></div><div class=3D"gmail_default" style=3D"font-fami=
+ly:arial,helvetica,sans-serif;color:rgb(0,0,0)">meadow Vista, CA 95722<br><=
+/div></div>
+
+--001a1144214ef70c060545281146--
+

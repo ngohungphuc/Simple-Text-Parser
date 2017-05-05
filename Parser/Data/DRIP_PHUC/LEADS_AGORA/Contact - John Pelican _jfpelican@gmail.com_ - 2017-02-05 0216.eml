@@ -1,0 +1,65 @@
+Return-Path: <jfpelican@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A937F402903C7
+	for <mcovel@trendfollowing.com>; Sat,  4 Feb 2017 14:13:51 -0500 (EST)
+Received: from mail-ua0-f194.google.com ([209.85.217.194])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170204191645970_0659
+          for <mcovel@trendfollowing.com>;
+          Sat, 04 Feb 2017 19:16:45 +0000
+X-RC-FROM: <jfpelican@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-ua0-f194.google.com with SMTP id 96so4100190uaq.2
+        for <mcovel@trendfollowing.com>; Sat, 04 Feb 2017 11:16:42 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=xe/twQWa1eqh2iaf727wofYS/bNnnfKGbiaprLWdTZ0=;
+        b=KRne58RR7PPzlWtzOUGpQ06BR+9KAWFp+VGzzwlRw8CXD2Ar6iCmu8pkQA6K2fUwR6
+         o4uM83H7MbSmOVRYR59Eyw5wN3IZJfv+Oj7ROwCTeQld6Omt041LW8HPywOoTzkA+tTq
+         PJBm97Ztmu4x0k7jcowUKQOa1oo+ktEr1pQy3MX+nP3tGyqXPE/WWzsx0w2Fvwyv9X3/
+         J4fktwx5dLDPC2tlEJEt0OLYC0zWGj7Y0Uik6SCMk2XrRR9UzUjL7kBTEZi5f6bKDZbP
+         K+42RGY9umwsNloR4ULnqJF/6QU/hKwUEnq2JmomqjfSLp8+LjrTF4ZTjaYReV1Oiw/T
+         zYQg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=xe/twQWa1eqh2iaf727wofYS/bNnnfKGbiaprLWdTZ0=;
+        b=jaYx1HIPJVPQC/Pnwamfa5kfJ6K3Lz2IDiTDXEXn/0rJjrOdnymVny/yd9kVS1r5PZ
+         7l9hzBfO1wlnwveQTnPIaRyNsWrUXewAhL5b1SqlZ4BdcTq+UCBRXiNF5LP679H/laSV
+         27p6u9m5A4GuYdNUl0eIXYEEN0vFCfpAhIvgZOa289Jt2pg381C0fulArZK6NZw7EjBl
+         uhobiP2K0grN3idrJYW8DpIKCGkVsocs1r5rgU07Qd1A664Vyh5+mTdmNQ1SoaG/KEBY
+         sV7FSc4VrinAO7U++/mGZTyWHLz8HAeT5wGJJ9MJ//Am1f/s1YFNr3bpja6vbzdGuQ72
+         WqJg==
+X-Gm-Message-State: AMke39lvNI7811aQXwURG4etT3HIcU6rSH5LMj3y45ZQzF2V8A6TaJH9w8p96kzm9ZIzBA==
+X-Received: by 10.176.23.89 with SMTP id k25mr1247542uaf.49.1486235800389;
+        Sat, 04 Feb 2017 11:16:40 -0800 (PST)
+Received: from ?IPv6:2601:342:8202:9ee2:cc17:407b:2e82:65d4? ([2601:342:8202:9ee2:cc17:407b:2e82:65d4])
+        by smtp.gmail.com with ESMTPSA id d63sm11583670vkh.4.2017.02.04.11.16.39
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 04 Feb 2017 11:16:39 -0800 (PST)
+From: John Pelican <jfpelican@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Date: Sat, 4 Feb 2017 14:16:39 -0500
+Subject: Contact
+Message-Id: <7DFBD3DA-837E-4506-815C-396290531822@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14D27)
+
+John F Pelican
+425 N Fletcher Ave
+Fernandina Beach Fl 32034
+
+Former subscriber. Was wondering why no contact and learned newsletter had e=
+nded. Sorry John
+
+Sent from my iPhone=
+

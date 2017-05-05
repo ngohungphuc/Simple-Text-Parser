@@ -1,0 +1,66 @@
+Return-Path: <parkinstitutewr@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DEFC04028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:27:58 -0500 (EST)
+Received: from mail-yw0-f175.google.com ([209.85.161.175])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102213041609_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:30:41 +0000
+X-RC-FROM: <parkinstitutewr@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f175.google.com with SMTP id r204so275432170ywb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:30:28 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=4Ak9WrAW23ksB3v8EZHH1zIPfTABmUBJ+tiuQFsbKzg=;
+        b=jpwme1pkgv8uodCln16U0vfzW4RHWKkOrz3LI08XnX6vIizvl22elSGQzkDRxK2aUL
+         HiGYN3N3IilOmOWlM1UYJ4SkeXz9iKw4p+ofnIIKi9KVSIyH4DSAORiF/3NK3q0MRdjX
+         uDGXQffAFDdJHVL3EvPhUqJiWWX4wm8qQhylgWqq3akJFhWA/LtUDqENJwkXzctA0V96
+         7EgO+1jniQ52q/qaUCKmwW02Rw5392Qp8dFuowi0WaJtDqDZUocH6wr6iYLelkSAy6UC
+         594NtBuWNMSoJmkxx3NT6AWMGAU8o01uebGgb3G/GVOuEwXTCf3pBa0XvUNpV/OQtlZa
+         TfiQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=4Ak9WrAW23ksB3v8EZHH1zIPfTABmUBJ+tiuQFsbKzg=;
+        b=U4qGLDgfM7ewafB6gcY6O0hX0LoalM2SWKMCj/d1ALH8J93/MT5ZdzYEAGUwHVQ5al
+         k1Xi3JCRQa0F74xT2Se2se4VVn3fZn4BsZ8zzj0zM4IQwU9p3Ojwvu70Jx6VJGl6pOxw
+         MSwtJzkfeRIC+HB6UxaB/k58bZ5hyDB6rFMcEtWjLrBa+fc6Nn+a+q2ByhB01V/y47Er
+         A+wq0YfmaRqyORxKtcYIcW1g8ps21PgeBrmgJaDHrCCHpsiPXV2dj3ZJ0j2moYYlyBJH
+         anAW6luoALnPIiEGlZQvG25QkwrLDfQGabYyfUzwxE4JWZPRrOioDisONZAfmeDtObrV
+         7b2w==
+X-Gm-Message-State: AIkVDXLNxHhLAfK2UpI8Tv2z92H+odG9tt9WMVTpMN0ZX0fcS3D6Lt/fc9QbHFH28WvmEyJckYnTFYFkAI9wng==
+X-Received: by 10.129.50.133 with SMTP id y127mr55075928ywy.109.1483392625694;
+ Mon, 02 Jan 2017 13:30:25 -0800 (PST)
+MIME-Version: 1.0
+From: John Chrystal <parkinstitutewr@gmail.com>
+Date: Mon, 02 Jan 2017 21:30:15 +0000
+Message-ID: <CAARoApAcZ4xBH2BT0ctD3rCWZORxjPzuTeMtRjhY8HwdUGr3+A@mail.gmail.com>
+Subject: Trend following subscriber
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1142222e845ad005452342cd
+
+--001a1142222e845ad005452342cd
+Content-Type: text/plain; charset=UTF-8
+
+My name is John Chrystal, my email is: parkinstitutewr@gmail.com, and my
+address is 4233 8th Street South, Wisconsin Rapids, WI 54494,
+And I thoroughly enjoyed my membership to your trend following service,
+sorry to see it go. God Bless, and Happy New Year.
+
+--001a1142222e845ad005452342cd
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+My name is John Chrystal, my email is: <a href=3D"mailto:parkinstitutewr@gm=
+ail.com">parkinstitutewr@gmail.com</a>, and my address is 4233 8th Street S=
+outh, Wisconsin Rapids, WI 54494,<div>And I thoroughly enjoyed my membershi=
+p to your trend following service, sorry to see it go. God Bless, and Happy=
+ New Year.</div>
+
+--001a1142222e845ad005452342cd--
+

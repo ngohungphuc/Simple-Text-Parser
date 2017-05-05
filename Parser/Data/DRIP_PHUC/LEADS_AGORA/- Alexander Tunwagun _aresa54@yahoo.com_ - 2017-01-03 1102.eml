@@ -1,0 +1,52 @@
+Return-Path: <aresa54@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 547724028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 23:03:05 -0500 (EST)
+Received: from nm32-vm9.bullet.mail.gq1.yahoo.com ([98.136.216.232])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103040600598_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 04:06:00 +0000
+X-RC-FROM: <aresa54@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483416347; bh=GT5WtGbgyV+6NKpB1+kaw/XFbrwtagIolr4tPpQTwn4=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=PlwJMwSbLFdZCoO7w8+Qbu9Cj/iBtlJoCla3ZpX8r+jm+RTT+KvwaPTBqWEX2Wh+9l02Qs9eTqXMkQOZEGDJ76clNU9MLqFZB6n5OjO6aBE/5ELd25oc6ZEuJq9Cy7WzrkcxucFgaPN8mLnw1KvcPedj7L1vlSZtvL/kxyE/pJiv6dgdDl+qXBT6C9bZOGxAzKyZ6mqqxaETwA8KoADCRhmtfaRTFwivgzdQf+qwjRDSx4MA+tEM7s390INcv3xuuXQ/KY0LPElOlkjfEyTJc79JLi6549hpmIRQndVkBgBWkFHgpMujHhsG8EJCkOIG5mKaTvO+WX2xmhjE5x6CzA==
+Received: from [127.0.0.1] by nm32.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 04:05:47 -0000
+Received: from [98.137.12.55] by nm32.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 04:02:58 -0000
+Received: from [98.137.12.224] by tm15.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 04:02:58 -0000
+Received: from [127.0.0.1] by omp1032.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 04:02:58 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 400844.52050.bm@omp1032.mail.gq1.yahoo.com
+X-YMail-OSG: f5dJY3MVM1lKtSlDVwv4fgf_mCXb7U8Rhhaw.ugOPcDdMxfK0k_7r9KkypvN7B2
+ tbvNQq5.12s6CDV3tZTlI4TQYhM.9pSS4LCuAb1TXCbhUtR2gD2IlvrJlRXJgA3a3hNjO1CWHGG9
+ chj7_ZXyR6iZRabmXfvJ5fP8g7mrRLN1pOlkL3TWYAhpYyDOkc8.pKSZb3R.obnMQ3GfJSp_TAmd
+ pgdV9ovq6PdcuIChgMzbP.zw.Sz.jUeHjE5lqAASZ5W352c3wNz14c1EI7DILRVIk8ubbvfQKbPI
+ THXM9utWozVGyhOtpMG8fmuIjaO3lz8HWzMIVVUNmuHBcDE_PdlBHj1weVb4HYAAkUK2ObH_FXEp
+ i7jcCxC.9EXZmCJ.fJ9sXDFcLOPgSzo5DD.e1GFf7CUykVGkHWZTXjkRbRjbrzPtyPo.lA1O5Q__
+ WL0Vom9AZhAfPkY_SBbex9HyBjwLUZBAfcI3_kMLLTSt8qKgETKkTP.rfeNk5UDQczloQVL8L5FO
+ 8CIMtR18akMR.qTd0KTw3gEQmAP3yy9fc5Q--
+Received: from jws300063.mail.gq1.yahoo.com by sendmailws123.mail.gq1.yahoo.com; Tue, 03 Jan 2017 04:02:58 +0000; 1483416178.038
+Date: Tue, 3 Jan 2017 04:02:57 +0000 (UTC)
+From: Alexander Tunwagun <aresa54@yahoo.com>
+Reply-To: Alexander Tunwagun <aresa54@yahoo.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <257015684.6084524.1483416177889@mail.yahoo.com>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_6084523_575926942.1483416177888"
+References: <257015684.6084524.1483416177889.ref@mail.yahoo.com>
+
+------=_Part_6084523_575926942.1483416177888
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+ Alexander O. Tunwagun, Email address: aresa54@yahoo.com
+------=_Part_6084523_575926942.1483416177888
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px">  Alexander O. Tunwagun, Email address: aresa54@yahoo.com</div></body></html>
+------=_Part_6084523_575926942.1483416177888--
+

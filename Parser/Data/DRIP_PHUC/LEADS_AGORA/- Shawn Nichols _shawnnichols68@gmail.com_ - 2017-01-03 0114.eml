@@ -1,0 +1,64 @@
+Return-Path: <shawnnichols68@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 388964028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:11:59 -0500 (EST)
+Received: from mail-qt0-f179.google.com ([209.85.216.179])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181456194_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:14:56 +0000
+X-RC-FROM: <shawnnichols68@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f179.google.com with SMTP id d45so223861247qta.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:14:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=XHFREDbO1AYteMGFsqWwOlHoZWaiC0qD84MCLqBCxGs=;
+        b=jBdXKKzXuyQSUjjpVP2JxrlNawDY8Hl/JRhglnQ3o8P5iDL/XSxgMdNFiZsKAew3zA
+         hxEzkJO3EHLXH8L/wug+eqc8IZS/DIUUVcVN21RaPp49ULS1h+oYRMShv5aXcFWRXeuJ
+         KDRZyOIkGxDlgDvHC96t3FDX+N34639EDrS6yQD31cXCyGRRxfbF8PAeS8Y1PzXafTj/
+         Zd2SuQ18iPXKf3THa+zE7OGUH/JktilmuA/YQgg2zZKHFuwztvZSFpVGoU+vgpt1rxYj
+         FrL7aCjDR/bcZjTdox0ilT0KRdJeJfe78n9TuK8TWbv6BZB9PxoiDo1p05SIKimuzR/I
+         yj6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=XHFREDbO1AYteMGFsqWwOlHoZWaiC0qD84MCLqBCxGs=;
+        b=pTukBiZ28/d4PmJXE6JHLpbQc2K9IZJvXtHpeXTmC8EM23BwyNAyH6KG4Y/vCj82UG
+         019ckchTOcU4TWST+cYK4Zz5vV0qLem8Yoduz9iIPKygNKlPgs9f8DKL2m+3BSVaXyb0
+         bK2zYja9IjHIHZxWw4SmY+lXJxxa7WzeX9K7dxGx2C9/1Glb5IIlc1t9uFfoCGyI+qM0
+         V3wixYZz7oPX9JuoF+mb3vIlIyVNQVim5OmDRxLvnx6lKpbl7Y+K72EH5phoYLGb55Qm
+         zfolYGsO9jjD5PO2fDwcIXxjolc3mtbveX10P/RLCwsRodLiYjZJRgiHtjnnxk8qNGXI
+         h49g==
+X-Gm-Message-State: AIkVDXIpqWTlcsso3+QfUzEpyRzWONJVm+vMHzL8cKeeBPflS/od4F+JqL2m57QeudkWUS+BN0xp40cxYL/p/A==
+X-Received: by 10.237.37.60 with SMTP id v57mr62691769qtc.135.1483380889232;
+ Mon, 02 Jan 2017 10:14:49 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.138.251 with HTTP; Mon, 2 Jan 2017 10:14:48 -0800 (PST)
+Received: by 10.12.138.251 with HTTP; Mon, 2 Jan 2017 10:14:48 -0800 (PST)
+From: Shawn Nichols <shawnnichols68@gmail.com>
+Date: Mon, 2 Jan 2017 13:14:48 -0500
+Message-ID: <CAEXCJ0a0eLPoByLAhQZbfhh4GMYPvSWup6KZZ-hku6B4FtaprA@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114125e0f82fb805452086e3
+
+--001a114125e0f82fb805452086e3
+Content-Type: text/plain; charset=UTF-8
+
+Shawn Nichols
+6 Bridget Circle
+Gilford, NH  03249
+
+--001a114125e0f82fb805452086e3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Shawn Nichols<div dir=3D"auto">6 Bridget Circle</div><div=
+ dir=3D"auto">Gilford, NH =C2=A003249</div></div>
+
+--001a114125e0f82fb805452086e3--
+

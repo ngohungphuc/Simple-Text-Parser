@@ -1,0 +1,76 @@
+Return-Path: <jfchristiana@gmail.com>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C608440295A6D
+	for <info@trendfollowing.com>; Tue, 14 Feb 2017 11:42:41 -0500 (EST)
+Received: from mail-yb0-f182.google.com ([209.85.213.182])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170214164535573_0459
+          for <info@trendfollowing.com>;
+          Tue, 14 Feb 2017 16:45:35 +0000
+X-RC-FROM: <jfchristiana@gmail.com>
+X-RC-RCPT: <info@trendfollowing.com>
+Received: by mail-yb0-f182.google.com with SMTP id w194so38169933ybe.0
+        for <info@trendfollowing.com>; Tue, 14 Feb 2017 08:45:32 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=8rwSpbdn/GsQ75JoExrwATzTwmfT/WlQbmiztU8gtfA=;
+        b=AI16uEHyljn8moWayOn6UBsDWCIoHz4wdYb2EjR9HnG2QHEdyWeV9RJ6ZZoRRA/IZt
+         suAplVHoK89LjaNyW4ai4b4C2ZJh1ikn75Wjbdl2Y+gYwJ29RGzXlDjW9YKuhCdgqW0u
+         3brbw55pSJFwOjcJpKoozbbfA6JaxeEVejcUEC7U/+9Cor7Gc8kvZdiFNtY4WSVfxYjn
+         v+Berc+OecV3LB2Sxy9pPZ474gZHRNatqw609vZRcngbG/GZkRyUaPythV8WEdiYGozv
+         8PoC1eu47VUwL0OuWFztMRYOSbyXwgJkC99ucysAg/zzPFmFgA3NUBkDRdi7NioxKqQR
+         qbDw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=8rwSpbdn/GsQ75JoExrwATzTwmfT/WlQbmiztU8gtfA=;
+        b=YT/AvomwAMP7zYjk6xSdfDgCe+TfvbF6ZcwcraW3gjcXefJVtwzYcpeL5SouKxbQFB
+         zV5s9ZSToeQ9uAMCinUtNSe1IzHsEyLbfAbOIZsMGf1bOM00CShba9sp6bOAtwHPcT6E
+         H1XJwn2bfBYuExEdVkKWs5BGmxMcLI6NyH5oerb7GGkfLHxP/7cxpcfEgkvmbLGU0iXz
+         EnJAjpWxrIKtcU1cGgu5N93eD4sFCASu/b8cHkqUT5lhc8E1bsoV8kWlxoypC/dg5fJY
+         HwNyBudRFheBk1AePj4Wy0Ho/ZaYJ5mq3ixw7dHbuEEqWRuy95WR7q5zHzmOxEx5IvV/
+         vCWA==
+X-Gm-Message-State: AMke39nykTtCXCrzEDXk0LApxXCliDcEKWVxJX2RCk0n2lnbalhwO7igm4qKiQYwJeAEtluNircfW3s6ZnVdcQ==
+X-Received: by 10.37.165.102 with SMTP id h93mr21793376ybi.48.1487090726815;
+ Tue, 14 Feb 2017 08:45:26 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.13.212.196 with HTTP; Tue, 14 Feb 2017 08:45:26 -0800 (PST)
+From: JF Christiana <jfchristiana@gmail.com>
+Date: Tue, 14 Feb 2017 11:45:26 -0500
+Message-ID: <CALCjR94qqaZPrCtJL-LoN0BFGo5NkRveeJcaUjnmB+3Aa9EMtw@mail.gmail.com>
+Subject:
+To: info@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c1a02b68565d50548804a4c
+
+--94eb2c1a02b68565d50548804a4c
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael,
+What happened with Agora Financial? I went to log in and check the
+portfolio about a month ago and PUFF you where gone!!! That sucked man! I
+am curious about what happened?
+Are you still offering your portfolio and position sizing advice? Did you
+go some place else? Will you do that again? I loved your position sizing
+calculator!
+Also congratulations on your engagement...that's cool too!
+Thanks
+Joe
+
+--94eb2c1a02b68565d50548804a4c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Michael,<div>What happened with <span class=3D"" id=3D"=
+:14a.11" tabindex=3D"-1">Agora</span> Financial? I went to log in and check=
+ the portfolio about a month ago and PUFF you where gone!!! That sucked man=
+! I am curious about what happened?</div><div>Are you still offering your p=
+ortfolio and position sizing advice? Did you go some place else? Will you d=
+o that again? I loved your position sizing calculator!</div><div>Also congr=
+atulations on your engagement...that&#39;s cool too!</div><div>Thanks=C2=A0=
+</div><div>Joe</div></div>
+
+--94eb2c1a02b68565d50548804a4c--
+

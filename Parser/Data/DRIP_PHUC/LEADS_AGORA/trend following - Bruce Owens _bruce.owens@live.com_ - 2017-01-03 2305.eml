@@ -1,0 +1,325 @@
+Return-Path: <bruce.owens@live.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6BA8D4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 11:02:47 -0500 (EST)
+Received: from COL004-OMC1S17.hotmail.com ([65.55.34.27])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103160542864_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 16:05:42 +0000
+X-RC-FROM: <bruce.owens@live.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM04-SN1-obe.outbound.protection.outlook.com ([65.55.34.7]) by COL004-OMC1S17.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 3 Jan 2017 08:05:36 -0800
+Received: from CO1NAM04FT024.eop-NAM04.prod.protection.outlook.com
+ (10.152.90.60) by CO1NAM04HT213.eop-NAM04.prod.protection.outlook.com
+ (10.152.91.59) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Tue, 3 Jan
+ 2017 16:05:35 +0000
+Received: from MWHPR03MB2877.namprd03.prod.outlook.com (10.152.90.54) by
+ CO1NAM04FT024.mail.protection.outlook.com (10.152.90.105) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Tue, 3 Jan 2017 16:05:34 +0000
+Received: from MWHPR03MB2877.namprd03.prod.outlook.com ([10.175.135.135]) by
+ MWHPR03MB2877.namprd03.prod.outlook.com ([10.175.135.135]) with mapi id
+ 15.01.0817.009; Tue, 3 Jan 2017 16:05:35 +0000
+From: Bruce Owens <bruce.owens@live.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: trend following
+Thread-Topic: trend following
+Thread-Index: AdJl2ykz4JATIeVBQLWvqlmXPyGjwQ==
+Date: Tue, 3 Jan 2017 16:05:34 +0000
+Message-ID: <MWHPR03MB28775776A99289EEEB7D8C5B8E6E0@MWHPR03MB2877.namprd03.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=live.com;
+x-incomingtopheadermarker: OriginalChecksum:3E7C9477CBD9E4C25E47D7F70B58246BFBBE559579A189DB2AE8EA134489100B;UpperCasedChecksum:9C989236C22EDDDCD7A9700463CE421D22BD9E07425B37C80D636EA4F3E8BB4C;SizeAsReceived:7142;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [84z0QhLLJoZriAFki1CXpjPyxuhw+Y5t]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;CO1NAM04HT213;7:1aj2i2cPPMlzFyI5xrqYGx/v/0DlicSKekaIvpBxc9Z+++cF1KLU8Q2Hq60Di8zrwdTsvQHFHpRf+76/J+ix88T2w7aanbKOVLh6TqvSTfuzYT3YmVEVa1PDApIKmzv5nPK2q/1CZs5iTNhpC+7Dhns4z28MyAbGw12NcqTPyKcHjAjDAsZH+fNoMAT0qo7CI1lIFAyKs5thdQIcYKrF4pAQbWLdrPmXjop8psbvsy77RGwjdwWMhQ5TcG9AOPt6/NdfYo0ozk6IDCRbtDjmCSkdgeaeGxd90M69unGoGOpt1Z/o1y19q+rmvtl7P83ODHYAIRfuW/czDLYowTJQW3nxFIdv0hfR4z7KAvegdTLaFiPXB/G2NVgEkLdp1cBPQryhWjumqpnVyVMJ4QtQ9b7syVPKTDI+1DqwN5EVxzPKfhzXjnuVYgxQ3FHdSXnhhlWT89iSET8dQ8tcjOL36w==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:CO1NAM04HT213;H:MWHPR03MB2877.namprd03.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 7c7704a5-a56a-4753-6525-08d433f259f7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:CO1NAM04HT213;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(102415395)(82015046);SRVR:CO1NAM04HT213;BCL:0;PCL:0;RULEID:;SRVR:CO1NAM04HT213;
+x-forefront-prvs: 01762B0D64
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: live.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jan 2017 16:05:34.9269
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM04HT213
+X-OriginalArrivalTime: 03 Jan 2017 16:05:36.0615 (UTC) FILETIME=[386E1F70:01D265DB]
+
+--_004_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_
+Content-Type: multipart/alternative;
+	boundary="_000_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_"
+
+--_000_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+Please give me your update?
+
+Bruce R. Owens
+Associate Broker
+Century 21 Signature
+Commercial Dept.
+409 Ashman St., Suite #3
+Midland, MI 48640
+989-205-2074 cellular
+
+
+--_000_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <B9719E8C024D3B4392FF8E956793FCB5@sct-15-1-789-5-msonline-outlook-579cc.templateTenant>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:m=3D"http://sc=
+hemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-=
+html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Microsoft Theme 2.00" content=3D"Ice 011">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"Heading 1 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;
+	font-weight:normal;}
+h3
+	{mso-style-priority:9;
+	mso-style-link:"Heading 3 Char";
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;
+	font-weight:normal;}
+h4
+	{mso-style-priority:9;
+	mso-style-link:"Heading 4 Char";
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;
+	font-weight:normal;}
+h5
+	{mso-style-priority:9;
+	mso-style-link:"Heading 5 Char";
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;
+	font-weight:normal;}
+h6
+	{mso-style-priority:9;
+	mso-style-link:"Heading 6 Char";
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Verdana",sans-serif;
+	color:#003572;
+	font-weight:normal;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#1F86FF;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#005DC9;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Times New Roman",serif;
+	color:#244061;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 1";
+	font-family:"Verdana",sans-serif;
+	color:#003572;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 3";
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 4";
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 5";
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 6";
+	font-family:"Verdana",sans-serif;
+	color:#003572;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body bgcolor=3D"white" background=3D"cid:image001.gif@01D265B1.4A452D30" l=
+ang=3D"EN-US" link=3D"#1F86FF" vlink=3D"#005DC9">
+<img src=3D"cid:image001.gif@01D265B1.4A452D30" v:src=3D"cid:image001.gif@0=
+1D265B1.4A452D30" v:shapes=3D"_x0000_Mail" width=3D"0" height=3D"0" class=
+=3D"shape" style=3D"display:none;width:0;height:0"><!--[if gte mso 9]><xml>
+<v:background id=3D"_x0000_s1025" o:bwmode=3D"white" o:targetscreensize=3D"=
+1024,768">
+<v:fill src=3D"cid:image001.gif@01D265B1.4A452D30" o:title=3D"background_ic=
+e" type=3D"frame" />
+</v:background></xml><![endif]-->
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#244061">Please give me your update?<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#244061"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Times New Roman&quot;,serif;color:#222A35">Bruce R. Owens<o:p></o:p></span=
+></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#4472C4">Associate Broker<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#4472C4">Century 21 Signature<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#4472C4">Commercial Dept.<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#4472C4">409 Ashman St., Suite #3<o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif;color:#4472C4">Midland, MI 48640<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#0070C0"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#0070C0">989-205-2074 cellular<o:p></o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;color:#0070C0"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_--
+
+--_004_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_
+Content-Type: image/gif; name="image001.gif"
+Content-Description: image001.gif
+Content-Disposition: inline; filename="image001.gif"; size=70;
+	creation-date="Tue, 03 Jan 2017 16:05:33 GMT";
+	modification-date="Tue, 03 Jan 2017 16:05:33 GMT"
+Content-ID: <image001.gif@01D265B1.4A452D30>
+Content-Transfer-Encoding: base64
+
+R0lGODlhHwAfAIAAAP///wAAACH5BAAAAAAALAAAAAAfAB8AAAIdhI+py+0Po5y02ouz3rz7D4bi
+SJbmiabqyrbuOxUAOw==
+
+--_004_MWHPR03MB28775776A99289EEEB7D8C5B8E6E0MWHPR03MB2877namp_--
+

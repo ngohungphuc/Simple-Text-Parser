@@ -1,0 +1,66 @@
+Return-Path: <godcatcher999@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F06E84028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:08:05 -0500 (EST)
+Received: from mail-it0-f41.google.com ([209.85.214.41])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181102267_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:11:02 +0000
+X-RC-FROM: <godcatcher999@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f41.google.com with SMTP id c20so273920652itb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:10:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=mkuUOoHvUlqzOpmHJ5N/4h6Qf8UjiRkB0Z5LDbsGNGI=;
+        b=vRjcn5ujXAcWrGLzOfNTEAhzElcASWPI8GBhSqfARHtQHTZzqYTv2LncvQAT1iBQSg
+         Kg0JSioN5sOSwZ4gUCh+4SRiBJAaZB3jtN/iWOEkRDBnyrmDRgT84GNrqDeaBjsNuhFo
+         08FaUuYq4ocwr7HYtFoNpf78USQfjZxxomckV5yDI3otI8H0V35eIhuZckvVhFkteojP
+         gQL8GvcocWNkf/Y5yep2y1rHNVebPDPd1rt3Qe+SWDY4KZtTyu7X8IRUoT+EUqNfaeqO
+         X/A0B+VDzj9f8+yI1kRpsBmdsmw/vhlE3XLfz3zCJ8AB8MbeNittm+Lv5jlORlqhyED1
+         uDOQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=mkuUOoHvUlqzOpmHJ5N/4h6Qf8UjiRkB0Z5LDbsGNGI=;
+        b=Lg1Q9896La3SE8PoweUMbhQmQsF9u2IHpCiNuyknOfmS+xClVf/sr5j8GgMxwhXB77
+         HMziCXe5I9FipQoCxHsdSFzsopGJ5XrFcByKBIzFWK2OHGQ24Bdd7xXXnD2kcFy8Gph/
+         68YiMzZ/veSWjkxWCwC5S53cldbFHIZFsRM9IDEzwcRFm4B+hJjKYlxylv8QF3lJpCPA
+         EW+HlKBGmdjktPvHUk+8J5LH1wRn/GPeeY+jBYSB3JVTkyMkxYRD2FLQNJVaZb9ZodSz
+         dNXZCgdR3rxXyO/EDv+9c0b7DSUzJdkfQ4J+dDirxXaVz7I0DIHnIT2jBNu6K0KNL+E0
+         HdZw==
+X-Gm-Message-State: AIkVDXLgo0o33jGpRY7iXYtQ27fB3hF934+Xot7KUO3BJ5Fb5zVlahLO0oCo4Ow84eSSB60UJ74yVFJTG+BRLw==
+X-Received: by 10.36.118.211 with SMTP id z202mr51099064itb.65.1483380656678;
+ Mon, 02 Jan 2017 10:10:56 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.182.73 with HTTP; Mon, 2 Jan 2017 10:10:56 -0800 (PST)
+From: Robert Wright <godcatcher999@gmail.com>
+Date: Mon, 2 Jan 2017 10:10:56 -0800
+Message-ID: <CA+TOPAerLvEofBUwxTe9POxCwM6oDG+zAcmHm4bp8AgdTqwb2Q@mail.gmail.com>
+Subject: sad
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114412361baf4d05452079fd
+
+--001a114412361baf4d05452079fd
+Content-Type: text/plain; charset=UTF-8
+
+Robert Wright
+5794 pine flat loop rd
+cashmere  wa  98815
+
+godcatcher999@gmail.com
+
+--001a114412361baf4d05452079fd
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Robert Wright<div>5794 pine flat loop rd=C2=A0</div><div>c=
+ashmere =C2=A0wa =C2=A098815</div><div><br></div><div><a href=3D"mailto:god=
+catcher999@gmail.com">godcatcher999@gmail.com</a></div></div>
+
+--001a114412361baf4d05452079fd--
+

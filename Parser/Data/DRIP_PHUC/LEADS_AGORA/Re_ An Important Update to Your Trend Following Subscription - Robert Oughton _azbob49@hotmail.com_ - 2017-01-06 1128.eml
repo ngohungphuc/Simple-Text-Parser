@@ -1,0 +1,259 @@
+Return-Path: <azbob49@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id BC8364028F212
+	for <mcovel@trendfollowing.com>; Thu,  5 Jan 2017 23:25:12 -0500 (EST)
+Received: from COL004-OMC4S12.hotmail.com ([65.55.34.214])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170106042808605_0659
+          for <mcovel@trendfollowing.com>;
+          Fri, 06 Jan 2017 04:28:08 +0000
+X-RC-FROM: <azbob49@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com ([65.55.34.200]) by COL004-OMC4S12.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Thu, 5 Jan 2017 20:28:02 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=jKYx94AnnEcLuoNJcmutK4vmaho4CNaTMd3HtKNU6d8=;
+ b=LIfiKYURH8DGZC8ovLw8HT4s3x9fJhkAE2rQgtKsJrcjjWH3HWpgEuaRtYK+ZWz3wapX3VrH5NI+LgJQYzrw2+tBCEPSeD3zLWLDotm8xMIaTQxRmiEN9WHHlEAe3hgnjrSdEL1VxhsBm92hjQnWFCpCCKvWCIDg/E1svIlWeGW1YAv2/PukOmIu+4ycreNtVu6ZKli0G445SjA+17jmYDKSarng3Oq5ZMENigcE9uMToy6y5efaVOTZaWhrCzH5cWo3pL35czxIIWQI2G52FK206z6CEEsZyMRqIj3qNjXzigX5fYXyrQ8oiKnO5YhtBPOhoMG5MCjiOB9kpUwOOQ==
+Received: from SN1NAM02FT026.eop-nam02.prod.protection.outlook.com
+ (10.152.72.52) by SN1NAM02HT046.eop-nam02.prod.protection.outlook.com
+ (10.152.73.119) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Fri, 6 Jan
+ 2017 04:28:00 +0000
+Received: from MWHPR13MB1424.namprd13.prod.outlook.com (10.152.72.53) by
+ SN1NAM02FT026.mail.protection.outlook.com (10.152.72.97) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Fri, 6 Jan 2017 04:28:00 +0000
+Received: from MWHPR13MB1424.namprd13.prod.outlook.com ([10.175.139.141]) by
+ MWHPR13MB1424.namprd13.prod.outlook.com ([10.175.139.141]) with mapi id
+ 15.01.0829.007; Fri, 6 Jan 2017 04:28:00 +0000
+From: Robert Oughton <azbob49@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Re: An Important Update to Your Trend Following Subscription
+Thread-Topic: An Important Update to Your Trend Following Subscription
+Thread-Index: AQHSZR315eT4Ptz0Zki8YA0nTZ8zrKEq3bOu
+Date: Fri, 6 Jan 2017 04:28:00 +0000
+Message-ID: <MWHPR13MB14248CE8FF4A16DC5C7224F4B6630@MWHPR13MB1424.namprd13.prod.outlook.com>
+References: <6A.32.15326.64E8A685@mo-prod-mta2>
+In-Reply-To: <6A.32.15326.64E8A685@mo-prod-mta2>
+Accept-Language: en-US
+Content-Language: en-US
+X-Hashtags: #Newsletters
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:94E0402BB03ED3ED7712D445AA4DF7C56C47F843FFE05BC34C3FCAE1637C5F37;UpperCasedChecksum:63170DCB4C5EDE949AD541E6D35D2431085CF4A59E5C17EEC4E12409E1AB2BA3;SizeAsReceived:7639;Count:40
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [P0s1wYCjLA+L6JqP2Ulh24b4lvLhmjvB]
+x-incomingheadercount: 40
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;SN1NAM02HT046;7:2I7F8KuWHvk19DQnz2nFNpIVnz4fWUlnkQBPakBkBj2FEhe1etPk6gSXJSsmkSTv701YWwRYGGq4RptYSbFAU2bYzPy6lXqtoHzlNHVS723snS9a9NSyDBsraziGybfmXVkBIB7GrDxPIhjvtT2j9TxhOuOMMVK+X5vsVUiZlU3iNABsEUfNA5R+vqHA3ru2nnpROgYAEc55dS8+MABLsDQEk0f2F48rH850/UnbxRXbQG+cyI/KsR4vOBWxFLOEdNNx31nlxJ1sJW6UePFV6A2wO2ufQrghACZ2AjvwDO4hYocYytRKWm91bgTwly7gg7k4/IvcAbOA6K2ysqK2cy4EKDWXPGZuzAUvQOyuSuaaGPIVoFFe7Z8hy22NO5mDJRYtDrcDu1TQk6cfgmHuYkBb+HxXx/yuqAJ4zdRcuNjkXkMp3OobwOKd77482FENNxNDeuAwg11Mbr2trpCnXQ==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:SN1NAM02HT046;H:MWHPR13MB1424.namprd13.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 820de19d-693f-4ec2-ec0e-08d435ec6618
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:SN1NAM02HT046;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:SN1NAM02HT046;BCL:0;PCL:0;RULEID:;SRVR:SN1NAM02HT046;
+x-forefront-prvs: 01792087B6
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MWHPR13MB14248CE8FF4A16DC5C7224F4B6630MWHPR13MB1424namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Jan 2017 04:28:00.5494
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM02HT046
+X-OriginalArrivalTime: 06 Jan 2017 04:28:02.0326 (UTC) FILETIME=[4491B360:01D267D5]
+
+--_000_MWHPR13MB14248CE8FF4A16DC5C7224F4B6630MWHPR13MB1424namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Michael,  my name and full address:
+
+
+RJ Oughton
+
+PO Box 24644
+
+Tempe, AZ 85285
+
+
+
+azbob49@hotmail.com
+
+________________________________
+From: Trend Following <customerservice@agorafinancial.com>
+Sent: Monday, January 2, 2017 10:30 AM
+To: RJ OUGHTON
+Subject: An Important Update to Your Trend Following Subscription
+
+
+To thank you for your confidence in my work I would like to send you a spec=
+ial trend following investment paper that will provide great next steps as =
+well as securing your continued connection with me.
+
+Simply send me your name and full address by email and you will be set:
+
+mcovel@trendfollowing.com<mailto:mcovel@trendfollowing.com>
+
+If you have any trend following questions please feel free to reach me dire=
+ctly.
+
+Best,
+
+[Michael Covel]
+
+Michael
+
+
+
+
+
+
+--_000_MWHPR13MB14248CE8FF4A16DC5C7224F4B6630MWHPR13MB1424namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Michael, &nbsp;my name and full address:</p>
+<p><br>
+</p>
+<p>RJ Oughton</p>
+<p>PO Box 24644</p>
+<p>Tempe, AZ 85285</p>
+<div id=3D"Signature">
+<div>
+<p>&nbsp;</p>
+</div>
+</div>
+azbob49@hotmail.com<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Trend Following &lt;c=
+ustomerservice@agorafinancial.com&gt;<br>
+<b>Sent:</b> Monday, January 2, 2017 10:30 AM<br>
+<b>To:</b> RJ OUGHTON<br>
+<b>Subject:</b> An Important Update to Your Trend Following Subscription</f=
+ont>
+<div>&nbsp;</div>
+</div>
+<div>
+<table class=3D"body" bgcolor=3D"#222222" style=3D"border-spacing:0; border=
+-collapse:collapse; vertical-align:top; text-align:left; height:100%; width=
+:100%; color:#222222; font-family:'Helvetica','Arial',sans-serif; font-weig=
+ht:normal; line-height:24px; font-size:16px; background:#222222; margin:0; =
+padding:0">
+<tbody>
+<tr align=3D"left" style=3D"vertical-align:top; text-align:left; padding:0"=
+>
+<td class=3D"center" align=3D"center" valign=3D"top" style=3D"word-break:ke=
+ep-all; border-collapse:collapse!important; vertical-align:top; text-align:=
+center; color:#222222; font-family:'Helvetica','Arial',sans-serif; font-wei=
+ght:normal; line-height:24px; font-size:16px; margin:0; padding:0">
+<center style=3D"width:100%; min-width:580px">
+<table class=3D"container af-main-wrapper" bgcolor=3D"#ffffff" style=3D"bor=
+der-spacing:0; border-collapse:collapse; vertical-align:top; text-align:inh=
+erit; width:580px; background:#ffffff; margin:0 auto; padding:0; border:1px=
+ solid #333333">
+<tbody>
+<tr align=3D"left" style=3D"vertical-align:top; text-align:left; padding:0"=
+>
+<td align=3D"left" valign=3D"top" style=3D"word-break:keep-all; border-coll=
+apse:collapse!important; vertical-align:top; text-align:left; color:#222222=
+; font-family:'Helvetica','Arial',sans-serif; font-weight:normal; line-heig=
+ht:24px; font-size:16px; margin:0; padding:0">
+<table class=3D"rowz" style=3D"border-spacing:0; border-collapse:collapse; =
+vertical-align:top; text-align:left; width:100%; padding:0px">
+<tbody>
+<tr align=3D"left" style=3D"vertical-align:top; text-align:left; padding:0"=
+>
+<td class=3D"wrapper last" align=3D"left" valign=3D"top" style=3D"word-brea=
+k:keep-all; border-collapse:collapse!important; vertical-align:top; text-al=
+ign:left; color:#222222; font-family:'Helvetica','Arial',sans-serif; font-w=
+eight:normal; line-height:24px; font-size:16px; margin:0; padding:20px 0px =
+0px">
+<table class=3D"twelve columns" style=3D"border-spacing:0; border-collapse:=
+collapse; vertical-align:top; text-align:left; width:580px; margin:0 auto; =
+padding:0">
+<tbody>
+<tr align=3D"left" style=3D"vertical-align:top; text-align:left; padding:0"=
+>
+<td class=3D"text-pad" align=3D"left" valign=3D"top" style=3D"word-break:ke=
+ep-all; border-collapse:collapse!important; vertical-align:top; text-align:=
+left; color:#222222; font-family:'Helvetica','Arial',sans-serif; font-weigh=
+t:normal; line-height:24px; font-size:16px; margin:0; padding:0px 20px 10px=
+">
+<p style=3D"font-size:16px; line-height:24px; font-family:'Helvetica','Aria=
+l',sans-serif; margin:0 0 24px">
+<i><br>
+To thank you for your confidence in my work I would like to send you a spec=
+ial trend following investment paper that will provide great next steps as =
+well as securing your continued connection with me.<br>
+<br>
+Simply send me your name and full address by email and you will be set:<br>
+<br>
+<a href=3D"mailto:mcovel@trendfollowing.com" style=3D"color:#5E8BC6; text-d=
+ecoration:underline">mcovel@trendfollowing.com</a><br>
+<br>
+If you have any trend following questions please feel free to reach me dire=
+ctly.<br>
+<br>
+Best,</i></p>
+<p style=3D"font-size:16px; line-height:24px; font-family:'Helvetica','Aria=
+l',sans-serif; margin:0 0 24px">
+<img class=3D"align-none" alt=3D"Michael Covel" align=3D"none" style=3D"out=
+line: none; text-decoration: none; width: auto; max-width: 100%; float: non=
+e; clear: both; display: block; -webkit-user-select: none;" src=3D"http://d=
+uip7hn7nchpo.cloudfront.net/signature-michael-covel.jpg"></p>
+<p style=3D"font-size:16px; line-height:24px; font-family:'Helvetica','Aria=
+l',sans-serif; margin:0 0 24px">
+<i>Michael</i></p>
+</td>
+<td class=3D"expander" align=3D"left" valign=3D"top" style=3D"word-break:ke=
+ep-all; border-collapse:collapse!important; vertical-align:top; text-align:=
+left; visibility:hidden; width:0px; color:#222222; font-family:'Helvetica',=
+'Arial',sans-serif; font-weight:normal; line-height:24px; font-size:16px; m=
+argin:0; padding:0">
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_MWHPR13MB14248CE8FF4A16DC5C7224F4B6630MWHPR13MB1424namp_--
+

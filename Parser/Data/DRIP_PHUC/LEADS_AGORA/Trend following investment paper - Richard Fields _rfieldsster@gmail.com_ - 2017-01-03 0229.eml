@@ -1,0 +1,64 @@
+Return-Path: <rfieldsster@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E9C124028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:27:09 -0500 (EST)
+Received: from mail-io0-f178.google.com ([209.85.223.178])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102193005959_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:30:05 +0000
+X-RC-FROM: <rfieldsster@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f178.google.com with SMTP id p42so417646047ioo.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:30:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=wA68OzDqMXNZKVtVZvuZZu0yTfLtr9Zsjkbvhp2C0ZE=;
+        b=ZlTOteejh/64l4QzNTwP4bENOSF1Kh/v9rBNMMDe0tcECTn+J1OZLioKCP8kMfE3je
+         wbGtjCV3VWBqzzZ1PACm4RfpdpcYMOcEqt833IVVbbQzgfrV39fd31vXG29Rpj8Kafxc
+         TlGB/DKvqLJNxlDp6wgTph7vtgC0FCgazAwwl2nAuGO5ZdUEneqesDnLptfsWN+8knSP
+         sMj2FeGtbrgem7CpV5/WzbkwjNzKEbufqAWxpQKx2ckjoRDF/Js7CXBc9kK7uNHNTWAi
+         pXrGPYKTmylcNwu7TXx5hSPqb9kXpQEchhTQkdeOb2x72eOPkUf4O9RLFtOYuxe63L/J
+         PcXA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=wA68OzDqMXNZKVtVZvuZZu0yTfLtr9Zsjkbvhp2C0ZE=;
+        b=TFgfDXyEX7B7aP13HyG2xD9CSUPayyhd1SzkOZCbpH7vcdh95yxxr0h29wqaimxLE+
+         s6oFUlJ74xgYn9/WYeA8H5GsyfKd6MXgaZJ+P2hd3Twg+iS8SBabf7j3jIYUnMyPcVa5
+         m8U5Ophf4nmTMZAz5F12mqkYp2S2caRIv+T2YntvJXQNSeKv4VTzS+wtSM1lPmGaVRmL
+         EqPOO1wyCCGgwq5TiUv1qlIy7RIxfbsksH3nX1KAwk2yYi96Wbu7a2v0jgsEjmotd+XM
+         ejXVuK++drE1o+4qaEEltN0CUAVcjejnRRo7IVZMBEapu6YImc683j0cRGUS+f/QBOH/
+         o+gA==
+X-Gm-Message-State: AIkVDXLo4TJLlxDkFd/ZFDPDd19TN5cAaPUe20r0py/vsM42NybMNsJ/Pjj16WprTWDUtY+bloYd82jSRsVxpQ==
+X-Received: by 10.107.154.206 with SMTP id c197mr47300770ioe.97.1483385392012;
+ Mon, 02 Jan 2017 11:29:52 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.25.136 with HTTP; Mon, 2 Jan 2017 11:29:11 -0800 (PST)
+From: Richard Fields <rfieldsster@gmail.com>
+Date: Mon, 2 Jan 2017 11:29:11 -0800
+Message-ID: <CAPbz-1D3t_aFyM124CdO6hajkZayRdYoGpuN8PPehkQNd_xQ=g@mail.gmail.com>
+Subject: Trend following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1140fadc5b225505452193c0
+
+--001a1140fadc5b225505452193c0
+Content-Type: text/plain; charset=UTF-8
+
+-- 
+Richard Fields
+W 916-503-9018
+C 916-801-6989
+H 530-753-7112
+
+--001a1140fadc5b225505452193c0
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br clear="all"><div><br></div>-- <br><div class="gmail_signature" data-smartmail="gmail_signature">Richard Fields<br>W 916-503-9018<br>C 916-801-6989<br>H 530-753-7112</div>
+</div>
+
+--001a1140fadc5b225505452193c0--
+

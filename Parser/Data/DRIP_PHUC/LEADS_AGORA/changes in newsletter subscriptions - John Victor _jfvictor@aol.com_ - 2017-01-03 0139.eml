@@ -1,0 +1,50 @@
+Return-Path: <jfvictor@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 24C3E4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:36:23 -0500 (EST)
+Received: from omr-a001e.mx.aol.com ([204.29.186.53])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102183920531_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:39:20 +0000
+X-RC-FROM: <jfvictor@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaout-mac02.mx.aol.com (mtaout-mac02.mx.aol.com [172.26.222.206])
+	by omr-a001e.mx.aol.com (Outbound Mail Relay) with ESMTP id 3E44B38000A7
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:39:19 -0500 (EST)
+Received: from [10.0.0.10] (unknown [75.70.126.58])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-mac02.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id E77E93800008F
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:39:18 -0500 (EST)
+From: John Victor <jfvictor@aol.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: changes in newsletter subscriptions
+Message-Id: <C973FE25-3985-49D2-9FB6-BA17148D31D4@aol.com>
+Date: Mon, 2 Jan 2017 11:39:16 -0700
+To: Michael Covel <mcovel@trendfollowing.com>
+X-Mailer: Apple Mail (2.3259)
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483382359;
+	bh=kvbrCjo5buBUpVojKi9NOCQw5ixHdr7BWDioLBSyjNo=;
+	h=From:To:Subject:Message-Id:Date:Mime-Version:Content-Type;
+	b=40n0T1ny9rEuSVDsz/pyiF6SVpLWzDz4f2PeETt+J88UVJhuykFU/9bf4TJILrD55
+	 lXKOfZJhuVl1Y+adBJYDCWZu+ZAPIwNthg9irZAaDtW/YoweG2a24CfoA5YCAaEoDZ
+	 x+Z5e6froznym8/uNwqaZT3aroNrJkWBZogasoxc=
+x-aol-sid: 3039ac1adece586a9e565660
+X-AOL-IP: 75.70.126.58
+
+Hi Michael,
+     Just got the news about the changes in your situation with the =
+newsletter that you were involved with. I was not sure of your status =
+regarding your regular Trend Following newsletter, or the updated Trend =
+Following book that you were working on. Please let us know what is =
+happening.
+
+John Victor=
+

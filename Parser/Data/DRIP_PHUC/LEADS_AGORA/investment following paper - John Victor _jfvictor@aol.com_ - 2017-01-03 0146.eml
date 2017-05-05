@@ -1,0 +1,67 @@
+Return-Path: <jfvictor@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 18C994028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:43:41 -0500 (EST)
+Received: from omr-a008e.mx.aol.com ([204.29.186.51])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102184638334_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:46:38 +0000
+X-RC-FROM: <jfvictor@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaout-aae02.mx.aol.com (mtaout-aae02.mx.aol.com [172.27.1.98])
+	by omr-a008e.mx.aol.com (Outbound Mail Relay) with ESMTP id AC5F93800099
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:46:37 -0500 (EST)
+Received: from [10.0.0.10] (unknown [75.70.126.58])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-aae02.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id 30E6B38000081
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:46:37 -0500 (EST)
+From: John Victor <jfvictor@aol.com>
+Content-Type: multipart/alternative;
+ boundary="Apple-Mail=_E81E9BFD-B57E-4F17-B3B2-562280FBDFCB"
+Mime-Version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: investment following paper
+Message-Id: <0EAC8470-FE4D-4BD0-91B4-40602225BB7B@aol.com>
+Date: Mon, 2 Jan 2017 11:46:35 -0700
+To: Michael Covel <mcovel@trendfollowing.com>
+X-Mailer: Apple Mail (2.3259)
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483382797;
+	bh=2fNMyL47zB1Yn9B+leJ32c+xyskgtAYFLsO7snTD3A8=;
+	h=From:To:Subject:Message-Id:Date:Mime-Version:Content-Type;
+	b=bTsgiMKgiLhbBC5U4h7XfIArrk6JmrNnVktp6xk0PmxVpH1QBCFhhbw8BsZgow3Xh
+	 4dSLyGNfgpj0V8Pjoc6ZE+iNFVR8F+eCLHVvmS6wtIRVZhnxEd995VMUSSQJYacqqV
+	 l1xYjAv5+kWUVBH1r7i13Z6NlAEdEd1K3dqVlFhM=
+x-aol-sid: 3039ac1b0162586aa00d379c
+X-AOL-IP: 75.70.126.58
+
+
+--Apple-Mail=_E81E9BFD-B57E-4F17-B3B2-562280FBDFCB
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+Yes, I do wish to continue following your work. My email address is=20
+
+jfvictor@aol.com <mailto:jfvictor@aol.com>.
+
+Also I had recently sent a email to you regarding the Trend Following =
+newsletter, before I saw your announcement regarding that newsletter. =
+Please disregard that, other than the inquiry about the book that you =
+are working on.
+
+Regards
+John Victor=
+
+--Apple-Mail=_E81E9BFD-B57E-4F17-B3B2-562280FBDFCB
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv="Content-Type" content="text/html charset=us-ascii"></head><body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" class="">Yes, I do wish to continue following your work. My email address is&nbsp;<div class=""><br class=""></div><div class=""><a href="mailto:jfvictor@aol.com" class="">jfvictor@aol.com</a>.</div><div class=""><br class=""></div><div class="">Also I had recently sent a email to you regarding the Trend Following newsletter, before I saw your announcement regarding that newsletter. Please disregard that, other than the inquiry about the book that you are working on.</div><div class=""><br class=""></div><div class="">Regards</div><div class="">John Victor</div></body></html>
+--Apple-Mail=_E81E9BFD-B57E-4F17-B3B2-562280FBDFCB--
+

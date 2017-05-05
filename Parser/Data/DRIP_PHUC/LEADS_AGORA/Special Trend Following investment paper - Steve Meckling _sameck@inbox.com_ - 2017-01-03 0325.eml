@@ -1,0 +1,72 @@
+Return-Path: <sameck@inbox.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id ECE194028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:23:26 -0500 (EST)
+Received: from WM44.inbox.com ([64.135.83.44])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with SMTP id 20170102202607111_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:26:07 +0000
+X-RC-FROM: <sameck@inbox.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from inbox.com (127.0.0.1:25)
+	by inbox.com with [InBox.Com SMTP Server]
+	id <1701021226004.WM44> for <mcovel@trendfollowing.com> from <sameck@inbox.com>;
+	Mon, 2 Jan 2017 12:26:02 -0800
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+ d=inbox.com; s=s1;
+ h=mime-version:content-type:subject:from:date:to:message-id;
+ b=IscK2JSqfqyYKS3KEXdHOKvIqqL9m+7HFenZA7KUGys231qtNQG+d3zN5eEUrvgdui7K
+ tcuS4xJ8z25/yDLGSolyRjJ+g6zH9KmaikD41/y3ONWM/SPZpt1dBok6WFE+I+XqBU7j/h
+ I6z23o7LYnM/iDdscRBkQ3He1EsRm65oI=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt;
+ d=inbox.com; s=s1;
+ h=mime-version:date:message-id:subject:from:to:content-type;
+ bh=gRk3iff5x8If3FT5+DZzO27cZJXS86mRL4Bj7yj3QKk=;
+ b=tgStBmzFzpKWnkEnB1xNCJ6Kl2VeSTYb/zE8AM6wQMzsZMJ0RMlopbD+eQflcy4yyIda
+ XVWEAdvD+Sl22Ixw182AkGzxRRQk9UPAFzd60MrYvZaeeSmUC7w75lPlB279atONvYcKxq
+ 87PxOAonwt8y8Twkp/o+s/egEWb93BSF8=
+Received: from sameck@inbox.com by (127.0.0.1:587) via WM44.inbox.com
+  (107.77.172.45:59711) with [InBox.Com SMTP Server] id 1701021226001.WM55;
+  Mon, 2 Jan 2017 12:26:02 -0800
+User-Agent: Type for Android
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----P8S2BPZI135EHZIVQOI26ZLHSS3CHO"
+Content-Transfer-Encoding: 7bit
+Subject: Special Trend Following investment paper
+From: Steve Meckling <sameck@inbox.com>
+Date: Mon, 02 Jan 2017 15:25:58 -0500
+To: mcovel@trendfollowing.com
+Message-ID: <f1f21b4d-e532-44e3-ac1f-59dcf38c2297@typeapp.com>
+X-IWM-ACU: jmoofKTUye3cDLFsd2tKzcQPGnGgaMMg4XwjCAq5CpbQmVB4XgG5yr7CFKjx
+  3aRHX_ZLGk5idGdLJ1YtC3Wba_Slr-4apomodjMz_mwLx9Wmj-LIKxiEA71D
+  UWA8G4nt_rynvXma0L_UtiiBNz3iLKw@@
+
+------P8S2BPZI135EHZIVQOI26ZLHSS3CHO
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E2=81=A3Steve Meckling
+sameck@inbox=2Ecom 
+
+Sent from BlueMail =E2=80=8B
+------P8S2BPZI135EHZIVQOI26ZLHSS3CHO
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div><!-- tmjah_g_1299s -->Steve Meckling<!-- tmjah_g_1299e --><br><!-- tmj=
+ah_g_1299s -->sameck@inbox=2Ecom <!-- tmjah_g_1299e --><br><br></div>
+<div>=
+<!-- tmjah_g_1299s -->Sent from <!-- tmjah_g_1299e --><a href=3D"http://www=
+=2Ebluemail=2Eme/r"><!-- tmjah_g_1299s -->BlueMail<!-- tmjah_g_1299e --></a=
+><!-- tmjah_g_1299s --> <!-- tmjah_g_1299e --></div>
+
+------P8S2BPZI135EHZIVQOI26ZLHSS3CHO--
+
+
+
+

@@ -1,0 +1,55 @@
+Return-Path: <fmil3010@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CCAF24028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 06:28:35 -0500 (EST)
+Received: from omr-a018e.mx.aol.com ([204.29.186.64])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103113130976_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 11:31:30 +0000
+X-RC-FROM: <fmil3010@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaout-aaj02.mx.aol.com (mtaout-aaj02.mx.aol.com [172.27.3.206])
+	by omr-a018e.mx.aol.com (Outbound Mail Relay) with ESMTP id A262738000B8
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 06:31:24 -0500 (EST)
+Received: from [192.168.1.200] (unknown [47.200.113.162])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-aaj02.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id 658F638000085
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 06:31:24 -0500 (EST)
+Subject: Email
+From: Frank Militello <fmil3010@aol.com>
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPad Mail (13G36)
+Message-Id: <5FE56A83-986C-413A-B756-6806F071F5C9@aol.com>
+Date: Tue, 3 Jan 2017 06:31:23 -0500
+To: mcovel@trendfollowing.com
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483443084;
+	bh=OWs1Ey5Ew3x2eUefd+RrsTQYfE2DV6Xc7Jim5e7Nq4U=;
+	h=From:To:Subject:Message-Id:Date:Mime-Version:Content-Type;
+	b=G6+KIjpQyxWr6MP31g089vh6sqn1l1PX5Y/h2SvCanacHF3I8vQtSMQ/DvfODaHv/
+	 YH0cPYhbJrbGb6rHrNj2+dqbhiEPHZlngUzawrzK0uOss4nwkR0U5jXWG3DjG5j55Y
+	 X5MZxLYdjseYuMaxXw7wW2Whn0giZyeswIrVgMzw=
+x-aol-sid: 3039ac1b03ce586b8b8c7b1d
+X-AOL-IP: 47.200.113.162
+
+Here is my name and email address.
+
+Best Regards,
+
+Frank
+
+Frank Militello
+
+
+Sent via iPad 
+
+
+

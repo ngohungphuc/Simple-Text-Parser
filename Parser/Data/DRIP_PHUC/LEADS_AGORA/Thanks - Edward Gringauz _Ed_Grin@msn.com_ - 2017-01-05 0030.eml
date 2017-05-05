@@ -1,0 +1,119 @@
+Return-Path: <ed_grin@msn.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 5C6B04028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 12:27:36 -0500 (EST)
+Received: from COL004-OMC1S9.hotmail.com ([65.55.34.19])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170104173032256_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 17:30:32 +0000
+X-RC-FROM: <ed_grin@msn.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM03-BY2-obe.outbound.protection.outlook.com ([65.55.34.9]) by COL004-OMC1S9.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Wed, 4 Jan 2017 09:30:25 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=msn.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=k1nnYB9wK/LAwbx0Kius8rvpUEOsleoUJ9PGdLbeSY0=;
+ b=WqkU8rXSCcpLdTgQxJNtv/lA7BQVUq8J4wtlXNg6Lku5Zc0FDz3amny5GbwiA/oWjTbYeeTQNxXPMPmARG2GP7wk5jEKDnVQZNSTX+BICP8+LmPVpNCk/6O9BPVJZ/scHDH0r8DteJ+/90QVsKcLg7YS5VjLPd2QJKOyrkhSKX5QvFBkxhXQP53WCKZhtr127TeyWrFiPhCbYPwGQR5vZaTINE5iGpIJOVHy5eXY5j0280bfu5JgmQlR/D4nXAJUMdkEEVsgjqG7xdQ0v7oDZq2xqZTXBjVEsPsXpoHR9fbK2I2oxsX4r0kYsfjmOC4kSljN5Sl2k/FefKLfKr9OKg==
+Received: from CO1NAM03FT021.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.55) by CO1NAM03HT108.eop-NAM03.prod.protection.outlook.com
+ (10.152.81.10) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Wed, 4 Jan
+ 2017 17:30:24 +0000
+Received: from CY4PR06MB2920.namprd06.prod.outlook.com (10.152.80.52) by
+ CO1NAM03FT021.mail.protection.outlook.com (10.152.80.180) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Wed, 4 Jan 2017 17:30:24 +0000
+Received: from CY4PR06MB2920.namprd06.prod.outlook.com ([10.175.118.149]) by
+ CY4PR06MB2920.namprd06.prod.outlook.com ([10.175.118.149]) with mapi id
+ 15.01.0817.009; Wed, 4 Jan 2017 17:30:24 +0000
+From: Edward Gringauz <Ed_Grin@msn.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Thanks
+Thread-Topic: Thanks
+Thread-Index: AQHSZq/exiG1gRcuLEKegfKSqcffuQ==
+Date: Wed, 4 Jan 2017 17:30:24 +0000
+Message-ID: <CY4PR06MB2920E8024D60A1E77CC49DF189610@CY4PR06MB2920.namprd06.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none header.from=msn.com;
+x-incomingtopheadermarker: OriginalChecksum:2AB80E69629D8E220919B1A887DA3B4491142338729D59B7B21AB0C54135D91A;UpperCasedChecksum:3DD035CEC231B295BB353671539622417FD0E5A0DCAFA540C747ACAE7170CEDC;SizeAsReceived:7130;Count:36
+x-tmn: [EpIp8RCWtaYLt+4kC1OCOW/ddSSw0irs]
+x-incomingheadercount: 36
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;CO1NAM03HT108;7:W1/k/iA6Csf3X7EzWViy/b/fg5WRgaspcXi4heNLFn6EteuWe3wCzjc6CWCLWjqL+1j+BkqPoV83Mhmq/NPylnUQahitf9lEpUhAVBwHi3QG2YfBfhELZyPO0lDV4S5wT3JbvbYSgGhl4jbIzWjrD7bMZ+FNM8xl6rRVFbymn8hifE9nOvyzYqhE5X3K4HW/O2+Ln1vOQLsdLIu+P2Buzfofvplvz4JPiUH83tO3HklJDcTW9jyuNPy+kwMVattrXoN3z2Mm7B+xvXKfvQ4Uyi//1VZC3NFzMbaudyH//CeZZzfVXrxwD1NPHMVc7ZkJ27HV8rxN++deBx4JCgdQGVAQhgq3ICC+vtl/42nQzhUhO5cG3vIiQwVUi6DUGGvQo8NkRGEyye01zycEdj6wsp5F7zcdbhjNkNswY5fSKNe9fInrhTntMSJWvLkltC02dsCZ+mnUnkpNKQuzz4CWTg==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:CO1NAM03HT108;H:CY4PR06MB2920.namprd06.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 1393bbfb-072a-429e-aeef-08d434c75df3
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:CO1NAM03HT108;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:CO1NAM03HT108;BCL:0;PCL:0;RULEID:;SRVR:CO1NAM03HT108;
+x-forefront-prvs: 0177904E6B
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY4PR06MB2920E8024D60A1E77CC49DF189610CY4PR06MB2920namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 Jan 2017 17:30:24.3218
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM03HT108
+X-OriginalArrivalTime: 04 Jan 2017 17:30:25.0999 (UTC) FILETIME=[3C5A3DF0:01D266B0]
+
+--_000_CY4PR06MB2920E8024D60A1E77CC49DF189610CY4PR06MB2920namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Michael,
+
+Thanks for your offer to be in contact with you.
+
+
+My info:
+
+Edward Gringauz
+
+230 Garth Rd,. Apt 3B1
+
+Scarsdale, NY 10583
+
+
+Happy New Year to you and your family.
+
+--_000_CY4PR06MB2920E8024D60A1E77CC49DF189610CY4PR06MB2920namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Hi Michael,</p>
+<p>Thanks for your offer to be in contact with you.</p>
+<p><br>
+</p>
+<p>My info:</p>
+<p>Edward Gringauz</p>
+<p>230 Garth Rd,. Apt 3B1</p>
+<p>Scarsdale, NY 10583</p>
+<p><br>
+</p>
+<p>Happy New Year to you and your family.<br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_CY4PR06MB2920E8024D60A1E77CC49DF189610CY4PR06MB2920namp_--
+

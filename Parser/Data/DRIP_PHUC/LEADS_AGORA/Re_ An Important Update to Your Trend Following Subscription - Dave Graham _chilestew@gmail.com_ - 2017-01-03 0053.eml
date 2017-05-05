@@ -1,0 +1,120 @@
+Return-Path: <chilestew@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 945AB4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:50:35 -0500 (EST)
+Received: from mail-pg0-f52.google.com ([74.125.83.52])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102175330534_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:53:30 +0000
+X-RC-FROM: <chilestew@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-pg0-f52.google.com with SMTP id i5so140905644pgh.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:53:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:subject:message-id:date:user-agent:mime-version;
+        bh=Xm3mGEF+Xbcd8DItXP4BpO5gT558x4WfytsOdeFPpCI=;
+        b=FNFMx2Kl2zBKAQs2Q/5uInue3eH79VhM8ruB6mtoDMmyeofcjaI+hqLcBYC4u1PH/h
+         QX7dv2BW/4UaIVoEFqHLHkUYvk8vXT4UOKthd7BDV2/f2/iIRzGgGFfNHMbpCBpLI3mX
+         q+dSRyQcQSyVu/sxmnx4quHnVkxoKR2ZewC9/C6ByhpO8VlgY59ZNsrq58u6+9oAq9IT
+         pz3wS0V0pvG+zJchqveRu8DAdNzza3ZrYOuqTsCbMFV2G7blzkIlSHIayE3dsMKxkcNY
+         yr891gi104sLllYFP7UdvBDpswEGx7rVizoa6zYOyhu90ZjM/eOgCism28g9YMfaoc1T
+         FeGQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:subject:message-id:date:user-agent
+         :mime-version;
+        bh=Xm3mGEF+Xbcd8DItXP4BpO5gT558x4WfytsOdeFPpCI=;
+        b=UUWgz3WjHoiEn2dTIy8Qxn3dSfLc6QGXU7SceHiC5t9Gq90AhX2ySzeFKYEerqCL8q
+         1FGyeqlHzLuTW42EVTiqLiKtcA8iB/A+HLUR/hrL0AYT4HMljypQzxuKdp17dDj94Pix
+         a+MeeOxbzDUuoL1AXk3khxKifdcyYtbZSCX5rV4x19XGiNz+CC0Lx2cQ5EKbeYJX+kOi
+         uhw5hyT9V7cJL6kjr8Hgze/yxEgjWvwQPffaAmaZFrkpLxFnSD+cBYdgH1WFXDpP2qXJ
+         lV/bxaaYWNzYWMlgtNbRaHNsL1EoJPI+LeqTheKFCdDSnZHxzsqsLZiuh0r+G8Gf0TIh
+         IHxQ==
+X-Gm-Message-State: AIkVDXIU1YXG0qW9nZW/21bfkWpOgBs0AVb5EwX4xF9FW96FNDQTRv60qX5UrsGMmlg7nA==
+X-Received: by 10.99.104.133 with SMTP id d127mr69922766pgc.52.1483379604136;
+        Mon, 02 Jan 2017 09:53:24 -0800 (PST)
+Received: from [192.168.1.2] ([174.33.153.80])
+        by smtp.gmail.com with ESMTPSA id y6sm134846426pge.16.2017.01.02.09.53.17
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 09:53:23 -0800 (PST)
+To: mcovel@trendfollowing.com
+From: Dave Graham <chilestew@gmail.com>
+Subject: Re: An Important Update to Your Trend Following Subscription
+Message-ID: <68e26e04-bae0-7ea4-e878-3110c7b7ad36@gmail.com>
+Date: Mon, 2 Jan 2017 10:53:06 -0700
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.1.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------04085A1067EC7565D79237A4"
+
+This is a multi-part message in MIME format.
+--------------04085A1067EC7565D79237A4
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hi Michael,
+
+I've enjoyed your services, writings, advice, webinars, and podcasts, 
+andam sorry to hear that Trend Followingis being discontinued.
+
+Here's my addressfor the trend following investmentpaper you offered:
+
+Dave Graham
+396 Victorio Loop
+Magdalena, NM 87825
+chilestew@gmail.com
+
+Thanks, and all the best!
+Dave
+
+--------------04085A1067EC7565D79237A4
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body bgcolor="#FFFFFF" text="#663300">
+    <font face="Verdana">Hi Michael,<br>
+      <br>
+      <font face="Verdana">I've e<font face="Verdana">njoyed your
+          services, writings, advi<font face="Verdana">ce, webinars, and
+            podcasts,</font> and<font face="Verdana"> am sorry to <font
+              face="Verdana">hear <font face="Verdana">that <font
+                  face="Verdana"><font face="Verdana">Trend Following<font
+                      face="Verdana"> is being discontinued.<br>
+                      <br>
+                      <font face="Verdana">Here's my <font
+                          face="Verdana">address<font face="Verdana">
+                            for the trend following invest<font
+                              face="Verdana">ment<font face="Verdana">
+                                pap<font face="Verdana">er you offered:<br>
+                                  <br>
+                                  <font face="Verdana">Dave G<font
+                                      face="Verdana">raham<br>
+                                      <font face="Verdana">396 Victorio
+                                        Loop<br>
+                                        <font face="Verdana">Magdalena,
+                                          NM 87825<br>
+                                          <font face="Verdana">chilestew<font
+                                              face="Verdana">@gmail.com<br>
+                                              <br>
+                                              <font face="Verdana">Thanks,
+                                                and <font
+                                                  face="Verdana">all the
+                                                  best!<br>
+                                                  <font face="Verdana">Dave</font><br>
+                                                </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>
+  </body>
+</html>
+
+--------------04085A1067EC7565D79237A4--
+

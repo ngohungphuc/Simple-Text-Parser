@@ -1,0 +1,49 @@
+Return-Path: <radler0747@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 01F744028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:15:54 -0500 (EST)
+Received: from nm2-vm6.bullet.mail.gq1.yahoo.com ([98.136.218.133])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102191851027_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:18:51 +0000
+X-RC-FROM: <radler0747@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483384725; bh=1XoBFvxQmr61fa60NLXjZEg8JN3/WsK/LZ9MA0GCIVw=; h=From:Subject:Date:To:From:Subject; b=t+pwPJ7FlEDDNemYaggw1y0v892CqNq2we8wUYOTB8WKlB03dZ+w+m9ZW+Zfd/I4dHLq0cKwKB3UI9b2hDPR4hVqt2Eg2kq+A4LSSxQNwm6RcqNTvu7Fn6hzY8rHZZswjsL5HuoqEqJUkN4ZPPXICOzQcye6nI8NgStjXtvp/z/9MVObcEmSp+95zUxjcs3pnrkNtEW+k8VleOrDyK+Ga/undqpX94768tl+5+DlgOP1+tWcfM9AEBCDIVqtuYSQkdIqYul2Bkz32dr7Az7KNqcONGW3IHgc+DeYifFnjfI0azzPKOXZww0VYbQKBLQain7ZeM6pSpqWMEsGz5LxQw==
+Received: from [98.137.12.175] by nm2.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 19:18:45 -0000
+Received: from [208.71.42.206] by tm14.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 19:18:45 -0000
+Received: from [127.0.0.1] by smtp217.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 19:18:45 -0000
+X-Yahoo-Newman-Id: 159440.51654.bm@smtp217.mail.gq1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 2zVnD3MVM1lsEOAkumJr4SDfpcIiONud2Jorw7av34_OBMh
+ VVjlQWZkCVIfXmKAZd.nMvIgq25h9zTjWEE.hoFPcB4_2ioRviDoAygPSnH8
+ mZefBQ985ap4WjgFhATCaVpS4ajrcRbpMu115hL0SDF_pil1vJsWgmDqnxv8
+ JH3JpaZcqVaBbLsrgi9pYzZv5EduJm97d_fAp8hKJEJS.ZSuxjSHAdFbY2Nq
+ FClE0ygXSbYZgoOFHBu7THOqCjK1Cs4ohCDBLFKPCbhhU6HAa4yQCzcnpni1
+ nxVRQqDIpH9pruu411xND0WZnvjmwscXFzIOCwLcYzzT7W9sqzdkTFd8qC7h
+ ODJXAgIRYL6O_WW4S2kPdZQxmW_QjfNmBhHVDJHMnWJloCP0mBuk4c.huhtR
+ DUWt.qJfgYimwgJyKcfo1N0KwSa0a3OWV_vVio4Xex7zoOgtvok6JfNsduJn
+ JeBaAj0Zq2OZI7G.hye6oapiFfVLCOM9bsRs2qjgY3VChhboXei.idaoBWoR
+ lblyAn8.hUWrqlfsU_UGvINL.1o7C96Sov9KkQgmhmhOu91t5HC7G4mEA_8e
+ Ytcu7
+X-Yahoo-SMTP: joA_QVSswBCjDwKb64WjFNcTRI1jqFY-
+From: Rudy Adler <radler0747@yahoo.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: E-Mail Request
+Message-Id: <580307C2-4AF7-4F36-B128-49EFA48A1A39@yahoo.com>
+Date: Mon, 2 Jan 2017 11:18:39 -0800
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 9.3 \(3124\))
+X-Mailer: Apple Mail (2.3124)
+
+Hello Michael,
+
+Thank you for keeping me on your e-mail list.
+
+Happy New Year to you!
+
+Rudy
+

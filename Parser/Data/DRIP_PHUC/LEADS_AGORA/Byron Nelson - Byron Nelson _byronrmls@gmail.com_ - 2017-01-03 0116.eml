@@ -1,0 +1,66 @@
+Return-Path: <byronrmls@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 96CF24028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:13:53 -0500 (EST)
+Received: from mail-wj0-f177.google.com ([209.85.210.177])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181648450_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:16:48 +0000
+X-RC-FROM: <byronrmls@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wj0-f177.google.com with SMTP id tq7so192412158wjb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:16:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=c5cr/U+J/A7vxIlR/EAGPjhoOseNvdePKCzjJr5Embs=;
+        b=eqpeXl1sZWzmd8oXVCQOvUAkHy9BbDoDCES2JlRqPQMBl59YFvzJ0juL1z/iZlmV08
+         hE5jikQdxT/oUb9eG/fymKrOtbhn3jY6g0xTbb7ox/7F0pRlTsYuHQKcg2Qn20diyEfy
+         GFhFxoMycCwJT9EiDRvpcnkZF/29ku9yoNZHA71ZmcLC6fYhlrdfKdbxA7LQJCUckePh
+         3IWzPfHrQwWz8WznkknA9TWwg7IZdgFSy9Zppf2uQPFwH4kSNLpYN8U0liEpndQY7Q0p
+         j0GlQZZnpaAv0GZy6MHOm8PvCG93VRwBG/sBkp1bKnHmDfb2XfjAMTQRr1bZ0UGWgzPP
+         SjHA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=c5cr/U+J/A7vxIlR/EAGPjhoOseNvdePKCzjJr5Embs=;
+        b=QQcJb0PoEzujQCkECHB0QdGc7NtCfZV2fTkyJRsTww0JKtD5TggptNNCzvqoXpKCv8
+         0Wn4lcuNkKMtt7GOcAbcTYGak/Zb3T8E8G8XbkwVf1QQZ+E1HhZlsAeKEtelmf8kM+WJ
+         8FmBBc3UWbFiJJJKDOj/UaZ/1DXfJKjuCWCAff4UVx6XyU1uPLa5i+Fi2YON/TMXpFQD
+         5Fn1nVUsqIz0zxGxTeLh1DqM9U2TxxzshlPlxg0yUYHpeqtbZkEagh4cNywy9fZGLHOC
+         3jcOJYPt/mVV0k5JqWw3ujNtdMBmNEbHUztO3Qme84woPvlx6dhIjDaK2A0wEc5XPWD6
+         a/kw==
+X-Gm-Message-State: AIkVDXLAAXEsh8fdgzZ1NyeIlQzniZ+54QEYpvBbT72bxEqz0jNziUiHIkaiFC+5ErlOKP/npNjWLStvka7Ctg==
+X-Received: by 10.194.148.4 with SMTP id to4mr50772491wjb.194.1483380988568;
+ Mon, 02 Jan 2017 10:16:28 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.80.151.217 with HTTP; Mon, 2 Jan 2017 10:16:28 -0800 (PST)
+From: Byron Nelson <byronrmls@gmail.com>
+Date: Mon, 2 Jan 2017 12:16:28 -0600
+Message-ID: <CAMoyvR7TK_07eKk=GFRRz7bBCmYrVW9oQ=cbm+sjYxfAZ2sF_g@mail.gmail.com>
+Subject: Byron Nelson
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=089e0118454ce3ef690545208c57
+
+--089e0118454ce3ef690545208c57
+Content-Type: text/plain; charset=UTF-8
+
+Byron Nelson
+406 11th Street, Box 93
+Carrizozo, NM
+88301
+byronrmls@gmail.com
+
+Thank you,
+Byron
+
+--089e0118454ce3ef690545208c57
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Byron Nelson<div>406 11th Street, Box 93</div><div>Carrizozo, NM</div><div>88301</div><div><a href="mailto:byronrmls@gmail.com">byronrmls@gmail.com</a></div><div><br></div><div>Thank you,</div><div>Byron</div></div>
+
+--089e0118454ce3ef690545208c57--
+

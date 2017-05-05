@@ -1,0 +1,63 @@
+Return-Path: <nitabarr@embarqmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 89DF14028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 23:56:41 -0500 (EST)
+Received: from smtp.centurylink.net ([205.219.233.9])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103045937316_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 04:59:37 +0000
+X-RC-FROM: <nitabarr@embarqmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=embarqmail.com; s=ctl201402; c=relaxed/simple;
+	q=dns/txt; i=@embarqmail.com; t=1483419571;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=Ny9H75gDEXRyhXThZYrXl9faA+g=;
+	b=hPKatZHb0haVafbZbg5XVy/mHgoQlQFZQiRh0Uq1oxpd76OKakxAalFnbFfdNih5
+	J3oOH+VUiedRZO6JPeJvTQI7nKbT90nD0G7P/kOE+HPdaUvM80tutCieAEjzxvsW
+	b4Xcpk2K9IYYkWP1nbKfuoo33BUk1Ke9jKj/w790+A5rnkBsIBw9g8K0elKclHcr
+	ttFx6vfDRsKWobOAh/irqu4rI8tpDhe17gn04RmzITnAUnf59feAJ2fVTBijn5Kn
+	wbwYdd2EWa1GDLEZ2BSdZPr0e4gUK5hhBhX7fTP+bwydW5cRWNEZ1A0+UbSrYNe+
+	KB5pERC2AnTO0Qxhe/P3yg==;
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=DsgUwy3+ c=1 sm=1 tr=0 a=GHVA216vFUxr+KuPzvd+WA==:117 a=GHVA216vFUxr+KuPzvd+WA==:17 a=IkcTkHD0fZMA:10 a=_6GpL_ENAAAA:8 a=yFQgZzN4Zwe6Emhhk30A:9 a=QEXdDO2ut3YA:10 a=xupg4knwUDYA:10 a=HPItUfg3-W5T9FFxMdBG:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: bml0YWJhcnJAZW1iYXJxbWFpbC5jb20=
+Authentication-Results:  smtp02.agate.dfw.synacor.com smtp.user=nitabarr; auth=pass (LOGIN)
+Received: from [71.48.181.84] ([71.48.181.84:55745] helo=[127.0.0.1])
+	by smtp.centurylink.net (envelope-from <nitabarr@embarqmail.com>)
+	(ecelerity 3.5.1.37854 r(Momo-dev:3.5.1.0)) with ESMTPSA (cipher=AES128-SHA)
+	id EE/BD-11593-FAF2B685; Mon, 02 Jan 2017 23:59:31 -0500
+To: mcovel@trendfollowing.com
+From: Barry Phelps <nitabarr@embarqmail.com>
+Subject: address
+Message-ID: <38a89f94-672a-0cab-c7cf-47a98c5b373a@embarqmail.com>
+Date: Mon, 2 Jan 2017 20:59:29 -0800
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.6.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Antivirus: avast! (VPS 170102-3, 01/02/2017), Outbound message
+X-Antivirus-Status: Clean
+
+   Well sorry to see your letter ending. Haven't been able to follow any 
+of your recos but took your educational efforts to heart. Will always 
+remember you when trying to implement them.
+
+Thanks,
+B. Phelps
+P O Box 929
+Eagle Point, OR 97524
+-- 
+"When government takes away citizens' right to bear arms it becomes 
+citizens' duty to take away governments right to govern." -George Washington
+
+---
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+

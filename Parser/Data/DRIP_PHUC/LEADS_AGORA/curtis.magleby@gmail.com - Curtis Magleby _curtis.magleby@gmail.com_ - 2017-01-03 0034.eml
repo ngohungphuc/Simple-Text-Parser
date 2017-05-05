@@ -1,0 +1,62 @@
+Return-Path: <curtis.magleby@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 09CBA4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:31:33 -0500 (EST)
+Received: from mail-ua0-f193.google.com ([209.85.217.193])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102173430365_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:34:30 +0000
+X-RC-FROM: <curtis.magleby@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-ua0-f193.google.com with SMTP id v2so15369486uac.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:34:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=gyNtUJBzF2NAUOnEjM9gHdzzo/CwI7IBcXfohE16ZVY=;
+        b=QgDwz6bbLRCHRJTaZiig5DrEOPptTav7zcD0HN64DQXBtqxmqbMKRMGkrpCfjbuq1U
+         /AMRR1xzkfje8zYGYO6JphAFlMrEVbS1X6FaO1YDT63C+nU2QuPQIliQ6LmVHSj9vqi8
+         awXNhLu7dhVJrddeEfIze7zwYk2Ci66K/5+u99+VZN8tOpildDUin0/8P8ZqZQ8KLLe/
+         KLL/wTNyjhJidu3ft1+IyvZg6adeI6u1gYsR03g2Nqms9NUGBLaJW+J7EPUrkUDUay5J
+         pJ5LOt6hoCUCrwsVevD1cHZ2eun04KYj5q2C6ui0pCsDDBn4Qzu6bEC3FI+Bo2EW9ut9
+         ThRg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=gyNtUJBzF2NAUOnEjM9gHdzzo/CwI7IBcXfohE16ZVY=;
+        b=LvlyAU5CDrvLVjudGUD2OiKNNWEhNfXDwHtMphlQJ22Aq2gW4tUFASs81Wla547dCn
+         tn3vVTTK3mW0ZMV1vCizahvahraexyB1P+8BB6R38DvOv/eTG+ERZcE1LNz1/Kkp+idg
+         tGKlt0804xbz2mImC8joitMoSKqxQeHlyZXUK5j/QgbPqWGcSDacrErkUN69Xtchlfzz
+         RLImyWTcgUMpt9bcjgg1GclfE+6WoMhvn37o59zNxsoTR6qOTqS0jrXZnBaIpD/mMEew
+         OgUTMakoMxt2ZDboutxlk+uCYNAvx+raO9Ox6c1xxKfKfaBypcC/kPwjobzZWW01MLEm
+         70Dg==
+X-Gm-Message-State: AIkVDXIwccD5KUAmWAAWciYu0/M0krQF9X5B1b5pi/qVvyaCPxOYBGhoVj7ST8ekIxxoozZ6PMC7yLSIm/p96w==
+X-Received: by 10.176.68.131 with SMTP id n3mr40837084uan.70.1483378457950;
+ Mon, 02 Jan 2017 09:34:17 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.68.219 with HTTP; Mon, 2 Jan 2017 09:34:17 -0800 (PST)
+From: Curtis Magleby <curtis.magleby@gmail.com>
+Date: Mon, 2 Jan 2017 09:34:17 -0800
+Message-ID: <CAO3dV2oWJYoGKseZtXmje7yNd4YZxn3sTcy4A0Egr0768YtDCg@mail.gmail.com>
+Subject: curtis.magleby@gmail.com
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c08baf00dbd4605451ff68d
+
+--94eb2c08baf00dbd4605451ff68d
+Content-Type: text/plain; charset=UTF-8
+
+-- 
+Curtis Magleby
+curtis.magleby@gmail.com
+
+--94eb2c08baf00dbd4605451ff68d
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br clear="all"><div><br></div>-- <br><div class="gmail_signature" data-smartmail="gmail_signature">Curtis Magleby<br><a href="mailto:curtis.magleby@gmail.com" target="_blank">curtis.magleby@gmail.com</a></div>
+</div>
+
+--94eb2c08baf00dbd4605451ff68d--
+

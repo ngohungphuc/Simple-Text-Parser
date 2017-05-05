@@ -1,0 +1,54 @@
+Return-Path: <mktollerup@yahoo.com>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m001.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A165240201531
+	for <info@trendfollowing.com>; Tue,  8 Mar 2016 09:12:46 -0500 (EST)
+Authentication-Results: p01c11m001.mxlogic.net; spf=pass
+Received: from unknown [98.136.218.45] (EHLO nm12.bullet.mail.gq1.yahoo.com)
+	by p01c11m001.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id 1edded65.0.1088258.00-2322.2088581.p01c11m001.mxlogic.net (envelope-from <mktollerup@yahoo.com>);
+	Tue, 08 Mar 2016 07:12:49 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1457446368; bh=/RGyOXfXBmTeeHcQ815QbY6cxEnaGaGu4/Fa8jJIYRU=; h=Date:From:To:Subject:From:Subject; b=b7urJPlNRJeZxAX3Dom95id7vhFZKacagoxUZDMLbjh6nnfUjsTThEklfoyTIUQMaB7/bMUKbUQbeODMclEiTEmFvxDt6xbTHspO/b8q5HvJVQDEbm1okrRVIA6qD57LSqSapWpAf6lmk/+Djbm6SwVHAkKNdwhZApkxRrmPDqRQFTvPyvkiAUaDle/rTyQtcR0xM0rR/FTVtgkeDOM7ZlEHt9K02Kbp9hVliDUWldGgAjd7uNgWtYtkxEzj4++IAgZeo8MTB/RQM7aadpTwCpj8Y6FBnCw01S+0HDSxUlG/sIgEY+NSGSDHgyot5pN0V1WkN02dwiq5u72wgd8zqQ==
+Received: from [216.39.60.181] by nm12.bullet.mail.gq1.yahoo.com with NNFMP; 08 Mar 2016 14:12:48 -0000
+Received: from [208.71.42.213] by tm17.bullet.mail.gq1.yahoo.com with NNFMP; 08 Mar 2016 14:12:48 -0000
+Received: from [127.0.0.1] by smtp224.mail.gq1.yahoo.com with NNFMP; 08 Mar 2016 14:12:48 -0000
+X-Yahoo-Newman-Id: 706130.78627.bm@smtp224.mail.gq1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: ESVTrX8VM1kYDB8IoK8sKsqXhx1kVCvCcG3lJJvtkaV7pIY
+ vi36kDKa6QSeEOP4TzvX_KNjQFQTtIktxfq7ysHNElVxeI0OxTt0RVyoSDO0
+ QwbC8SLENi16HXReExZdh.sX9GMe3fis4a_0a9QF0rzFqZFbPDT0SfmmWNAP
+ IhCj4ivXEkRo7..0IaZPFgj9kKiZ.JR.80_V2hxNLLioy_pgrpwWDQZ6M1HT
+ SalB_.01oLOyzf5Ax6VppJ0Z_jztJ3oQ0sxq77y7kgj68BCqdsdHcqTaB591
+ khhVZ2WqG_LRlrZKmGUVRZSTYrPzWfGxPvBViu5DAv3B_DaUdiHwT4FWpUPv
+ Qj3.w3gllIiZWRIxzbcEMJ7JyJSoMhFQBIccKez7sIbKG1uXSNqoBjPVT8wi
+ uqe0bQhp.jF7Wi5JQeJ.6S33YMFHInVDgONGx2L92SUPJXJqf.6GJj0AXUrz
+ lP2Dc8snvie3aPp_ozYLitg9E53YT1lz_AP5Cb2NoMRCq3qaHfKeC2n.rTri
+ QZfKP35Zz1dL4zaHD6hB30qaKCqcMpFPmzkjPp6JBm60XVd.Ew4A.PqCmCA-
+ -
+X-Yahoo-SMTP: 4oB.kbCswBB.dbJgcjlIj8YIK_E2thM-
+Message-ID: <56DEDDDF.3010102@yahoo.com>
+Date: Tue, 08 Mar 2016 07:12:47 -0700
+From: Marta Tollerup <mktollerup@yahoo.com>
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.10; en-US; rv:1.9.2.13) Gecko/20101207 Thunderbird/3.1.7
+MIME-Version: 1.0
+To: info@trendfollowing.com
+Subject: Interested in Master Mind Group
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-AnalysisOut: [v=2.1 cv=AKbmgfJ0 c=1 sm=1 tr=0 a=rzwqCJCeKl4OsPWGunKltw==]
+X-AnalysisOut: [:117 a=8nJEP1OIZ-IA:10 a=7OsogOcEt9IA:10 a=CjxXgO3LAAAA:8 ]
+X-AnalysisOut: [a=RSQyN8mLCvyCvhEjM3EA:9 a=wPNLvfGTeEIA:10 a=VYD9kc9POB8A:]
+X-AnalysisOut: [10]
+Received-SPF: Pass (p01c11m001.mxlogic.net: domain of yahoo.com designates 98.136.218.45 as permitted sender)
+X-Spam: [F=0.2000000000; B=0.500(0); STSI=0.500(0); STSM=0.500(0); CM=0.500; CY=0.50; MH=0.500(2016030805); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <mktollerup@yahoo.com>
+X-SOURCE-IP: [98.136.218.45]
+
+Hi Mike,
+
+I'm a charter member of the Agora Trend Following With Michael Covel and 
+would like to be included in your master mind group. Thanks
+
+Marta K. Tollerup
+mktollerup@yahoo.com

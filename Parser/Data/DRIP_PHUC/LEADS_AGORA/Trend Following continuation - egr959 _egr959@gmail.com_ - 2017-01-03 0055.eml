@@ -1,0 +1,71 @@
+Return-Path: <egr959@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 22EF74028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:52:27 -0500 (EST)
+Received: from mail-ua0-f180.google.com ([209.85.217.180])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102175521596_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:55:21 +0000
+X-RC-FROM: <egr959@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-ua0-f180.google.com with SMTP id 88so300298395uaq.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:55:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=RMCoqgy58WO2a5ebcZ0M1mXDqMB2daPRj7eG0kOqIb0=;
+        b=F+PLtuxRGfqc0BzbwOAFHm2nS5LvYO5zkogU43chZvLfwTQU2DSUJ/Jjj/zhhkbN+Q
+         QnODhfxYqDhuZ7TRkldEqu7o8HNAY+ko+v72BMItSPhmf9vvrgmTSzTe0F4W54+x0Pos
+         tmaqbsB/WwwECTF5xH3P2aQmMx9UvQJSEL+OwAkDddJdYJGvGJGN4/0RQq2bpSNG8+MI
+         rPNlIVsFVRya6iZNYOtKPYfpAUqQBQkkTJxod//X/GH/W8s1LDMr3WMisqMSlvJe5zM3
+         rXMRGMP2qCABGeqnzq/Zoh5xZYOo6ITejwdszLdHqf4UncnygOmnkGGCblrPJ8eZCZqJ
+         ekQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=RMCoqgy58WO2a5ebcZ0M1mXDqMB2daPRj7eG0kOqIb0=;
+        b=ddz7F4q5mLN7eXCA20gpWZB1RH3oliqlIrNpaBWe7zl3QXPH5NUkfxHTQv27LzOTsK
+         qFGGsRUEHBuYfdVKQwazvoFCXQvEshnzMgmnwTmrXWpRmspg041B89XpmJ9Zenm0dOdF
+         xkA1N8KwBkji1IBzUQIcGAiGfMMqkV0qhBXCQ96Vs9sr5Kd5P53BpCltLod+0v4NoguM
+         kI/zP7N9LhuXIVf8p8SyfADSx6hKp9he2s6t5tsh0dOxO7OXVhY6ce/Q5r9DM9uwlt0r
+         f3UO1/6zO2IrZw2cOTn/FLFI+xfxgj6MSFDVK/tgr+5rgN5PTmXjEFIgcePH0AxhcwC2
+         mq0Q==
+X-Gm-Message-State: AIkVDXLsXKMm5wqZb420TVtr4iCCiQAEwLdW4p7M1mjqGIzFct2P7IOUoKkFCDb8PkMdsVesAX/tXX+H78BfBg==
+X-Received: by 10.176.65.135 with SMTP id 7mr40539157uap.40.1483379712841;
+ Mon, 02 Jan 2017 09:55:12 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.68.218 with HTTP; Mon, 2 Jan 2017 09:55:12 -0800 (PST)
+From: egr959 <egr959@gmail.com>
+Date: Mon, 2 Jan 2017 09:55:12 -0800
+Message-ID: <CAFtqH8jwLaDAna5q1PDg4juaa0yE1xAwOYbVTKnmpCFXAAxxSw@mail.gmail.com>
+Subject: Trend Following continuation
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114f7dccd9de32054520402c
+
+--001a114f7dccd9de32054520402c
+Content-Type: text/plain; charset=UTF-8
+
+Ernst Radies
+44 - 5900 Ferry Road
+Delta, BC, Canada
+V4K5C3
+
+egr959@gmail.com
+
+--001a114f7dccd9de32054520402c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small">Ern=
+st Radies<br></div><div class=3D"gmail_default" style=3D"font-size:small">4=
+4 - 5900 Ferry Road<br></div><div class=3D"gmail_default" style=3D"font-siz=
+e:small">Delta, BC, Canada<br></div><div class=3D"gmail_default" style=3D"f=
+ont-size:small">V4K5C3<br><br></div><div class=3D"gmail_default" style=3D"f=
+ont-size:small"><a href=3D"mailto:egr959@gmail.com">egr959@gmail.com</a><br=
+></div></div>
+
+--001a114f7dccd9de32054520402c--
+

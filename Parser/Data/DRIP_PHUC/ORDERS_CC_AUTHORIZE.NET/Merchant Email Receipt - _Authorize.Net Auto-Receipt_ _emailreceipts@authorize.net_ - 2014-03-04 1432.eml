@@ -1,0 +1,102 @@
+Return-Path: <emailreceipts@authorize.net>
+Received: from psmtp.com (exprod7mx223.postini.com [64.18.2.150])
+	by trendfollowing.com (8.13.8/8.13.8) with SMTP id s247hNDd017721
+	for <info@trendfollowing.com>; Tue, 4 Mar 2014 02:43:24 -0500
+Received: from denmta01.authorize.net ([64.94.119.17]) by exprod7mx223.postini.com ([64.18.6.10]) with SMTP;
+	Tue, 04 Mar 2014 02:32:49 EST
+Received: from ANETTA6D.anet.ad ([10.1.190.51])
+	by denmta01.authorize.net (StrongMail Enterprise 5.0.0(5.0.0-50186)); Tue, 04 Mar 2014 00:32:48 -0700
+X-VirtualServerGroup: Default
+X-MailingID: 00000::00000::00000::00000::::3447431
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: info@trendfollowing.com
+X-SMFBL: aW5mb0B0cmVuZGZvbGxvd2luZy5jb20=
+X-Mailer: Microsoft CDO for Windows 2000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=authorize.net; s=sm;
+	i=@authorize.net; h=Received:thread-index:Thread-Topic:From:To:
+	Subject:Date:Message-ID:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-Class:Importance:Priority:
+	X-MimeOLE:X-OriginalArrivalTime; bh=e7BN9RxKMVpvpVN+qLZ8OK9/GbI=;
+	b=RsXXbpEWl7sXHAoCo+ChakTt+CNK6fqRtRQMcGPdHdeYfnSaIsvhf5RYq3RIP+
+	OaULgjZDNIrUiQCl7jvl6HBfGpJUkdKHO9Kb3C6c0BdY1O5CbppnfMImdnbccbzK
+	GG7fDdxtzoMMdgJEqFwyCRDuUKNdwdB74JBJm4rhrB2YM=
+Received: from mail pickup service by ANETTA6D.anet.ad with Microsoft SMTPSVC;
+	 Tue, 4 Mar 2014 00:32:48 -0700
+thread-index: Ac83e/EQ7qbGfxVHTv2L43xnp0UVLg==
+Thread-Topic: Merchant Email Receipt
+From: "Authorize.Net Auto-Receipt" <emailreceipts@authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+        "MIchael Covel" <info@trendfollowing.com>,
+        "Michael Covel" <info@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Tue, 4 Mar 2014 00:32:48 -0700
+Message-ID: <50681830367547E7B43F83D3BB955D7D@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4913
+X-OriginalArrivalTime: 04 Mar 2014 07:32:48.0412 (UTC) FILETIME=[F131EDC0:01CF377B]
+X-pstn-neptune: 0/0/0.00/0
+X-pstn-levels:     (S:55.76410/99.90000 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:97.0282 C:98.6951 )
+X-pstn-dkim: 1 skipped:not-enabled
+X-pstn-settings: 3 (1.0000:1.0000) s cv gt4 gt3 gt2 gt1 r p m c 
+X-pstn-addresses: from <emailreceipts@authorize.net> [3875/171] 
+X-Antivirus: avast! (VPS 150728-0, 07/28/2015), Inbound message
+X-Antivirus-Status: Clean
+
+**Please DO NOT REPLY to this message. E-mail support@authorize.net if you have any questions.
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 4-Mar-2014 2:32:46 EST
+
+========= ORDER INFORMATION =========
+Invoice : 
+Description : turtle_research_newtrader_15pct
+Amount : 2646.45 (USD)
+Payment Method : Visa
+Type : Authorization and Capture
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Authorization Code : 274641
+Transaction ID : 5980534834
+Address Verification : AVS Not Supported by Card Issuing Bank
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 
+First Name : Jie Sheng
+Last Name : Chui
+Company : 
+Address : 10, ss4c/18, Kelana Jaya
+City : 
+State/Province : Selangor
+Zip/Postal Code : 47301
+Country : Malaysia
+Phone : 
+Fax : 
+E-Mail : 
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : 
+Last Name : 
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 
+Tax Exempt : 
+PO Number : 

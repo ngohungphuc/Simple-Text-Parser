@@ -1,0 +1,78 @@
+Return-Path: <heikoop@centurylink.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C83224028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 19:50:57 -0500 (EST)
+Received: from smtp.centurylink.net ([205.219.233.9])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170104005345207_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 00:53:45 +0000
+X-RC-FROM: <heikoop@centurylink.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=centurylink.net; s=ctl201402; c=relaxed/simple;
+	q=dns/txt; i=@centurylink.net; t=1483491218;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=EXaMHo0vxJ2bQysW3cI/mG4C9pM=;
+	b=q2qeYcLER4/ylgdmRok4kq4aOO6VjuDjrvpDyA9ya1fNvSdXXmkDkdWwdtKPWX4p
+	q3JEqFELGKaQeDoBbLv6RkfcKz/D/YZtvkmjmLaXBhczaJM0vZ5nyfctgokltnHH
+	8m+jR80H1OuXsR4ArIQKB8MY9IeQMaBGJ2PIfjTqa+WIe8c/OR08lu1jMcWqhQmk
+	iG7a9POM5k1CDxGEegGiSgbuL2D6dL3A8BjfUMn6OC/Csx8Blo3m3RNtuoLIkJ4F
+	fbnT1iujPvVozsOptV33HSwuGTpv4C/3NTpaEAxXPCWOJrDPQDl/U24ESRmq97BZ
+	YDEr6Fa4cLT1k7snwUXXzg==;
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=Btvf+sf5 c=1 sm=1 tr=0 a=0wjSxY1xRowGgwQ9j2R/Lw==:117 a=0wjSxY1xRowGgwQ9j2R/Lw==:17 a=IkcTkHD0fZMA:10 a=yh3LZRAHIvcE6vcxTyAA:9 a=QEXdDO2ut3YA:10
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: aGVpa29vcEBjZW50dXJ5bGluay5uZXQ=
+Authentication-Results:  smtp02.agate.dfw.synacor.com smtp.user=heikoop@centurylink.net; auth=pass (LOGIN)
+Received: from [97.123.86.83] ([97.123.86.83:15393] helo=[192.168.0.27])
+	by smtp.centurylink.net (envelope-from <heikoop@centurylink.net>)
+	(ecelerity 3.5.1.37854 r(Momo-dev:3.5.1.0)) with ESMTPSA (cipher=AES128-SHA)
+	id 39/43-05758-2974C685; Tue, 03 Jan 2017 19:53:38 -0500
+To: mcovel@trendfollowing.com
+From: Jeff & Cherylyn Heikoop <heikoop@centurylink.net>
+Subject: trend following investment paper
+Message-ID: <8615c1c0-f163-6444-3db8-82c654f32e50@centurylink.net>
+Date: Tue, 3 Jan 2017 17:53:38 -0700
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.6.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hi, Michael.  Sorry to hear about the termination of your Agora 
+services.  I was a lifetime member of Trend Following and a member of 
+Vertical Trades.  I have enjoyed your insights and would be interested 
+in your investment paper.
+
+Jeff Heikoop
+310 Garver Lane
+White Rock, NM
+87547
+
+On a related note, I realize that you can't offer specific investment 
+advice, but do you have any general advice for the retail investor when 
+it comes to trend following?  I just don't have the time right now to 
+learn the system that you offer on your website, which is why I valued 
+your service through Agora so much.  Maybe when I'm not working 12 hour 
+days...
+
+I'm aware of GMOM, which you pointed out in the early days of your 
+services (thank-you), the Equinox Chesapeake fund based on Jerry 
+Parker's work (I really enjoyed your Turtle Traders book), and I have 
+looked at the funds in Tim Price's recent book on your recommendation.  
+The funds in Price's book, however, seem to be for accredited or high 
+net worth investors.  Do any of your trend following colleagues manage 
+funds for retail investors?
+
+Thanks again for your insight.  I will miss your service. Keep up the 
+good fight.  After the 'Trump Bump' I don't know how anyone can believe 
+in macro predictions any more.....
+
+Take care,
+
+Jeff
+
+

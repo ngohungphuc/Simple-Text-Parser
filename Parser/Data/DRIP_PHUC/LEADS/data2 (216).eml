@@ -1,0 +1,193 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m085.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A819E401E9092
+	for <mcovel@trendfollowing.com>; Fri, 30 Sep 2016 11:47:03 -0400 (EDT)
+Authentication-Results: p01c11m085.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m085.mxlogic.net(mxl_mta-8.5.0-1466) over TLS secured channel
+	with ESMTP id da98ee75.0.2945100.00-2282.5703138.p01c11m085.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 30 Sep 2016 09:50:06 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=eoYtXVlFUcRojBcsicfBOHiIZmY=; b=qOL7ZMoHzn+S0UZKX6BGwv+
+	sqgf7P083PTstloyZKt68y6vSv4i7O4ZQUmHE75FFhrXmuI8jkgISDBENkU4pU1g
+	mKmi7B27DR9+BdMF6MSV89o1Nqd7FkzxSylPAg9q7++Ss70OO3+uuA3/L6b80YXj
+	LJlAN7usaDt/VPZiHBno=
+Received: by filter0451p1mdw1.sendgrid.net with SMTP id filter0451p1mdw1.32652.57EE899C2F
+        2016-09-30 15:49:48.709808178 +0000 UTC
+Received: from getdrip.com (ec2-52-91-96-66.compute-1.amazonaws.com [52.91.96.66])
+	by ismtpd0039p1mdw1.sendgrid.net (SG) with ESMTP id z5VuGnnKTWq4aNNQtqqJYg
+	for <mcovel@trendfollowing.com>; Fri, 30 Sep 2016 15:49:48.725 +0000 (UTC)
+Date: Fri, 30 Sep 2016 15:49:48 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57ee899c70020_63dd3ff7d289b3541083be@ip-172-30-2-197.mail>
+Subject: [Drip] ckrun123@yahoo.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57ee899c6fa90_63dd3ff7d289b3541082ad";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpTEfOAyfq1KRJl49NHgYq2Rl4QUqCoiTYtox
+ Iccd5JOOwz9OEQG7EuIraR29sxgjL7bDh9797ojwaGsEf4tye9AhZwEwb7500GNMC5zYeg9T/Q4zS/
+ DJhY+buGGCQN6E5iRbLsz1gTuXcLVE0rMv472GDyNYDR6Vutwiq8EgjlbTKiBbloKXm2YT79UxoIWs
+ k=
+Received-SPF: Pass (p01c11m085.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57ee899c6fa90_63dd3ff7d289b3541082ad
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Bucyrus
+first_name: Fref
+last_name: C
+state: Ohio
+street1: 120 w oakwood
+zip_code: 44820
+id: kjc922spkd2kihjgy9kt
+email: ckrun123@yahoo.com
+utc_offset: -240
+visitor_uuid: e87318e0177c0134d48f0e0f1dc449ed
+status: active
+time_zone: America/New_York
+friendly_time_zone: EDT
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest", "optedin-sitewide-trendfollowing.com",
+"optedin-dvdrequest"]
+created_at: 2016-06-18 12:20:47 UTC
+
+View their full profile here:
+
+ckrun123@yahoo.com ( https://www.getdrip.com/3513718/subscribers/kjc922spkd2kihjgy9kt )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57ee899c6fa90_63dd3ff7d289b3541082ad
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Bucyrus<br />first_name: Fref<br />last_name: C<br />state: Ohio<br />street1: 120 w oakwood<br />zip_code: 44820<br />id: kjc922spkd2kihjgy9kt<br />email: ckrun123@yahoo.com<br />utc_offset: -240<br />visitor_uuid: e87318e0177c0134d48f0e0f1dc449ed<br />status: active<br />time_zone: America/New_York<br />friendly_time_zone: EDT<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-dvdrequest"]<br />created_at: 2016-06-18 12:20:47 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/kjc922spkd2kihjgy9kt" style="color: blue">ckrun123@yahoo.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57ee899c6fa90_63dd3ff7d289b3541082ad--

@@ -1,0 +1,129 @@
+Return-Path: <mkzabilla@bitsolutions.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3AADA4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:03:45 -0500 (EST)
+Received: from NAM02-SN1-obe.outbound.protection.outlook.com ([104.47.36.96])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102180641539_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:06:41 +0000
+X-RC-FROM: <mkzabilla@bitsolutions.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=bitsolutions365.onmicrosoft.com; s=selector1-bitsolutions-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=sSniUcv1XbMfXASpROeAvtfav9PJkMzvPXS42ebtwzU=;
+ b=pr0HVoRgcsDbVN01CFWz4wMZLvLx3MT/bzwQzClW8XiKbF06K/pMsTW7YARKVSsCdsQ0oX8OhF4lAbcFPRuQAtKVFcij2e4n/Ff9ubKUPcrVw2KEHTQIFBbufhZ9FS7OYHo4G33Y51dID8UAH4xC8SgZQpVnolEQcLKdCIste2c=
+Received: from BLUPR0601MB1475.namprd06.prod.outlook.com (10.163.86.13) by
+ BLUPR0601MB1475.namprd06.prod.outlook.com (10.163.86.13) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.817.10; Mon, 2 Jan 2017 18:06:34 +0000
+Received: from BLUPR0601MB1475.namprd06.prod.outlook.com ([10.163.86.13]) by
+ BLUPR0601MB1475.namprd06.prod.outlook.com ([10.163.86.13]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 18:06:34 +0000
+From: Mary Zabilla <mkzabilla@bitsolutions.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: My email address
+Thread-Topic: My email address
+Thread-Index: AdJlIuBc8vn2n+3ZRfOJQWHrNKcnkw==
+Date: Mon, 2 Jan 2017 18:06:33 +0000
+Message-ID: <BLUPR0601MB1475F9F48B2F3FF48B791F6ED76F0@BLUPR0601MB1475.namprd06.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=mkzabilla@bitsolutions.com;
+x-originating-ip: [63.224.17.220]
+x-ms-office365-filtering-correlation-id: 682ff822-be5f-4d71-ad86-08d4333a166e
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:BLUPR0601MB1475;
+x-microsoft-exchange-diagnostics: 1;BLUPR0601MB1475;7:iBJdLjzHQySxWu4Yh3PygYtYw2ObB4KZdCTHo5itHkkDHw09yfoPNo18BV/FX5OxyjK1QcgSS0/n+J2CPktLYexJ8uFsLtyTUMMYaUPlRcOEUeuOhS2RsOKrv7BIsV99Qv8OoaqZWexO/g1Fbajzd5we7270mgdTrErePH57LWIDOweQJgIymHrvjMD/kkcXMSinpBYhmPG8oE8gOfMaZWEDudA76khFykobviyVFgXwf+hOA+bSLFNgqHBdTJk/j4YVbmHPcl11N3zW2Q3Vy6AvwUJdJl0tJo72VIKBEOpGsk+5lrQI0l17aGfM4yNuab6eRldu1j0E6+F1tppF3IPeg5t+xmo9ibrxyu/kFXrS0mbQaEf99pdCK6C8vyGmOxq8DTeDTE6f+vAkI+umQ2W9ynLjQ+kkyDTT0N/hr/GHq3dj/PtkwBv8LU96sNwtlenj7YlnnSyCPPtyZuyaXw==
+x-microsoft-antispam-prvs: <BLUPR0601MB1475902F80E90FC0B7BA8547D76F0@BLUPR0601MB1475.namprd06.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(194151415913766)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040375)(601004)(2401047)(5005006)(8121501046)(3002001)(10201501046)(6041248)(20161123562025)(20161123555025)(20161123564025)(20161123560025)(2016111802025)(6072148)(6043046);SRVR:BLUPR0601MB1475;BCL:0;PCL:0;RULEID:;SRVR:BLUPR0601MB1475;
+x-forefront-prvs: 017589626D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(7916002)(39830400002)(39410400002)(39450400003)(199003)(189002)(7116003)(122556002)(110136003)(5660300001)(50986999)(54356999)(86362001)(2900100001)(92566002)(7696004)(101416001)(107886002)(33656002)(97736004)(2351001)(450100001)(105586002)(106356001)(6436002)(5640700003)(25786008)(6506006)(66066001)(55016002)(555874004)(99286003)(551214005)(7736002)(38730400001)(77096006)(74316002)(6916009)(3660700001)(8936002)(3480700004)(1240700005)(8676002)(2906002)(5630700001)(1730700003)(3280700002)(81156014)(81166006)(2501003)(9686002)(189998001)(588024002)(68736007)(558084003)(790700001)(6116002)(3846002)(102836003);DIR:OUT;SFP:1102;SCL:1;SRVR:BLUPR0601MB1475;H:BLUPR0601MB1475.namprd06.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: bitsolutions.com does not
+ designate permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR0601MB1475F9F48B2F3FF48B791F6ED76F0BLUPR0601MB1475_"
+MIME-Version: 1.0
+X-OriginatorOrg: bitsolutions.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 18:06:33.8830
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2d679dd4-c899-4d7c-8af4-1c32d050c29b
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR0601MB1475
+
+--_000_BLUPR0601MB1475F9F48B2F3FF48B791F6ED76F0BLUPR0601MB1475_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Maryz3@hotmail.com
+
+--_000_BLUPR0601MB1475F9F48B2F3FF48B791F6ED76F0BLUPR0601MB1475_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Maryz3@hotmail.com<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BLUPR0601MB1475F9F48B2F3FF48B791F6ED76F0BLUPR0601MB1475_--
+

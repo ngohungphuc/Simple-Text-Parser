@@ -1,0 +1,51 @@
+Return-Path: <jwfinance1@att.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4ACBE4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 18:38:53 -0500 (EST)
+Received: from nm34-vm8.bullet.mail.ne1.yahoo.com ([98.138.229.88])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102234149399_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 23:41:49 +0000
+X-RC-FROM: <jwfinance1@att.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=att.net; s=s1024; t=1483400503; bh=kPl2T8Mi54yvzpyiDaiB+9r5/0rtlPj/sJHCxctlHzE=; h=From:Date:Subject:To:From:Subject; b=r/DKvXyBC/Nhq2ABO1MCCJRUBj1/Rf7mBABqkEpIEftPVEw6tOYpEy4BqJCSYBMLDXNclF6U15oIUNVtPhrRM3s3f1MAwW1C1ITSub3t7+qayqm6Nf3yXAudhnzeetaaJyjt/lJqgfJbg8W78fdAFu7oi710E/aX/l1rXhrpDKY=
+Received: from [127.0.0.1] by nm34.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 23:41:43 -0000
+Received: from [98.138.226.179] by nm34.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 23:38:44 -0000
+Received: from [66.196.81.163] by tm14.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 23:38:44 -0000
+Received: from [98.138.226.240] by tm9.access.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 23:38:44 -0000
+Received: from [127.0.0.1] by smtp111.sbc.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 23:38:44 -0000
+X-Yahoo-Newman-Id: 337284.63023.bm@smtp111.sbc.mail.ne1.yahoo.com
+X-Yahoo-Newman-Property: ymail-4
+X-YMail-OSG: T9.S0y4VM1lspugIE9zIux5oOLNGUe.CM03QnZfL7_sjEY1
+ 6dVVaa5IpS70r2EAW4gBKpHddWOxvtOSjOrjzplFB3sZQOLgbu1Qnwf.Q.cd
+ R5jRuIi_78f.8kFWlyICGmiHCsm3J39V3_rX9ZraBAfh_isrMk6gmoze51LL
+ kaNmQxKT_ShQrYQFLp32wEc7PHomwzFC2ZHMKqexKjaTr9peGAZY.c3rQMHi
+ 9LvIENFc8lZg8IbAdqV3nmuigH17WANQ7D1ap.CRqXZHoWdvQ9ueYXZG_Lqi
+ Gl81N1qGBrbIq23cq50ga56LwlC84Zv.XJMdpsz_qu7pugSrXybJG0Iuf2Me
+ NcyK3LUAvc2l6Qzqt3JJI.1F9wi9tMSBWGVZ482BnDR55E6fSVqpp3WSpRAD
+ sefjQ3QjiYjYKnGAGqlNd09eQPtB9xVN4D.i00XjPXJGxWInOcWP5rg7w1p0
+ EQJQVVyWLvEDTQhJ59TL806E4ukXVtKr58Q3Se_nSO.9PLk6t6Tm9mZZJXo.
+ _0z4T87sMg4iHC5izTXdqN5JYw3U9MNE24rJRX5BmxTscFkzx7nGqBWlrqvi
+ sTk3mIxwtrV_hZkQ-
+X-Yahoo-SMTP: zR.NHpuswBBvCJAWNXwUn8P8kG.bvQVH2KCmdVselg--
+From: Att <jwfinance1@att.net>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 17:38:41 -0600
+Subject: New newsletter
+Message-Id: <48D7CF3B-B986-45DC-A706-5A5A037ECD37@att.net>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14C92)
+
+Jim wennermark
+Wennermarkjm@hotmail.com
+2731 Bernadette Ln
+Houston, Tx 77043
+
+Sent from my iPhone
+

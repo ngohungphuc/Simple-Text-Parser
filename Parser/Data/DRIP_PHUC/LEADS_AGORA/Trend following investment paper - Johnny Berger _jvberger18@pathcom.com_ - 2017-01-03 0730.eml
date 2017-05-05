@@ -1,0 +1,69 @@
+Return-Path: <jvberger18@pathcom.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F13234028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:27:47 -0500 (EST)
+Received: from smtp-out-b2-9.tor.pathcom.com ([207.188.95.9])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103003043250_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 00:30:43 +0000
+X-RC-FROM: <jvberger18@pathcom.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from smtp-auth05.pathcom.com (localhost-priv [172.16.0.132])
+	by smtp-auth05.pathcom.com (Postfix) with ESMTP id 172D63CF74B
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:30:33 -0500 (EST)
+X-Spam-ASN:
+X-Spam-Checker-Version: SpamAssassin 3.2.1 (2007-05-02) on smtp-auth05
+X-Spam-Level:
+X-Spam-Status: No, score=-1.4 required=8.0 tests=ALL_TRUSTED=-1.44,DKIM_POLICY_SIGNSOME=0,HTML_MESSAGE=0.001 autolearn=disabled version=3.2.1 ham HAM-Report
+	* -1.4 ALL_TRUSTED Passed through trusted hosts only via SMTP
+	*  0.0 DKIM_POLICY_SIGNSOME Domain Keys Identified Mail: policy says domain
+	*       signs some mails
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+Received: from Johnnys-MacBook-Pro.local (unknown [67.215.4.90])
+	(Authenticated sender: jvberger@pathcom.com)
+	by smtp-auth05.pathcom.com (Postfix) with ESMTPA
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:30:32 -0500 (EST)
+To: mcovel@trendfollowing.com
+From: Johnny Berger <jvberger18@pathcom.com>
+Subject: Trend following investment paper
+Message-ID: <6128120b-5c26-9cb4-a6ae-b9ab8b7a9c31@pathcom.com>
+Date: Mon, 2 Jan 2017 19:30:32 -0500
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:45.0)
+ Gecko/20100101 Thunderbird/45.6.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------00F2C134F192F108F9D37C85"
+
+This is a multi-part message in MIME format.
+--------------00F2C134F192F108F9D37C85
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+
+sorry forgot: Johnny Berger
+                        Box38
+                         Inglewood ON  L7C 3l6
+
+--------------00F2C134F192F108F9D37C85
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <br>
+    <font size="+2">sorry forgot: Johnny Berger<br>
+                             Box38<br>
+                              Inglewood ON  L7C 3l6<br>
+    </font>
+  </body>
+</html>
+
+--------------00F2C134F192F108F9D37C85--
+

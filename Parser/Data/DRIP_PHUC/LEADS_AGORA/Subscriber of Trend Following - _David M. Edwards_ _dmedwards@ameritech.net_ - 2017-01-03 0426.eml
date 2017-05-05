@@ -1,0 +1,251 @@
+Return-Path: <dmedwards@ameritech.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 21F354028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:24:00 -0500 (EST)
+Received: from nm5-vm2.access.bullet.mail.bf1.yahoo.com ([216.109.114.129])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102212656016_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:26:56 +0000
+X-RC-FROM: <dmedwards@ameritech.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ameritech.net; s=s2048; t=1483392409; bh=JAo5W3mVxxri60wqjBQzpU341T58Aa7t6lHjmPefL6A=; h=From:To:Subject:Date:From:Subject; b=Tj5k9TbqO/sMg2oqah18lrRqOhtlY8w0tq6x/hANywG3QASlxqH/pOXmKbUOblMUY+DsbiQJeWIa/ptRcA70bNENzqrepqNRRUXREROMhJ4owtkE/I1H/AgGSKmTZnS+VTVt6wohIP7Zttf+cBye7fYb8Vr1usC/J0hiCxD3QNGvUHoMxKZtlQthdr37F25OtHHqbs6olWkdeJ9DvxtAxQTRLczEbatRDhH69E4oa57NmYbL72QlsoHYzaY4BpoteOkCBWKuTP11xJIB3z1Ixy6aLWTa43jt4Lxt2wqazyt5B8CkYLkfX/NpJPfgIbKXyTzAXVG1RZd3f5uw1ofJGw==
+Received: from [66.196.81.166] by nm5.access.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 21:26:49 -0000
+Received: from [98.138.226.241] by tm12.access.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 21:26:49 -0000
+Received: from [127.0.0.1] by smtp112.sbc.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 21:26:49 -0000
+X-Yahoo-Newman-Id: 890073.94581.bm@smtp112.sbc.mail.ne1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: xV0zHFQVM1nUgSdU.vNJWcbLsK1phMzlsN2XxGMIV448gwE
+ 4n6GwEuxeH5RU98uSWSAWxca95XlGK6rpjXrzfOkoT32m3Ui5t_sjS25SNiY
+ 6vR2.Id_a8jqrScYrQJ3Ma4o.ljTMBw5jmHnC9kS1vGNkNCCz5Xj6rpIye22
+ FiIXYra54A6DK2ZTpcdVFzuzVRBQq193WI.FWU7St4wZ7T_FWh9ooSjKfvvw
+ Hf8H71HyMcGDC4gbB2EOTlMVUHJBYiO0bB_yfS1.xJ4p4nAoriBTdUjrw0KC
+ .KL3F_icr3kOnhp2fd_a9tlbDiIdNMZDJqBcTRljKi1TwJuDlT3j44iV2ivI
+ 4d3FLgu7jeZIUhmP1C1pOOTfJpqSuWI33dRJaR_SLXXZQ12XxPOjjbndGVYx
+ 1Fdm4oHRiBfrONc32UxIFG668xHln9ePIYIcXE066c8LRqBDESbMB.Cw6f2U
+ jIV9HdypKANN11BFu1Ohd1Wa8AlIYsJFU7awGU7nXBp4m4oShyjC1AsVlgUy
+ xEW8GLsmdwu1Fe8JewLyPT.OLz68HMMYFd9HWp8YU_QbnAC8aSmoPR8jL6S2
+ FuZ8EXE8-
+X-Yahoo-SMTP: C6aFkTCswBBIp_XRK0Y_r4.N.gIo1Y8hX9GKWotlwUNmBVZo
+Message-ID: <0219BF4613E849A18FC7BE51779D303E@DMEdesktop>
+From: "David M. Edwards" <dmedwards@ameritech.net>
+To: <mcovel@trendfollowing.com>
+Subject: Subscriber of Trend Following
+Date: Mon, 2 Jan 2017 16:26:47 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0026_01D26515.03AAF5E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3555.308
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3555.308
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0026_01D26515.03AAF5E0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Michael,
+
+I am sad to see the Agora Trend Following shut down.  I have not yet =
+taken any trades, I was a somewhat recent subscriber and my personal =
+life has been challenging since subscribing but was looking forward to =
+trading with you in 2017.  I had bought one of your books more than 5 =
+years ago.
+I must admit I am not crazy about Agora in general.  Way too many emails =
+from them.  Too many promotions with extreme emotion threatening do it =
+now, watch out, scare tactics.  I was looking for something simple that =
+makes sense and would also be trustworthy.  Too many suggestions by =
+others come without backtesting, consistent proven results.
+
+Below is my contact info per your request.
+
+=20
+
+David M. Edwards
+  18901 Bretton Dr.
+  Detroit, MI 48223
+  313.838.GEMS home
+  313.433.7353   cell
+  dmedwards@ameritech.net
+=20
+
+------=_NextPart_000_0026_01D26515.03AAF5E0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML xmlns:o =3D =
+"urn:schemas-microsoft-com:office:office"><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>Michael,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>I am sad to see the Agora Trend Following shut down.&nbsp; I have =
+not yet=20
+taken any trades, I was a somewhat recent subscriber and my personal =
+life has=20
+been challenging since subscribing but was looking forward to trading =
+with you=20
+in 2017.&nbsp; I had bought one of your books more than 5 years =
+ago.</DIV>
+<DIV>I must admit I am not crazy about Agora in general.&nbsp; Way too =
+many=20
+emails from them.&nbsp; Too many promotions with extreme emotion =
+threatening do=20
+it now, watch out, scare tactics.&nbsp; I was looking for something =
+simple that=20
+makes sense and would also be trustworthy.&nbsp; Too many suggestions by =
+others=20
+come without backtesting, consistent proven results.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Below is my contact info per your request.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<META name=3DProgId content=3DWord.Document>
+<META name=3DGenerator content=3D"Microsoft Word 14">
+<META name=3DOriginator content=3D"Microsoft Word 14"><LINK =
+rel=3DFile-List=20
+href=3D"email%20signature_files/filelist.xml"><LINK rel=3DthemeData=20
+href=3D"email%20signature_files/themedata.thmx"><LINK =
+rel=3DcolorSchemeMapping=20
+href=3D"email%20signature_files/colorschememapping.xml">
+<STYLE>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-134238209 -371195905 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129023 0;}
+ /* Style Definitions */
+ p.msonormal, li.msonormal, div.msonormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.msoheader, li.msoheader, div.msoheader
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Header Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.msofooter, li.msofooter, div.msofooter
+	{mso-style-priority:99;
+	mso-style-link:"Footer Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.msohyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.msohyperlinkfollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.headerchar
+	{mso-style-name:"Header Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:header;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;}
+span.footerchar
+	{mso-style-name:"Footer Char";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:footer;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;}
+.msochpdefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("email%20signature_files/header.htm") fs;
+	=
+mso-footnote-continuation-separator:url("email%20signature_files/header.h=
+tm") fcs;
+	mso-endnote-separator:url("email%20signature_files/header.htm") es;
+	=
+mso-endnote-continuation-separator:url("email%20signature_files/header.ht=
+m") ecs;}
+@page wordsection1
+	{size:8.5in 11.0in;
+	margin:.6in .7in .65in .7in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.65in;
+	mso-footer:url("email%20signature_files/header.htm") f1;
+	mso-paper-source:0;}
+div.wordsection1
+	{page:wordsection1;}
+-->
+</STYLE>
+
+<DIV class=3DWordSection1>
+<P class=3DMsoNormal><B><SPAN=20
+style=3D'FONT-SIZE: 10pt; FONT-FAMILY: =
+"Arial","sans-serif"'><o:p></o:p></SPAN></B>&nbsp;</P>
+<P class=3DMsoNormal><B><SPAN=20
+style=3D'FONT-SIZE: 10pt; FONT-FAMILY: "Arial","sans-serif"'>David M.=20
+Edwards</SPAN></B><SPAN=20
+style=3D'FONT-SIZE: 10pt; FONT-FAMILY: =
+"Arial","sans-serif"'><BR></SPAN><SPAN=20
+style=3D'FONT-SIZE: 9.5pt; FONT-FAMILY: "Arial","sans-serif"; =
+mso-bidi-font-size: 10.0pt'><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>18901 Bretton Dr.<BR><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>Detroit, MI 48223<BR><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>313.838.GEMS home<BR><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>313.433.7353&nbsp;&nbsp; =
+cell<BR><SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN><A=20
+href=3D"mailto:dmedwards@ameritech.net">dmedwards@ameritech.net</A><BR></=
+SPAN><SPAN=20
+style=3D"FONT-SIZE: 11pt; mso-bidi-font-size: 12.0pt"><SPAN=20
+style=3D"mso-spacerun: =
+yes">&nbsp;</SPAN><o:p></o:p></SPAN></P></DIV></DIV></DIV></DIV></BODY></=
+HTML>
+
+------=_NextPart_000_0026_01D26515.03AAF5E0--
+
+

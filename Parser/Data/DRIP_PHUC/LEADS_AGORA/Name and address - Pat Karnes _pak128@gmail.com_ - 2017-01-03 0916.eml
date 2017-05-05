@@ -1,0 +1,61 @@
+Return-Path: <pak128@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2A8F04028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 21:14:01 -0500 (EST)
+Received: from mail-pg0-f44.google.com ([74.125.83.44])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103021650337_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 02:16:50 +0000
+X-RC-FROM: <pak128@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-pg0-f44.google.com with SMTP id i5so144238094pgh.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 18:16:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:subject:message-id:date:to
+         :mime-version;
+        bh=nhYJxfCEoRMpYSXQx+KbtmBpWjTZ+YXgD6B6F/rVVSI=;
+        b=Lh453Fe/K1DQBhVG0ryoixuo6PCYahzCoTXQYl9yHL+9b7cbiRtvQc8gG7Mybp/05z
+         uF+IJdyp3TlhQFuY7AePqDvFQTQwZ7cGPKD2gGVwXCcVzVm/1CEJSR0biFObi4Ga7lz0
+         CVvZj9XVtbLZGaXoxNnarUGJLkdl3cKUv8+IcyoNvHyVpTqJBF1vIVCuD8fhrpra79a5
+         hDcIgAYDwm6bXTGODIezUboIR6RmVnS68/5nnBLzfy4SZCuVf28nIosyfG9++vO2m0X1
+         LE8yDQRtslnP86lt4luGKIjnGrgrgO+Kdpb6V4OxV/tvhd7F5NaZbv8f7V2qgX45gzGA
+         2OQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:subject
+         :message-id:date:to:mime-version;
+        bh=nhYJxfCEoRMpYSXQx+KbtmBpWjTZ+YXgD6B6F/rVVSI=;
+        b=IETXCafdEHJNgUvaS7TbLputyH1Srk/3xztNUUrfDtSoB4/dDIFaFKOGE0XIGrK0BB
+         PaeYasIqZSoH+bZFbnTM6haD8lh5NeeiLxJEoJ0Lt59e1aCRaf/4yePx5jqhKXE2DubL
+         oYpHakfR+y9ITaj9IszSVDX0qXZaNwTd17eiweTgvjdXGiK0/gJGJHidQIllF4owGep4
+         xb3noOvtixncXpWdB4QajcTmpsYmfYY+mXJd0PccT/XbwC/6vvdmMNoZZiFDubowynmL
+         M91bUWMZqj7TpcP/pCBIeLQtHhWIzUgKS92pzPffE9pwmIoeQOj8mk5UfEpFba7kSHuJ
+         Vnkg==
+X-Gm-Message-State: AIkVDXJWCm3qFOO1EAJ0LYu7Z9lTiUmD0Iihth8kudf6J7TYwU1b2XbuFnSuH74rDuHUcg==
+X-Received: by 10.84.202.12 with SMTP id w12mr132699939pld.156.1483409803656;
+        Mon, 02 Jan 2017 18:16:43 -0800 (PST)
+Received: from [10.0.1.2] (ip70-173-95-161.lv.lv.cox.net. [70.173.95.161])
+        by smtp.gmail.com with ESMTPSA id t20sm135028529pfk.48.2017.01.02.18.16.42
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 18:16:42 -0800 (PST)
+From: Pat Karnes <pak128@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Name and address
+Message-Id: <65E1C913-E472-4A76-B8D4-07238023C19E@gmail.com>
+Date: Mon, 2 Jan 2017 18:16:40 -0800
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+
+Pat Karnes
+213 Palmetto Pointe Drive
+Henderson, NV 89012
+
+
+

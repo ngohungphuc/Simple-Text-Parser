@@ -1,0 +1,62 @@
+Return-Path: <larrys909@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1852D4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:16:25 -0500 (EST)
+Received: from omr-m007e.mx.aol.com ([204.29.186.9])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102191907467_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:19:07 +0000
+X-RC-FROM: <larrys909@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mad01.mx.aol.com (mtaomg-mad01.mx.aol.com [172.26.221.207])
+	by omr-m007e.mx.aol.com (Outbound Mail Relay) with ESMTP id 72C24380006F
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:19:00 -0500 (EST)
+Received: from core-lfb08b.mail.aol.com (core-lfb08.mail.aol.com [10.76.8.8])
+	by mtaomg-mad01.mx.aol.com (OMAG/Core Interface) with ESMTP id D851E38000081
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:18:59 -0500 (EST)
+From: LarryS909@aol.com
+Full-name: LarryS909
+Message-ID: <1b8fcaa.59c2ab45.459c01a3@aol.com>
+Date: Mon, 2 Jan 2017 14:18:59 -0500
+Subject: (no subject)
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_1b8fcaa.59c2ab45.459c01a3_boundary"
+X-Mailer: AOL 9.8 sub 2019
+X-Originating-IP: [66.68.164.130]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483384740;
+	bh=eBnojsRCHpKaHhe26etQesdnPj6l8P7JOTcoVzWhM1Q=;
+	h=From:To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	b=yuYkJ+aM4UzJwlvD8cJ/DW3IG6J7P64tMwm95037Aqc7kJG/CNVz+xXSqbsCnxKwr
+	 chV3GsaGHSRgHAtexiGKM1bHEw7dQim1sNqTTZU5v+LPBgdk81+hItInmiAhKwTYPo
+	 Hf3KIATgwXtqk7hO4ynasK8TZZal7SFSnsK6RaPA=
+x-aol-sid: 3039ac1addcf586aa7a34bb5
+
+--part1_1b8fcaa.59c2ab45.459c01a3_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+LARRY SCHAIRER     122 WINTER CIRCLE, KYLE, TX   78640
+--part1_1b8fcaa.59c2ab45.459c01a3_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3DUS-ASCII" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<BODY id=3Drole_body style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; COLOR:=
+ #000000"=20
+bottomMargin=3D7 leftMargin=3D7 topMargin=3D7 rightMargin=3D7><FONT id=3Dr=
+ole_document=20
+color=3D#000000 size=3D2 face=3DArial>
+<DIV>LARRY SCHAIRER&nbsp;&nbsp;&nbsp;&nbsp; 122 WINTER CIRCLE, KYLE, TX&nb=
+sp;=20
+78640</DIV></FONT></BODY></HTML>
+--part1_1b8fcaa.59c2ab45.459c01a3_boundary--
+

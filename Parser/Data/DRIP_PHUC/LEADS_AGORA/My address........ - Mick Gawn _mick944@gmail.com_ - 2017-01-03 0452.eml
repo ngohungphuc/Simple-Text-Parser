@@ -1,0 +1,65 @@
+Return-Path: <mick944@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2D5074028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:49:54 -0500 (EST)
+Received: from mail-pg0-f41.google.com ([74.125.83.41])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102215250471_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:52:50 +0000
+X-RC-FROM: <mick944@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-pg0-f41.google.com with SMTP id g1so168061771pgn.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:52:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=aepM1HIUGEVNPP/LOnjYHh11ow0ZLghFl7s3tfDX3gY=;
+        b=l19qVRGlN41txEAEaAwbO/IkOE2hVk71OBeWICuTrt1DCHWsvV5jynW+3FlmyT1niq
+         LNVgjVbVqoC9D1mNbyWmr+HFzQZ30ELWiKWhykwhe3PlDbstfEV1eCmJgzBCQ5SPP2Cq
+         7z4mZvipm/zCiYjM0xDx5pDKEUS/UoW6oqp/bCAG6ssq4/WyRhStA4WFJycJvGB66lwW
+         H/xDE8nSYSkSdwA5X1BAFE/eabVklHMmf2yvqGt3XWZuH/oXlv+wgguxOmWXjNPofY4r
+         w+LavVaCBCEOMJJn8j1WEaAkbEb7WV/DioRZHlwobv6UmC/PDjMEguvJLkT74MROll3D
+         40Jw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=aepM1HIUGEVNPP/LOnjYHh11ow0ZLghFl7s3tfDX3gY=;
+        b=NGvZd+MpCZEdUEiawPsbLei7xtO6DYJePDNtMxp5oULyvXAKtBgbl/RRt7bUh6NaHJ
+         wEMMR4QYj3JwTtj5cg9i3XxhQ/ROSbwAhikI9TdDQr8rCrZR7o57gBsJxbi+cmydC36c
+         SYkHK3gUq8vd0oLPhBvRqELdNM2paLI82SM3697bIjrVXxnt36NLF9X1405zfriZVyaL
+         /KtMahA/gRcXoCMV5/RQTmzVX3VeiRIKCWzaLemO6HhgNkhQDegWWvAjniKpapIyDgTA
+         v943i+thqgiLo8LMhHgZ2PVM15C+Wxg8AACIMk79azGAfrrfDn/e5aeMIRCv5NM0KvhX
+         44rQ==
+X-Gm-Message-State: AIkVDXJzSjy51ezjSymwE/qxgCUndTZiZpmyOZvSHPud/CLSv3D4cgm8iReD5VSihDIwPw==
+X-Received: by 10.98.64.195 with SMTP id f64mr55009180pfd.16.1483393955883;
+        Mon, 02 Jan 2017 13:52:35 -0800 (PST)
+Received: from [10.226.11.68] ([1.152.66.53])
+        by smtp.gmail.com with ESMTPSA id q145sm134435256pfq.22.2017.01.02.13.52.34
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 13:52:35 -0800 (PST)
+From: Mick Gawn <mick944@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Tue, 3 Jan 2017 08:52:28 +1100
+Subject: My address........
+Message-Id: <E18966C5-0D9D-465D-B943-3241DCBA86A4@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14A456)
+
+Michael Gawn,
+Suite 52,
+66 Kingsway,
+Glen Waverley,
+Victoria, 3150,
+Australia. 
+
+Sent from my iPhone
+

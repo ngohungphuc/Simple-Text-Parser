@@ -1,0 +1,103 @@
+Return-Path: <cpaulsimister@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id D2A6C4029225E
+	for <mcovel@trendfollowing.com>; Mon, 30 Jan 2017 16:32:34 -0500 (EST)
+Received: from mail-io0-f175.google.com ([209.85.223.175])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170130213529617_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 30 Jan 2017 21:35:29 +0000
+X-RC-FROM: <cpaulsimister@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f175.google.com with SMTP id j13so117644974iod.3
+        for <mcovel@trendfollowing.com>; Mon, 30 Jan 2017 13:35:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=egCu2OaJvJ13AjWWi+qK9mt1GdIlHU1mk1unqqelFw8=;
+        b=qOvkwRsErGBVnx+xKA7RJeWMiU/0sC8lRR7UwZ4Qgv4IQX+bDY1UMOMaQCTuxRFQvT
+         UgFkAe1RyLbRjaAxlA7q+9AfItikMOLpvTEW+z8FRY7hB34sohP18qpQL9BVGyiSW/dV
+         y7dltfslCFKXrBB8fJIL1tICwgvFj7pdqS1pF9x0mCyMzTb3sYdsrYB2O/gQjDFKHatN
+         5lKfvCT9AGLyM+Ki1j7ntJ0aspxZW5+9ER2Gn982ZDB7C+fT3QLW9t4wXfbg1gkYCSNg
+         QblItwIRTf+mfW0oBlYkoeVWyh/T9Rio6oUAlmepdC3PNYiGBfPA80QZQN/IY/P8HO1c
+         5dPg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=egCu2OaJvJ13AjWWi+qK9mt1GdIlHU1mk1unqqelFw8=;
+        b=p5PVU7fmmYjU3AhqyCepZA3nNzo4JhH7nWs6CBpUFea5/EaiYG9SBWSARIZ9mO4w8V
+         gHStMiQWdvba8VOdE9QAVeFa6pkKj/7LPui9q/SXPgSk1Ak0tDlPW+3eo7JBQbGQLPch
+         XRIoXOo0GSDGgwRr+zEVa0SO3EWdoQoaCPe9VykEkhuFa5m60GulHsXH9dtDyiK0teev
+         Hj9tWbgAnKVrnQNN0yE/d6WyQBlHgDRWbe+8EphC0wZC01yzMD/zR1YyUWjFCDFGQjNb
+         V6eqLnwlhXXnHqlthje77e0ijBumigDaNrgH/NAHRPIWzU/0Q6BpdOvXJhX2AwjFY/gC
+         99Ag==
+X-Gm-Message-State: AIkVDXIDLS0TkivshPfH1H1vjPlB/RdVRfDsFymXbz36lRhQfFqgNdm9Hx2XDKs+zpxisCvA5tFpIadkdNCbdg==
+X-Received: by 10.107.43.145 with SMTP id r139mr20128190ior.26.1485812122663;
+ Mon, 30 Jan 2017 13:35:22 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.125.72 with HTTP; Mon, 30 Jan 2017 13:35:21 -0800 (PST)
+Received: by 10.79.125.72 with HTTP; Mon, 30 Jan 2017 13:35:21 -0800 (PST)
+In-Reply-To: <CAEFAh1w=U_DpFFOKrcTwRUJjJ80YHeiQkD6Db=kf-mAjPBW8mQ@mail.gmail.com>
+References: <CAEFAh1zMwGTrb7hEjghrbmuxxy4pO88TqC9EG08rxovEUHK-6w@mail.gmail.com>
+ <CAEFAh1xGF3TBRiUQ3cudnD34+8hJC-=Jf1JU38rM_2egUw7e8w@mail.gmail.com>
+ <CAEFAh1z_WmMYVgz-m24o8QXdbe9=xnFhq8bHXVxyXgAEXLNvpw@mail.gmail.com>
+ <CAEFAh1zQ7Szqfh83bp4WwiKWHHZ0dek4SnGS32+XWJyovTrNfA@mail.gmail.com>
+ <CAEFAh1yVJK6GBTM6bO07h9jjXKgQq4Su0MCVa7wWkABddHAw3Q@mail.gmail.com>
+ <CAEFAh1xorggrYZJAcnsRzuoKTOJSMazM8UsTt9g=54rEMtahoQ@mail.gmail.com> <CAEFAh1w=U_DpFFOKrcTwRUJjJ80YHeiQkD6Db=kf-mAjPBW8mQ@mail.gmail.com>
+From: Paul Simister <cpaulsimister@gmail.com>
+Date: Mon, 30 Jan 2017 21:35:21 +0000
+Message-ID: <CAEFAh1wGEpOntQGNjoinV8YvaGBpFM=5J9TMtjH30-wSO259SA@mail.gmail.com>
+Subject: End of Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1139fabac654210547569772
+
+--001a1139fabac654210547569772
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael
+
+I didn't see the email in early January announcing the end of Trend
+Following but I had realised that I wasn't seeing emails so I finally got
+around to searching my past emails.
+
+I think it's a shame because I've become a believer in the need to follow
+momentum in the distorted markets of the last few years.
+
+I'd like to thank you for your work with Agora and for adding to my
+financial education.
+
+In the email you mention a special report and I'd like to see it.
+
+Best regards
+
+Paul Simister
+Director
+Planning & Control Solutions Ltd
+Company registered in England Number 03897173
+Registered Office 17 Beachburn Way; Handsworth Wood, Birmingham, B20 2AU
+
+--001a1139fabac654210547569772
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hi Michael<div dir=3D"auto"><br></div><div dir=3D"auto">I=
+ didn&#39;t see the email in early January announcing the end of Trend Foll=
+owing but I had realised that I wasn&#39;t seeing emails so I finally got a=
+round to searching my past emails.=C2=A0</div><div dir=3D"auto"><br></div><=
+div dir=3D"auto">I think it&#39;s a shame because I&#39;ve become a believe=
+r in the need to follow momentum in the distorted markets of the last few y=
+ears.</div><div dir=3D"auto"><br></div><div dir=3D"auto">I&#39;d like to th=
+ank you for your work with Agora and for adding to my financial education.=
+=C2=A0</div><div dir=3D"auto"><br></div><div dir=3D"auto">In the email you =
+mention a special report and I&#39;d like to see it.</div><div dir=3D"auto"=
+><br></div><div dir=3D"auto">Best regards<br><br><div data-smartmail=3D"gma=
+il_signature" dir=3D"auto">Paul Simister<br>Director<br>Planning &amp; Cont=
+rol Solutions Ltd<br>Company registered in England Number 03897173<br>Regis=
+tered Office 17 Beachburn Way; Handsworth Wood, Birmingham, B20 2AU</div></=
+div></div>
+
+--001a1139fabac654210547569772--
+

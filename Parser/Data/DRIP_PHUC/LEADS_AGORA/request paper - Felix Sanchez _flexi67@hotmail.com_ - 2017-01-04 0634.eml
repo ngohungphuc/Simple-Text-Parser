@@ -1,0 +1,123 @@
+Return-Path: <flexi67@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id BC1C54028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 18:31:29 -0500 (EST)
+Received: from BLU004-OMC4S2.hotmail.com ([65.55.111.141])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103233425670_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 23:34:25 +0000
+X-RC-FROM: <flexi67@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from EUR03-VE1-obe.outbound.protection.outlook.com ([65.55.111.136]) by BLU004-OMC4S2.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 3 Jan 2017 15:34:19 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=P4VARlY6yhaHXHF+No5KzkpKu4EJSLrPkyxQQOYmBOc=;
+ b=Wa8pV0eXl92Pp1/fSix08GQpFvViZiKWAzf+dZnqumgfJP6Syr5WXMZEXsPr3Y6jXVtSyRw8XnUUXE+2z21SMJDeDEcp/rK4a6VpLPbRSQLGs3M4jsO0SKDLJTuPU+mfGQVU6MrnL1dHjTb1beGVtnxhyaNwzcQ6FnEycuITdZi/Te0gPNlwvwDCe16d//jexM7VPK9vDUCTs165pdugnrTrhKnRWR3jAjh6Ah1hLUmM4LbuRpAYyjtPmW8+G1J5NwWLEsGCR4sfZNfAV/HgFDZ7tIhQ73DxIVBN7BkEsZM1xj8rLe22kom7NiD5yMZaQ+4c8HwxxItnxyY1TTfh5A==
+Received: from DB5EUR03FT056.eop-EUR03.prod.protection.outlook.com
+ (10.152.20.56) by DB5EUR03HT143.eop-EUR03.prod.protection.outlook.com
+ (10.152.21.105) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.789.10; Tue, 3 Jan
+ 2017 23:34:17 +0000
+Received: from DB4PR05MB0750.eurprd05.prod.outlook.com (10.152.20.56) by
+ DB5EUR03FT056.mail.protection.outlook.com (10.152.21.124) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.789.10 via Frontend Transport; Tue, 3 Jan 2017 23:34:17 +0000
+Received: from DB4PR05MB0750.eurprd05.prod.outlook.com ([10.161.15.28]) by
+ DB4PR05MB0750.eurprd05.prod.outlook.com ([10.161.15.28]) with mapi id
+ 15.01.0817.009; Tue, 3 Jan 2017 23:34:17 +0000
+From: Felix Sanchez <flexi67@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: request paper
+Thread-Topic: request paper
+Thread-Index: AQHSZhnStHeRr79/SUOFHYydcxfmkA==
+Date: Tue, 3 Jan 2017 23:34:17 +0000
+Message-ID: <DB4PR05MB075063AAD738DD8D3B112A05B06E0@DB4PR05MB0750.eurprd05.prod.outlook.com>
+Accept-Language: nl-NL, en-US
+Content-Language: nl-NL
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:73D54523A0494365F76FCCD434CA4A75273B8107FEB30A765663BB43309905FC;UpperCasedChecksum:53B72FFBC43089F23F67971E10D52009B1F0E6068AECE16F582785FD3D9A9967;SizeAsReceived:7194;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [GN/XoW8QyQwWQygtlK7A7ghi3dzLd5rz]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;DB5EUR03HT143;7:sSizW6LUdWwFxgn+lUgMXWyP4lLmCiyc6pr53FrlkxFsULjjmHPDgVQEvhjRy64UC9anTsHxIPxYB5rJRmorrOwt3/rS0B2RDATm0wih4SII5RYUkqT529fhdodnd31523nVGzHJkGQN1RBiqLscM3rGLzBEKzCoTZm9lMyNofaANPB7XjOQudNApk7IYjL3GeGIbZv+pYo+NIxbWs5GgU5eIa5uYvhToGkUBeIOiOust1DpgXc49LPhzJetZxRxo3v8lMIjfirDeXSOkZhwkWhPlGKvgf7v3ooI06/VhuB+6SWEiSpT34jrM9yMngCyK6Ti/0KADOZ7QvmdEOM7SPNwvS2CT8AAoAM7wT2NKpZwHsQctv/MMtkSUwrKF/sS5L1oiy9glf/Cvu2lckCFcdUi3P6OMz7qdoCzgv1gj8r1OrNcm5eN2CazxzoukySkr52PtDuHJPOmz+wa6qvSVg==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:DB5EUR03HT143;H:DB4PR05MB0750.eurprd05.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 6925410b-7bc3-4032-22d1-08d43431091a
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1601125047);SRVR:DB5EUR03HT143;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:DB5EUR03HT143;BCL:0;PCL:0;RULEID:;SRVR:DB5EUR03HT143;
+x-forefront-prvs: 01762B0D64
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DB4PR05MB075063AAD738DD8D3B112A05B06E0DB4PR05MB0750eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jan 2017 23:34:17.4280
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB5EUR03HT143
+X-OriginalArrivalTime: 03 Jan 2017 23:34:19.0678 (UTC) FILETIME=[E7D383E0:01D26619]
+
+--_000_DB4PR05MB075063AAD738DD8D3B112A05B06E0DB4PR05MB0750eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+My address is:
+
+
+Felix Sanchez
+
+Vaartweg 36 - 4
+
+1217 SV  Hilversum
+
+ Netherlands
+
+
+Kind Regards,
+
+Felix Sanchez
+
+
+--_000_DB4PR05MB075063AAD738DD8D3B112A05B06E0DB4PR05MB0750eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>My address is:</p>
+<p><br>
+</p>
+<p>Felix Sanchez</p>
+<p>Vaartweg 36 - 4 </p>
+<p>1217 SV&nbsp; Hilversum</p>
+<p>&nbsp;Netherlands</p>
+<p><br>
+</p>
+<p>Kind Regards,</p>
+<p>Felix Sanchez</p>
+<p><br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_DB4PR05MB075063AAD738DD8D3B112A05B06E0DB4PR05MB0750eurp_--
+

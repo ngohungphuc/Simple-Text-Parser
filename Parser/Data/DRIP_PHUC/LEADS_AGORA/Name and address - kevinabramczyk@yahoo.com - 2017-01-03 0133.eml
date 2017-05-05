@@ -1,0 +1,48 @@
+Return-Path: <kevinabramczyk@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 689044028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:31:21 -0500 (EST)
+Received: from nm24-vm6.bullet.mail.gq1.yahoo.com ([98.136.217.101])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102183417391_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:34:17 +0000
+X-RC-FROM: <kevinabramczyk@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483382040; bh=8mWsv09j7Aaq45m4tjIYV6ynevLitvmf1IkzaThi2SQ=; h=Subject:From:Date:To:From:Subject; b=Rbhw44b+EgbKMTdFI1pourYKyO57YmRgvQMBSIoSncUxYCqmPZSNtg+LqnzQK3VScnRJCUk/DvxqJdygwZ+PH3J5imr0h2BVI7/5h6vj3meobhuB43vd2uD7AjtR1F9vonp4vUKZ5RFnI15M2W8kCgoGNVa5u2f8PRTCme08Eci2FOnkjljWg02hA+wLd17rYUL/mlY1Ne8AMqhKO4tLlkKRUG6iqm65XvgVHffaQKLRgJ8nDZ5/JYZbdS9xZxgazw6dVoW9uWBLyLtD4II/ZOavb74KjgilX0OGc5Vt+4FsE82NIGltDe+XcJetk/mcaBd1hltt/NiGs/R2tJfGWw==
+Received: from [98.137.12.174] by nm24.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:34:00 -0000
+Received: from [208.71.42.200] by tm13.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:34:00 -0000
+Received: from [127.0.0.1] by smtp211.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:34:00 -0000
+X-Yahoo-Newman-Id: 475557.34117.bm@smtp211.mail.gq1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: vpthH9gVM1lmnLY.PgRYil6pnpN5FBHQUvBauTcbIJo2Ofo
+ 6dThMJHqiY.L8Wp2Y1dVQ_sTAeHphKfZ7ts0oklU7vMliG9gr_wR8SMZx8v2
+ h7_Yx.kCIecpC8S_6f4GOvhgdQuLEToDNyJfgw9WpEqYF.EkDMrlc8pxNxLB
+ Cui3eU6CJis4WMlqdu6ttbAE3QroPDVc9wU3Oafg4nUjrv7or1FXLWmtWrqT
+ 4VjUYFZFnpXT0aVG.kilzKro3tl7yMdq6iU15MRNc11KBTRfpTLnUKLbgSvL
+ Tp2nKx9FWRrZjSCYT0EPHvWcv2daq9HIqSyFFcu.tn22M.tJJqZ3hAHkhtnH
+ NramgBTIrvuhWQYxplZbZpXr5C5dG_dFaU5ZPKUcwmJJstV23REfKohHV75b
+ 1X8DYwuGk4g8QC.93Ac7wiuDMOgoURKpruuKEDPhljxpmz8IGcXj.WWQWzt7
+ A7u_mMK2ZKSl0SbqXcx4qFBUrPfTW03dL4yCyLEb3grA9UKfnhIvAMLN9Wr5
+ P_puCIeT3tL3GDF0aItv06_86MHZkZ8rEsYSLlfOZWPDlnFtIsf_xbkfloat
+ 7KpASxo.nog--
+X-Yahoo-SMTP: BOKjl_yswBDJw3NZerbt4YJuuqXVNqxxXmUg
+Subject: Name and address
+From: kevinabramczyk@yahoo.com
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPod touch Mail (13G36)
+Message-Id: <25FDEBE9-9534-4C05-9279-E67A68D947D8@yahoo.com>
+Date: Mon, 2 Jan 2017 13:33:58 -0500
+To: mcovel@trendfollowing.com
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+Kevin Abramczyk
+14987 Malcolm
+Southgate mi 48195
+
+Sent from my iPod
+

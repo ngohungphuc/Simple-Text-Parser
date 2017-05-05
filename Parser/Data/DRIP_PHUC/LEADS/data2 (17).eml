@@ -1,0 +1,73 @@
+Return-Path: <bounce-md_30115094.56fd1b1c.v1-cb1938ed6f0541e0b686e70330c6702e@click.dripemail2.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m023.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 053234019ECF5
+	for <mcovel@trendfollowing.com>; Thu, 31 Mar 2016 08:42:02 -0400 (EDT)
+Authentication-Results: p02c11m023.mxlogic.net; spf=pass
+Received: from unknown [198.2.134.12] (EHLO mail134-12.atl141.mandrillapp.com)
+	by p02c11m023.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id c1b1df65.0.1922213.00-2168.3883753.p02c11m023.mxlogic.net (envelope-from <bounce-md_30115094.56fd1b1c.v1-cb1938ed6f0541e0b686e70330c6702e@click.dripemail2.com>);
+	Thu, 31 Mar 2016 06:42:05 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=getdrip.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@getdrip.com;
+ bh=+SlQlBoP55rFrD4fbnoRBSaNwWA=;
+ b=iCKW1ADePjkT7DhSVKBAqJaS/g60XdznHDqbPaCt7+1aFr+UTq5OL8fnC9ihDHw5GFqhQneQfIc9
+   DLzGVhGK2Gr67sqUXhuZ0sC7zn4TRpFndHxQ/Ocvl9jf2a+Th46o6R5lH9XGXjQyfNaxVOSEjjGu
+   GEg7w3bvvW3hN++L/h8=
+Received: from pmta03.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail134-12.atl141.mandrillapp.com id hvkdhq1sau8t for <mcovel@trendfollowing.com>; Thu, 31 Mar 2016 12:42:04 +0000 (envelope-from <bounce-md_30115094.56fd1b1c.v1-cb1938ed6f0541e0b686e70330c6702e@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1459428124; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=h8vlh4HOkM7saZkYvhPTd7RtcHCWsvwJPOHwkOC70Z0=; 
+ b=mjzfDPJsxtdgu5UDNTwwq3W0mANQ5ExcX+VFt+J3vXxlksNs6+Le78kzVfdnYUEhdAxUok
+ poEDsLhHobH3HpM8/q2VHHilRe6njB5bxNZhL4+QZez+3yoIS+E4akfygu9yDRKC5YrOmlLo
+ faskoMtWpXh83oX3UyYtD2dZX4Zkw=
+From: Rob at Drip <support@getdrip.com>
+Subject: [Drip] aaron52637@gmail.com just triggered Authorize.net purchase --> Tag subscriber
+Received: from [54.165.149.144] by mandrillapp.com id cb1938ed6f0541e0b686e70330c6702e; Thu, 31 Mar 2016 12:42:04 +0000
+To: <mcovel@trendfollowing.com>
+Message-Id: <56fd1b1c34d02_6e3d3fb8d0f07c8811339a@ip-172-30-0-179.mail>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.cb1938ed6f0541e0b686e70330c6702e
+X-Mandrill-User: md_30115094
+Date: Thu, 31 Mar 2016 12:42:04 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-AnalysisOut: [v=2.1 cv=A5hqSviG c=1 sm=1 tr=0 b=1 a=TXtm61GhyBY8qDSz9vJt]
+X-AnalysisOut: [mQ==:117 a=TXtm61GhyBY8qDSz9vJtmQ==:17 a=pGLkceISAAAA:8 a=]
+X-AnalysisOut: [ilAcVZHiAAAA:8 a=lU03Z4yc7+u8VQHnwYB+2V2ltmY=:19 a=IkcTkHD]
+X-AnalysisOut: [0fZMA:10 a=Vp75NW7EbM4A:10 a=7OsogOcEt9IA:10 a=F-LrXtZbAAA]
+X-AnalysisOut: [A:8 a=Cx0AJ4uIj2Unb7R2ZcQA:9 a=Oy63mrDzqzFF04B3:21 a=BVbay]
+X-AnalysisOut: [6jIDVHWCM15:21 a=QEXdDO2ut3YA:10 a=f7UIP6PLeaUA:10 a=pmb4D]
+X-AnalysisOut: [aUkx9kA:10]
+Received-SPF: Pass (p02c11m023.mxlogic.net: domain of click.dripemail2.com designates 198.2.134.12 as permitted sender)
+X-Spam: [F=0.1698113208; B=0.500(0); STSI=0.500(-7); STSM=0.450(-7); CM=0.500; CY=0.50; MH=0.500(2016033111); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <bounce-md_30115094.56fd1b1c.v1-cb1938ed6f0541e0b686e70330c6702e@click.dripemail2.com>
+X-SOURCE-IP: [198.2.134.12]
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered the "Authorize.net purchase --> Tag subscriber" rule
+
+Here are the subscriber's details:
+
+Email: aaron52637@gmail.com
+IP Address: 171.207.107.211
+address: 131 Ang Mo Kio Avenue 3 07-1609
+country: SGP
+first_name: aaron james
+last_name: amado
+phone: +6583892450
+state: Singapore
+zip: 560131
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/xwyiwrdxbyissi4ejzrt
+
+Cheers,
+The Drip Team

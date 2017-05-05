@@ -1,0 +1,120 @@
+Return-Path: <reb8547@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7DD584028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:41:17 -0500 (EST)
+Received: from COL004-OMC3S4.hotmail.com ([65.55.34.142])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102194352976_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:43:52 +0000
+X-RC-FROM: <reb8547@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM01-BN3-obe.outbound.protection.outlook.com ([65.55.34.135]) by COL004-OMC3S4.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 11:43:37 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=drlwUeglzFmPDOhItXXC80SwdIlt5l6CUcVgOSMMDhA=;
+ b=QuI7mZhZ3pL/0wChTKal8N9eyYYZpVcvjmpRO3IPZxz8IIb43kTlM/lKuzoUcUXSSzTCy1EqMgWYG9IrY43i0wT1dpx+0+E53pt66FOJLyovidxQkL1BWUiHZet4EnUsmvB2nPfOPVNMFA1L76Fdp9lYKjfbfBtKQxQptcAZjkmAtWGNMP5ptTAkKzm4OJq+yAuA/LKlIL7oE8Lk5Vj7VFNNW2LoVWC3811wJ3lHSaQxlcVxQUj1ZtShltmrW5JGU2+kS3cmVR2GGaF/fKyOK7K3bvE8xL4UFIgt+3bBrzvgSDz5fSz3PFFT8slQDKI8TF4OpME4XumkuxmZ8G2pbg==
+Received: from BY2NAM01FT011.eop-nam01.prod.protection.outlook.com
+ (10.152.68.59) by BY2NAM01HT248.eop-nam01.prod.protection.outlook.com
+ (10.152.69.89) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 19:43:36 +0000
+Received: from CY1PR10MB0869.namprd10.prod.outlook.com (10.152.68.51) by
+ BY2NAM01FT011.mail.protection.outlook.com (10.152.69.196) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 19:43:35 +0000
+Received: from CY1PR10MB0869.namprd10.prod.outlook.com ([10.164.67.11]) by
+ CY1PR10MB0869.namprd10.prod.outlook.com ([10.164.67.11]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 19:43:35 +0000
+From: ronald blake <reb8547@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Forgot to give you the below information.
+Thread-Topic: Forgot to give you the below information.
+Thread-Index: AQHSZTA/I0N8Nc0bfk+O5tHzp3noJA==
+Date: Mon, 2 Jan 2017 19:43:35 +0000
+Message-ID: <CY1PR10MB0869DF5DD0D445E0D26A7FEFB46F0@CY1PR10MB0869.namprd10.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:FE2FE9B996FEDD81FA1C7968C821F8847D914EE5A0EA1EE5002106B5E69510F3;UpperCasedChecksum:570FE712FA5A91E37DCCCDE9EF9FECF2944759114116E9C96F24371FAEE730D4;SizeAsReceived:7180;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [UPrf7uH3PtO/Gr6QityGhJP4ZBDn+q/b]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BY2NAM01HT248;7:kg9DymswuPT1XlY0sL8/UD6fK9cmzw4T+abnIUvy/orcpDgTuQhzzT1IaWNJfWBXFp8WKslAQar882SR03Nh9hhmrmjqEAQ9xOYwUI6TJyD3Xs78dw+2QZ19hqStUNUMmlQUwJEGr8zy5mnePNnMbZTSwVrcgmo8720zXdpgX+J7Y3Pjje6FdRG9XfCZyUTbvWL4LBH7xJNohJ60TMxEe80JiynTqEUZc7w+o+QeIcgCH9z3P+AlzpbtoTAQZmb8+cDMQNxwN/39M7bJXPl7H9ULBHkqkYz2nhf3/y82iqm7OKjsMKGhKI/8rDwGQqodK3iiPhTZ6E1MPAjESlvXI1YfDvVgm0D6t5a+j8oHnbYUHcZkiFHxFHrv3ynwCm7v03kD2WpwhgWmw6HTjE/hAnLTl9mvSLG4O9KH1biNHaxyqRjozXIvlZOfckMYAG6Yk0uK5qNeaJY/xGg4tgVHQA==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2NAM01HT248;H:CY1PR10MB0869.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: e3085438-b4c0-4881-3d2e-08d43347a42c
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:BY2NAM01HT248;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BY2NAM01HT248;BCL:0;PCL:0;RULEID:;SRVR:BY2NAM01HT248;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CY1PR10MB0869DF5DD0D445E0D26A7FEFB46F0CY1PR10MB0869namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 19:43:35.5349
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM01HT248
+X-OriginalArrivalTime: 02 Jan 2017 19:43:37.0570 (UTC) FILETIME=[82DFB420:01D26530]
+
+--_000_CY1PR10MB0869DF5DD0D445E0D26A7FEFB46F0CY1PR10MB0869namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Michael
+
+
+I had a phone call come in that was worth a lot of money to me.
+
+
+So I rushed your email and left off my address.
+
+
+Any way, here it is.
+
+
+3150 Downing Street, Ste. 307, Denver, CO 80205
+
+--_000_CY1PR10MB0869DF5DD0D445E0D26A7FEFB46F0CY1PR10MB0869namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Hi Michael</p>
+<p><br>
+</p>
+<p>I had a phone call come in that was worth a lot of money to me.</p>
+<p><br>
+</p>
+<p>So I rushed your email and left off my address.</p>
+<p><br>
+</p>
+<p>Any way, here it is.</p>
+<p><br>
+</p>
+<p>3150 Downing Street, Ste. 307, Denver, CO 80205</p>
+</div>
+</body>
+</html>
+
+--_000_CY1PR10MB0869DF5DD0D445E0D26A7FEFB46F0CY1PR10MB0869namp_--
+

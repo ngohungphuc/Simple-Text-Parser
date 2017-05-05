@@ -1,0 +1,70 @@
+Return-Path: <rkelly89@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7228F4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:16:49 -0500 (EST)
+Received: from resqmta-po-05v.sys.comcast.net ([96.114.154.164])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102201945833_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:19:45 +0000
+X-RC-FROM: <rkelly89@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-po-18v.sys.comcast.net ([96.114.154.242])
+	by resqmta-po-05v.sys.comcast.net with SMTP
+	id O93ucl6mIMqbUO94zcJGHi; Mon, 02 Jan 2017 20:19:37 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483388377;
+	bh=mWDYKQje2UIvPl16yU8yQr6Mp+RvfQzTUU7StQ0vx0Q=;
+	h=Received:Received:Date:From:To:Message-ID:Subject:MIME-Version:
+	 Content-Type;
+	b=TRRbTP+SJ0zDZ6uFVYCC1x8NQHDN7O1noxeUyYdnBqQ1d9OmzbF/Lo+XCcnbT4Cku
+	 ZG1H2Z5NqDDmU5IfqSNmYHi8SQj2lKSQ0ZVpB6QdTZhCfPTB3cZu9HUgI9uS6UKd2x
+	 cSmb3xRUB9idQJ7qHnLpCByY6dkI81qVzz2xaRn8w8bUF6MbLVxVqVK4DSptWPIDt7
+	 e6nZhsgWxnuKUZOgEeFVphfGX2iH2HFT9ThRMgB1Hu0RK7g7ZwTZGXW6gga6XekouC
+	 dvxiASd5th8MXoCwSS9k3a0S1yaYuVtq6EQj/eXVm1AFxiyXiOul/uVC6WDi40xohN
+	 ILZ5WGB79V+mw==
+Received: from resmail-po-326v.sys.comcast.net ([162.150.177.81])
+	by resomta-po-18v.sys.comcast.net with SMTP
+	id O94zcCrGtMpBeO94zcJXw3; Mon, 02 Jan 2017 20:19:37 +0000
+Date: Mon, 2 Jan 2017 20:19:37 +0000 (UTC)
+From: rkelly89@comcast.net
+To: mcovel@trendfollowing.com
+Message-ID: <856447118.102092619.1483388377179.JavaMail.zimbra@comcast.net>
+In-Reply-To: <1394318179.102086648.1483387929919.JavaMail.zimbra@comcast.net>
+Subject: address
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_102092618_1853911863.1483388377178"
+X-Originating-IP: [2601:2c7:300:4ec0:1884:bc40:1d93:b796]
+X-Mailer: Zimbra 8.0.7_GA_6031 (ZimbraWebClient - GC55 (Win)/8.0.7_GA_6031)
+Thread-Topic: address
+Thread-Index: bRuO6/jjJvz/UCcjWgsXGLdKRhY04Q==
+X-CMAE-Envelope: MS4wfFsklE/5aUe/YAvM96Gn0EoIkCSzvz6trdJ+QqaObMBy2vM86Uk3Byj/VftUs3CxA9zKyjl5PskTDWy9Bwz5s1UueuU3VuCNiLQKDFaVk94UWsEZsN2n
+ hig/xa9xfzxCUpDYv8uE6E42v1Zwmgit87uyBtJo51sh7F8+DH4HLjJkjU/LLNnG7QalB47gu0LjMV59szHMEKU12X0rL+MIPbY=
+
+------=_Part_102092618_1853911863.1483388377178
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Robert Kelly 
+6702 Moccasin Bend 
+Spring, TX 77379 
+rkelly89@comcast.net 
+
+Michael, 
+
+I have enjoyed my subscription as well as your political and economic essays. Wishing you great health 
+and continued success and prosperity going forward. 
+
+Best regards, 
+Robert Kelly 
+
+------=_Part_102092618_1853911863.1483388377178
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: Arial; font-size: 12pt; color: #000000"><div aria-label="Compose body">Robert Kelly</div><div aria-label="Compose body">6702 Moccasin Bend</div><div aria-label="Compose body">Spring, TX &nbsp;77379</div><div aria-label="Compose body"><a href="mailto:rkelly89@comcast.net">rkelly89@comcast.net</a></div><div aria-label="Compose body"><br></div><div aria-label="Compose body">Michael,</div><div aria-label="Compose body"><br></div><div aria-label="Compose body">I have enjoyed my subscription as well as your political and economic essays. &nbsp;Wishing you great health</div><div aria-label="Compose body">and continued success and prosperity going forward.</div><div aria-label="Compose body"><br></div><div aria-label="Compose body">Best regards,</div><div aria-label="Compose body">Robert Kelly</div></div></body></html>
+------=_Part_102092618_1853911863.1483388377178--
+

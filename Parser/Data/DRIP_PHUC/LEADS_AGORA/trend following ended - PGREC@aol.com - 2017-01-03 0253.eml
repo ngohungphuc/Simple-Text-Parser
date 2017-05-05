@@ -1,0 +1,64 @@
+Return-Path: <pgrec@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6C41F4028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:50:26 -0500 (EST)
+Received: from omr-a014e.mx.aol.com ([204.29.186.62])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102195323435_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:53:23 +0000
+X-RC-FROM: <pgrec@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aaj01.mx.aol.com (mtaomg-aaj01.mx.aol.com [172.27.3.207])
+	by omr-a014e.mx.aol.com (Outbound Mail Relay) with ESMTP id 99CE5380004D
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:53:21 -0500 (EST)
+Received: from core-aba02g.mail.aol.com (core-aba02.mail.aol.com [172.27.22.2])
+	by mtaomg-aaj01.mx.aol.com (OMAG/Core Interface) with ESMTP id 7285138000087
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:53:21 -0500 (EST)
+From: PGREC@aol.com
+Full-name: PGREC
+Message-ID: <8e4440.530469aa.459c09b1@aol.com>
+Date: Mon, 2 Jan 2017 14:53:21 -0500
+Subject: trend following ended
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_8e4440.530469aa.459c09b1_boundary"
+X-Mailer: AOL 9.8 sub 1012
+X-Originating-IP: [98.118.159.208]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483386801;
+	bh=rmEHLzrNXYkknFUatfVWqHzdNrrMYH3GG3N28S2IKjU=;
+	h=From:To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	b=l3pwocdbKHDigmWfB3Biby9MpipMeSLOP2T9KOdrnfk+nbTmeOT8B0ag34BRIFoSM
+	 nrmmh6b4wjEnj7Aykc8scfD/JnizZhHfu8x7jaIL5qe2DJhXFSei7cushfo6T5jrm4
+	 ei4kKOZoXl7m0ikH0abByRtpBwzewkucWWr/xSFY=
+x-aol-sid: 3039ac1b03cf586aafb117e0
+
+--part1_8e4440.530469aa.459c09b1_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Peter Greco
+179 Sprucewood Terrace
+Buffalo NY 14221
+--part1_8e4440.530469aa.459c09b1_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3DUS-ASCII" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<BODY id=3Drole_body style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; COLOR:=
+ #000000"=20
+bottomMargin=3D7 leftMargin=3D7 topMargin=3D7 rightMargin=3D7><FONT id=3Dr=
+ole_document=20
+color=3D#000000 size=3D2 face=3DArial>
+<DIV>Peter Greco</DIV>
+<DIV>179 Sprucewood Terrace</DIV>
+<DIV>Buffalo NY 14221</DIV></FONT></BODY></HTML>
+--part1_8e4440.530469aa.459c09b1_boundary--
+

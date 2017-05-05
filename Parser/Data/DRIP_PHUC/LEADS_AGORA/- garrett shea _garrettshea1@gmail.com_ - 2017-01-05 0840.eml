@@ -1,0 +1,59 @@
+Return-Path: <garrettshea1@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3A1424028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 20:37:55 -0500 (EST)
+Received: from mail-vk0-f49.google.com ([209.85.213.49])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170105014050705_0459
+          for <mcovel@trendfollowing.com>;
+          Thu, 05 Jan 2017 01:40:50 +0000
+X-RC-FROM: <garrettshea1@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f49.google.com with SMTP id x186so294882401vkd.1
+        for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 17:40:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=o5PkEx61KDCBttPas7uqABjIFKh3D9JaF0gliU8zeaQ=;
+        b=eLh6VkwjiQP9JFq/WtzpkvhTn2JwgT42IBvahl00M6A2dMyuq1/TNx7TFx9TRRdbhI
+         SXLk36tq/5S4WI3uU3Ms+WoO2eWu6Wla7AXGuDQwT5eCuf/UPLVpLx4W1+laNgfOwFuI
+         hrfe/ikXct2T9e9HVqrOXFIzCBp2kwm3gfnWzgd/48d6Rm+vcqr/5KJDIOpYFd5JpO8r
+         Q0bQegh1t/TM74pJnsAgMMdDIfgcsa6loCCHbaUJAgMs3bNDRxiLDypE7nlwwld74H4G
+         2Cy60jUYB+d7lXeX1xLHBOiSUlM4Ljs5PyOSbSYEdOHPagoPaBA6GZHpi50xKc8AWc/n
+         ldjA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=o5PkEx61KDCBttPas7uqABjIFKh3D9JaF0gliU8zeaQ=;
+        b=OR8BA+pCE7TmhE1hoTCqI3zON+vOgbVVsemNRuLXtS6NZq+80L2ZP/jCXRPY5lA0o+
+         Nr9zitl8X0bVNmpQ6cdFSaBImEWnsdsIFFtCVNNwe7FfqOn72YsarYGj/zppQWfLLlnP
+         StvBdKEgLdfcs1XffClBdswOcJPurp0rnlu5PzyQJKy52uk59adbfriRHBIfM4AN9zuw
+         N3mz419lsI5hssqDQ5bObTXpmikdKsJlSSZj34snp8pIQPb9jR6naQJymI/HCDJw7XsC
+         nGSAsdvBBSzdbuCY2gxd7XyjTdNE0XVOOzWLt3vllpMfTxRMfsfrM6gCygEt43kRsls4
+         FmaA==
+X-Gm-Message-State: AIkVDXL/UnCa8joIFo55D+8YzGp+y/BPDTIEHPQOXHm3efq53jv9gwXT0inXqmIoCqK9vSqEcymNzaVZAnTWKg==
+X-Received: by 10.31.86.132 with SMTP id k126mr24690497vkb.8.1483580444771;
+ Wed, 04 Jan 2017 17:40:44 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.159.34.112 with HTTP; Wed, 4 Jan 2017 17:40:44 -0800 (PST)
+From: garrett shea <garrettshea1@gmail.com>
+Date: Wed, 4 Jan 2017 20:40:44 -0500
+Message-ID: <CAHQmr3hjUvbeXVryS3ttLgD8Zck2bezYxAa6U9P2EO-5b=feFA@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114e63c2680a6b05454efd1a
+
+--001a114e63c2680a6b05454efd1a
+Content-Type: text/plain; charset=UTF-8
+
+
+
+--001a114e63c2680a6b05454efd1a
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br></div>
+
+--001a114e63c2680a6b05454efd1a--
+

@@ -1,0 +1,74 @@
+Return-Path: <endure@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7B2704028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:37:48 -0500 (EST)
+Received: from mail-lf0-f54.google.com ([209.85.215.54])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103004044712_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 00:40:44 +0000
+X-RC-FROM: <endure@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f54.google.com with SMTP id y21so277017698lfa.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 16:40:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=AdICufsEneXKmRi8RdWauO+wcW3LsmfpBui5qoe2wCA=;
+        b=eZk+78y4gfBCzQmeru5I5TokeFPHyVSf4Hmlzyq8WkLHFpLjX78ueXqqa84Zm2WuHh
+         +C/gTXGEUxHoHZPDC6SOSqIbqlIP0zd2Mwzwzni8+l6TYTI2AsbVkQ/whSWizNn7RKic
+         837yDuIEPE8FT+gJY1lfnUoSXVEQZRdDfNmKYKwPBXj19UedA7oWxwd9RYC/PbiE5UB8
+         GnbUrJhsXSnvDnKHoe9lIT1/vby3QlM41WYd+p0a/nZPHF4mmM9isxEmDJFfMfrVk+c8
+         9F1Mx52M9/aVOlPtGlxBmnx82zHynAg85/Cc+s2yQ2Nxo4Cfan4tEpfX76ouhGAC9I9N
+         vDlg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=AdICufsEneXKmRi8RdWauO+wcW3LsmfpBui5qoe2wCA=;
+        b=BmUCK2Upm4vwxtBqj61IBEsxCHQDdJholE7cCnAZmX9aspMrZiwSv0ei+7dQStYnXE
+         UmcoIuNQ3c5CTUdsGk7VOqE1OdUadjIkdwBlsaV5jQ+cB0ckTZBL9vkfG40aLdrMrEen
+         BGXuRAPNYXHEbdxDrI9d4IyifIgsy9UL24VIOR4eggFP56pQXx2dJJ3QaT4w8Esx4m/W
+         QniXq/uh0FfZAUV8uloSVysNI5pqzZm1XyXC1t6Mq/OFjgt6LkVPvjZA2YOxegxb8o1Y
+         5DHSJU3Xz7DYX51U1KfFt1z9KiVuD9TiZjMfjITQ/xU351CDOzoQaPV6f6gjjR1xGn2V
+         dDAA==
+X-Gm-Message-State: AIkVDXIqGKZeQO6u+qAA4Ntgp1slD+h/TjysQNRvNKlRdQpeP5Y9knOiqGSDKEU0FPOa39wVadlP+7OBgX4R/A==
+X-Received: by 10.46.70.17 with SMTP id t17mr22076446lja.38.1483404038225;
+ Mon, 02 Jan 2017 16:40:38 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.28.135 with HTTP; Mon, 2 Jan 2017 16:40:37 -0800 (PST)
+From: Leslie Terada <endure@gmail.com>
+Date: Mon, 2 Jan 2017 14:40:37 -1000
+Message-ID: <CANk+3BvgS9EyZaaFjvxQe5RK9ttNgQ=j9xLcRazfwqHgS1SnPg@mail.gmail.com>
+Subject: trend following paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=f403045f789ec1c2e0054525ea51
+
+--f403045f789ec1c2e0054525ea51
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael,
+
+I would much appreciate a copy of your trend following investment paper.
+Here are my details.
+
+Leslie Terada
+PO Box 4064
+Hilo, HI 96720
+
+Thanks,
+Leslie
+
+--f403045f789ec1c2e0054525ea51
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Michael,<div><br></div><div>I would much appreciate a c=
+opy of your trend following investment paper. Here are my details.</div><di=
+v><br></div><div>Leslie Terada</div><div>PO Box 4064</div><div>Hilo, HI 967=
+20</div><div><br></div><div>Thanks,</div><div>Leslie</div><div><br></div></=
+div>
+
+--f403045f789ec1c2e0054525ea51--
+

@@ -1,0 +1,54 @@
+Return-Path: <goberfm@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 321D940292249
+	for <mcovel@trendfollowing.com>; Sat, 14 Jan 2017 09:10:03 -0500 (EST)
+Received: from resqmta-ch2-04v.sys.comcast.net ([69.252.207.36])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170114141258745_0459
+          for <mcovel@trendfollowing.com>;
+          Sat, 14 Jan 2017 14:12:58 +0000
+X-RC-FROM: <goberfm@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-ch2-15v.sys.comcast.net ([69.252.207.111])
+	by resqmta-ch2-04v.sys.comcast.net with SMTP
+	id SP4OciA7wGIgtSP4fcaXqB; Sat, 14 Jan 2017 14:12:53 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1484403173;
+	bh=xwrQfNOilXgwJp1qajyNtjCHfabpV7PJFwcZfop9ZV0=;
+	h=Received:Received:From:Content-Type:Subject:Message-Id:Date:To:
+	 Mime-Version;
+	b=kAoAz9kA89jpF4dyKdfFDfuibZJZkRv11d36lVix6zZYEgI5cvirh11+DelPK2w06
+	 veMp5aiwncP+vHezH9Hosu7d1r67TJxsM1fxFGYQ2y+MC8ZBjzWNDsJfhtLX96nB87
+	 P0M41eJBGjaAnUSqqCpaP33PVfLdOg8U9wn2WWd1y3THY4OlKJ17VSHq+2iWhAEnRF
+	 wwRq2vcYut6+SkHcr2kE7CnlqI0vBKv6NACnw5svLpcYEln7q6Cug93GhX/2lA3pYe
+	 h7zmkAfIy6ORZ0cuD4ELs64nQeWAc+XYUgUTOXW1mcJI19ZC9R5AiBgiT32S9K2ykm
+	 JcF66buBLuQ8A==
+Received: from [10.0.0.27] ([69.243.9.231])
+	by resomta-ch2-15v.sys.comcast.net with SMTP
+	id SP4ecSqbOwcMxSP4ecMv88; Sat, 14 Jan 2017 14:12:53 +0000
+From: Fred Gober <goberfm@comcast.net>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Subject: Trend Following
+Message-Id: <B3EAA407-CCAC-4954-8491-C9F09CB89010@comcast.net>
+Date: Sat, 14 Jan 2017 09:12:51 -0500
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+X-Mailer: Apple Mail (2.2104)
+X-CMAE-Envelope: MS4wfLu9gYlBJEHuKfWsgb6UMuiI6+PFCiH1aDllOU3IPACXT0Atr+qrGUNsck3GsFuSQgVxsZ9NxVwFdwuBrbb/hbc+3olShIQ8FoojQ6MlbKxpc6bifmK6
+ ii1jwzbOg/xQOOHY3tTBWCuQryC3lu5womTYEk5QlBpIAk3bazZQ5gut
+
+Michael
+When Trend Following 1st came out I followed your initial =
+recommendations to buy ABX, HL etc. I logged a nice profit. Thinking you =
+were an actual winning stategy unlike all the BS like Cash Clock/ =
+Calander etc I invested in the initial Vertical Trade recommendations. =
+Thinking these were your recommendations I invested about $50K, my =
+initial Trend Following trades plus the gains and lost $50K. Not sure =
+why you departed so quickly from Agora, but am interested to see your =
+recommendations to see if your for real or just another hyped marketer.
+Thank You,
+Fred Gober=
+

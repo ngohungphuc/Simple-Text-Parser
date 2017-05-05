@@ -1,0 +1,99 @@
+Return-Path: <evan.ten.kulve@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C760840292241
+	for <mcovel@trendfollowing.com>; Sun,  8 Jan 2017 15:59:42 -0500 (EST)
+Received: from mail-io0-f172.google.com ([209.85.223.172])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170108210233966_0659
+          for <mcovel@trendfollowing.com>;
+          Sun, 08 Jan 2017 21:02:33 +0000
+X-RC-FROM: <evan.ten.kulve@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f172.google.com with SMTP id f103so70308041ioi.1
+        for <mcovel@trendfollowing.com>; Sun, 08 Jan 2017 13:02:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=WlrClp0nECdvEOA4OKsB7KwXuRHQ24VuUXeiL5gndwA=;
+        b=YKxwxAbuAU0ywaBQxoBI9YLJS1tEVKIrSpTIYIdcFJdcwCycT9RrSDXzuK9Cr205AK
+         4hDQagR/ztu3FvszZf/nE3CcZbiOVqXmt18w1BjrnwiY4q1Qrz5pqGqPKQnTtM8lMP08
+         TLQatxsv+TczwbpQLa5vsvaOfD3cOSs5Z4VSroVA1P9NmLi3j7GThiJcPUZynbP/rGVn
+         UbUyKbj1GW4yh4IebLYI9lyQMbeLZ3Fti3QXVX9JXBVFIk50Vr5rRMQRDsyakOlBu5qS
+         g9Nnj93RsrNazZALUauMb6k1d8+mhvQrUHus7h054XDsbHkDtlvajcmKPMtr0J17tfxq
+         qVyw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=WlrClp0nECdvEOA4OKsB7KwXuRHQ24VuUXeiL5gndwA=;
+        b=N675NBQlQCJSmY1cgscLprS+ELQgLFd5asJNapBlwJho6p6Xi3J7geRh+LtPoNoF1l
+         2opmr//TQRrIjSFUJBI1Mi2FVifXfryqaf79WilmsKK6Ipm4W8+rnFTI/YWuitH/6/rF
+         7B8f5JXtn24IdtT6n1kyy/5LIlsifcINkCrt+nl+4lFqGJFBICmwW/BwA8xvf50a8Wat
+         K943+a+K27US9ojC1XXq9qYi/hKW5131jqi6qzmNfe7lUU1R9tWEB53M3HtcT1EI/k/R
+         NqKAWym4tuo7Rx0h6mlos+9+q77C6TlfyKFSRluNE9EvNVpVatBYnbDVmGE8inLzIRVo
+         iI2g==
+X-Gm-Message-State: AIkVDXK97JXZAShn+d9rPyAPqIGb1sj/raXKj3+8r1lMzoarDlSCxIbc8386idheA+goHy8ZCtd/7byuY5YS9A==
+X-Received: by 10.107.24.196 with SMTP id 187mr68566504ioy.81.1483909347720;
+ Sun, 08 Jan 2017 13:02:27 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.36.66.197 with HTTP; Sun, 8 Jan 2017 13:02:27 -0800 (PST)
+From: Evan ten Kulve <evan.ten.kulve@gmail.com>
+Date: Sun, 8 Jan 2017 22:02:27 +0100
+Message-ID: <CAK5wQDLpEmCVdHm8zjthFaL-0mTNC4p+qv-nmE==iCYNkcGE2Q@mail.gmail.com>
+Subject: Trend following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0591ea8cc50805459b910d
+
+--94eb2c0591ea8cc50805459b910d
+Content-Type: text/plain; charset=UTF-8
+
+Dear Michael,
+
+Thank you so much for your insightful 'Trend Following' newsletter and
+podcasts of the past year. I had a lifetime Trend Following subscription
+with Agora, and was unpleasantly surprised this week that it had come to a
+premature end. Especially since your portfolio recommendations did rather
+well for me while some of my other subscriptions to Agora have resulted in
+significant losses so far.
+
+You really got me hooked to the concept of trend following. So much so that
+I am reading your book 'The Complete TurtleTrader', so I can apply its
+principles to my investments in the local (Dutch / European) market.
+
+I would very much like to receive the investment paper you mentioned in
+your goodbye message. I would prefer to receive it by email, but if you
+ship only physical copies my name and address are:
+
+E.L. ten Kulve
+Karveel 34-07
+Lelystad, 8231 BL
+Netherlands
+
+
+Best regards,
+Evan ten Kulve
+
+--94eb2c0591ea8cc50805459b910d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div>Dear Michael,<br><br>Thank you so much=
+ for your insightful &#39;Trend Following&#39; newsletter and podcasts of t=
+he past year. I had a lifetime Trend Following subscription with Agora, and=
+ was unpleasantly surprised this week that it had come to a premature end. =
+Especially since your portfolio recommendations did rather well for me whil=
+e some of my other subscriptions to Agora have resulted in significant loss=
+es so far.<br></div><br>You really got me hooked to the concept of trend fo=
+llowing. So much so that I am reading your book &#39;The Complete TurtleTra=
+der&#39;, so I can apply its principles to my investments in the local (Dut=
+ch / European) market.<br><br>I would very much like to receive the investm=
+ent paper you mentioned in your goodbye message. I would prefer to receive =
+it by email, but if you ship only physical copies my name and address are:<=
+br></div><div style=3D"margin-left:40px"><br>E.L. ten Kulve<br>Karveel 34-0=
+7<br></div><div style=3D"margin-left:40px">Lelystad, 8231 BL<br></div><div =
+style=3D"margin-left:40px">Netherlands<br></div><br></div><div><br></div>Be=
+st regards,<br></div>Evan ten Kulve<br><div><div><br></div></div></div>
+
+--94eb2c0591ea8cc50805459b910d--
+

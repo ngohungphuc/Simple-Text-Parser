@@ -1,0 +1,110 @@
+Return-Path: <jcmarkle@sbcglobal.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CB86A4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 20:27:42 -0500 (EST)
+Received: from nm13-vm1.access.bullet.mail.gq1.yahoo.com ([216.39.63.11])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103013022884_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 01:30:22 +0000
+X-RC-FROM: <jcmarkle@sbcglobal.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sbcglobal.net; s=s2048; t=1483407007; bh=h9Kvt7ZYjwwAOrU8VHPuRPUEDUltsKh7M74SuXWpHUc=; h=From:To:Subject:Date:From:Subject; b=Lw9oe7JlXUNlv6MwWj/z47bHAlW2rsKBsmHZBQfzXuusWzPbj81oxFTkcfBWYplM5Ua0BV+Nw+lEV5UJMSusCLQLjGgmyiMxNBv8Ae0881loPFaMoFKczxA8nWDb5oBusZCvN1Fa5SHiGGkmyUjg+jmCLjEU9ookTswHU9IzEuq0OpbiuEa6AzvgCO4tTFLwti1a1noPPRNpERuaD9qQWcLw7BBbSEIV+ENx7mxQJn6sSBKx5/UU5vNtfP97jqRK6a2TAYQsnifGAuxAZjPrGPy3EJY++8jLK8MiNf6ZiY0SXv8yJWR2UNzk3K3Tf6ljyjYXfEFlqGyP7DRl+pyXoA==
+Received: from [216.39.60.167] by nm13.access.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 01:30:07 -0000
+Received: from [67.195.23.144] by tm3.access.bullet.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 01:30:07 -0000
+Received: from [127.0.0.1] by smtp116.sbc.mail.gq1.yahoo.com with NNFMP; 03 Jan 2017 01:30:07 -0000
+X-Yahoo-Newman-Id: 914645.83327.bm@smtp116.sbc.mail.gq1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: p2eVSJYVM1mrbkc9tp6ytKAR0ieQUWXnGAaMB2JjJI7LnPl
+ Tw6H.89p2IVS29PZaPSwCH3YBr411kUBUBahBtIWPbt9McaD3DrSTSYb0bG7
+ 8TjOqKei97kzVIJmnaXgX0MfOiErz80gVXuMB0O2cJjBdVl51A5K4A0efIBw
+ nyP9xI8ZySqvsynFf6kyO1laIC1ttZtX_U0dZvOEDHMNMipUktWTgzmMNvJa
+ YjqcQkHxPeZaldYVyYQVbxch0FQaRDcQg6D8INKvvEihC5a2lzrrqoYBuOfv
+ GaN5wn7cNgAZYEm7CGqbW0ye8ggyiCAiifqSCXWDc9umTPxnC0fNOOSR3.TH
+ 53153o4bKBB_8kghdSjCE3a5umGu0nDeUutmsc7pGTr3IGiS8xU_PlDpKUpu
+ uZSQpeq8M79WriRue2zIdXn.MN.QO_afuc.jyP.KpTE6h6TKbsVgSjvffyuq
+ jvqUwQyy7dQZk.n79NN309kMoKM96GP50xF2_Hpu_jZ2Bwpgqbo.KpOVkIxP
+ pE28TWUDZW34QSVy1kYI1b5SHN9K4N81lLrBTs6unvOnpexnKDzhF_Pnh2sp
+ 05ZERCvz0Gg--
+X-Yahoo-SMTP: P9PDjwyswBCgm_PjYQbISW7rucQ9SHaS6636UNkkRozZEcw-
+From: "Jim Markle" <jcmarkle@sbcglobal.net>
+To: <mcovel@trendfollowing.com>
+Subject: Follow up to Trend Following Newsletter
+Date: Mon, 2 Jan 2017 17:34:33 -0800
+Message-ID: <002101d26561$895ef320$9c1cd960$@sbcglobal.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01D2651E.7B3C2850"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdJlYYCwUe8KDq3rSBOiHUbJg4RQ2g==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0022_01D2651E.7B3C2850
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Jim Markle
+
+
+------=_NextPart_000_0022_01D2651E.7B3C2850
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Jim =
+Markle<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0022_01D2651E.7B3C2850--
+
+

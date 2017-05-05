@@ -1,0 +1,80 @@
+Return-Path: <backlundc3@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C66B64028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:17:53 -0500 (EST)
+Received: from mail-qk0-f194.google.com ([209.85.220.194])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102212051236_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:20:51 +0000
+X-RC-FROM: <backlundc3@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f194.google.com with SMTP id h201so47465012qke.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:20:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=kT9UeCKOOlzDjuCpaJ8hkpHK37+3Xmrexc9RODsUiL0=;
+        b=a8TgV7kDex1oSock205LrYrCR9xgj2uOguOGkaQEN72kd04j+KGyztA6OzVnHzohXS
+         rVd0Y0dXr8RvgmuVy2ArSDP3275S5CVrpW3XDuMKNN2WsHMV4sranoKrgMEtEhUc3qv0
+         +w0pXSOpvfetqD2KTdIE36XnKRLwpx2YyltLXJXwkX8NVHbqFThsEJvAnfDFnAod6hiN
+         n8lq1fzB7fwV8lsPB03xUH6oTJOnKRB3TE7ZeCFTTYNixjGLpxePILfke/CPviWaaXbA
+         ututYnQACnLkdoeKVcpxJMOWTxF5OIj6/HefKEyyDlEUWANZGbE+yQyxfxVeC6ibktwX
+         Tyew==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=kT9UeCKOOlzDjuCpaJ8hkpHK37+3Xmrexc9RODsUiL0=;
+        b=KOiapgqb7YQ++sN/LLf70rKN1iIEq/2IfZIpunGQyYfSqXqVrYYsreKRfYtxdqXkrz
+         ZHO3XqaYK7NKdmBMaChJyA2kiVcsiqjtPuJk4sDrN4pfhwUW9ansGJikWnGId9FqHAK2
+         K7XSDT6F9HXetLb8R1wmTpwhc+3UF6BySI57mAAN3qqOMzs/6bJSVWHE26/YcBDSZO15
+         VY6YIMmC6oCL9gjdbSA7R/6z8xtmuYtWFZkefTEeMxE0z7lSxerOLWMNiuQ8XUDrqAMM
+         8YlKUp0zhqoTOI4lipTtiNi+Mmo7V09gV+RXKVw1RZ8T3TXCfOA7RLDGmoYJFqWRIk5c
+         OnvA==
+X-Gm-Message-State: AIkVDXKVE+W7J3uSONrgOBoK+CaTeBtyWY1V/e7Fafc/582EzrAhXbYV0CwWdbheDKZHQAbenLSLyIqsjRhUbg==
+X-Received: by 10.55.45.129 with SMTP id t123mr48500269qkh.311.1483392045717;
+ Mon, 02 Jan 2017 13:20:45 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.200.48.59 with HTTP; Mon, 2 Jan 2017 13:20:45 -0800 (PST)
+From: Carol Backlund <backlundc3@gmail.com>
+Date: Mon, 2 Jan 2017 15:20:45 -0600
+Message-ID: <CAGf_744Uo40moQx_=YqrpDe6P62mVSf19_JpH7wFC1EW6HVroQ@mail.gmail.com>
+Subject: Trend Following Investment Paper offer
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114f42fcf29f130545231fa3
+
+--001a114f42fcf29f130545231fa3
+Content-Type: text/plain; charset=UTF-8
+
+My permanent address is:
+Carol Backlund
+8651 Zenith Road
+Bloomington, MN  55431
+
+Temporary address until March 23, 2017:
+1401 McCulloch Blvd. N., Unit #52
+Lake Havasu City, AZ  86403
+
+(Temporary will get it to me the fastest, but the permanent address is
+being forwarded as well.)
+
+Thank you!
+Sorry things didn't work out as planned with Trend Following.
+
+--001a114f42fcf29f130545231fa3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">My permanent address is:<div>Carol Backlund</div><div>8651=
+ Zenith Road</div><div>Bloomington, MN =C2=A055431</div><div><br></div><div=
+>Temporary address until March 23, 2017:</div><div>1401 McCulloch Blvd. N.,=
+ Unit #52</div><div>Lake Havasu City, AZ =C2=A086403</div><div><br></div><d=
+iv>(Temporary will get it to me the fastest, but the permanent address is b=
+eing forwarded as well.)</div><div><br></div><div>Thank you!</div><div>Sorr=
+y things didn&#39;t work out as planned with Trend Following.</div><div><br=
+></div></div>
+
+--001a114f42fcf29f130545231fa3--
+

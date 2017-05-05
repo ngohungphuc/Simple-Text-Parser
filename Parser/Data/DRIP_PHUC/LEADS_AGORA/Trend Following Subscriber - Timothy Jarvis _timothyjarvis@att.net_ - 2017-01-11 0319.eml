@@ -1,0 +1,54 @@
+Return-Path: <timothyjarvis@att.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2116940292257
+	for <mcovel@trendfollowing.com>; Tue, 10 Jan 2017 15:16:35 -0500 (EST)
+Received: from nm25-vm9.access.bullet.mail.bf1.yahoo.com ([216.109.115.200])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170110201930796_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 10 Jan 2017 20:19:30 +0000
+X-RC-FROM: <timothyjarvis@att.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=att.net; s=s1024; t=1484079565; bh=lNsYDi7RD4F4maobG7lAsFXLrLJu911kcZQtBSV5HYk=; h=From:Subject:Date:To:From:Subject; b=jkBUdAYGIJ5d3vhB7UCD6QAmG97mQPNjRd7So7f3tGIVEM6PLfqHJd0LNZ3fasPto5QKJdK5A87Qzx2Et1pQgAzlqxUBX7I3MVi3FIEt7x1ENUFpdWMsN+Zgd58l84HjEMqJdCbjTNkaqzc2FaSX/e3CgXUiy7tJf6Fdp326yfc=
+Received: from [66.196.81.166] by nm25.access.bullet.mail.bf1.yahoo.com with NNFMP; 10 Jan 2017 20:19:25 -0000
+Received: from [98.138.104.97] by tm12.access.bullet.mail.bf1.yahoo.com with NNFMP; 10 Jan 2017 20:19:25 -0000
+Received: from [127.0.0.1] by smtp117.sbc.mail.ne1.yahoo.com with NNFMP; 10 Jan 2017 20:19:25 -0000
+X-Yahoo-Newman-Id: 225743.26020.bm@smtp117.sbc.mail.ne1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: Gh.qHf8VM1lOBDYxTdjeUSGerneWuRo9W7MJutxCJGmVxwI
+ MBFx5h_AsO0VevWLt4c8ZGqUEJg.Mi0qIz.SReav_pHUW5RwMYTN8s9GZDDF
+ 37CNxTv4A7Aj72LOTwJvcePvM9dCDOWwymkQlHODUPi7BccY_qGNe8GjFdOL
+ PkGQiV7RQ6WMA.F60O3pQKTxBDauTqTQHoI41hbSnS7gA85Gzue_VRexeltb
+ zuzg33TtQ8SIRPJhLBiPyAdONTlZ1sConcyTNuY8uW1uMbbbim5wBWU5PMYt
+ fBl4HvqU7fe5KTIMEWW6kvjwGpNMnplqQfZXRKMnAJHX.IkrwW8IQdnznRsn
+ e4yQ3S1cyTyel.qvTe5x5CtaFbCiZWG26loMX3YD2E04BrSWlI4.5DGIHdJ5
+ hMDygs466.MPFkiVUqzycjNXkQqUcREE3LU1d95bq6QtZQICuuveo6WdGEQL
+ OXyqKTqnmb2qGIdd58SMtWd4gXLWo8_pcOBhsTFmR0l_d2umZRn.SQhieg5l
+ PhVz_0xgeHklKAzURzHnv0zoQtpVAPPlJCP.YqoTrD83aLwl4Gt6UY59E
+X-Yahoo-SMTP: XWmo7tmswBBjw61BCqQLq0jVUvtXWBZpwo7nuvLmePS7jA--
+From: Timothy Jarvis <timothyjarvis@att.net>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Subject: Trend Following Subscriber
+Message-Id: <B8480E56-0C83-4C99-BBA4-825D7290AE57@att.net>
+Date: Tue, 10 Jan 2017 15:19:24 -0500
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+X-Mailer: Apple Mail (2.2104)
+
+Michael,
+
+I=E2=80=99m so disappointed to lose you as an editor at Agora.  Your =
+Trend Following newsletter was the only one that actually helped to =
+increase my account balances and your insight has been immensely =
+valuable.  I guess it=E2=80=99s easier to sell subscriptions for Trend =
+Forecasting than it is for Trend Following.  Nonetheless, I still enjoy =
+listening to your podcasts and would appreciate a copy of the investment =
+paper mentioned in the announcement.  Below is my address. =20
+
+Timothy Jarvis
+620 W Breckenridge St.
+Ferndale, MI 48220=
+

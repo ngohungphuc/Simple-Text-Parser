@@ -1,0 +1,59 @@
+Return-Path: <j.darrah@comcast.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 32B804028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:36:25 -0500 (EST)
+Received: from resqmta-ch2-04v.sys.comcast.net ([69.252.207.36])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102183922329_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:39:22 +0000
+X-RC-FROM: <j.darrah@comcast.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from resomta-ch2-20v.sys.comcast.net ([69.252.207.116])
+	by resqmta-ch2-04v.sys.comcast.net with SMTP
+	id O7VccREtSGIgtO7Vmc4OVD; Mon, 02 Jan 2017 18:39:10 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483382350;
+	bh=9VzLfzLI+Y+IO68P05HvO1m1DNBJeJjMG0OBU7s/y/g=;
+	h=Received:Received:Date:From:To:Message-ID:Subject:MIME-Version:
+	 Content-Type;
+	b=JnzsHt81qx2KAOWtiOCTfE0inzXttyAtUgRYnWbuag7CHenLR0PlZ398Rv5HjIcR0
+	 WwnHM+j52tSMMJ1WvckRFSSUCdkamrulcemeQ1z7mnAwWb49NLW5LsFJ7Q2vIvlmC/
+	 5AH/x/qhO8CAGcMUev29iUhgglSPw3cTSFZ7aIZckl3LIytZveAXzOvCtbwGL9un43
+	 lLBi3I0oTlONVCydbxlHCP5UFnpgRJuXWzIX8srldTVK1OxqQjNmXMhiCPlOjaw6aL
+	 W0O57zi0Yhv/gL3BrgUzLvHEdzHptrIVH1049DGuxgfSNrCuOdUGgWRduazYgrc3DU
+	 5Usa9iJzkwWJA==
+Received: from resmail-ch2-612v.sys.comcast.net ([162.150.50.136])
+	by resomta-ch2-20v.sys.comcast.net with SMTP
+	id O7VmcPjweEwWaO7VmcuoAi; Mon, 02 Jan 2017 18:39:10 +0000
+Date: Mon, 2 Jan 2017 18:39:10 +0000 (UTC)
+From: j.darrah@comcast.net
+To: mcovel@trendfollowing.com
+Message-ID: <1621649415.72049081.1483382350146.JavaMail.zimbra@comcast.net>
+In-Reply-To: <975889946.72047668.1483382190698.JavaMail.zimbra@comcast.net>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_72049080_274553253.1483382350145"
+X-Originating-IP: [2601:244:4b02:d1df:44f7:beac:989f:e03d]
+X-Mailer: Zimbra 8.0.7_GA_6031 (ZimbraWebClient - GC55 (Win)/8.0.7_GA_6031)
+Thread-Topic:
+Thread-Index: iMR1vTlYnAZBRJcflLxeIIRo2x3hEQ==
+X-CMAE-Envelope: MS4wfFLT763Bi7otrY+T8s0n84fXa+0n4U/m/Tt3IIfIgMeavGz+RPiJ3ZK9a0RECcnWXkugcsuavhJSg/xjOaUgEcoJGt/i14wZk9U38QT2HP/yMgut68Qj
+ 0cYl8BFvlGUKDNmDPq38T0rYYJQJoWPU0SFdUunYPH3jsXXXcvg7vwDJPQ684j8KLMkYfA1/JryJouOIegYGtMo85iLrmwIReBQ=
+
+------=_Part_72049080_274553253.1483382350145
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Re: "To thank you for your confidence in my work I would like to send you a special trend following investment paper that will provide great next steps as well as securing your continued connection with me." As requested, and thank you: John Darrah, 5627 W. 151st Street, Oak Forest, IL 60452-2001. Thank you, again; and good luck to you in your future endeavors. 
+
+------=_Part_72049080_274553253.1483382350145
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: Arial; font-size: 12pt; color: #000000"><div aria-label="Compose body"><i style="color: #222222; font-family: Helvetica, Arial, sans-serif; background-color: #ffffff;" data-mce-style="color: #222222; font-family: Helvetica, Arial, sans-serif; background-color: #ffffff;">Re: "To thank you for your confidence in my work I would like to send you a special trend following investment paper that will provide great next steps as well as securing your continued connection with me." As requested, and thank you: John Darrah, 5627 W. 151st Street, Oak Forest, IL 60452-2001. Thank you, again; and good luck to you in your future endeavors.<br></i></div></div></body></html>
+------=_Part_72049080_274553253.1483382350145--
+

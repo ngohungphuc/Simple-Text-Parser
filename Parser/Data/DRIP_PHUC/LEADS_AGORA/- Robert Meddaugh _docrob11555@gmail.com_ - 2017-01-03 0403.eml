@@ -1,0 +1,68 @@
+Return-Path: <docrob11555@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 991A54028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:00:43 -0500 (EST)
+Received: from mail-it0-f45.google.com ([209.85.214.45])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102210339601_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:03:39 +0000
+X-RC-FROM: <docrob11555@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f45.google.com with SMTP id c20so82163413itb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:03:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=scoRM7UbJRyGIxYpBL8yldq3lg39Hki0kiJfqj4Zs/A=;
+        b=NyLDCH7LM/gmz/wYY0M2X62oAm57REHtPZxfxP/ymdCSYZYsOdmi5j0uiBk2T4iLEc
+         ydhaN9EKhalR3mMgyDdtZSUlX6MRfYJx/hp0RoQYDnJRVzusVpNnOHaHehtskXXK8seI
+         NOntx4NiehNzV848c7oKad6a0W4D/dU/xXUYY1FRbC63mh8Sroqh5KLXtDmPFEJJ6Hzz
+         2YksBzSBqkivQVhJXpGXZ4FkiZ6jN2RUEXWoz7knnf6P1suOpXbMIAxzIso1lYLo8oZ0
+         Px96CfhZOtn2jqDhcVqzHYshDcOecm/J5rzH681KovOhVChDX8CKgGldgYNlBhl+3RP+
+         Tqew==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=scoRM7UbJRyGIxYpBL8yldq3lg39Hki0kiJfqj4Zs/A=;
+        b=smTEos4puO85b86MmJMyj4PBS6+Rwh/h92Cu0qfmuWxqjyepl3Op5aTvUJcoNl4Azv
+         xSLpY9wibJ5v7ubPkgr2l+gWJztkmJZZq04PGIK6waojU9uh0wfR63BFebMSYL/FOtjQ
+         4PMqN+hWB0//EA1cD1eLWl9iTTzo955rXUTSe02RiKF++EKH5yWEX0HkDnSEgkkWloMP
+         dmDon7Bq2e9gQAxFleMDJGl1bXlriQI6Rz6LEGblmV8C/1QVWptH6KZu5znavcXJU+0k
+         R230a1gTqc4x9L5t+T9Vgesge0h+Bdc0mRn04ofoaBuiyAPFC5bA9/GsYcQ8sBoypqT8
+         dyCQ==
+X-Gm-Message-State: AIkVDXJRLCSeW2pdEnNEYJW5divwjQEEOc89suNxktsJTGOdixfxi3uIdVuSD/j3r3Ntu/RTokcBL66d2k2YQg==
+X-Received: by 10.36.34.84 with SMTP id o81mr32931777ito.6.1483391014059; Mon,
+ 02 Jan 2017 13:03:34 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.142.145 with HTTP; Mon, 2 Jan 2017 13:03:33 -0800 (PST)
+Received: by 10.107.142.145 with HTTP; Mon, 2 Jan 2017 13:03:33 -0800 (PST)
+In-Reply-To: <CAEgWsN_GDpcF0=ZUbH5wyBti22n32NEH8OOTt-V+RZOF8d3uug@mail.gmail.com>
+References: <CAEgWsN9JLfhOKtJgsiJ3MPoY1F9qrAp82xpyiFA5qV4dpBOX-A@mail.gmail.com>
+ <CAEgWsN_GDpcF0=ZUbH5wyBti22n32NEH8OOTt-V+RZOF8d3uug@mail.gmail.com>
+From: Robert Meddaugh <docrob11555@gmail.com>
+Date: Mon, 2 Jan 2017 15:03:33 -0600
+Message-ID: <CAEgWsN-T1Df0V0VuvR_7oPpCPT0n3Psf9N-CSa-_YuZwfRaAdQ@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113f7ede74c328054522e2f7
+
+--001a113f7ede74c328054522e2f7
+Content-Type: text/plain; charset=UTF-8
+
+Robert Meddaugh 2075 S.81 St. West Allis, WI 53219.   Docrob11555@gmail.com.
+  2628940270
+
+--001a113f7ede74c328054522e2f7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Robert Meddaugh 2075 S.81 St. West Allis, WI 53219. =C2=
+=A0 <a href=3D"mailto:Docrob11555@gmail.com">Docrob11555@gmail.com</a>. =C2=
+=A0 2628940270=C2=A0</div>
+
+--001a113f7ede74c328054522e2f7--
+

@@ -1,0 +1,59 @@
+Return-Path: <mikegrozdanoff@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6AE1D4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:23:59 -0500 (EST)
+Received: from mail-yw0-f172.google.com ([209.85.161.172])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102192654339_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:26:54 +0000
+X-RC-FROM: <mikegrozdanoff@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f172.google.com with SMTP id r204so273733350ywb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:26:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-transfer-encoding;
+        bh=axIbJTcZ7moWIsgplL6euEo2E27KjwcQVcL9dqpu+OY=;
+        b=KM4lNtC7ZFPxgdZwecSUlmWBM75zncZRbeqKoywUJ1XbJ2DucU7egXgdmHrLIP+I/A
+         IMTAeKj0GA5dUmMr7fSBqWwXEB6jbZq+oZ/3KK/bXg8rUj9xzW4OLzxgMtUCtC/UCo1r
+         XFpg85eKyEnz+HH9jsPlBCDGjmUIkKr88c5yNAVktlKTf3WbQXVVHoZ7X/eRq6/Uaxw+
+         /RaoMurPLvf5Yst9EeTtNf/KMBiQI87JFm0QFDdOflAgKPl98kPpDRa0qzITnqS73vpA
+         urhQVCdCXHCOYo3KsMygl+u1T2Lj6BnliErWCZN9b2Cbrw1tDRnWqup84hP8qTt5T3V4
+         /6wg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:subject:message-id:date:user-agent
+         :mime-version:content-transfer-encoding;
+        bh=axIbJTcZ7moWIsgplL6euEo2E27KjwcQVcL9dqpu+OY=;
+        b=Z1mdD3+fN8FOz1IPvw54zutNOcV5SubQ2+5p8jnBFAdeVRRRRYbIr65jWyDzCZfvog
+         LCgtJYGYjz6E01B3lTU1jPoy2XH2RX27KwKAcZZzDUYbJEJkeEZ9hZG+UVeJMc8+f698
+         uwv8Pv6wtBy3I+fKwyhfFInNrMeqHz6NxTzj5su/AN8rusjoRd2OofXKwSfij+lQv8nb
+         KBppOd6E3fPzwZ3CBMmv3HBG9sGFD/xBK9tdzAPbRMfUTs9s4HLEXQwxFO3nGZW+gxeZ
+         0XlHDuatwe6y9W4IijI3Lo5zB4cUE1l4z/GdOHaJI/JBw+z5YexZmpqBQldBbxbSEHcJ
+         spFQ==
+X-Gm-Message-State: AIkVDXKphal+hyTY0S4a4pzuVM9j1lz4RY7L6adGiNKBqxH4PIXE5L1+VdGQ+QXDX2f6yA==
+X-Received: by 10.129.179.8 with SMTP id r8mr53393496ywh.156.1483385196271;
+        Mon, 02 Jan 2017 11:26:36 -0800 (PST)
+Received: from [192.168.1.70] (99-120-240-145.lightspeed.tukrga.sbcglobal.net. [99.120.240.145])
+        by smtp.gmail.com with ESMTPSA id q7sm20846728ywa.36.2017.01.02.11.26.33
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 11:26:35 -0800 (PST)
+To: mcovel@trendfollowing.com
+From: Mike <mikegrozdanoff@gmail.com>
+Subject: Response to demise jor trend following
+Message-ID: <7ff4f361-0077-dc33-bb3a-a418a8a295ea@gmail.com>
+Date: Mon, 2 Jan 2017 14:26:25 -0500
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.6.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Mike Grozdanoff
+magrozdanoff@bellsouth.net
+

@@ -1,0 +1,102 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6A0434028A4AC;
+	Thu,  1 Dec 2016 20:39:58 -0500 (EST)
+Received: from cportal6.visa.com ([198.241.162.56])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20161202014258018_0659;
+          Fri, 02 Dec 2016 01:42:58 +0000
+X-RC-FROM: <noreply@mail.authorize.net>
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1480642978; x=1512178978;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=4diWPeVbxFBAlUGpeXXq6GNzPX9H/NGdQ8I9y9sLwow=;
+  b=A1srUl6ufSFFJu1yWgzpFcCVCl84gcPmL4SuJzcnhw6EfIDl5nHzfUWo
+   0KEOb4EynPnc1iP58Uzq+nIavGUlOH2JIBeo7OQ0ERk30MKS/gZVChuKJ
+   0K5ViGjO6NU35DKxfr9sntshE1qEHTE1KnAVx57nkdvqsDizNcKN3cryR
+   A=;
+thread-index: AdJMPWZ8vORh/fcNRNCl0hT36XIFZA==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Michelle Murphy" <michelle@trendfollowing.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Fri, 2 Dec 2016 01:42:54 -0000
+Message-ID: <965571E9BDAD4818BC118E273157AAB0@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 02 Dec 2016 01:42:54.0534 (UTC) FILETIME=[669B5E60:01D24C3D]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 1-Dec-2016 20:42:53 EST
+
+========= ORDER INFORMATION =========
+Invoice : 28488
+Description : Trend Following Trading Systems from Michael Covel - Order 28488
+Amount : 2496.60 (USD)
+Payment Method: MasterCard xxxx8453
+Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 365
+Description: Trend Following Investment R...
+SKU: FLAGSHIP
+Quantity: 1
+Unit Price: $2397.60 (USD)
+Item Total: $2397.60 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : R46958
+Transaction ID : 20273434694
+Address Verification : AVS Not Supported by Card Issuing Bank
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 70
+First Name : Vaughn
+Last Name : Clements
+Company : Trading Blue Skies Pty Ltd
+Address : 10 Sedgeland Way
+City : Ascot
+State/Province : WA
+Zip/Postal Code : 6104
+Country : AUS
+Phone : 61411694199
+Fax : 
+E-Mail : vaughn@usa.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : Vaughn
+Last Name : Clements
+Company : Trading Blue Skies Pty Ltd
+Address : 10 Sedgeland Way
+City : Ascot
+State/Province : WA
+Zip/Postal Code : 6104
+Country : AUS
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 
+

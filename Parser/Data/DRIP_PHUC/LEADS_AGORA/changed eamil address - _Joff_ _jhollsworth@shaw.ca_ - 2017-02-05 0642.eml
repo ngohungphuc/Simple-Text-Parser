@@ -1,0 +1,157 @@
+Return-Path: <jhollsworth@shaw.ca>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6F99D402903C7
+	for <mcovel@trendfollowing.com>; Sat,  4 Feb 2017 18:39:58 -0500 (EST)
+Received: from smtp-out-no.shaw.ca ([64.59.134.9])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170204234251400_0659
+          for <mcovel@trendfollowing.com>;
+          Sat, 04 Feb 2017 23:42:51 +0000
+X-RC-FROM: <jhollsworth@shaw.ca>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from UserPC ([70.78.110.126])
+	by shaw.ca with SMTP
+	id a9yecwJaEVQuxa9yfcIOBb; Sat, 04 Feb 2017 16:42:45 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=shaw.ca;
+	s=s20150330; t=1486251765;
+	bh=kO6R/ofxcQi/O/zvOEUngnjy4+AMBCUJxciSkYMeZPs=;
+	h=From:To:Subject:Date;
+	b=J9eHpnAfK6IooWqKG9hKkkDR6E05ooE7HLNZlAkw9SUoslk0lHAggXM769tTSWSf8
+	 3zdfVwqVenDQuJkB62qGN5kVAFySQRZ46m0NqdbVxRcLIt8sI/MRV9e8DBx5ZQeXd/
+	 DRM/YtaTeXHzbemd3HMSv8N3RDEe6GNCMscWi9tY3FrhabRoEzM0COTrLMUK04p4eT
+	 sRo2tzZ059tzuijMXYjZwdam62r6FfucRZRU1lMTArhpDg30/WoFt+C7Vwif2BTeEb
+	 MyTvOnz/rEcr59CB+15xV4zAsXqRtH0XjNXXSr7tRaAyKGQKC3Rg7372jC88/DytJr
+	 ItYizlXk7ysjw==
+X-Authority-Analysis: v=2.2 cv=BNTDlBYG c=1 sm=1 tr=0
+ a=PVwoj5XkpBixgtPs4BMsag==:117 a=PVwoj5XkpBixgtPs4BMsag==:17
+ a=KPQXS-wIfq4A:10 a=r77TgQKjGQsHNAKrUKIA:9 a=pGLkceISAAAA:8
+ a=a6f2Tu6aMJLi4Bn-B2AA:9 a=CjuIK1q_8ugA:10 a=A7zCYSWfsBEA:10
+ a=yp_iWLJnMloA:10 a=flm3B7g_-KYA:10 a=Z67rX9FnZrMA:10 a=yMhMjlubAAAA:8
+ a=SSmOFEACAAAA:8 a=q1Ii-zMWQdId28f8fXMA:9 a=kdMDGhRVJ1ojknAk:21
+ a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ a=6kGIvZw6iX1k4Y-7sg4_:22 a=BKKCjISod1eDJeS0ORpz:22 a=zjWhRoSqWz9hl55Hdlzg:22
+From: "Joff" <jhollsworth@shaw.ca>
+To: <mcovel@trendfollowing.com>
+Subject: changed eamil address
+Date: Sat, 4 Feb 2017 15:42:40 -0800
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAKvs81EyeklGtJsPR9TPmhHCgAAAEAAAAGxNMWvWJlNMn3P0vp26ugcBAAAAAA==@shaw.ca>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01D27EFD.52553FF0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdJ/QF+CbhU0Sv8xRfC2Rj3b3lI2Lg==
+Content-Language: en-us
+Disposition-Notification-To: "Joff" <jhollsworth@shaw.ca>
+X-CMAE-Envelope: MS4wfEhOIQTO1h8mdU1Ww8k2cBSLwwOTAixqvB8ycRYNZdkiccVZiekJ11Ftwnyo9aF4pidUPXS/6p0XbbJ7rjSPzc9P/cx/24/NnalRbq2fi+DZ9dNfD+oU
+ uJRh+6grj9ulPPbFO6JlHaFgYmxALDwdM2EMBDuKXF+ZkwosH5G8L7Mr
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000C_01D27EFD.52553FF0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi
+
+ 
+
+I have changed my email provider and email address. Please send all future
+emails to joff.lmpm@gmail.com 
+
+ 
+
+Thank you,
+
+Joff Hollsworth
+
+ 
+
+Cell# 604-809-8411
+
+Email: joff.lmpm@gmail.com
+
+ 
+
+
+------=_NextPart_000_000C_01D27EFD.52553FF0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Maiandra GD";
+	panose-1:2 14 5 2 3 3 8 2 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Maiandra GD","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra =
+GD","sans-serif"'>Hi<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra =
+GD","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra GD","sans-serif"'>I have =
+changed my email provider and email address. Please send all future =
+emails to joff.lmpm@gmail.com <o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Maiandra =
+GD","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra GD","sans-serif"'>Thank =
+you,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra GD","sans-serif"'>Joff =
+Hollsworth<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra =
+GD","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra GD","sans-serif"'>Cell# =
+604-809-8411<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt;font-family:"Maiandra GD","sans-serif"'>Email: =
+joff.lmpm@gmail.com<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_000C_01D27EFD.52553FF0--
+
+

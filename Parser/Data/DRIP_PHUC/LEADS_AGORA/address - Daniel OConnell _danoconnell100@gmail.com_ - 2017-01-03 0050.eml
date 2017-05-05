@@ -1,0 +1,70 @@
+Return-Path: <danoconnell100@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6D2634028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:47:44 -0500 (EST)
+Received: from mail-qk0-f176.google.com ([209.85.220.176])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102175040661_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:50:40 +0000
+X-RC-FROM: <danoconnell100@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f176.google.com with SMTP id t184so355977441qkd.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:50:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=O0GkThTLH9KMlq8inh/9OaQl5YcvqcJhbN7EDt7j+5U=;
+        b=uOqHdW8jTno+Wy1WikYkZsvURxrSLJyR6+N/l69GVVyFCZ88/j/y1QlklfH2SJhrhT
+         SFRlEmIm+uwJOdlFMlAnuGIf2NEj8aDNJWBPnMrYoRuEIPE3n3ZfYUWaw0PfiOLg8xTD
+         sK2V6WwpDpIknnGigKdcloQw09JdJfYR958h+Ci+ZKqHlv3uc4cTCgnM7IFeumBu2YAn
+         T6nDL/1V8WuKo2/w6tkBWv1GjT5pdukxNcIcjiiSEP5UYOfsR/aM40jWyIBryZcUmxV5
+         ZJQms91pVlufzux7tc43HbXczUWXInSNPVcimw8Oj+WU27A2J6DIIrVPimEMlRH0NfWs
+         GOrw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=O0GkThTLH9KMlq8inh/9OaQl5YcvqcJhbN7EDt7j+5U=;
+        b=cL2d1UItRKDJnJRpIYPsWU3NYgWKL58Xt9aB9KoXJtSH8Ck8uJVsqNwye5cI8MUZkq
+         MRdiV4V55SzOknG0os0K9ktfUaatQCitDAx/jbcknLvGhaSexrB/9BGmTgUGFpdKERoC
+         gtRYpEJPPerkaOfd+E6TGS0xJl81r/X+5rz3rnupEhv4FQKAGvg22dkrgEAvOPoPhfaR
+         zHkto5rqIxy6GBewjPHINQzFUG3Ca/ehq58avu1Xakr/K9EOIPyK5YcVVP17+mlOTsuh
+         TCBXDcsS6w2idoo3BDXffxxNJuAv1GCj3NYPCrOs8ezEOUNWwjuP89blpyv4nxHbd2iQ
+         zKyg==
+X-Gm-Message-State: AIkVDXIXzldIPnvfPPdyM6yXWAar2NA3oOZj06cV3JZ/pZJzsPA1RfQ8LRUbxcyywF+rkRin5r+yfEaR+uISgg==
+X-Received: by 10.55.97.75 with SMTP id v72mr61788463qkb.80.1483379423823;
+ Mon, 02 Jan 2017 09:50:23 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.154.145 with HTTP; Mon, 2 Jan 2017 09:50:23 -0800 (PST)
+From: Daniel OConnell <danoconnell100@gmail.com>
+Date: Mon, 2 Jan 2017 12:50:23 -0500
+Message-ID: <CAARH4+2W1A-H5FAPoZ=aQwNA-2CC0mFNp514bEky-WV3ZNS-_g@mail.gmail.com>
+Subject: address
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114808fa9ff69c0545202fa2
+
+--001a114808fa9ff69c0545202fa2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E2=80=8BDan OConnell
+13 Coventry Woods Drive
+Arden, NC 28704
+
+828-674-3600 m
+
+--001a114808fa9ff69c0545202fa2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small">=E2=
+=80=8BDan OConnell</div><div class=3D"gmail_default" style=3D"font-size:sma=
+ll">13 Coventry Woods Drive</div><div class=3D"gmail_default" style=3D"font=
+-size:small">Arden, NC 28704</div><div class=3D"gmail_default" style=3D"fon=
+t-size:small"><br></div><div class=3D"gmail_default" style=3D"font-size:sma=
+ll">828-674-3600 m</div></div>
+
+--001a114808fa9ff69c0545202fa2--
+

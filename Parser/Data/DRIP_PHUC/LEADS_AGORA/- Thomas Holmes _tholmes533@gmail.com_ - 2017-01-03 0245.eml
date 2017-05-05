@@ -1,0 +1,60 @@
+Return-Path: <tholmes533@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F2CA64028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:42:22 -0500 (EST)
+Received: from mail-ua0-f177.google.com ([209.85.217.177])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102194519267_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:45:19 +0000
+X-RC-FROM: <tholmes533@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-ua0-f177.google.com with SMTP id 88so301999370uaq.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:45:16 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=E0bXTHjVbB3O69bNe2Ruqyp3RwbDF12MTDVrbAJ61zg=;
+        b=OyrdZes1tASp25eF0pmGcfFVQZyMhEIuyI1usg3boY6NTls6/AZqS98kZPgf9ou/05
+         xk59+hMNABNerOxdhNmMY8pqyQ5NB6af8PO9BlgrgavTO/tc8zcI5RhmXYUFx1taaueU
+         snSavYtT2T9USiWrB6QOB/KaVYlrOIm2B2w80JWZHnHr4dGggMdyMvRc95VlJZMBpPO4
+         T3vlNVIGT0BS1671PL5BoDlCaif2Hp9em1BveM4Avvul4jGuZP9zfWHPjN+c0koyb6Fk
+         ziwpHGCk6sVq7Vet5IosYvFBO7bvtPbbvsbB3u7PMffBgwx12HzAGJO1Vkf5HcGCGeEj
+         bBqw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=E0bXTHjVbB3O69bNe2Ruqyp3RwbDF12MTDVrbAJ61zg=;
+        b=kqycTRF1kZ6CYE8GlhHHwKxCwtbewOV0RJxN3N2p4w2en8xZZemAtvNHWdE+Ix37yv
+         Bq4HB3LkNK6kxL2rRs+2ZxQn9QjGMOBnJHiEzfb7ZXhTbp403Hk1+Ed9rzFNQoF+pX5U
+         yirczkRYeCE3fDO5kFDc+jPIqq5x9n4S9nsDvpRiR0d4peI6JtcIdFKB5Ufy/5D/nCZ6
+         Z2r+Cc/bX9gxHtcGM7pEV0DkALBgZZsZDO7Kja6lje0rYQZx2TZjcg0gjIUfjgl71n8k
+         eZhdq6wqd4B9kCujaHerbcKjYVxaaXj9hzH1qVctRnu2LCuL0hQVL3eDRwghzjZMhL6F
+         wzSQ==
+X-Gm-Message-State: AIkVDXLHWWICeMBowV9Zad8+yj000PvmAf1OsPs9DPlHvNeKiYkBhcTsZl9QiSMXq1JkV51JYgVqFkxt01iCwQ==
+X-Received: by 10.176.2.14 with SMTP id 14mr38558198uas.8.1483386305956; Mon,
+ 02 Jan 2017 11:45:05 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.16.68 with HTTP; Mon, 2 Jan 2017 11:45:05 -0800 (PST)
+Received: by 10.103.16.68 with HTTP; Mon, 2 Jan 2017 11:45:05 -0800 (PST)
+From: Thomas Holmes <tholmes533@gmail.com>
+Date: Mon, 2 Jan 2017 14:45:05 -0500
+Message-ID: <CAD5AqgfPEnf_ijA+5t8PFJJAQe=HZA3s=fjDcTOTPycSztjHew@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113ed1a2d4d10f054521c956
+
+--001a113ed1a2d4d10f054521c956
+Content-Type: text/plain; charset=UTF-8
+
+Tholmes533@gmail.com
+
+--001a113ed1a2d4d10f054521c956
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr"><a href="mailto:Tholmes533@gmail.com">Tholmes533@gmail.com</a> </p>
+
+--001a113ed1a2d4d10f054521c956--
+

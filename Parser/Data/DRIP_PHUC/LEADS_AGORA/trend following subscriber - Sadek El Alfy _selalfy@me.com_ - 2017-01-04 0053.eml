@@ -1,0 +1,165 @@
+Return-Path: <selalfy@me.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 5E1A64028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 12:51:05 -0500 (EST)
+Received: from st13p15im-asmtp004.me.com ([17.164.72.58])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103175350371_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 17:53:50 +0000
+X-RC-FROM: <selalfy@me.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from process-dkim-sign-daemon.st13p15im-asmtp004.me.com by
+ st13p15im-asmtp004.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ id <0OJ700400THA1N00@st13p15im-asmtp004.me.com> for mcovel@trendfollowing.com;
+ Tue, 03 Jan 2017 17:53:44 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=me.com; s=4d515a;
+	t=1483466024; bh=OJbupVwMh+sK+IsStlxT0g4IHSt1AzcLUGk/rpNItdw=;
+	h=From:Content-type:MIME-version:Subject:Message-id:Date:To;
+	b=fduNd5gvqPUEus43oddxdyfBRAtPTvz0tXhr8NJ6Z4PUFFJHtN78ULD/RX/+Gu5UW
+ 2pMspjPFsmW3mbN4YJReQLqq1JIgWULY2duqz5ruR923JSVGxDSDKlZ6gfb0jLr+um
+ uQqwZDQrLr1jyOOBU777HMI8c1/Pt1zHJb+L5Kk7ovcwRu/iBBBMtJ2dFmKTI45qIK
+ O2BU3N1ZAcncIkpJYBht2dFNLgIMu+eZeQ01bimWpJj8U6+oP73uAbox/MKaTX1bD2
+ VXriMc8S1hxbNzF+OIB4aXZbckkPieFPmZWyNW7pa1uPwEBDQ1YyYQOd93fnm4lhyz
+ OQWLtxrUD7LKg==
+Received: from [192.168.1.108]
+ (r167-108-45-174.dialup.mobile.ancel.net.uy [167.108.45.174])
+ by st13p15im-asmtp004.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ with ESMTPSA id <0OJ70118NTPCE540@st13p15im-asmtp004.me.com> for
+ mcovel@trendfollowing.com; Tue, 03 Jan 2017 17:53:44 +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2017-01-03_15:,, signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ clxscore=1034 suspectscore=1 malwarescore=0 phishscore=0 adultscore=0
+ bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1603290000 definitions=main-1701030275
+From: Sadek El Alfy <selalfy@me.com>
+Content-type: multipart/alternative;
+ boundary="Apple-Mail=_666A2E01-2393-42DD-8A7E-0E83A1C3D920"
+MIME-version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: trend following subscriber
+Message-id: <6C9CA5E0-8C11-41FD-A39D-80C1C96EE55B@me.com>
+Date: Tue, 03 Jan 2017 14:53:35 -0300
+To: mcovel@trendfollowing.com
+X-Mailer: Apple Mail (2.3259)
+
+
+--Apple-Mail=_666A2E01-2393-42DD-8A7E-0E83A1C3D920
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+Sadek E. El-Alfy 
+Ph.D, DIC, B.Sc, ARSM.
+
+selalfy@att.net
+
+
+P.O.Box 3368
+Redmond, Wa
+98073-3368
+
+
+
+
+
+
+
+
+
+--Apple-Mail=_666A2E01-2393-42DD-8A7E-0E83A1C3D920
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dus-ascii"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><br class=3D""><div class=3D"">
+<div style=3D"color: rgb(0, 0, 0); letter-spacing: normal; orphans: =
+auto; text-align: start; text-indent: 0px; text-transform: none; =
+white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><span class=3D"Apple-style-span" style=3D"border-collapse: =
+separate; color: rgb(0, 0, 0); font-family: Helvetica; font-style: =
+normal; font-variant: normal; font-weight: normal; letter-spacing: =
+normal; line-height: normal; orphans: 2; text-align: -webkit-auto; =
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2; =
+word-spacing: 0px; border-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: =
+0px;"><div style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><div =
+style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; color: =
+rgb(0, 0, 0); font-variant: normal; letter-spacing: normal; line-height: =
+normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; border-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: =
+0px;"><div style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; color: =
+rgb(0, 0, 0); font-variant: normal; letter-spacing: normal; line-height: =
+normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: 2; word-spacing: 0px; border-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: =
+0px;"><div style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><div class=3D""><div =
+class=3D""><font class=3D"Apple-style-span" face=3D"Georgia"><b =
+class=3D"">Sadek E. El-Alfy&nbsp;</b></font></div><div class=3D""><font =
+class=3D"Apple-style-span" face=3D"Georgia"><b class=3D"">Ph.D, DIC, =
+B.Sc, ARSM.</b></font></div></div><div style=3D"font-family: Helvetica; =
+font-size: 14px; font-weight: normal; font-style: normal;" class=3D""><br =
+class=3D""></div><div style=3D"font-family: Helvetica; font-size: 14px; =
+font-weight: normal; font-style: normal;" class=3D""><a =
+href=3D"mailto:selalfy@att.net" class=3D"">selalfy@att.net</a></div><div =
+style=3D"font-size: 14px; font-style: normal;" class=3D""><font =
+class=3D"Apple-style-span" face=3D"Georgia"><b class=3D""><br =
+class=3D""></b></font></div><div style=3D"font-size: 14px; font-style: =
+normal;" class=3D""><font class=3D"Apple-style-span" face=3D"Georgia"><b =
+class=3D""><br class=3D""></b></font></div><div style=3D"font-size: =
+14px; font-style: normal;" class=3D""><font class=3D"Apple-style-span" =
+face=3D"Georgia"><b class=3D"">P.O.Box 3368</b></font></div><div =
+style=3D"font-size: 14px; font-style: normal;" class=3D""><font =
+class=3D"Apple-style-span" face=3D"Georgia"><b class=3D"">Redmond, =
+Wa</b></font></div><div style=3D"font-size: 14px; font-style: normal;" =
+class=3D""><font class=3D"Apple-style-span" face=3D"Georgia"><b =
+class=3D"">98073-3368</b></font></div></div></span></div></span></div><spa=
+n class=3D"Apple-style-span" style=3D"border-collapse: separate; =
+line-height: normal; border-spacing: 0px;"><div style=3D"word-wrap: =
+break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;" class=3D""><span class=3D"Apple-style-span" =
+style=3D"border-collapse: separate; color: rgb(0, 0, 0); font-family: =
+Helvetica; font-style: normal; font-variant: normal; font-weight: =
+normal; letter-spacing: normal; line-height: normal; orphans: 2; =
+text-align: -webkit-auto; text-indent: 0px; text-transform: none; =
+white-space: normal; widows: 2; word-spacing: 0px; border-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: =
+0px;"><div style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space;" class=3D""><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; color: =
+rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant: =
+normal; font-weight: normal; letter-spacing: normal; line-height: =
+normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; =
+border-spacing: 0px; -webkit-text-decorations-in-effect: none; =
+-webkit-text-stroke-width: 0px;"><div style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" =
+class=3D""><br class=3D"Apple-interchange-newline"></div></span><br =
+class=3D"Apple-interchange-newline"></div></span><br =
+class=3D"Apple-interchange-newline"></div></span><br =
+class=3D"Apple-interchange-newline"></div></span><br =
+class=3D"Apple-interchange-newline"></div><br =
+class=3D"Apple-interchange-newline"><br =
+class=3D"Apple-interchange-newline">
+</div>
+<br class=3D""></body></html>=
+
+--Apple-Mail=_666A2E01-2393-42DD-8A7E-0E83A1C3D920--
+

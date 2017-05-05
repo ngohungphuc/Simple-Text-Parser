@@ -1,0 +1,61 @@
+Return-Path: <scarson26@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A85984028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:13:33 -0500 (EST)
+Received: from omr-a019e.mx.aol.com ([204.29.186.67])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102181628297_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:16:28 +0000
+X-RC-FROM: <scarson26@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mca02.mx.aol.com (mtaomg-mca02.mx.aol.com [172.26.221.80])
+	by omr-a019e.mx.aol.com (Outbound Mail Relay) with ESMTP id 1CBBD380008C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:16:21 -0500 (EST)
+Received: from core-ldb04g.mail.aol.com (core-ldb04.mail.aol.com [10.76.33.14])
+	by mtaomg-mca02.mx.aol.com (OMAG/Core Interface) with ESMTP id E93883800008B
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:16:20 -0500 (EST)
+Received: from 172.112.224.61 by webprd-m23.mail.aol.com (10.74.70.125) with HTTP (WebMailUI); Mon, 02 Jan 2017 13:16:20 -0500
+Date: Mon, 2 Jan 2017 13:16:20 -0500
+From: scarson26@aol.com
+To: mcovel@trendfollowing.com
+Message-Id: <15960657c32-80a-2d746@webprd-m23.mail.aol.com>
+Subject: Trend Following Investment Paper
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_233911_2040813949.1483380980783"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [172.112.224.61]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483380981;
+	bh=934uodlKKLuVniNcvFTl657zhH9jB5ne9PfbCMmX1x4=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=LMLyfPd+MmZwNv/Ktm7CCAE2Y1Vyhv1BK+xnkfPdyRUy7SnxkcgGcNsSs/cM+ibw2
+	 2ZkI99CEZWvfjeH2vRhhY+t+Oqjla1usZhGaefFoMAmMBE63ZPNQFY5l0cO6jTM4c+
+	 mMMf/Er3ifH6gXo+t7LRy9IEEBSj1wM0QM8iwaUE=
+x-aol-sid: 3039ac1add50586a98f47f3f
+
+------=_Part_233911_2040813949.1483380980783
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Stanley Carson
+16082 Santa Barbara Lane
+Huntington Beach, CA 92649
+
+------=_Part_233911_2040813949.1483380980783
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='Arial, Helvetica, sans-serif'><font size="2">Stanley Carson<br>
+16082 Santa Barbara Lane<br>
+Huntington Beach, CA 92649<br>
+</font>
+</font>
+------=_Part_233911_2040813949.1483380980783--
+

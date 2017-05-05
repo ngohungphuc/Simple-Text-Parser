@@ -1,0 +1,59 @@
+Return-Path: <nahmon@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 8BAF84028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 11:01:00 -0500 (EST)
+Received: from mail-qt0-f175.google.com ([209.85.216.175])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103160354540_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 16:03:54 +0000
+X-RC-FROM: <nahmon@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f175.google.com with SMTP id d45so244153423qta.1
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 08:03:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=6nV5RfslVSAQuo9OzONmT7WiXsc6Sg1enjL7GJsYww4=;
+        b=UKr+IOlP1Jke2QhomAYReMYZuYrH1FM2YSLsU1p1eQuvcBhtCn0PUACKjzTHDInMnw
+         YUghZZXzyyzzYf+gGEWw07Uq9m3juu2JgSu5ASQvmSF5oN6zVbKmIhMEETWunDdEt/b6
+         N9+Aeie0FlAoxDuQS+p7a3MG3QGmF3Js5VZx+AhXyveNxrQ91EDueQUHCbZ3YzOVx3cr
+         vKEXXKFGwNZHukhLoUH18qIamqtRNOhkryrGhbOu/0ArbZFxznamml3XPZyALj/nf8US
+         GhCjGp5MKduFk12ZEOn/OwBjHuiUM2c5NoxKrKqPx2k5rfFtJa+3HigBYAQKnug5+mcL
+         na4A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=6nV5RfslVSAQuo9OzONmT7WiXsc6Sg1enjL7GJsYww4=;
+        b=RiJ/28nITEJzqrPpJcUIngLiIUiO7o6dztczskQzAVBnQVdibBPlE3DBW9zl+1LhEQ
+         9QzQaYMTgNb4DAfpWN/VijS3nEYDVFvPg7VrzAu3KAra5V8dpk6YS+thO8NLo6CYm3A7
+         qY4w7L5yxJqODGr4lWjshE+V2iMjbX1Tqw4O/Hd5M70oevfOXD0EgpstnpDP3qtH1See
+         0Wxq5cpPhE0p+pGQRoMX8y3CSbo2bkOOxcxoJB9PY/oG/c3qjhqGjwBmJzg1oJTYJKzQ
+         u/9l0zqPQpfQPOoT5klfJc3CpCRg5N3MCvAt9msYGYj0KloqtNY3bucE85FUydBRyIql
+         kODQ==
+X-Gm-Message-State: AIkVDXI1ahqoZlz5oo4JEtL3fS+/qjP71aYlBadyueC6I1iPUstpnaK54NdX1hGB+Xhg7M/InrJzifv2Au+19Q==
+X-Received: by 10.200.35.110 with SMTP id b43mr65363017qtb.265.1483459428093;
+ Tue, 03 Jan 2017 08:03:48 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.237.41.103 with HTTP; Tue, 3 Jan 2017 08:03:47 -0800 (PST)
+From: Neville Ahmon <nahmon@gmail.com>
+Date: Tue, 3 Jan 2017 11:03:47 -0500
+Message-ID: <CALTLZtAjx5CGbF=Cic0StG9VqbvWGDSaDOPaUqFSdd=eKSntKw@mail.gmail.com>
+Subject: Trend following investment paper.
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1147ec804018b3054532d0f7
+
+--001a1147ec804018b3054532d0f7
+Content-Type: text/plain; charset=UTF-8
+
+
+
+--001a1147ec804018b3054532d0f7
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br></div>
+
+--001a1147ec804018b3054532d0f7--
+

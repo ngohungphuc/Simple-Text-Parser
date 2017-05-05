@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B18614028A4AD
+	for <mcovel@trendfollowing.com>; Thu, 17 Nov 2016 15:14:05 -0500 (EST)
+Received: from o1.m.getdrip.com ([167.89.38.120])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20161117201706037_0659
+          for <mcovel@trendfollowing.com>;
+          Thu, 17 Nov 2016 20:17:06 +0000
+X-RC-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com;
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding;
+	s=s1; bh=9Jj8p2q882XbIkfjCVh4yeDMZfk=; b=D1D74p5pFsQxfskfr3a6y2c
+	PlChI9TBoIAoRmmDKCVHK9EOZ9eXJqkr2olpT7GvYQky7LlR4F15qriX9KgdqWp3
+	oPMz99+sMT5V4wSfSpI26Sqd1ovHf34RBIzEn7WiCVm2JP01G1gOQw0oIY9sd7wL
+	VXtgQDtB7t45kqolgjRA=
+Received: by filter0416p1mdw1.sendgrid.net with SMTP id filter0416p1mdw1-25552-582E1037-2F
+        2016-11-17 20:16:55.291917863 +0000 UTC
+Received: from getdrip.com (ec2-52-91-87-110.compute-1.amazonaws.com [52.91.87.110])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id EPBQCihkSBeGtKFNeIovrw
+	for <mcovel@trendfollowing.com>; Thu, 17 Nov 2016 20:16:54.959 +0000 (UTC)
+Date: Thu, 17 Nov 2016 20:16:53 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <582e1035b54fc_505c3f7fef549170514d5@ip-172-30-0-101.mail>
+Subject: [Drip] emer525925@aol.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_582e1035b4eec_505c3f7fef54917051347";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPolBCMp3y3VUNHJZKdtnSEE4E3naWUN8+l37o
+ SV0TM+WH/vz/ylO47XBG0GT7vSWJkWfY77JkxfOUEScoIpW2dQqZ5kXNUlaP6PfsVYSWTpjh5qDmuS
+ LQeaWilUhuUvNubj2DCeFiCdlQtR/48jqt+d/J4nU3lRDYdrycNwvMk0YjHVScMECfmh08wHn0nCuc
+ I=
+
+----==_mimepart_582e1035b4eec_505c3f7fef54917051347
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Ocoee
+country: USA
+first_name: Edward
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: Merrill
+last_trading_or_investment_book_read: Merrill
+state: Fl
+street1: 1091 Kelton Ave
+street2: Room 504
+zip_code: 34761
+id: sgoccuvxpmd1b3sxpoft
+email: emer525925@aol.com
+utc_offset: -300
+visitor_uuid: 8b5bedc08f290134cf210ebf40b437bb
+status: active
+time_zone: America/New_York
+friendly_time_zone: EST
+tags: ["optedin-sitewide-trendfollowing.com",
+"optedin-sitewide-turtletrading.com", "optedin-dvdrequest",
+"optedin-sitewide-trendfollowing.com",
+"optedin-sitewide-turtletrading.com", "optedin-dvdrequest"]
+created_at: 2016-11-17 19:27:09 UTC
+
+View their full profile here:
+
+emer525925@aol.com ( https://www.getdrip.com/3513718/subscribers/sgoccuvxpmd1b3sxpoft )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_582e1035b4eec_505c3f7fef54917051347
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Ocoee<br />country: USA<br />first_name: Edward <br />has_read_LBoT: No<br />has_read_TC: No<br />has_read_TF: No<br />last_name: Merrill<br />last_trading_or_investment_book_read: Merrill<br />state: Fl<br />street1: 1091 Kelton Ave<br />street2: Room 504<br />zip_code: 34761<br />id: sgoccuvxpmd1b3sxpoft<br />email: emer525925@aol.com<br />utc_offset: -300<br />visitor_uuid: 8b5bedc08f290134cf210ebf40b437bb<br />status: active<br />time_zone: America/New_York<br />friendly_time_zone: EST<br />tags: ["optedin-sitewide-trendfollowing.com", "optedin-sitewide-turtletrading.com", "optedin-dvdrequest", "optedin-sitewide-trendfollowing.com", "optedin-sitewide-turtletrading.com", "optedin-dvdrequest"]<br />created_at: 2016-11-17 19:27:09 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/sgoccuvxpmd1b3sxpoft" style="color: blue">emer525925@aol.com</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_582e1035b4eec_505c3f7fef54917051347--
+

@@ -1,0 +1,117 @@
+Return-Path: <johntokarchuk@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id F27B94028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:09:13 -0500 (EST)
+Received: from BLU004-OMC4S18.hotmail.com ([65.55.111.157])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102181211278_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:12:11 +0000
+X-RC-FROM: <johntokarchuk@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM01-BN3-obe.outbound.protection.outlook.com ([65.55.111.136]) by BLU004-OMC4S18.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 10:12:04 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=MKQPp4/DcgvxCbOU1cajyOCLlVfVO+3Zqzg3msvmCVI=;
+ b=ALNslGpjYH1iurTOAmJhcjdDWhG+ScPWEOJLSq+euGnd+z2mVFpT8s53FyVet/SGksz85wWxfw38IL7wGMq1B7UPnIBw5OIi1NRcXK47K+9Alu1O9+PkgeIvgyx3EYnjD14AQvhSBjIApNtu48YAj8/s3uGv+cILpaV6PfFBpaPQXQM0ZQADbBsDZT2R0sD968O4xwvURpX/LCgJHMrGrOMfA8yimK2DluYHiXeXUgRK6+Q3ZGjALETqiTbHa/T+gflEBTSpUdN62YgtZSPdlw6ZbAtwEXLd/0+KCkpwqorFFHnLbq3+NyGO2AqIYifsZqg8g3dqoOx2SVgXjkvFkg==
+Received: from BN3NAM01FT049.eop-nam01.prod.protection.outlook.com
+ (10.152.66.60) by BN3NAM01HT127.eop-nam01.prod.protection.outlook.com
+ (10.152.66.90) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 18:12:03 +0000
+Received: from CO2PR14MB0012.namprd14.prod.outlook.com (10.152.66.58) by
+ BN3NAM01FT049.mail.protection.outlook.com (10.152.66.103) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 18:12:03 +0000
+Received: from CO2PR14MB0012.namprd14.prod.outlook.com ([10.161.87.14]) by
+ CO2PR14MB0012.namprd14.prod.outlook.com ([10.161.87.14]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 18:12:02 +0000
+From: John Tokarchuk <johntokarchuk@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Follow up
+Thread-Topic: Follow up
+Thread-Index: AQHSZSNzGSRjU1lLYkeWQ8GdiGfFKA==
+Date: Mon, 2 Jan 2017 18:12:01 +0000
+Message-ID: <CO2PR14MB0012CD95E944CE4F084647EBBA6F0@CO2PR14MB0012.namprd14.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:C63F7627699D2CB62BAB3237083D117BFFE7385649B6FE57C7006FD528758DBE;UpperCasedChecksum:2B21D661E903E08CEB2594EF89BDD44AC988BC5F8177F949FDB56A02D0206BCA;SizeAsReceived:7198;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [JzCmrvdt8/Bz0m3KKX0ZT/2d+CZear9K]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BN3NAM01HT127;7:X4eD0ZQjqw1kIow96dr4ZCgSjieG24Cq2EXDkop7OVsV5GHeNFffaetSSVOloqL1M1zu9WG86rVwo1jj0hjDUYNYQMe3a8PwiFasnkXUV5pwiV9wcDaijQfWLb4OHC7+coDuUUK8CBfQNsI2hZBQ+MaGPlOCgdr0uOwBYD9cB+j1MeELD6CvOBlMcatbn4EQ8ZAfy02P/XoG5zPGDuYgiv50UwYoq0r/lpHJhe/4nOvyp3eyktTeH53zCHJJK93gBxEa6TS/C3vCp1ENw7O2X459HkjGd+7DVfhC8FZq8AaVEj8Bi65WJktLHuDwFsdbHfkJFVp7fr8Lu3JWl6Msb0BNCg3AtzWakB7Kt4Be/mCMIk5Dw1GCo08VNAs6kjp2x3XW/NBeUZIM39/WQSivxvYeYQRQLol0cfYW1jsFZeDR70g2Jyp4h129h3b7P18h83UA3gKteP+9EvS40TaQ8A==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BN3NAM01HT127;H:CO2PR14MB0012.namprd14.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 2f494722-54d3-4c7c-5712-08d4333ad9c6
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:BN3NAM01HT127;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BN3NAM01HT127;BCL:0;PCL:0;RULEID:;SRVR:BN3NAM01HT127;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_CO2PR14MB0012CD95E944CE4F084647EBBA6F0CO2PR14MB0012namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 18:12:01.9395
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN3NAM01HT127
+X-OriginalArrivalTime: 02 Jan 2017 18:12:04.0019 (UTC) FILETIME=[B8765830:01D26523]
+
+--_000_CO2PR14MB0012CD95E944CE4F084647EBBA6F0CO2PR14MB0012namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I am sorry to see your Agora newsletter closing. I have appreciated your no=
+ nonsense writing style starting my subscription to Trend Following. I am i=
+ngerested in following up on your future plans as you mention in your email=
+. Please send me more information.
+
+
+John Tokarchuk
+
+johntokarchuk@hotmail.com
+
+
+
+--_000_CO2PR14MB0012CD95E944CE4F084647EBBA6F0CO2PR14MB0012namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>I am sorry to see your Agora newsletter closing. I have appreciated your=
+ no nonsense writing style starting my subscription to Trend Following. I a=
+m ingerested in following up on your future plans as you mention in your em=
+ail. Please send me more information.</p>
+<p><br>
+</p>
+<p>John Tokarchuk</p>
+<p>johntokarchuk@hotmail.com</p>
+<p><br>
+</p>
+<p><br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_CO2PR14MB0012CD95E944CE4F084647EBBA6F0CO2PR14MB0012namp_--
+

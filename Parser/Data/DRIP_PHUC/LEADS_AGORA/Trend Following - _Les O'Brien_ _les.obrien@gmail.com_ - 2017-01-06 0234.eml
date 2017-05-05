@@ -1,0 +1,90 @@
+Return-Path: <les.obrien@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id BF77D4028F221
+	for <mcovel@trendfollowing.com>; Thu,  5 Jan 2017 14:32:00 -0500 (EST)
+Received: from mail-lf0-f52.google.com ([209.85.215.52])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170105193455667_0459
+          for <mcovel@trendfollowing.com>;
+          Thu, 05 Jan 2017 19:34:55 +0000
+X-RC-FROM: <les.obrien@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f52.google.com with SMTP id m78so19889670lfg.2
+        for <mcovel@trendfollowing.com>; Thu, 05 Jan 2017 11:34:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Ys2ewqy7xURdx0sursoJK8N6V9Z1g14sT2r3g9QK3/Y=;
+        b=eSHcYfTqY6guVDn0YQOoCGPZfkJBQI/Blw3cp4xn/AYR6czQBxUf2V1RuNzW6Y4HXA
+         emnEDnnX1Zvly7cSj3sZWlOFfSP+9vepA6K4xTYm3wd6r4C/g2L/f1iJnV4FxQnxXLRB
+         wTRi9YIryjOcDVM7lUB27GVsrgpCh3OwZsGBFPtLpJvTEuva3yJBK0+GGUg4v1sa7Gnu
+         /7/xK5z4rvzpd1oiBnzr98eGNCYHlu9boPUNkPpe0DpQj6Lj38C7PtXM5jxlZF7SwBn4
+         cfejuhbJr5urOlRHKJmMXFtjcrRUIHh51R2zTBiap8LnF9idCUZl7hmNeDOufRg/VSO2
+         fepQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Ys2ewqy7xURdx0sursoJK8N6V9Z1g14sT2r3g9QK3/Y=;
+        b=Ih78DdT3TjFBqRCBZB80cAZdZ9tf5CDcvs4d37GLTSZh/Ke5dQ7GoEg85YWrm8pVp/
+         reJzM+Bczskst0MWCkd0kA/p1SWycoDi3ZPWqCNqJra4Nl9MLpdWmFJrUbPW6jLi6ipF
+         Tdj8h+NDqmviANu/Hr28nbEg9w2YB8yh4q7LRArKUIZFGBh56IwhMmNsCnCs+Z0SpgAZ
+         MzPDWaGOLqSHzob3vfvHIeZt9VEEJADK0rL5jCcJYe7Qnjfkvq7aFcScFPBwyyh2DovV
+         RFX4/XL9qBt22+jxOtK+w2/xQSXea0ai6GbEnUOqsPnXpHrIe/CtdkPYARsrzAH8aURg
+         Dsdg==
+X-Gm-Message-State: AIkVDXJN0ggsofqCto/3yQWUJy1ie4YDl9R/ypjYUqIF0cNe7rdlh0ngq/Dmi7P3LniLfKa/N/4HtdL690RtiA==
+X-Received: by 10.25.219.131 with SMTP id t3mr26116643lfi.163.1483644888913;
+ Thu, 05 Jan 2017 11:34:48 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.32.203 with HTTP; Thu, 5 Jan 2017 11:34:48 -0800 (PST)
+From: "Les O'Brien" <les.obrien@gmail.com>
+Date: Thu, 5 Jan 2017 13:34:48 -0600
+Message-ID: <CAN1tXjpix1yHAbMs6O5OCJA8zEM1qfHdyQFFf8516Mfep683Zg@mail.gmail.com>
+Subject: Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c184a2e939e2305455dfefe
+
+--94eb2c184a2e939e2305455dfefe
+Content-Type: text/plain; charset=UTF-8
+
+Michael,
+
+I was having a wonderful start to the New Year and then I received the
+email about the end of my favorite newsletter. I know Agora is doing what
+they can to make it right on their end, but there is no way they can
+replace your wit and commentary. I have always been a fan of trading the
+trend, but you brought life to this type of trading. I know talk is cheap,
+but I loved your style and I wish you the best of luck in your next
+venture.
+
+I look forward to your trend following investment paper and am excited
+about the next steps you mentioned.
+
+Have a fantastic 2017 and I look forward to riding the next trend with you!
+
+-Les
+
+Les O'Brien
+1854E 137th PL
+Glenpool, OK 74033
+
+--94eb2c184a2e939e2305455dfefe
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Michael,</div><div><br></div><div>I was having a wond=
+erful start to the New Year and then I received the email about the end of =
+my favorite newsletter. I know Agora is doing what they can to make it righ=
+t on their end, but there is no way they can replace your wit and commentar=
+y. I have always been a fan of trading the trend, but you brought life to t=
+his type of trading. I know talk is cheap, but I loved your style and I wis=
+h you the best of luck in your next venture. </div><div><br></div><div>I lo=
+ok forward to your trend following investment paper and am excited about th=
+e next steps you mentioned. </div><div><br></div><div>Have a fantastic 2017=
+ and I look forward to riding the next trend with you!</div><div><br></div>=
+<div>-Les</div><div><br></div><div>Les O&#39;Brien</div><div>1854E 137th PL=
+</div><div>Glenpool, OK 74033</div></div>
+
+--94eb2c184a2e939e2305455dfefe--
+

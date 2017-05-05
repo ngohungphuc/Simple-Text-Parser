@@ -1,0 +1,61 @@
+Return-Path: <niknaks247@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 35F2C4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:53:25 -0500 (EST)
+Received: from mail-lf0-f44.google.com ([209.85.215.44])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102185621484_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:56:21 +0000
+X-RC-FROM: <niknaks247@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f44.google.com with SMTP id y21so273918433lfa.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:56:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=bTbBACbR4FQBd3jCNILPoaQvKMKQ7HcqW6q+tdpNHtw=;
+        b=UK78ZWtaRVac2+4Nqkgx2y7lTkMmz6gP/vt3B1OAuQjica33g07Zt15u65TBX8s2Dg
+         lqNE5kWyjiRFm4tZ3CexTnujjHtKUKbBtunMLHH40tmnFGt9MTmpb/ZabfEteaBttrEr
+         UjchNwP/OsGonSDZKvt3ktmS+EE+TzvsGZwTjYsH5Qw0paLtU4EHo86NS7YSPHVcPiFZ
+         GzorTm1ZyhPJu3J6XGx2tiWbIUHN5xtB+/e/BdWWI1C6X3cL4KDmyJLP3uNniRx9GZAd
+         Y3HhUhIHR2BeaLVgz3wQTE0uQke6L8ll/Xy48c165fZaS73NCrEbnikvipids+g168H/
+         oAYw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=bTbBACbR4FQBd3jCNILPoaQvKMKQ7HcqW6q+tdpNHtw=;
+        b=aRSQUEW1QqGtB0B6iJwNHcI3Iaqs3R/caxaiyXM6dPlHga2wPxDg1UgFhlEVk8ySFu
+         mdyI4VldFj5RVgmUOxLW9uxaRZqBKM9kSjZ4iXrpOb2ECpPWFKKi72SYq9RAA46+5k8l
+         OXL4HZ2D073GUQ+kky6kFjhYYT1YJ3cBKtqEp4pYkh7iWa0qcerJXEEOXuel2k3Fv8wM
+         rEYRTNmXqNaFeL94C1NMgma6eMzlcd8qJOpmw/ceq+juxL2R/Pcx0CbP6PyLm3m6k4RR
+         +QjuLs5zrnFzMBbO6L7PyPudhzP7fZoyzueQ4p7k+1mp+87b+Z/FG8QkFUMESo8AHQd5
+         RVjA==
+X-Gm-Message-State: AIkVDXLVHwVSKgwvrIPgPCG6Cq/IhPxDQVWkBTUBAXBmjTkwd7YooOsdR1mCugASRUTHS/aOcqJSLL/TibpQOg==
+X-Received: by 10.25.202.66 with SMTP id h2mr21464855lfj.131.1483383368773;
+ Mon, 02 Jan 2017 10:56:08 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.43.6 with HTTP; Mon, 2 Jan 2017 10:56:08 -0800 (PST)
+From: Nikki Summers <niknaks247@gmail.com>
+Date: Mon, 2 Jan 2017 12:56:08 -0600
+Message-ID: <CAKHQEaXk_pTRUuTgV9uFdRAkSkGCqHzmoPe3Xveun8X3uZ5uig@mail.gmail.com>
+Subject: investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=f403045ea640c2f37b0545211a24
+
+--f403045ea640c2f37b0545211a24
+Content-Type: text/plain; charset=UTF-8
+
+Please send the investment paper to:
+N. Summers
+niknaks247@gmail.com
+
+--f403045ea640c2f37b0545211a24
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Please send the investment paper to:<div>N. Summers</div><div><a href="mailto:niknaks247@gmail.com">niknaks247@gmail.com</a></div></div>
+
+--f403045ea640c2f37b0545211a24--
+

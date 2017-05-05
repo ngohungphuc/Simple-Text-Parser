@@ -1,0 +1,110 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m033.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4EFDC404DEDCE;
+	Tue, 27 Sep 2016 16:08:52 -0400 (EDT)
+Authentication-Results: s12p02m033.mxlogic.net; spf=pass
+Received: from unknown [198.241.168.128] (EHLO cportal7.visa.com)
+	by s12p02m033.mxlogic.net(mxl_mta-8.5.0-1466) over TLS secured channel
+	with ESMTP id 982dae75.0.301306.00-1973.644306.s12p02m033.mxlogic.net (envelope-from <noreply@mail.authorize.net>);
+	Tue, 27 Sep 2016 14:11:54 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1475007114; x=1506543114;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=S+pL/noqKX0/k4w7MnwKn0Itw2oYzg+n2pD0iJRJMw8=;
+  b=eqrO4xvwA/mM5tFYtc1WqNWoTyseb6iVzGBLLpd4P295AexCzusJPuev
+   UQAH6Gtw78oLoF9I/FlUMSLbPM4QPETjzYV3SE5b6xi4Y7pPAMG3QJx3O
+   mLa1HMo4nyEZcfVwKrTNIl9s2gCtBNHOilN6HPQMz0st7iYvp3GlYP3T6
+   4=;
+thread-index: AdIY+1tJSZqpMcsSQamwV4fQ2WwEAQ==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Michelle Murphy" <michelle@trendfollowing.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Tue, 27 Sep 2016 20:11:39 -0000
+Message-ID: <DC4E2F0C7B1643EC92A314FFB0B63BC0@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 27 Sep 2016 20:11:39.0659 (UTC) FILETIME=[5B685DB0:01D218FB]
+X-AnalysisOut: [v=2.1 cv=HaMSO3w8 c=1 sm=1 tr=0 a=pYR/+YRhjBR7VOPKxCKZbw==]
+X-AnalysisOut: [:117 a=pYR/+YRhjBR7VOPKxCKZbw==:17 a=GW1xBdLrtEIA:10 a=pGL]
+X-AnalysisOut: [kceISAAAA:8 a=fX96jcdwSblePf8v-B4A:9 a=sEwE3jaDet9SWpo2:21]
+X-AnalysisOut: [ a=NzznjjUSWwKSxaKY:21 a=8m-GdtA30cUA:10 a=6kGIvZw6iX1k4Y-]
+X-AnalysisOut: [7sg4_:22 awl=host:3266]
+Received-SPF: Pass (s12p02m033.mxlogic.net: domain of mail.authorize.net designates 198.241.168.128 as permitted sender)
+X-Spam: [F=0.3967684022; B=0.500(0); STSI=0.500(0); STSM=0.700(34); CM=0.500; CY=0.50; MH=0.529(2016092729); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <noreply@mail.authorize.net>
+X-SOURCE-IP: [198.241.168.128]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 27-Sep-2016 16:11:34 EDT
+
+========= ORDER INFORMATION =========
+Invoice : 28145
+Description : Trend Following Trading Systems from Michael Covel - Order 28145
+Amount : 1597.50 (USD)
+Payment Method: MasterCard xxxx9103
+Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 281
+Description: Trend Following Investment R...
+SKU: FLAGSHIP
+Quantity: 1
+Unit Price: $1498.50 (USD)
+Item Total: $1498.50 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : 70674P
+Transaction ID : 20198376878
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 0
+First Name : Steven
+Last Name : Moorin
+Company : 
+Address : po Box 643567
+City : Vero Beach
+State/Province : FL
+Zip/Postal Code : 32964
+Country : USA
+Phone : 5619299900
+Fax : 
+E-Mail : shmoorin@gmail.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : Steven
+Last Name : Moorin
+Company : 
+Address : 780 Fiddleleaf Circle
+City : W. Melbourne
+State/Province : FL
+Zip/Postal Code : 32904
+Country : USA
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 

@@ -1,0 +1,83 @@
+Return-Path: <johnnjoytaylor@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 45C564028F219
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 01:20:33 -0500 (EST)
+Received: from mail-qt0-f169.google.com ([209.85.216.169])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103062326860_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 06:23:26 +0000
+X-RC-FROM: <johnnjoytaylor@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f169.google.com with SMTP id k15so216289088qtg.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 22:23:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=El8iUjo8CnwIeJnXIkcG5K/xD0VGEJemJTc0btSvjcQ=;
+        b=pvTUvOg4Mxe61fCKGzUqk95ReXkesvXnsTV0xrYpebk5R6A/K44y1s+gO17LxTFGNg
+         RFKHDRZ1EAvOfdQ+CiSYlUuqvYV496RCkyBH/Ag6q5iV8vRAmSgqbYSsSoLt6A6odf5X
+         a76mvdeQfThMK7yQPS8XZNduaOcMJRCv+pWzUxwptMpsGGInHvnpaOfWDw8OC3bDcE3J
+         ajArup4poYnzU13pSDI3tzRQ0Fo1rp5FmHOUg9wnwO5lhDJZ5Nwl7fZojTVNy8E3+2jD
+         eogUCJ45lb+Z+O+qS+7+HxEmqJu7jZpH67J1EQGf5kz6+POaJiW9ZcUaWBD9pZBwo3PQ
+         y+tA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=El8iUjo8CnwIeJnXIkcG5K/xD0VGEJemJTc0btSvjcQ=;
+        b=P0RK8IrAGT/momAAv/UXtYKIZvWudpgXnV1wIAzaK00fwA1CWAyC46M9JCED0HmPm7
+         PZG3ytDT0cMeTv2vntbHa6nqNAGGVHXtlAqTASqTeOBfTPdDc/hYf6/2EnOJBtTDGSwO
+         CcE6txDftrorddJs3ymik2NbGhGUYwvr+0xkKShqfqnNXlzhns8mUfI0eJmp8zWHQ3+G
+         wiclwC17B+O0jCISy9zNpdXbNV1XvvHXk3YNojCRX7SAzng8+WxV0Yvqt3MBTrhbt5Tl
+         9dMhxyebWsEie+ooJ11CnFHeuBp8fSsQcfPAeP6n0ooymL9XpBbxQcIq7ti+A+aDKhWu
+         Dw2A==
+X-Gm-Message-State: AIkVDXJx+tm4dsC6efiRr/bS7DzjDI5ogtQv7TJnphj+/PM/9PZ0xxDrzXJ6GSm+LCRxrLDHMHN8o5d39/zcXA==
+X-Received: by 10.237.62.153 with SMTP id n25mr63136870qtf.50.1483424600954;
+ Mon, 02 Jan 2017 22:23:20 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.237.61.87 with HTTP; Mon, 2 Jan 2017 22:23:20 -0800 (PST)
+From: Joy Taylor <johnnjoytaylor@gmail.com>
+Date: Mon, 2 Jan 2017 22:23:20 -0800
+Message-ID: <CADGotAwoKUP2YEE765_r4H9yf6OdnAaK-PnqgdzuJBGQ1LP+hg@mail.gmail.com>
+Subject: Trend Following Subscriber -- John C. Taylor
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113a1f16641cc905452ab499
+
+--001a113a1f16641cc905452ab499
+Content-Type: text/plain; charset=UTF-8
+
+Dear Michael--
+
+I am disappointed that your service has been discontinued.
+
+I read the email from Evaldo A. first;
+I was confused when he referred to the subscription as "Covel Uncensored".
+
+Then I read this email from Jonas E.
+
+I assume you mean "postal" address to maintain contact.
+
+Here it is:
+
+John C. Taylor
+13658 La Jolla Circle
+Unit 8-B
+La Mirada, CA, 90638
+
+--001a113a1f16641cc905452ab499
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div><div><div><div><div><div><div>Dear Mic=
+hael--<br><br></div>I am disappointed that your service has been discontinu=
+ed.<br><br></div>I read the email from Evaldo A. first;<br></div>I was conf=
+used when he referred to the subscription as &quot;Covel Uncensored&quot;.<=
+br><br></div>Then I read this email from Jonas E.<br><br></div>I assume you=
+ mean &quot;postal&quot; address to maintain contact.<br><br></div>Here it =
+is:<br><br></div>John C. Taylor<br></div>13658 La Jolla Circle<br></div>Uni=
+t 8-B<br></div>La Mirada, CA, 90638<br></div>
+
+--001a113a1f16641cc905452ab499--
+

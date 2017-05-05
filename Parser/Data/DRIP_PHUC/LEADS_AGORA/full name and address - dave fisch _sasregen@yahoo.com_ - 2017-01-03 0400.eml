@@ -1,0 +1,52 @@
+Return-Path: <sasregen@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 671E94028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:58:07 -0500 (EST)
+Received: from nm12-vm6.bullet.mail.ne1.yahoo.com ([98.138.91.105])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102210057243_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:00:57 +0000
+X-RC-FROM: <sasregen@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483390846; bh=pyfT5wK9SniGrRzSDoL4xMiV6PyYk6YILeWoKoCQoXA=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=p6cn1ohsmOc+U2lsMv7DsTEsvlpekeqoVxnTquHqmnlwwtxQLF1lqYW0oVyL/RMZ/0m3EbEfPxRLxauG5eLZwcqUL1mMI8ql+2uNzkQq4NjV28m9DDlnhn4+hWv/XwNoKa6NnDruBm5C5jOHY0atJraNTlYBMpkCt/5JZJNXNis2g1dvpf4ptK6w4qwfHojFcJUG9umqX+XdvIq1d4vS9NG4Qb3O7Ee9jfJkztdNVXIHVMVfqsx4b9Nd9fTykOrnQQXWeuXn5XMuwn7vGupaNjFMRr8Kikqcyv2BWAbMFqTJX/5dzvStwkYdgqajI6bDFA/B79EHdBiO6JWtgpKAbg==
+Received: from [98.138.100.111] by nm12.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 21:00:46 -0000
+Received: from [98.138.226.165] by tm100.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 21:00:46 -0000
+Received: from [127.0.0.1] by omp1066.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 21:00:46 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 37056.53784.bm@omp1066.mail.ne1.yahoo.com
+X-YMail-OSG: hm9vdLwVM1mOPw2bQrWi3TL6BlIVttLtkC2LOjF830fiNpBWyIFn5IbtnJDFoHn
+ aL13qOezWV1pAIzM2WsJNOdkJlF00jyBCUlkokQiUqKQvzZ.B2jOKXv4jrc70ZG2hPRJgZ.x0m0n
+ W9Os2X7BWee9gW3w5007530VfcjvdJos98lwrVDEGGlw7KGNsrKvpehSVTMPJdxMCW4RIt1rSzcH
+ a3HYsYUs4Mj5hGRhwLiOu.r2nstCZ86Oi2n2YFTW5TYcZCPy4OZAzZPF8RuvMyw2MpBuB1UtEAwy
+ a26es4D0cg1MwmTpMF5M2te4X4jeMbOAkdY9SsLeNvpswm7bsiQgnbqCZPm3MMePnmPL7fIVuRNh
+ CsMiBcSa7ZtewbYjT9nfdvsIHuoTrxo0LTzbP1U2MOMNmxOFlsYUoXLpN3S_CTUciEyyNGiddPuT
+ Il9k7K3jxqSvr5u6ClWPlzVmyzHq9ZQ5VwhLgx6E91vpcJ7KnlE0pmrMNNaZHEjhRG1Ur6TJJ4m.
+ nH90smeWQCQttDpjk4QlG
+Received: from jws200009.mail.ne1.yahoo.com by sendmailws148.mail.ne1.yahoo.com; Mon, 02 Jan 2017 21:00:45 +0000; 1483390845.638
+Date: Mon, 2 Jan 2017 21:00:45 +0000 (UTC)
+From: dave fisch <sasregen@yahoo.com>
+Reply-To: dave fisch <sasregen@yahoo.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <157923342.4933072.1483390845417@mail.yahoo.com>
+Subject: full name and address
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_4933071_1511343732.1483390845395"
+References: <157923342.4933072.1483390845417.ref@mail.yahoo.com>
+
+------=_Part_4933071_1511343732.1483390845395
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+David Fisch1334 East 26th StreetBrooklyn, NY 11210
+
+------=_Part_4933071_1511343732.1483390845395
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:14px"><div id="yui_3_16_0_ym19_1_1483390544367_9228">David Fisch</div><div id="yui_3_16_0_ym19_1_1483390544367_9254">1334 East 26th Street</div><div id="yui_3_16_0_ym19_1_1483390544367_9264">Brooklyn, NY 11210<br></div></div></body></html>
+------=_Part_4933071_1511343732.1483390845395--
+

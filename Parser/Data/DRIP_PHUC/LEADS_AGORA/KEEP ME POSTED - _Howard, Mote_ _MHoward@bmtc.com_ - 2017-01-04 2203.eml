@@ -1,0 +1,164 @@
+Return-Path: <mhoward@bmtc.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 5A35C4028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 10:00:51 -0500 (EST)
+Received: from mx0a-00084501.pphosted.com ([67.231.148.250])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170104150347109_0459
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 15:03:47 +0000
+X-RC-FROM: <mhoward@bmtc.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from pps.filterd (m0047119.ppops.net [127.0.0.1])
+	by mx0a-00084501.pphosted.com (8.16.0.20/8.16.0.20) with SMTP id v04F09A6018812;
+	Wed, 4 Jan 2017 10:03:43 -0500
+Received: from nam03-dm3-obe.outbound.protection.outlook.com (mail-dm3nam03lp0016.outbound.protection.outlook.com [207.46.163.16])
+	by mx0a-00084501.pphosted.com with ESMTP id 27p7w42p2n-5
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA384 bits=256 verify=NOT)
+	for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 10:03:43 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=BMTC1.onmicrosoft.com;
+ s=selector1-bmtc-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=RqbQZ/uYNpci2NX9nxGfQ7BUy6pn8knkjPdnvPgU/WQ=;
+ b=ZoritRCIib3sH2oR9TOG35L3pZreD+OALBFTqU9U8T9RihTalWNpzdz0tTpZ0+obf7gxjeDeoG2jdqmaqJLMUfh/XkDbQX5JSaPsxtvg8Jlsw8PB5Lkujq0PkN86dvVIsdG2TxCcQhk/LZwGSaAfRkZ2n7qa4bmamsKbG921xKc=
+Received: from MWHPR05MB3181.namprd05.prod.outlook.com (10.173.229.136) by
+ MWHPR05MB3183.namprd05.prod.outlook.com (10.173.229.138) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.817.5; Wed, 4 Jan 2017 15:03:39 +0000
+Received: from MWHPR05MB3181.namprd05.prod.outlook.com ([10.173.229.136]) by
+ MWHPR05MB3181.namprd05.prod.outlook.com ([10.173.229.136]) with mapi id
+ 15.01.0817.012; Wed, 4 Jan 2017 15:03:39 +0000
+From: "Howard, Mote" <MHoward@bmtc.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: KEEP ME POSTED
+Thread-Topic: KEEP ME POSTED
+Thread-Index: AdJl6PY4gMG7vp67RYWk5iw8GUTy4Q==
+Date: Wed, 4 Jan 2017 15:03:39 +0000
+Message-ID: <MWHPR05MB3181407F2834CECEB3AE08CBC7610@MWHPR05MB3181.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [204.77.171.7]
+x-ms-office365-filtering-correlation-id: d24c43f3-4556-45dc-cde1-08d434b2ddec
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001);SRVR:MWHPR05MB3183;
+x-microsoft-exchange-diagnostics: 1;MWHPR05MB3183;7:/Wc/nh/qfEhYdvztFTpQPD6vLO0IkfuzhQuth9Ly4PwGZATEdsHbNkdJY1UprIq1NMdkxu/YCrzDGAkp7aH0FHciyoi6e15PIDU0TBZjoEOlxi851kqD46YuMRVVII9AoA4SUyeYkJy1kE0SrFdl3qDNCHlIf7FFJ0zRf/hW6F3fvXcS49XpeuLAkqgwvyDzCJsMUFmm1OaSiO9ScGiV4SgZ2PJWS+9PB8o8uxCL6X6Pkdi07AInVPZwnAdFfmsggXn9RXwljO839S7+iiLkJe5RJ6fNAAcw9vonu+qDyivvJv7jgkyvpnOaFjpBvBn+q0DRY81f+Fxsr8/3b8q3ocY6Wg6CAa4/Uz2qk0Ize8WHu+DADJSxXdkrE4cA62EJ0gLiEz2cImNscG/Jpob60gh93P9A4Dc9EeW3KLfPJ2G032jaRqogKEkWcQtLLqvtlJN3Ju1OhbOz4Ots12gZHg==;20:R+2AC1gIWupF/Mw4vELm12VFl/fQa8vpYMgcWVk4CA2MlnwnVcP6reBYltFtEnR45G/UAY8oTR6pgesLfPNpYkKVn3MM9nju1Dc6HjBcrb1tT+knqhaeSyGBE7ooJ4hgdROoAOUonQtTpqWKCE/p8ZkwB4ntI+AFSnwhMv+iNUs=
+x-microsoft-antispam-prvs: <MWHPR05MB3183924960AF5A367C0DC007C7610@MWHPR05MB3183.namprd05.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040375)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6041248)(20161123564025)(20161123562025)(20161123555025)(20161123560025)(6072148);SRVR:MWHPR05MB3183;BCL:0;PCL:0;RULEID:;SRVR:MWHPR05MB3183;
+x-forefront-prvs: 0177904E6B
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(7916002)(39450400003)(199003)(189002)(80792005)(2906002)(450100001)(33656002)(2900100001)(3660700001)(86362001)(106356001)(92566002)(105586002)(2351001)(101416001)(50986999)(54356999)(5630700001)(55016002)(99286003)(66066001)(77096006)(38730400001)(74316002)(189998001)(7736002)(5890100001)(3280700002)(733005)(6436002)(6506006)(2501003)(107886002)(3846002)(9686002)(3480700004)(8936002)(8676002)(1730700003)(6116002)(102836003)(68736007)(7696004)(110136003)(790700001)(6916009)(5660300001)(7116003)(97736004)(25786008)(5640700003)(122556002)(81156014)(81166006)(215093002)(15398625002);DIR:OUT;SFP:1102;SCL:1;SRVR:MWHPR05MB3183;H:MWHPR05MB3181.namprd05.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;A:1;MX:1;LANG:en;
+received-spf: None (protection.outlook.com: bmtc.com does not designate
+ permitted sender hosts)
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MWHPR05MB3181407F2834CECEB3AE08CBC7610MWHPR05MB3181namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: bmtc.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 04 Jan 2017 15:03:39.7138
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: a89f4447-1bf4-4481-a27e-51149cefd485
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MWHPR05MB3183
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2017-01-04_11:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 priorityscore=1501 malwarescore=0
+ suspectscore=0 phishscore=0 bulkscore=0 spamscore=0 clxscore=1011
+ lowpriorityscore=0 impostorscore=0 adultscore=0 classifier=spam adjust=0
+ reason=mlx scancount=1 engine=8.0.1-1612050000 definitions=main-1701040240
+
+--_000_MWHPR05MB3181407F2834CECEB3AE08CBC7610MWHPR05MB3181namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+MORTON HOWARD,   MHOWARD@BMTC.COM
+[Best_2015]
+
+This message and any attachments may contain confidential or privileged inf=
+ormation and are only for the use of the intended recipient of this message=
+. If you are not the intended recipient, please notify the sender by return=
+ email, and delete or destroy this and all copies of this message and all a=
+ttachments. Any unauthorized disclosure, use, distribution, or reproduction=
+ of this message or any attachments is prohibited and may be unlawful.
+
+--_000_MWHPR05MB3181407F2834CECEB3AE08CBC7610MWHPR05MB3181namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">MORTON HOWARD,&nbsp;&nbsp; MHOWARD@BMTC.COM<o:p></o:=
+p></p>
+</div>
+<div style=3D"font-size:9pt; color:#17365D; font-family: 'Calibri',sans-ser=
+if;">
+<div><img alt=3D"Best_2015" width=3D"94" height=3D"96" src=3D"http://www.bm=
+tc.com/wp-content/uploads/2015/12/Bestof2015_logo.png">
+<p style=3D"font-size:8pt; line-height:10pt; font-family: 'Cambria','times =
+roman',serif;">
+This message and any attachments may contain confidential or privileged inf=
+ormation and are only for the use of the intended recipient of this message=
+. If you are not the intended recipient, please notify the sender by return=
+ email, and delete or destroy this
+ and all copies of this message and all attachments. Any unauthorized discl=
+osure, use, distribution, or reproduction of this message or any attachment=
+s is prohibited and may be unlawful.</p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_MWHPR05MB3181407F2834CECEB3AE08CBC7610MWHPR05MB3181namp_--
+

@@ -1,0 +1,51 @@
+Return-Path: <cmathys@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6BEBE4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:29:27 -0500 (EST)
+Received: from nm15.bullet.mail.bf1.yahoo.com ([98.139.212.174])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102183223496_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:32:23 +0000
+X-RC-FROM: <cmathys@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483381930; bh=CuxpDkefS4iLl94Fe+nd1avnUZL9Ms1WEHX6L4ufyGI=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=Xhn4oB4Dh5oV60pMJqz/64oOdNSAZIBzwqasnnGFaoxHDXS8fulQXeTf3XFrIa/o4BGhW7xeI0b2uA7HnzN7AWGWeDUf8vaA8i3ihPoBhtd+IZ4xF2ahCSS8Y4QEQW6RseA42mUIRiJaSsg0WW+RNZ1/tZxBRcb2utkcOswPZpRbDkjv0q/QHnUbW+44kJP5tGOooTj57amOr2egLNBLHpn/TwMX7FMk6sWOz6GKK/d1QUGjtwU59RzNpr0B/Y+oXKS8usDKNmfv95LXdWn72XgQY84ECCwW+SXdZsPIk2nEkhQbrxk9K5Rsjx4c1WKcAzcHglZeInU0VC0cF50A2A==
+Received: from [98.139.170.179] by nm15.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:32:10 -0000
+Received: from [98.139.212.196] by tm22.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:32:10 -0000
+Received: from [127.0.0.1] by omp1005.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 18:32:10 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 175988.75479.bm@omp1005.mail.bf1.yahoo.com
+X-YMail-OSG: LCNCVg0VM1lRW9Zw2D2Pgrk.YX008a88tqLgbeOyTUm2e1DvbCRUVB5viXw5HQD
+ KaoiTaEJWDhj38YkxC2Cg1Mx_laU0Ik47ZMTsdXwlp4ZEEF09W_x425Ao8dJRxqwBPKq0lARJdI.
+ BcrZ7hFpZgdVtTV1a7MLUM2HCQ7RRD8ylCx6lKOOU2mCu2GDhe7R3CsEWc5buP.VEmqodZuckhKp
+ knxmrzlQKbxYZG0WfVeBhD_ngRf5pMSXRs4kRFsV2Qc351GvfDT5HekLawu_vVLqUl.6w7KSJoVd
+ ilKq.3MB7lPKrRbIzCVbQUfdBwM98vDg3amnFxVU7laPQ_anMdaG8o5PYNdwOKcDUoB_jGxFUOcn
+ qdrQgC1NjlbvfaaRat6qcY3nShn0u.8KDgTIpNAUFOGasrSAl75hdK0IxjF7rhsfJfnkJNzTR1x_
+ SrgxlNuwPlu2XBUfltGWey95TVuCGY9oBPHeyhK8mBDn6ytObiCnL07YOXNYTaxC88SwC3urw9sM
+ pSCkOED_TdzatBd_SrJOCwwSWCTuKGo6uBrloIfm1PwN6ulMRi_SK
+Received: from jws400061.mail.bf2.yahoo.com by sendmailws118.mail.bf1.yahoo.com; Mon, 02 Jan 2017 18:32:09 +0000; 1483381929.808
+Date: Mon, 2 Jan 2017 18:32:08 +0000 (UTC)
+From: Chuck Mathys <cmathys@yahoo.com>
+Reply-To: Chuck Mathys <cmathys@yahoo.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <231958942.5376815.1483381929038@mail.yahoo.com>
+Subject: Sorry to see you go
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_5376814_598366887.1483381929036"
+References: <231958942.5376815.1483381929038.ref@mail.yahoo.com>
+
+------=_Part_5376814_598366887.1483381929036
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Charles Mathys4927 Cross StreetDowners Grove, IL 60515
+------=_Part_5376814_598366887.1483381929036
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px"><div id="yui_3_16_0_ym19_1_1483331186250_131799">Charles Mathys</div><div id="yui_3_16_0_ym19_1_1483331186250_131800">4927 Cross Street</div><div id="yui_3_16_0_ym19_1_1483331186250_131801">Downers Grove, IL 60515</div></div></body></html>
+------=_Part_5376814_598366887.1483381929036--
+

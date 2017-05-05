@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m005.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C1BD84020DCBC
+	for <mcovel@trendfollowing.com>; Sat,  6 Aug 2016 00:24:44 -0400 (EDT)
+Authentication-Results: p01c11m005.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m005.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id c8665a75.0.3324420.00-2267.6424185.p01c11m005.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Fri, 05 Aug 2016 22:24:45 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=ImFHcu1INkmfmkEOvXn9OzmFsOY=; b=i6L8gpWRFUKrYjiM4/CAaDf
+	sEXjq1eiz8e+gsEeTLDDKRIubcyk7vGCA71BfJgeY8lfgm7OA1TlEXErbkaDGxhQ
+	Avyz9sFdDDHSLzCL49NqkuIkrGRcVhioxDl/3knlYgfD+RfwqabCYlByVWcUr3GM
+	PiAQ3OHRWyVx+BX8rjjo=
+Received: by filter0593p1mdw1.sendgrid.net with SMTP id filter0593p1mdw1.20696.57A5668B13
+        2016-08-06 04:24:43.280325804 +0000 UTC
+Received: from getdrip.com (ec2-54-84-125-167.compute-1.amazonaws.com [54.84.125.167])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id tmpF_O3MTcGrrTBYoxHyVg
+	for <mcovel@trendfollowing.com>; Sat, 06 Aug 2016 04:24:43.410 +0000 (UTC)
+Date: Sat, 06 Aug 2016 04:24:43 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57a5668b55c76_1373fc270bd98001129a@ip-172-30-0-25.mail>
+Subject: [Drip] akhn29@aol.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPr9SvBdhyYzIwNwwBbS8BOy6IrFdJ8MXz4r19
+ aRSiQ6KBGdBGeUJ2g8SsR5wKRIXRGIFawT4G1YdrkIJzrBSk4aYb++Eroeen/zBpuoTQTF9KrZ/gLm
+ wdqjeZgYQOMSytzz32fO69DgQA4QJ+SngmwFIAwXPzZKtAloSDxc8bmF3CS5B/1jd/uP71+ZKHJiYI
+ s=
+Received-SPF: Pass (p01c11m005.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: akhn29@aol.com
+IP Address: 71.223.223.217
+city: Phoenix
+country: Usa
+first_name: Gearld
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: yes
+last_name: Jones
+last_trading_or_investment_book_read: How to make money in stocks
+state: Phoenix
+street1: 2154 W Flower St
+zip_code: 85015
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/zygp2smpaevnh8qtnkoz
+
+Cheers,
+The Drip Team

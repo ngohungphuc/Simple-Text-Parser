@@ -1,0 +1,61 @@
+Return-Path: <glide8_8@yahoo.ca>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m043.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 9755B401EA134
+	for <mcovel@trendfollowing.com>; Sun,  6 Mar 2016 02:38:15 -0500 (EST)
+Authentication-Results: s12p02m043.mxlogic.net; spf=none
+Received: from unknown [98.136.216.207] (EHLO nm36-vm4.bullet.mail.gq1.yahoo.com)
+	by s12p02m043.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id a6edbd65.0.1857181.00-2257.3380174.s12p02m043.mxlogic.net (envelope-from <glide8_8@yahoo.ca>);
+	Sun, 06 Mar 2016 00:38:18 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.ca; s=s2048; t=1457249897; bh=akRcNMZhG2H/3zFbB93I1Elkpkuc1wtZkANfA9J8Uvk=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=AxOlPaXmOk4EkMC5+Naqa1XrekyFORy1xHDYGRR3QAu/64gjo/AVXZwusNT5NitxXYR4jjE0yghZnl57o43kM+5BOxE92AqLMsZG4zVxzSBdC79QxV7akSzGbhx0mGIG2EQJxXfL3MNZ53404YDGJgrqGOgNVkadQidu86iOTMaxlYqQYlK5DzmBI3yO4preGoj7lMZpULT3dmLC/TzJoyf2DuKD44Cm8ZFhXS7fB/4m2+cNR/GOtu6ffnCFK0ZWLuBf5cEL0TmlZ1C1JaC8hZMcpKrS3lbrHpUCltiRNCORjDaGALKNaCjMy31Zg8g1RHekCB1d10yNPOnaMPnsHQ==
+Received: from [127.0.0.1] by nm36.bullet.mail.gq1.yahoo.com with NNFMP; 06 Mar 2016 07:38:17 -0000
+Received: from [216.39.60.180] by nm36.bullet.mail.gq1.yahoo.com with NNFMP; 06 Mar 2016 07:35:32 -0000
+Received: from [98.137.12.192] by tm16.bullet.mail.gq1.yahoo.com with NNFMP; 06 Mar 2016 07:35:32 -0000
+Received: from [127.0.0.1] by omp1000.mail.gq1.yahoo.com with NNFMP; 06 Mar 2016 07:35:32 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 569408.89828.bm@omp1000.mail.gq1.yahoo.com
+X-YMail-OSG: AFRFX70VM1mwTNvCUFpnYyTR3dvNRXyErqgxTYqHQKvlbEV4yyio0.sNdn60Dme
+ yT9FZb4_dnz0JM7xPMKW5tApTKB7Qc9.g3U352A696j9TEZf3gy7LZtc8O_Am1gkkRa4vBI7QRHf
+ LibNklZLKuDMZbH5f03bpDw8HbHHsG.HBZj7997mDSsFI5VuL4Q5k1KyH9Ilo_N7aC2.zAFzT2VA
+ DslhFaFZRUlOkZ4BQ0Gu49gmnZrGZfyw8C.sVVuHRWifxZiHQ9h4G0JlqCc7M8Joi3jliu671slM
+ Ye8i9nq5jEpRINMGBOaCG9PX6TCAbtY7yWbhtALQsEWYnCgznTZdixqfsGyJudC0HDdAW5UH6WRu
+ kptwlj2HswTzU2GJS7cgKQxyjNQvNqce5CGZSopjLk0ngdw4W4Si8VjtMsPw1pKdVwAnAI.N4tp5
+ er0NadR_WPWos0KutzvyX3ueHpQguScIDIm2f86udzVfdZt_s.Pyzys52iL2qKqMP8_wu043dgF4
+ XtfIgcBogTdi31kUSq5ba
+Received: by 216.39.60.159; Sun, 06 Mar 2016 07:35:32 +0000 
+Date: Sun, 6 Mar 2016 07:35:31 +0000 (UTC)
+From: A Wong <glide8_8@yahoo.ca>
+Reply-To: A Wong <glide8_8@yahoo.ca>
+To: Michael Covel <mcovel@trendfollowing.com>
+Message-ID: <1396388226.4140244.1457249731864.JavaMail.yahoo@mail.yahoo.com>
+Subject: Mastermind group
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4140243_1294021751.1457249731862"
+References: <1396388226.4140244.1457249731864.JavaMail.yahoo.ref@mail.yahoo.com>
+X-AnalysisOut: [v=2.1 cv=JLU9xp+b c=1 sm=1 tr=0 a=2/MD5biTWH6fc5cdIteGBw==]
+X-AnalysisOut: [:117 a=MGO6Uv9dWZEA:10 a=7OsogOcEt9IA:10 a=ZBI0tcy2VzPxdTt]
+X-AnalysisOut: [0FtsA:9 a=QEXdDO2ut3YA:10 a=ENiJ8vgGraLj_S9Gpr4A:9 a=RvgUk]
+X-AnalysisOut: [AxlmYm-DwFC:21 a=_W_S_7VecoQA:10]
+Received-SPF: None
+X-Spam: [F=0.2727272727; B=0.500(0); STSI=0.500(0); STSM=0.600(20); CM=0.500; CY=0.50; MH=0.500(2016030601); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <glide8_8@yahoo.ca>
+X-SOURCE-IP: [98.136.216.207]
+
+------=_Part_4140243_1294021751.1457249731862
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi Michael,
+Please keep me informed regarding your mastermind group.
+Thanks,Andy
+
+
+------=_Part_4140243_1294021751.1457249731862
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px"><div id="yui_3_16_0_1_1457243561028_5222">Hi Michael,</div><div id="yui_3_16_0_1_1457243561028_5223"><br></div><div id="yui_3_16_0_1_1457243561028_5224">Please keep me informed regarding your mastermind group.</div><div><br></div><div id="yui_3_16_0_1_1457243561028_5225">Thanks,</div><div id="yui_3_16_0_1_1457243561028_5226">Andy</div><div id="yui_3_16_0_1_1457243561028_5227"><br></div><div id="yui_3_16_0_1_1457243561028_5228"><br></div></div></body></html>
+------=_Part_4140243_1294021751.1457249731862--

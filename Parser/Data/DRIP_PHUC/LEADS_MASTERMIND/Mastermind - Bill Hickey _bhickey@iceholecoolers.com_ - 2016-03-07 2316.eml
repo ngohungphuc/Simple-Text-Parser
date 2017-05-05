@@ -1,0 +1,73 @@
+Return-Path: <bhickey@iceholecoolers.com>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m024.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 8A68D4019ECE2
+	for <info@trendfollowing.com>; Mon,  7 Mar 2016 11:17:08 -0500 (EST)
+Authentication-Results: s12p02m024.mxlogic.net; spf=neutral
+Received: from unknown [192.185.148.2] (EHLO gateway30.websitewelcome.com)
+	by s12p02m024.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id 789add65.0.3684526.00-2344.6736775.s12p02m024.mxlogic.net (envelope-from <bhickey@iceholecoolers.com>);
+	Mon, 07 Mar 2016 09:17:11 -0700 (MST)
+Received: from cm2.websitewelcome.com (cm2.websitewelcome.com [192.185.178.13])
+	by gateway30.websitewelcome.com (Postfix) with ESMTP id A84EF848717A4
+	for <info@trendfollowing.com>; Mon,  7 Mar 2016 10:17:04 -0600 (CST)
+Received: from gator3022.hostgator.com ([50.87.144.33])
+	by cm2.websitewelcome.com with 
+	id T4H01s00o0jSynE014H1Pi; Mon, 07 Mar 2016 10:17:03 -0600
+Received: from 107.sub-70-209-108.myvzw.com ([70.209.108.107]:2164 helo=[100.123.32.188])
+	by gator3022.hostgator.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <bhickey@iceholecoolers.com>)
+	id 1acxq8-000SA5-1k
+	for info@trendfollowing.com; Mon, 07 Mar 2016 10:17:00 -0600
+Content-Type: multipart/alternative; boundary=Apple-Mail-2E9F36CA-24CD-4896-93AD-317B6884D0D8
+Content-Transfer-Encoding: 7bit
+From: Bill Hickey <bhickey@iceholecoolers.com>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 7 Mar 2016 09:16:57 -0700
+Subject: Mastermind
+Message-Id: <F2EAF535-B869-4176-86AE-11506C6D40B7@iceholecoolers.com>
+To: info@trendfollowing.com
+X-Mailer: iPhone Mail (13D15)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3022.hostgator.com
+X-AntiAbuse: Original Domain - trendfollowing.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - iceholecoolers.com
+X-BWhitelist: no
+X-Source-IP: 70.209.108.107
+X-Exim-ID: 1acxq8-000SA5-1k
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: 107.sub-70-209-108.myvzw.com ([100.123.32.188]) [70.209.108.107]:2164
+X-Source-Auth: bhickey@iceholecoolers.com
+X-Email-Count: 1
+X-Source-Cap: bGFzbTNyO2xhc20zcjtnYXRvcjMwMjIuaG9zdGdhdG9yLmNvbQ==
+X-AnalysisOut: [v=2.1 cv=P708830u c=1 sm=1 tr=0 a=djJOmGuKNs1Sevou96yb8Q==]
+X-AnalysisOut: [:117 a=BzlcbmAHa2RH+umJUIkKbg==:17 a=7OsogOcEt9IA:10 a=EA4]
+X-AnalysisOut: [Ql4two7Ypm51EsIEA:9 a=CjuIK1q_8ugA:10 a=8XB99s8z_EzvW5eF3g]
+X-AnalysisOut: [QA:9 a=QEXdDO2ut3YA:10 a=_W_S_7VecoQA:10 a=UX7WGo9jQKYA:10]
+Received-SPF: Neutral (s12p02m024.mxlogic.net: 192.185.148.2 is neither permitted nor denied by domain of iceholecoolers.com)
+X-Spam: [F=0.4169671664; B=0.500(0); STSI=0.600(30); STSM=0.600(30); CM=0.500; CY=0.50; MH=0.559(2016030706); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <bhickey@iceholecoolers.com>
+X-SOURCE-IP: [192.185.148.2]
+
+
+--Apple-Mail-2E9F36CA-24CD-4896-93AD-317B6884D0D8
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Very interested. Let me know.
+
+Bill Hickey
+via iphone
+--Apple-Mail-2E9F36CA-24CD-4896-93AD-317B6884D0D8
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Very interested. Let me know.<br><br><b>Bill Hickey</b><div><div><i>via iphone</i></div></div></div></body></html>
+--Apple-Mail-2E9F36CA-24CD-4896-93AD-317B6884D0D8--

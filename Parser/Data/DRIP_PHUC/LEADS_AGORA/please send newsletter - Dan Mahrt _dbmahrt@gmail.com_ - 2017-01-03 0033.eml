@@ -1,0 +1,62 @@
+Return-Path: <dbmahrt@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 94B7C4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:30:18 -0500 (EST)
+Received: from mail-qk0-f175.google.com ([209.85.220.175])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102173313171_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:33:13 +0000
+X-RC-FROM: <dbmahrt@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f175.google.com with SMTP id h201so215797831qke.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:33:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=HKOdJ9olOYEo/RzW+ddhSNXxDg8xnjzxewqLoxr0T/Q=;
+        b=L8kNqBxudirXns63IZvBGvAsLsSrlDrJFLQ+EwhInqd5K7jyotv7WwUKfDrulEIlra
+         ZxdNnHbyN1R+GkOEVUrvQtjuZIMbGUUMEsHU8U6FZFRdXJFJRGfx75Zhm8Mn42IZTdNn
+         PEh3FsGhOW5+P9e55NqFjJvW4ZOSVLeolVo3G3a2okEHFB9IjNDsgeJxsVL8mBQ4hk5z
+         RWeiXfVlbFSkEW2LGbALedq+yEqzKEyUluRhDz8mc885TqjP5z40m4e8pIXqg7q3Wp0j
+         4XWqKWAvaVjCxZyqqrUIswfIedHdGvg7BboS0WeWWMqrQiiHi3BqPYQQOvSZvo/q9c6u
+         1TsQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=HKOdJ9olOYEo/RzW+ddhSNXxDg8xnjzxewqLoxr0T/Q=;
+        b=jvjiQJsUu4UdpB4L5TXCHEPMBw7/w1MmeSao1CLdk7YBMfpooEGWKH4/tvOCsj3OSL
+         0gmI+LpvZoEmwMbCrm+Qj7JXR5JCpDcuPCeumYFFCpot13aiUjSRgjuuKjVjo3MIufQi
+         8flDQQGLbDt4BWXVSNbY98mACe+sidguwqrLUPnSwe9NjHkI40AZDx3ncyFd1KgYF8/j
+         VbLD5QDGa25fiBVFpBFj1REu6MIEGttvJGMLxDzFLISHRLfOBIMI02cdydU1YaTV+62m
+         mgJIpvcEBWrAOl8lR6wZAVUITLPhOgZK9kzXm1bjFbVB/xaDjse9eS4z/XZDMWBZDoXl
+         ZXNA==
+X-Gm-Message-State: AIkVDXK917d7VvoODd0CPKqyfcik6G8p9SXcAloNmtBo09pioygXWqPAk4cR/rA/dub5Ym7Mtq7qMEhHzjYGGg==
+X-Received: by 10.55.144.70 with SMTP id s67mr63928581qkd.290.1483378387457;
+ Mon, 02 Jan 2017 09:33:07 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.139.217 with HTTP; Mon, 2 Jan 2017 09:33:07 -0800 (PST)
+From: Dan Mahrt <dbmahrt@gmail.com>
+Date: Mon, 2 Jan 2017 11:33:07 -0600
+Message-ID: <CANFwN8Rc0Wfx4zfjfswC6Bxu22DirB3z4XfM_j3EUTvbm8xaqg@mail.gmail.com>
+Subject: please send newsletter
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c084cacda1fa105451ff1f7
+
+--94eb2c084cacda1fa105451ff1f7
+Content-Type: text/plain; charset=UTF-8
+
+Dan Mahrt
+985 Kelly Street
+Lino Lakes, MN 55014
+dbmahrt@gmail.com
+
+--94eb2c084cacda1fa105451ff1f7
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Dan Mahrt<div>985 Kelly Street</div><div>Lino Lakes, MN 55014</div><div><a href="mailto:dbmahrt@gmail.com">dbmahrt@gmail.com</a></div></div>
+
+--94eb2c084cacda1fa105451ff1f7--
+

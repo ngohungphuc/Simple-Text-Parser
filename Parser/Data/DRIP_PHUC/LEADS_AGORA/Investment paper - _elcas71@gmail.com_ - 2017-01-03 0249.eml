@@ -1,0 +1,111 @@
+Return-Path: <elcas71@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B00E94028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:46:26 -0500 (EST)
+Received: from mail-qk0-f182.google.com ([209.85.220.182])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102194922984_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:49:22 +0000
+X-RC-FROM: <elcas71@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f182.google.com with SMTP id t184so358179375qkd.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:49:16 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:mime-version:to:from:subject:date:importance;
+        bh=pF3O9XOO7n+lxAen75yl18YMrbg0Qw9ariPgleMZSfw=;
+        b=jxChHQ2TUI8fh7RnLHnrNwmI6JTGyb/1jQzsy0IBPYzVR5Of8IoJo3wyIae2oAtmri
+         yzSckrhIVWDYmRryRPhVmWkmOuq7w//MMJETsC917h7qLSX6J1DLQR33iHJufiT7Qbdb
+         30Hj0L1femdV9I0VICoLqJ36RCOBu/8gThkwCUJc+qvhfzEaQSlNDwbKRESq4j0X2K2A
+         WeXGJHCOxGY0BPl2sSK9xWKQjqP+ZMMaxtWTTth2zoJnmGE7OXCANuju0ydJ8/JO3UT7
+         e2UPWRFwzwDzLOSPC2om8Vouqq5MXG2F+xOffIbWq4znFKbia7/EHH83y9TZTUW1dfEA
+         3wAw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance;
+        bh=pF3O9XOO7n+lxAen75yl18YMrbg0Qw9ariPgleMZSfw=;
+        b=Asn6HXFJw6Ygp01LSZgtFUEY+QpFlRnPAX1kosLGSVnZxSGZIVmVo/8W5SOvoBoZqU
+         rXucf3DY3gZH1IkQptzjIvQ6QXcFJMaGifqe55hGG+qt/wsulUIPOXQztno19ahTHICa
+         WuXeTOZue7usQfyTfZkELBkhdeb+3Zo0iDXJsR30CrF5Bk634n4/n59+T+tERXwQKF83
+         1zIEthdhbNjWW/xdJzW2Q6+5iOVLgO7GSaCuf9R9wp2xhi8BzKO1sbDUzb/yZ7WIA2xh
+         Poo+IUMSp7gL08Gf1s4P/xo7BCCXTG7fl9tLhApZGwQczHBv/dSF9SxlcWlEOHsCO7Hd
+         iDqA==
+X-Gm-Message-State: AIkVDXLlmWuhbHguw6nYNcMvNGRWdGBPc+UA67ct1hONTdA1Z2H9AvtdSCEevVWD8B686Q==
+X-Received: by 10.55.209.150 with SMTP id o22mr54263055qkl.274.1483386542036;
+        Mon, 02 Jan 2017 11:49:02 -0800 (PST)
+Received: from ?IPv6:::ffff:192.168.0.101? (24.102.242.57.res-cmts.t132.ptd.net. [24.102.242.57])
+        by smtp.gmail.com with ESMTPSA id w34sm42074015qtw.10.2017.01.02.11.49.01
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 11:49:01 -0800 (PST)
+Message-ID: <586aaead.a527c80a.cabb.1e73@mx.google.com>
+MIME-Version: 1.0
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+From: <elcas71@gmail.com>
+Subject: Investment paper
+Date: Mon, 2 Jan 2017 14:49:01 -0500
+Importance: normal
+X-Priority: 3
+Content-Type: multipart/alternative;
+	boundary="_B9D2E744-92AB-4A22-9D59-3701DD7341B2_"
+
+--_B9D2E744-92AB-4A22-9D59-3701DD7341B2_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Elliott Castillo, 71 Chickadee Lane, Albrightsville, Pa. 18210
+
+Sent from Mail for Windows 10
+
+
+--_B9D2E744-92AB-4A22-9D59-3701DD7341B2_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta ht=
+tp-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta name=
+=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DEN-US link=3Dblue vlink=3D"#954F72"><div cla=
+ss=3DWordSection1><p class=3DMsoNormal>Elliott Castillo, 71 Chickadee Lane,=
+ Albrightsville, Pa. 18210</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Sent from <a href=3D"https://go.microsoft.com/fwlink/?Lin=
+kId=3D550986">Mail</a> for Windows 10</p><p class=3DMsoNormal><o:p>&nbsp;</=
+o:p></p></div></body></html>=
+
+--_B9D2E744-92AB-4A22-9D59-3701DD7341B2_--
+
+

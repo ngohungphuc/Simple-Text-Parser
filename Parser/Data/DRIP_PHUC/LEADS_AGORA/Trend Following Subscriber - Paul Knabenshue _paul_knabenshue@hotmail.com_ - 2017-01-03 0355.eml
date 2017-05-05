@@ -1,0 +1,120 @@
+Return-Path: <paul_knabenshue@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1F8464028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:52:59 -0500 (EST)
+Received: from SNT004-OMC1S50.hotmail.com ([65.54.61.87])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102205538628_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:55:38 +0000
+X-RC-FROM: <paul_knabenshue@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM04-BN3-obe.outbound.protection.outlook.com ([65.55.90.8]) by SNT004-OMC1S50.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 12:55:32 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=FNm76zcyuptfBp+NE5bfXRXORjDIPUQrXEJeWwC3D4M=;
+ b=EmRUHs/AHKVQ1MnG7rsthsx3q3l7XhbHoZwFbsh5UW2hOgbj5q/0tlaxI5YHp2XMO24oMQY9ivN87f2IDQTFYKgFofp8qj1476QtW14U/G4QI/qS++VMie26zT6JF3cMI/JgbDIWz3wET9ZDu7ESuTePE/DwTVinsnxQC8Q0k5pwP+WiF3JoOuM5CQHnPfqD0SyVIuVFOBoZmU1YzQL1Ohxmr9ZuuCQD4P3xa8DNWLpi1dFzwPrG0KBWCULhqFMkQrdmbVEMIknwLLuJHGwkmOTRv728iDGAEfxig1nhRW5yRnjE8DqKCtDSUCDsMDxDd/6FpBJcsji8KKhIy6mTXg==
+Received: from CO1NAM04FT033.eop-NAM04.prod.protection.outlook.com
+ (10.152.90.58) by CO1NAM04HT250.eop-NAM04.prod.protection.outlook.com
+ (10.152.90.245) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 20:55:31 +0000
+Received: from BLUPR05MB324.namprd05.prod.outlook.com (10.152.90.52) by
+ CO1NAM04FT033.mail.protection.outlook.com (10.152.91.232) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 20:55:31 +0000
+Received: from BLUPR05MB324.namprd05.prod.outlook.com ([169.254.8.137]) by
+ BLUPR05MB324.namprd05.prod.outlook.com ([169.254.8.137]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 20:55:30 +0000
+From: Paul Knabenshue <paul_knabenshue@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Trend Following Subscriber
+Thread-Topic: Trend Following Subscriber
+Thread-Index: AQHSZTqI5AiTz1aAxU+iLt1zXwNH+w==
+Date: Mon, 2 Jan 2017 20:55:30 +0000
+Message-ID: <BLUPR05MB324ED2BEB9A5837407F8AB19E6F0@BLUPR05MB324.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:DE688893E8AAB47B9B5D4890A8A18E4D35E186DCCC82F7199DDCB3B095E156F0;UpperCasedChecksum:841E6515DF689BAFC1F5CDED188D9869A1C4257CD667DBB2AB767B84F41084F1;SizeAsReceived:7229;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [AEJSaKrU5zuYub46bvDTIbkoQeMCwZXm]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;CO1NAM04HT250;7:kLsxSfzuFsRXrZEiIaFbx644YJw8XG9iKdwLrLZlGuLtdMfEAGp6eXHGd/braab/Jil77irVnnHGQ/u2dzsOFYa684TGB3T1cmNUK9N7VuaQcr4yZVn+4LKNBGVP7yZedo8FO+PXTc0sGFK/JPYF/K1zlLjRl3hTz4EINN5iMspmB5cWX10Es09uEAvPNcv+bo1UqJwdbCcifhc4phE1IjCONqLTBWHQ/Ol/Xrxsk8r1ohCh3SbZwfBmRHtzTHzJ3VI6gcm6L0HKIFsJbW/BodaObxfabpWfogwEmh5JQFjU5fWgDmsjlJdVHEUp1AW2wwuD6MMbKIfxlo8/mYDzsGxu+SvnPAqZXzwIv3eLlr6gRjK2mbs+tzPHsD94CzfHru4EYLGfFMrRSaY/zLjamp+mjBb05slKwrAC1/fZH3Dn8AkGkKPBLaY15PP3ST/WiWPt+tjF7hWWYlnm49qXcQ==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:CO1NAM04HT250;H:BLUPR05MB324.namprd05.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 727d85be-6fa4-4caa-6be2-08d43351b01f
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:CO1NAM04HT250;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:CO1NAM04HT250;BCL:0;PCL:0;RULEID:;SRVR:CO1NAM04HT250;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BLUPR05MB324ED2BEB9A5837407F8AB19E6F0BLUPR05MB324namprd_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 20:55:30.4089
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM04HT250
+X-OriginalArrivalTime: 02 Jan 2017 20:55:32.0621 (UTC) FILETIME=[8ED83BD0:01D2653A]
+
+--_000_BLUPR05MB324ED2BEB9A5837407F8AB19E6F0BLUPR05MB324namprd_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Michael,
+
+
+Sorry to see the service go - I thoroughly enjoyed it.  I actually read one=
+ of your earlier books on the topic before you set up your service.
+
+
+Best Regards,
+
+Paul Knabenshue
+
+
+paul_knabenshue@hotmail.com
+
+--_000_BLUPR05MB324ED2BEB9A5837407F8AB19E6F0BLUPR05MB324namprd_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Hi Michael,</p>
+<p><br>
+</p>
+<p>Sorry to see the service go - I thoroughly enjoyed it. &nbsp;I actually =
+read one of your earlier books on the topic before you set up your service.=
+</p>
+<p><br>
+</p>
+<p>Best Regards,</p>
+<p>Paul Knabenshue</p>
+<p><br>
+</p>
+<p>paul_knabenshue@hotmail.com</p>
+</div>
+</body>
+</html>
+
+--_000_BLUPR05MB324ED2BEB9A5837407F8AB19E6F0BLUPR05MB324namprd_--
+

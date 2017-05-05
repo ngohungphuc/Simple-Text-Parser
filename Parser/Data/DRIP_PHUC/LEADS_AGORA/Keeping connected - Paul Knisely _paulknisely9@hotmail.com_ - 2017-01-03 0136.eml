@@ -1,0 +1,84 @@
+Return-Path: <paulknisely9@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 413044028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:34:07 -0500 (EST)
+Received: from BLU004-OMC4S15.hotmail.com ([65.55.111.154])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102183703976_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:37:03 +0000
+X-RC-FROM: <paulknisely9@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM02-CY1-obe.outbound.protection.outlook.com ([65.55.111.137]) by BLU004-OMC4S15.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 10:36:59 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=W/sKf+SHUv1RT9YpOSzuGx1OzmzrGBcYDLcSxkhkrrM=;
+ b=YUXGkWcpDD4JzbBVG+cqu5wtoW63bajgWSqRy9bquYIpBslsUKxiPigo1zV/QQldyjhVEc8+7GBD29mAB1hakXuGepl7b2LufRG0+sDKGmHW/L3ejT8UyCqi8u6WaPqmL4/t4l3zN98MBd1b56+eKxTLAvjQ9iWbtmXQovVHmLBVwlTdkO24IjD/S6rv47TTChvonxjYR79bRv4kyVyrJXkt8ouGO4b1N94RQWHw931s8ck+RIYfi7z8bXSzB9Mf8GOtD4DEEJJG2a20X79iyTamWKKh15SHzsV6ln63Cn9a2Aw+Hf7DwGJydO6xtzN1dFKDSCvNZ3bAOZ+lTbtpRw==
+Received: from CY1NAM02FT036.eop-nam02.prod.protection.outlook.com
+ (10.152.74.51) by CY1NAM02HT011.eop-nam02.prod.protection.outlook.com
+ (10.152.74.175) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 18:36:59 +0000
+Received: from BN6PR18MB1650.namprd18.prod.outlook.com (10.152.74.55) by
+ CY1NAM02FT036.mail.protection.outlook.com (10.152.75.124) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 18:36:59 +0000
+Received: from BN6PR18MB1650.namprd18.prod.outlook.com ([10.175.195.13]) by
+ BN6PR18MB1650.namprd18.prod.outlook.com ([10.175.195.13]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 18:36:58 +0000
+From: Paul Knisely <paulknisely9@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Keeping connected
+Thread-Topic: Keeping connected
+Thread-Index: AQHSZScz461suxA8qE2FZEPZ/OF1xg==
+Date: Mon, 2 Jan 2017 18:36:58 +0000
+Message-ID: <BN6PR18MB1650D49B50BF4F8031838E0D916F0@BN6PR18MB1650.namprd18.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:1135A1DC74A8F86EDDE83535195B8105CF062751FD7FA22808048E9E21AA58B8;UpperCasedChecksum:646A56781B7D9C9655CF9E3C6FA9699A5D81BEDA8DA3BD93A13172D59A176C4B;SizeAsReceived:7223;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [aUaCrbGtJ9tctRjT5zt2lY/FFUZdd5NS]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;CY1NAM02HT011;7:206+meNdgaOeYBN+T6YHymCP4858C+8q1VmhXJZ/HRPzKQHttRVlr0whWp7jX35XBgJPYWrvH/mtTbMJ7xZX093fKLk6K1fZLlSCoSACw5d/vT8SXgLK97BpcSFyIKiR8thL4VEI4b0fhDoZyR+wVgBZPJ7LYcvYcKOpZtWFYXvs5nCvz5hFfCuUi0EGflCfYcB00dQ5BBaRGYDp5KlEKAOKcD05wmLrRYaleQPOfIMAw8CkmB0u1amy9bdkceRTcHwLtlILKxpE7Vx/wDDH+r/TpS4YVESAUfHH5rpYPdSzcsT0zXZaw8vbbzBAgS7QIYRZNTt16CHQfxtIU9ebNNNWdtgaEZr6s7JDcas6/hBVTeaSZ0Msl4F7CuiUaxPBBdbQ1y1QsjZRR29DuFQt472X5buxCMkH7S4tteZNGn7PtheY408QXwBiXAB7je9KwSpI1G2nBaiFa9wz3aSuCQ==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1NAM02HT011;H:BN6PR18MB1650.namprd18.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 450da7bd-3c52-4f1c-f1da-08d4333e55f1
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:CY1NAM02HT011;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:CY1NAM02HT011;BCL:0;PCL:0;RULEID:;SRVR:CY1NAM02HT011;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <4B3E592900700F4DB8C0DD60B0E09BD2@sct-15-1-789-14-msonline-outlook-fff75.templateTenant>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 18:36:58.6318
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1NAM02HT011
+X-OriginalArrivalTime: 02 Jan 2017 18:36:59.0766 (UTC) FILETIME=[33FF3960:01D26527]
+
+Hey Michael,
+
+Put this e-mail on your contact list and keep in touch.  I appreciate your =
+work and feel like a kindred spirit being that I was born and raised in Arl=
+ington, VA, practiced and taught  yoga full time for about 5 years and have=
+ left the capital beltway far, far behind on my path.  Keep me informed and=
+ all the best!
+
+-Paul Knisely
+
+
+
+Sent from my iPad=
+

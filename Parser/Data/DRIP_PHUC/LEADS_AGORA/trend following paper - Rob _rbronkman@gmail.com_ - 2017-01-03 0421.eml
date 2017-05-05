@@ -1,0 +1,63 @@
+Return-Path: <rbronkman@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 414824028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:19:01 -0500 (EST)
+Received: from mail-qk0-f180.google.com ([209.85.220.180])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102212157511_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:21:57 +0000
+X-RC-FROM: <rbronkman@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f180.google.com with SMTP id h201so219868869qke.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 13:21:54 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-transfer-encoding;
+        bh=esphVDYJbO5m9GGnxB6EorloiNdIkYT27KYgqgG5/OM=;
+        b=iC5pGLKiKjQqn02NHxn1gfPX6kvj6Hccqdyr0uXiUaM1YGwQm2cUYXtO572S0sRt2M
+         Ml2uXydKSdOcWyKFDVPyR5Oa2zgG126l6ecvHH8Kgr9gtBvPzzWMtlrqpEEaSDGlGQ6f
+         sb0ro0qH1NX5oWxLfWkeUMDdrrPAXmzYuJb7oREbQu9EAPpG/zMK2cg9g02v0FTV8BK8
+         9lMsxbjpMeRLI7ZCPVaMuglSDTRtTfEbg+XdMDb9rO+E0ad8x1yn/TrszBpC20jApKhU
+         FufgS2RJF9OfW+qLsjxHTxiV9MV0SV90dO3B2q4sNSxW/8zY7crzcNhU5oD2QAgEOkeB
+         gG3A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:subject:message-id:date:user-agent
+         :mime-version:content-transfer-encoding;
+        bh=esphVDYJbO5m9GGnxB6EorloiNdIkYT27KYgqgG5/OM=;
+        b=jzxS3DdATgcUh1PmH9YTZRe30OENFUvMEqHCPj4w16SsTocUBPqZ9vh26aXJuupMZy
+         44bVaU5t5d7yDEUTGPipG1lknlgmprCDWwTQKARCEXb8NeMQXDHrUaAbsVb2O6oPE/z+
+         Jc5i0wE7tXqrQKNX3zgM5WEf3J46vhTMohJZ+lI66bkgvrpSfute17967Pfyo0gdGH0U
+         74dD2hiTX8sRfme+ZUMexug1CwYIIDf470Ys5O2I0M/wXgTsQ/NYiiYlaQfWHGCw/q9W
+         ZOzaFRgQ6Q0z2Lmzp0w7INphZW26Zr461x6EWmXsC2WAPFQzP/LW526LJ56IyL1ZUj4A
+         9usw==
+X-Gm-Message-State: AIkVDXJjoQJpuVc5pLhQGxASjw5CWtPL0xYdzpDNsbuux6gSTi6FHhEzS9k/yNy843C+Qw==
+X-Received: by 10.55.127.7 with SMTP id a7mr57173399qkd.204.1483392102468;
+        Mon, 02 Jan 2017 13:21:42 -0800 (PST)
+Received: from [192.168.1.16] (cpe-142-105-133-200.nycap.res.rr.com. [142.105.133.200])
+        by smtp.googlemail.com with ESMTPSA id 29sm42192492qtu.21.2017.01.02.13.21.41
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 13:21:41 -0800 (PST)
+To: mcovel@trendfollowing.com
+From: Rob <rbronkman@gmail.com>
+Subject: trend following paper
+Message-ID: <b760b7f1-9686-3565-edd6-a4485e4e39c6@gmail.com>
+Date: Mon, 2 Jan 2017 16:21:41 -0500
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.5.1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Please send me the trend following investment paper as my parting gift 
+for the lifetime access I bought... lesson learned for me...
+
+Robert Bronk
+7 Chapel Woods
+Ballston Lake NY 12019
+

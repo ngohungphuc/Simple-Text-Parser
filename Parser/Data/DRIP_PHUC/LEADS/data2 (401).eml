@@ -1,0 +1,199 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m081.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C784A4020DCBC
+	for <mcovel@trendfollowing.com>; Sat, 20 Aug 2016 12:58:31 -0400 (EDT)
+Authentication-Results: s12p02m081.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m081.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id 73c88b75.0.383024.00-2387.678024.s12p02m081.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sat, 20 Aug 2016 10:58:32 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=lnyzRdxIuDH8G5a0SG/kjPk9e+s=; b=ZyYRQ5f4Xqi1m1tRyGe/nDY
+	EYQB7UZvuksM/J4jCJVEr/zwN1TtXwRvBWKKKgmcpbGsw2fta7shqr9h0abOnnOq
+	pG2CxQTolU0VuNnhNADfP6VzFT535e1H1PbMZSVmp7TfyeMTd4QGcoX+2BEFIHfO
+	rDoAFbEgZWpg7RFFaczA=
+Received: by filter0464p1mdw1.sendgrid.net with SMTP id filter0464p1mdw1.7137.57B88C3417
+        2016-08-20 16:58:28.330570489 +0000 UTC
+Received: from getdrip.com (ec2-52-90-81-35.compute-1.amazonaws.com [52.90.81.35])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id EFWAAS4_Tp6yre9S8To5EA
+	for <mcovel@trendfollowing.com>; Sat, 20 Aug 2016 16:58:27.816 +0000 (UTC)
+Date: Sat, 20 Aug 2016 16:58:27 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57b88c3394f73_773b3fc0dd813fd443967@ip-172-30-0-182.mail>
+Subject: [Drip] farrellh@telkomsa.net just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57b88c33948b8_773b3fc0dd813fd4438cc";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpRYZBiWOwReuwlMEBpAzIEgD0Oe17IVLuVhd
+ 70eFvwo0S8diryPy+kOWm7kgJn/9X4THKtUkSme7VPdrF/lDe+MeaoRyPT3Rvyi4QDfMJtuX+GaWDK
+ mQn/0LQ9OiKbpwe1ScZGCjyXD2199aBN88TvjxEuVeIO68uffa9PE+w2cRrpGBPq66DK5wmRiFiUGY
+ Y=
+Received-SPF: Pass (s12p02m081.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+----==_mimepart_57b88c33948b8_773b3fc0dd813fd4438cc
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+There has been new subscriber activity in your Drip
+account.
+
+Here are the subscriber's details:
+
+city: Kenilworth
+country: South Africa
+first_name: Farrell
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: Yes
+last_name: Haupt
+last_trading_or_investment_book_read: Turtle Trader
+state: Western Cape
+street1: 7 Northdene
+street2: 291 Main Road
+zip_code: 7708
+id: z2hweqxppgijqqyjaksa
+email: farrellh@telkomsa.net
+utc_offset: 120
+visitor_uuid: e7c775e04924013466bc0e9dd67883c3
+status: active
+time_zone: Africa/Johannesburg
+friendly_time_zone: SAST
+tags: ["imported-from-aweber-March 20, 2016", "optedin-sitewide",
+"optedin-dvdrequest", "imported-from-aweber-march 20, 2016",
+"optedin-sitewide", "optedin-dvdrequest"]
+created_at: 2016-03-21 16:35:11 UTC
+
+View their full profile here:
+
+farrellh@telkomsa.net ( https://www.getdrip.com/3513718/subscribers/z2hweqxppgijqqyjaksa )
+
+Cheers,
+
+The Drip Team
+----==_mimepart_57b88c33948b8_773b3fc0dd813fd4438cc
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+  
+  </head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; width: 100% !important"><style type="text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !important;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+@media only screen and (max-device-width: 480px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  a[href^="tel"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  a[href^="sms"] {
+    text-decoration: none; color: blue; pointer-events: none; cursor: default;
+  }
+  .mobile_link a[href^="tel"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+  .mobile_link a[href^="sms"] {
+    text-decoration: default; color: orange !important; pointer-events: auto; cursor: default;
+  }
+}
+</style>
+  <div id="main-content" style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4; padding: 25px; width: 550px">        Hi there,<br />
+        <br />
+        There has been new subscriber activity in your Drip account.<br />
+        <br />
+        Here are the subscriber's details:
+        <br />
+        city: Kenilworth<br />country: South Africa<br />first_name: Farrell<br />has_read_LBoT: No<br />has_read_TC: No<br />has_read_TF: Yes<br />last_name: Haupt<br />last_trading_or_investment_book_read: Turtle Trader<br />state: Western Cape<br />street1: 7 Northdene<br />street2: 291 Main Road<br />zip_code: 7708<br />id: z2hweqxppgijqqyjaksa<br />email: farrellh@telkomsa.net<br />utc_offset: 120<br />visitor_uuid: e7c775e04924013466bc0e9dd67883c3<br />status: active<br />time_zone: Africa/Johannesburg<br />friendly_time_zone: SAST<br />tags: ["imported-from-aweber-March 20, 2016", "optedin-sitewide", "optedin-dvdrequest", "imported-from-aweber-march 20, 2016", "optedin-sitewide", "optedin-dvdrequest"]<br />created_at: 2016-03-21 16:35:11 UTC<br />
+        <br />
+        View their full profile here:<br />
+        <br />
+        <a href="https://www.getdrip.com/3513718/subscribers/z2hweqxppgijqqyjaksa" style="color: blue">farrellh@telkomsa.net</a><br />
+        <br />
+        Cheers,<br />
+        The Drip Team
+
+</div>
+</body>
+</html>
+
+----==_mimepart_57b88c33948b8_773b3fc0dd813fd4438cc--

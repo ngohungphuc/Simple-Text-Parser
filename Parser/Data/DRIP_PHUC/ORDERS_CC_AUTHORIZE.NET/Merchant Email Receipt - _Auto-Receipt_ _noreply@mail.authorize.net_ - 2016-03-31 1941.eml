@@ -1,0 +1,110 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m081.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B8BAC4019ECF5
+	for <mcovel@trendfollowing.com>; Thu, 31 Mar 2016 08:42:03 -0400 (EDT)
+Authentication-Results: p01c11m081.mxlogic.net; spf=pass
+Received: from unknown [198.241.168.129] (EHLO cportal8.visa.com)
+	by p01c11m081.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id d1b1df65.0.3403521.00-1841.6911651.p01c11m081.mxlogic.net (envelope-from <noreply@mail.authorize.net>);
+	Thu, 31 Mar 2016 06:42:06 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1459428126; x=1490964126;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=FENODxmJGUKU9Kvih9coWqDYFaMXEJlbszvo3gk59QQ=;
+  b=qiguR1NXYtlvT/uTCk91DdQrY+VDf+SDrYzy4WSL7h4wDay7l52D4ziI
+   xr4Sf/CPYpqpjQv7hla+WZXQLTcS5AAcm3IOTAzQn0jx14i2Umh42eoBr
+   /oL2gPCf9AYJVU3RiY/HTThr2lcrqWE8vLwqXjtOgMNDApLwD6OyndPEK
+   4=;
+thread-index: AdGLSqb8V1OCAQm6RGa8rzwuQA8pWw==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Thu, 31 Mar 2016 12:41:31 -0000
+Message-ID: <230AB8C2C1014296B28433E550502106@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 31 Mar 2016 12:41:31.0789 (UTC) FILETIME=[A71B73D0:01D18B4A]
+X-AnalysisOut: [v=2.1 cv=FJwdsrcs c=1 sm=1 tr=0 a=bVAnNvkIJaZYOGIZwaY4uw==]
+X-AnalysisOut: [:117 a=bVAnNvkIJaZYOGIZwaY4uw==:17 a=7OsogOcEt9IA:10 a=pGL]
+X-AnalysisOut: [kceISAAAA:8 a=bzWHb8UZ6K-Hk27-iuwA:9 a=ce8MFQQndr0LrBjE:21]
+X-AnalysisOut: [ a=OfxPf8UjZI8cHv-g:21 a=f7UIP6PLeaUA:10 awl=host:2827]
+Received-SPF: Pass (p01c11m081.mxlogic.net: domain of mail.authorize.net designates 198.241.168.129 as permitted sender)
+X-Spam: [F=0.1581961346; B=0.500(0); STSI=0.500(-12); STSM=0.400(-12); CM=0.500; CY=0.50; MH=0.529(2016033111); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <noreply@mail.authorize.net>
+X-SOURCE-IP: [198.241.168.129]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 31-Mar-2016 8:41:29 EDT
+
+========= ORDER INFORMATION =========
+Invoice : 26165
+Description : Trend Following Trading Systems from Michael Covel - Order 26165
+Amount : 2646.45 (USD)
+Payment Method: MasterCard xxxx9585
+Transaction Type: Authorization and Capture
+Entry Mode : Keyed
+
+============== Line Items ==============
+Item: 62
+Description: Trend Following Investment R...
+SKU: FLAGSHIP
+Quantity: 1
+Unit Price: $2547.45 (USD)
+Item Total: $2547.45 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : T04229
+Transaction ID : 8118747787
+Address Verification : AVS Not Supported by Card Issuing Bank
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 18
+First Name : aaron james
+Last Name : amado
+Company : 
+Address : 131 Ang Mo Kio Avenue 3 07-1609
+City : Singapore
+State/Province : Singapore
+Zip/Postal Code : 560131
+Country : SGP
+Phone : +6583892450
+Fax : 
+E-Mail : aaron52637@gmail.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : aaron james
+Last Name : amado
+Company : 
+Address : 131 Ang Mo Kio Avenue 3 07-1609
+City : Singapore
+State/Province : Singapore
+Zip/Postal Code : 560131
+Country : SGP
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 

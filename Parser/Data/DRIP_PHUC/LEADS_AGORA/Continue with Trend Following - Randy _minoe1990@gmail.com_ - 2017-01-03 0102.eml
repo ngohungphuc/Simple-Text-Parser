@@ -1,0 +1,63 @@
+Return-Path: <minoe1990@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 098EA4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:00:20 -0500 (EST)
+Received: from mail-qk0-f182.google.com ([209.85.220.182])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102180311001_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:03:11 +0000
+X-RC-FROM: <minoe1990@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f182.google.com with SMTP id u25so345236846qki.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:03:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=jCKbDKtu5GO8VDWzjUISvpy2gpg42brqWu8B4FBuz28=;
+        b=O8N59xaVvOG0lzpx9ywIa10aVg4a107zyOfBonVsBah4AonE4JBh7IHC3ygatprxB0
+         uHaBz2StUUoZWA5FXSdRVqTT6pFyOADQqTEpXMA+rolXa4kKq8Sx/FdYqI7uHjfEI3bv
+         MoHOiU72LuX+kg2V2/HFLHK9uCxizPo7K2GAKfinpIbkzzaL4L/CkixxwKOOqknrNV1p
+         op7wqEYxcXHGclSYVL/5E0AxPcb0W4mt+j2dNts9uHUle0WHxuf6TTbvbPKglVvbpBpx
+         rKIKw144DjeYbeN8Sr3E5irPAFdahLe4bV+9L6FjzefQbrrZzGENOnLyZ/+vEOltaci8
+         cckg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=jCKbDKtu5GO8VDWzjUISvpy2gpg42brqWu8B4FBuz28=;
+        b=Okvg2uLyrPNwveB5jSxNksHKMnEXRD9TPdh0tYb97t0uofDKcI5tMfjw5twOayq7et
+         ims7gSIhYBIwMLdVqIT8FXPvSFa/TT2dcVjfKL0NcdOyCqiIHCxnDg6G9kN2Kkor1gux
+         9JHezTWVoQPyDXR0O5QEES8gKu/pzetlqwOdgV1dTe0BQaO0XajBZqBA0hdiC/tfllA9
+         9oaJnj3uSNQdrcHmP0hAEEOEBl2vKKa/ExUrhA14a+iq2PxR8qdywXaM369S1i4ZZ0a+
+         BK5adPEOTEx/bLgGA9DwoXB9MZSUM8LkrhU5xpKm5pKkVVNuUq9oKHLNx0/drSLR3x0Y
+         z/Rg==
+X-Gm-Message-State: AIkVDXKDwKs+CxRvWQmHZsgyPSsCMsGcHhG0nXUyXrx7lAzE/lfzkeQGORcSW8wP0l90OxCgVqJ+Z9y6FqHWLg==
+X-Received: by 10.55.132.4 with SMTP id g4mr55266739qkd.2.1483380178732; Mon,
+ 02 Jan 2017 10:02:58 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.237.45.162 with HTTP; Mon, 2 Jan 2017 10:02:58 -0800 (PST)
+From: Randy <minoe1990@gmail.com>
+Date: Mon, 2 Jan 2017 08:02:58 -1000
+Message-ID: <CAOyk5RSKW9E3yRj9POwRpdNRLOMN48CgsmTVP4KEgq3pf3DOmg@mail.gmail.com>
+Subject: Continue with Trend Following
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0763949ec9b60545205c5b
+
+--94eb2c0763949ec9b60545205c5b
+Content-Type: text/plain; charset=UTF-8
+
+Randy Arase
+3337 Maunaloa Ave.   Apt B
+Honolulu, HI   96816
+
+--94eb2c0763949ec9b60545205c5b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>Randy Arase<br></div>3337 Maunaloa Ave.=C2=A0=C2=
+=A0 Apt B<br></div>Honolulu, HI=C2=A0=C2=A0 96816<br></div>
+
+--94eb2c0763949ec9b60545205c5b--
+

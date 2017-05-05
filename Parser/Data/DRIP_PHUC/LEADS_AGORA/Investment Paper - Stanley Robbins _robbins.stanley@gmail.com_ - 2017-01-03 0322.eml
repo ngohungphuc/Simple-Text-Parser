@@ -1,0 +1,82 @@
+Return-Path: <robbins.stanley@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 249614028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:19:45 -0500 (EST)
+Received: from mail-oi0-f41.google.com ([209.85.218.41])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102202240831_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:22:40 +0000
+X-RC-FROM: <robbins.stanley@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f41.google.com with SMTP id 128so294509358oig.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 12:22:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=xuq2sybtIHfJT3A/O2UHjlOTGV2t12ozodfxAYoB9y8=;
+        b=rUDPQS7flFKCO72+zoRtTZJDr/ic220O64Ix6pmS/8dAtJiRKGUlYgGSkX/Tcs6bR9
+         Up3PEfymPYHgNv7jeqfvSSRzxdqGrA+nZLW5X9H8nS2Hw4JM8oBjJqEHP6vzF/JWrcAL
+         HGlOF+TMW8lb1wAbwT32iPeUNjYZJg3DIFWwLWOba1s7HT0KwsIHF8HjMdwr70QoxXLD
+         Da019OeYyj2Uaqu9tVXjBHxdrM9wwvgkLzQ/uOZ9jd3Pz6xBnncprRA2iwU86Yzk/qRB
+         KhBeq+VAQAWpdLyjOnKN34Bc+4YuLYilFgW8otlARLvb00+6wnOpzcYSd3YyaLLqRnrq
+         Wr8g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=xuq2sybtIHfJT3A/O2UHjlOTGV2t12ozodfxAYoB9y8=;
+        b=nS7qZx/4AGy8sCFUQV41U7wMpBVqQh80jzSUPIDvd+wg4KuC11jYH4inwrSzvnd8sJ
+         bHbyPajK7F0NExJHz69l7VKsLJFlmn1cGSoljzLRc+kaEwWIDssAsPKI6IYFQzWc36xc
+         GwxNmV0wQlwprjZDxpfS/ey6LSefoExUQ918SeCEeLwgtzIi7u6LSmMjlTPBfx6DEjvM
+         E9srh0CHwQCX79n6Xxn7Aa+hcMfxEasYZxVuG6OCO6jYLT6oQNtANV8/a19XSvC40/QY
+         l9gQoE6dejxWVxElBOkaoJy23UdAxdEYe+MyoIZtAC5NsBNnfOCKCcwCyt3i2ZMHHnQX
+         uTfg==
+X-Gm-Message-State: AIkVDXLOvPOPPiqPUYg6xJVDl7CBoCJfjk91c9ZxA+lEwBXhdR3UXK1Ttj8ddyRXzTaU6Wlln2mRZGMWNanL1g==
+X-Received: by 10.157.16.14 with SMTP id h14mr31396066ote.120.1483388554881;
+ Mon, 02 Jan 2017 12:22:34 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.6.200 with HTTP; Mon, 2 Jan 2017 12:22:34 -0800 (PST)
+Received: by 10.157.6.200 with HTTP; Mon, 2 Jan 2017 12:22:34 -0800 (PST)
+In-Reply-To: <CAD7kzxXWTPGFcQSY4F8wJeDBytOQJMgRLMn_0CRTxZ2jVciC2A@mail.gmail.com>
+References: <CAD7kzxXHLv-DJJ8ynnffKR-33jgXq=-fuOm=NVKvN+nHtB8STw@mail.gmail.com>
+ <CAD7kzxWZNAfZGmBr3+sQ2R-GYe+xEkxq_HwRPi_hkiNAJYJdhQ@mail.gmail.com>
+ <CAD7kzxVM+xc5dwYKcQwX7tbbHVgqNx9=XkREMYOLwNQP_tiBpQ@mail.gmail.com>
+ <CAD7kzxWscBrVpbBNsVQ7MxP47WxwnF2Gy2iCgaJnOoLpctCs8w@mail.gmail.com>
+ <CAD7kzxXd5z+cXpkcTb+dx20zQp0HyVercR1UQYZgLR03-Kjn+A@mail.gmail.com>
+ <CAD7kzxUUb1qygowJdWj4qUhsazXic=dv1a=QrbMqtdOkYMwrfg@mail.gmail.com> <CAD7kzxXWTPGFcQSY4F8wJeDBytOQJMgRLMn_0CRTxZ2jVciC2A@mail.gmail.com>
+From: Stanley Robbins <robbins.stanley@gmail.com>
+Date: Mon, 2 Jan 2017 12:22:34 -0800
+Message-ID: <CAD7kzxVqexWbft3mKdxSP_VESd3q0epcLB9H_yAVfS31VJTdSA@mail.gmail.com>
+Subject: Investment Paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1135202ee0af5b0545224ffd
+
+--001a1135202ee0af5b0545224ffd
+Content-Type: text/plain; charset=UTF-8
+
+I will miss your no nonsense analysis and investment advice.
+Please send me a copy of your Investment Paper to:
+Stanley L. Robbins
+16869 SW 65th Ave #314
+Lake Oswego, OR 97035
+
+Wishing you the best!
+
+Stanley
+
+--001a1135202ee0af5b0545224ffd
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">I will miss your no nonsense analysis and investment advi=
+ce.=C2=A0<div dir=3D"auto">Please send me a copy of your Investment Paper t=
+o:</div><div dir=3D"auto">Stanley L. Robbins</div><div dir=3D"auto">16869 S=
+W 65th Ave #314</div><div dir=3D"auto">Lake Oswego, OR 97035</div><div dir=
+=3D"auto"><br></div><div dir=3D"auto">Wishing you the best!</div><div dir=
+=3D"auto"><br></div><div dir=3D"auto">Stanley=C2=A0</div></div>
+
+--001a1135202ee0af5b0545224ffd--
+

@@ -1,0 +1,58 @@
+Return-Path: <bjbroen@telus.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DC8C54028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 18:29:10 -0500 (EST)
+Received: from cmta18.telus.net ([209.171.16.91])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102233207094_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 23:32:07 +0000
+X-RC-FROM: <bjbroen@telus.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtlp000018.email.telus.net ([172.20.100.250])
+	by cmsmtp with SMTP
+	id OC5AcHPNB6Gb2OC5AcBzOG; Mon, 02 Jan 2017 16:32:00 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=telus.net; s=neo;
+	t=1483399920; bh=UAj51ZiWIhkoVaBwKlENAmMwcK7Pq/BqIyEeZUysdco=;
+	h=Date:From:Reply-To:To:Subject;
+	b=ocMymY7Otj9cpC+Upyg9iOKzMkPEHLU9ZnJFukKxXfOYtTYcyqckb8F91DzQfyxlO
+	 DZezPKAa+Klq9R8LJrQcili3PjwP+6pTxMIe+ZnDH++IlPHSCjfJJI8iCSj+cDyVqy
+	 KRl9nD/EGJkTHHNb+dBeiqHmDGeXsxK8ElWKykLmYLeL/hb3rxQ23xNNj9LQIYq/T8
+	 GVMhQVFdgCO0KzrO44dS0xkqYfJ95DSZvoLQRZmOYH+rChzMs2fJH/MAoho6saIZ0Z
+	 ZsHwabsZS7lFvg6xp6dUwuohP3g0xmwj0nti356cKgoD+fAI/CiM1fNOSoXnuG2Oml
+	 fnFca/L4hXg3A==
+X-Authority-Analysis: v=2.2 cv=bNn5GL2Z c=1 sm=1 tr=0
+ a=4bd358MHcbnBkp+IcMzszA==:117 a=FKkrIqjQGGEA:10 a=0c3FDw5iQQsA:10
+ a=fXA-I3KXus5V2J9E4XAA:9 a=QEXdDO2ut3YA:10 a=_W_S_7VecoQA:10 a=NiCihbAGoKoA:10
+Date: Mon, 2 Jan 2017 16:32:00 -0700 (MST)
+From: BJBroen <bjbroen@telus.net>
+Reply-To: BJ Broen <bjbroen@telus.net>
+To: mcovel@trendfollowing.com
+Message-ID: <1403747807.65016422.1483399920860.JavaMail.zimbra@mailid.telus.net>
+Subject: investment paper
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_65016421_1712239205.1483399920859"
+Disposition-Notification-To: BJBroen <bjbroen@telus.net>
+X-Originating-IP: [75.155.209.39]
+X-Mailer: Zimbra 8.6.0_GA_1200 (ZimbraWebClient - FF50 (Win)/8.6.0_GA_1200)
+Thread-Topic: investment paper
+Thread-Index: 9TYv9zFw1hMN5xXbWHvml4sDx+/RjQ==
+X-CMAE-Envelope: MS4wfM9XjPWFexRuP8OO1uTd7ZcYU5zhpxsoljf0Hvlciy5jKtitHQcA+6c1w87bqgq+pOa03nZGJKuEFCssk415FQYgyvRBYaEDpixK9oFZ8pRg52PHsDJP
+ I5U9dhWrJ4h2L8MJILjFdWqioeqAxDz31iNin3doer/Ro7Ofi2R1x09ix9Db3WbNlsQMtkjIHlQPEQ==
+
+------=_Part_65016421_1712239205.1483399920859
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+"To thank you for your confidence in my work I would like to send you a special trend following investment paper that will provide great next steps as well as securing your continued connection with me." 
+
+------=_Part_65016421_1712239205.1483399920859
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: times new roman,new york,times,serif; font-size: 12pt; color: #000000"><div><i>"To thank you for your confidence in my work I would like to send you a special trend following investment paper that will provide great next steps as well as securing your continued connection with me."</i></div></div></body></html>
+------=_Part_65016421_1712239205.1483399920859--
+

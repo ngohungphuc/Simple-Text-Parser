@@ -1,0 +1,59 @@
+Return-Path: <zanydr18@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 05DA54028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 13:22:52 -0500 (EST)
+Received: from mail-it0-f52.google.com ([209.85.214.52])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103182548423_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 18:25:48 +0000
+X-RC-FROM: <zanydr18@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f52.google.com with SMTP id c20so290424436itb.0
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 10:25:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=PuC1qm5gfjXa05r13bcZTfR0w+7dRaupZQY+eXhX8Dc=;
+        b=kC0pPwp0ToWId3nTmCGKfBe07+l7MUy0YKDgpXO5QhpTKdBFkMNz0kt7ni7niFS0zI
+         IcB/drFy5yO9r40/7+4+BOiSvOOa2fYi9Dr/IYOqdKg7tQWIkrqRsUHC3r1CYuAkbtic
+         pqTD57JpY9BGkUjcMHpxgWwMTYSZdcuH1jd8I6oKvirEOg7VmdA+2TqV0HdzphEy6lsP
+         lcUGGR6WZ7wJZv0PN4bt0uJEtdqlbmy6tD8y9uqnCP9yEgURZiUgO1TpHFxSIzy6V5f/
+         fbPQXVgk0aPWT6Y0mludnS38t2+uMkDQ1ZlhcEjb8QNFwc3lZAa1EjQrVmBV6NevDH5Z
+         L8Bw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=PuC1qm5gfjXa05r13bcZTfR0w+7dRaupZQY+eXhX8Dc=;
+        b=qxfjmJMnpP2pigwey4fOZ6PFyBsL6DXXtEgqVytLGVrQaPrRA6IhGj9Vwa8mPAVF3x
+         nA+UreB9+D20KLNhSqMLkpyNRXVH3slkoB7BH37u1xvPX8lZA3x6W/xD4ZWGdJX0+cSw
+         rye9Z92Lg4UTYl92+U16yyImaanV/SYb6pHGW4LA3KBsxdLU3jfclEt8c3Vwp6MAJEc4
+         FIZz7nSO4EUEFpnKU8TbS59sipdJAgLUirYhsFAKNPwdksjBnZ7G8GTSo0rMzJ3Lr0Fm
+         gIOEk8erH2u6LC0ZTW/izhVmsZ+hJ/MD52WRhm+1HSYnNZjkoWF/DUlkkwDGUJcX1BJn
+         ZrjQ==
+X-Gm-Message-State: AIkVDXKFPng6nkCyuzIs43PGsXfqxH8yu95wkkneZ7swGQo/kDF1H0bD+KeDcBIW+18Kyb8KXt+8redh0XqsBA==
+X-Received: by 10.36.123.23 with SMTP id q23mr48806391itc.12.1483467941281;
+ Tue, 03 Jan 2017 10:25:41 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.171.77 with HTTP; Tue, 3 Jan 2017 10:25:40 -0800 (PST)
+From: andrew domenitz <zanydr18@gmail.com>
+Date: Tue, 3 Jan 2017 13:25:40 -0500
+Message-ID: <CAN8aPRrO78m1THvi6mtbkXQ5hWvuW6-Q_DSsxvxpdW41xMDmdg@mail.gmail.com>
+Subject: report
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114747e4ad27c0054534cbca
+
+--001a114747e4ad27c0054534cbca
+Content-Type: text/plain; charset=UTF-8
+
+please send
+
+--001a114747e4ad27c0054534cbca
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><div class="gmail_default" style="font-family:arial,helvetica,sans-serif">please send</div></div>
+
+--001a114747e4ad27c0054534cbca--
+

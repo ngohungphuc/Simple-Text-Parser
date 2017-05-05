@@ -1,0 +1,113 @@
+Return-Path: <motormanbob@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 984924028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 08:51:15 -0500 (EST)
+Received: from COL004-OMC3S8.hotmail.com ([65.55.34.146])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103135411206_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 13:54:11 +0000
+X-RC-FROM: <motormanbob@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com ([65.55.34.135]) by COL004-OMC3S8.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 3 Jan 2017 05:53:56 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=yO07SJQSklPX2KMhID1MW0rzKaG5lRL/UFfnA3IoEVI=;
+ b=rIQ/S8nf7Wch1ZgaLD/VZ+Wqp49hNlEL/x8nYRaBPtj2TJooX5MxZxseW4qNo7LfYYsBNhcTlE6LcCiPNzZKpwQbATuDYxdCS2+RWqUQdkqVlHPobKAZEWcJpF9sWHiOJ/HYJ6pVJsibqeyRD3XsBam7HUfj6GaIq0rT5WyCUr0aky2ZgPQUZK9tddhJfeeefgdN5Y9UIE1a15q68TcAysvkWK0TzxfG4iyblagvh5ezNtY2KugcdOzg2AkjN6xgEhW6hrDdomp3eOUZFZ2GWJx1b2EzXeMsYkma9NiFfEhKaDoiaV23+jBotLA7xqwIsC1pgyRFifkTUWug5z0z3w==
+Received: from BY2NAM01FT044.eop-nam01.prod.protection.outlook.com
+ (10.152.68.57) by BY2NAM01HT238.eop-nam01.prod.protection.outlook.com
+ (10.152.69.166) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Tue, 3 Jan
+ 2017 13:53:55 +0000
+Received: from BY2PR15MB0277.namprd15.prod.outlook.com (10.152.68.52) by
+ BY2NAM01FT044.mail.protection.outlook.com (10.152.68.181) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Tue, 3 Jan 2017 13:53:55 +0000
+Received: from BY2PR15MB0277.namprd15.prod.outlook.com ([10.163.64.23]) by
+ BY2PR15MB0277.namprd15.prod.outlook.com ([10.163.64.23]) with mapi id
+ 15.01.0817.009; Tue, 3 Jan 2017 13:53:55 +0000
+From: Robert Rivinius <motormanbob@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Trend Following subscription
+Thread-Topic: Trend Following subscription
+Thread-Index: AQHSZcjS/8Xz0P6uSUCQDhKkhpnMLA==
+Date: Tue, 3 Jan 2017 13:53:55 +0000
+Message-ID: <BY2PR15MB02776F7282641D04AD427C38A96E0@BY2PR15MB0277.namprd15.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:A76842AA0F60CDCA5E85E60D873FDDCB5F46C6EDBDC005BF5758463187C98F68;UpperCasedChecksum:4FC5D48E2ABAF49EEE64BEEA9DBDBB83C07B64906FDB578F3D16EEF40F658C28;SizeAsReceived:7245;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [BnjaGul0f4YAPBE9VRq5Zm04fKPY1e0S]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BY2NAM01HT238;7:w5RRenoAQu3fkTYudgDn2B+MKsmbad5BLf6ipA1a/faJUbPVEPimz+E3Fy6nEAdHy0VG/TYMJc7IjEnRHXjGkH7LOleKdUmODtKfjDDfAb8qvtDmZC5+yXZmiQOE/MSEyOrIxQ8r9sQjmmPMuIajKWoaltDsN0hnXqXsMagFFjczYS1LBOVyTZG5L9h7sRRGNXoHCfOskrPCo8u8ZnL0vf4YNdD0szDCsv4Dr7tiL69JKgvDgreRFLAwRALmzFrjGfs4AGJtp9CIFVQ3WTHuo1bb4Us8RQWACPEDbxqO0RV26Lxd4vVdFGHD1axkWUwnPQIILP4obcdpzJyuw6LXedTYpfl0qP1IcH5aw8PIAGIVTIwBXWBhTDSrvxD95fMiS5DtSfiUHk5dvvrQ5b0kklvq4OBMVRZXp65vTcfCTLQ4PzMtMs/7QprN6eJZAlamUBkel+aDCn4CnJyIak+HsA==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2NAM01HT238;H:BY2PR15MB0277.namprd15.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 0b02fcd7-38f5-4504-5808-08d433dff588
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:BY2NAM01HT238;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BY2NAM01HT238;BCL:0;PCL:0;RULEID:;SRVR:BY2NAM01HT238;
+x-forefront-prvs: 01762B0D64
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BY2PR15MB02776F7282641D04AD427C38A96E0BY2PR15MB0277namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jan 2017 13:53:55.4107
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM01HT238
+X-OriginalArrivalTime: 03 Jan 2017 13:53:56.0405 (UTC) FILETIME=[D389BE50:01D265C8]
+
+--_000_BY2PR15MB02776F7282641D04AD427C38A96E0BY2PR15MB0277namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Robert Rivinius
+8966 Cooper Ave
+Rego Park, NY 11374
+
+Thanks Mike, I really enjoyed the newsletter. I look forward to the podcast=
+s, great guests and advice.
+Take care and good luck,
+Rob
+
+Rob Rivinius, sent from iPhone
+
+
+--_000_BY2PR15MB02776F7282641D04AD427C38A96E0BY2PR15MB0277namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body>
+<div>Robert Rivinius&nbsp;</div>
+<div>8966 Cooper Ave</div>
+<div>Rego Park, NY 11374</div>
+<div><br>
+</div>
+<div>Thanks Mike, I really enjoyed the newsletter. I look forward to the po=
+dcasts, great guests and advice.</div>
+<div>Take care and good luck,</div>
+<div>Rob<br>
+<br>
+<div class=3D"acompli_signature">Rob Rivinius, sent from iPhone</div>
+<br>
+</div>
+</body>
+</html>
+
+--_000_BY2PR15MB02776F7282641D04AD427C38A96E0BY2PR15MB0277namp_--
+

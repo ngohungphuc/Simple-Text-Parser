@@ -1,0 +1,68 @@
+Return-Path: <rickmurray3@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6B6F44028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:29:19 -0500 (EST)
+Received: from mail-it0-f52.google.com ([209.85.214.52])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102203215111_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:32:15 +0000
+X-RC-FROM: <rickmurray3@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-it0-f52.google.com with SMTP id 75so252643478ite.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 12:32:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=Kerbgb8N3mA8RW4f8jTQCm2JPBA62jQQCvVVivYMbG0=;
+        b=aEdbIhplXcaiC5z/jzlTKyRMp5Qhm13q7R+GVKDHqe8htXir0u9ZSgKC3emUp+zNc6
+         b/OeE1b2fv9ZJik0Q3zml/irRVXZfnhQ3RN25UyuB7mdDZJgltzrWDLSmBPrGYursjNH
+         1hRNUeNwxclI1QloW54xjdca5lCFBoo73plaqO2n5oIOcHWhTtCsjPHinetaTzo9bGNi
+         ODiPcFaXT/rTFfMEMz4GOhh1Qdm8nA5YB0cK+agbF/JuIf17LRO+RJjw5Stp8y0grkEP
+         RSYtmc+4cTtUJYXw0Q27lXloFVepTmgh2bNDbNQbR5GqgrtdUYOF2VYTxnbDdmHd6Ie0
+         u1DQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=Kerbgb8N3mA8RW4f8jTQCm2JPBA62jQQCvVVivYMbG0=;
+        b=pfzBza9hr/FI+xwh+by1WmUfewhO4TAZDgMAd4ChEVVEy4vqFWzPO/ue0kLQZ1PdiU
+         KYSHE4IlAbS0uBhUQ2IZnQLvDNWbnOqWN6MTQeQSaY3vbHWVk35W+1HzFcGg/DjLfdai
+         XruglEGHl5WJx0CsZFS805L5WjEdGrGmHSl0vheOcF4xPHLpIDz1N/vf6SLaTXZSFcGL
+         dqJ5fwzs4EorntQNZ5j23gf6qnGgLDRo/fHFkCqyg5GGSZMF7wPd+9Dq0eL5J/gxI8rB
+         ReqEOGbTtKI4yqsytiN6qXORVMAG6ziYr2b+4qkT4YMMxxtCdrEpmEdVFPmzvVYPNd3l
+         wadg==
+X-Gm-Message-State: AIkVDXL47D0JsQ9ILTuzLS/6tUp1x/RGRrEqDBD3CK3PW3RX701vEa3ICcjBW31lzBr4EA==
+X-Received: by 10.36.2.14 with SMTP id 14mr49588703itu.113.1483389128587;
+        Mon, 02 Jan 2017 12:32:08 -0800 (PST)
+Received: from ?IPv6:2604:6000:1116:40c6:ac98:c4a7:fbb9:4e66? ([2604:6000:1116:40c6:ac98:c4a7:fbb9:4e66])
+        by smtp.gmail.com with ESMTPSA id v7sm32569245iod.0.2017.01.02.12.32.07
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Jan 2017 12:32:08 -0800 (PST)
+From: Rick Murray <rickmurray3@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 15:32:07 -0500
+Subject: Investment paper offer / re: Agora email note
+Message-Id: <DE948FA0-63AC-4089-BD46-CE2B82DC5E67@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPad Mail (14C92)
+
+Mike - Thanks for the offer.
+
+I don't blame you for leaving Agora. They are a bit over the top.
+
+Happy New Year! 
+
+Rick Murray
+8508 Mariaville Rd.
+Pattersonville, NY 12137
+
+Sent from my iPad
+

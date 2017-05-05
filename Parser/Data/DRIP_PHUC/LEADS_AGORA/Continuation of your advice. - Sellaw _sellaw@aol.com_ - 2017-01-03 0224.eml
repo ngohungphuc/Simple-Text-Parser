@@ -1,0 +1,122 @@
+Return-Path: <sellaw@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B390E4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:21:50 -0500 (EST)
+Received: from omr-m009e.mx.aol.com ([204.29.186.8])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102192447875_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:24:47 +0000
+X-RC-FROM: <sellaw@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aan02.mx.aol.com (mtaomg-aan02.mx.aol.com [172.27.19.80])
+	by omr-m009e.mx.aol.com (Outbound Mail Relay) with ESMTP id 1D74B380008F
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:24:30 -0500 (EST)
+Received: from core-mca08h.mail.aol.com (core-mca08.mail.aol.com [172.27.33.8])
+	by mtaomg-aan02.mx.aol.com (OMAG/Core Interface) with ESMTP id 42D383800008B
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:24:29 -0500 (EST)
+Received: from 198.105.92.75 by webprd-a89.mail.aol.com (10.72.104.215) with HTTP (WebMailUI); Mon, 02 Jan 2017 14:24:28 -0500
+Date: Mon, 2 Jan 2017 14:24:29 -0500
+From: Sellaw <sellaw@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <15960a3dcf9-303b-2b94b@webprd-a89.mail.aol.com>
+Subject: Continuation of your advice.
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_223330_933155207.1483385068791"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [198.105.92.75]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483385070;
+	bh=J1ebF0uIGCKUx6agyE52PL3XPiB5dSebrMXZmmtvoqE=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=TGdr6A42tvMREke1C3SX/hX1snqnme8LP9VfwlWPL/ziInx2aR7/PYgVgUOlqEJzU
+	 q6lSNbime6k+jBVoDf+COgVuZBq+O1m8N6/CM/AmZcqZZFp/ehfBcbn6YhcEznNimM
+	 AfmtVdtF6xJXNRScKhVkhJno36BWGwkJI7qZosA8=
+x-aol-sid: 3039ac1b1350586aa8ed50da
+
+------=_Part_223330_933155207.1483385068791
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mr. Covel -
+
+
+
+
+Yes, I'd like to continue following your trend following advice.
+
+
+
+
+I've found it to be very useful in my own trading strategy.
+
+
+
+
+
+My name is Robert Selser.
+
+
+
+
+My email address is sellaw@aol.com.
+
+
+
+
+Thank you. 
+
+------=_Part_223330_933155207.1483385068791
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='3' face='Arial, Helvetica, sans-serif'>Mr. Covel -
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>Yes, I'd like to continue following your trend following advice.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>I've found it to be very useful in my own trading strategy.<br>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>My name is Robert Selser.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>My email address is sellaw@aol.com.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>Thank you.&nbsp;</div>
+</div>
+</font>
+------=_Part_223330_933155207.1483385068791--
+

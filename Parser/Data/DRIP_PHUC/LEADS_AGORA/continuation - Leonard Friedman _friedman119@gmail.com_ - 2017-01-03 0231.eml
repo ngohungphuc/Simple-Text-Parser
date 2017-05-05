@@ -1,0 +1,60 @@
+Return-Path: <friedman119@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3B6E94028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:29:08 -0500 (EST)
+Received: from mail-io0-f175.google.com ([209.85.223.175])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102193204112_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:32:04 +0000
+X-RC-FROM: <friedman119@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f175.google.com with SMTP id n85so183560682ioi.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:31:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=+YC9QFKyDuxIQz3DSu5IxW5/XM5nqdUZOEfh5xgF+Mk=;
+        b=bSEnN9Egmu4wqRE8BJaAXoLjZN2ctC+v+dCjVhxo9+m4BaxFWHtgMzfp2tjDNgaIJY
+         YTxW4GDr5N5fYKmcek16XBfu96Y6WoE7OX+/lFA3u24XQnp6/Lv2iSRvhnVC0y5Wadxu
+         C1bOo7BJqB/r3r27to9/gXhJfaxQfLhfjEF4QdPN/2gPoob4zEukLC1y4gQe+cqkfitr
+         kZSn10DW/93rUqghQ8ER6PaQuCyL0keEbLetZvmqRBHwB8Wz5jyjlpw1N3PXhwzwOVxv
+         +9mcct95cBFpjOkf6KFXDu2mOU+nk7X0cAQKVW4fvIeiZquRfnRpU9HAcYuptyOGn/PI
+         XKfg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=+YC9QFKyDuxIQz3DSu5IxW5/XM5nqdUZOEfh5xgF+Mk=;
+        b=Ds8Wj4ud6McTbupwOeToqqI45AwEnOfTXqQ07DuMMzY86rlLtUa3fihEAULX1IU+rY
+         K9rhTMQEpWXwnk44h6MviJ4/M2jDpIz8JAqPVuSdBr+OVip9gUUsQWFfPnDzZ5cVMR5A
+         1xXWCmkx/Gn8GljZoAxV7qHF7eWCe3QXMhQlVL9GYbqh4R9HYgNDUH6SsWr9NwC0hzUZ
+         JJwMoHY0lJWTsrJq5WjtBERxeBA1+P/CxYPjYNhHlGinQH+TWWFuJ4ntVCwEn+KU5/cI
+         i1L1sd+5QfflI6hFL0I8ot2c9YNf859tNO0YkHgFK8F5deEMingzscXugwxhHq4RwM+5
+         UipQ==
+X-Gm-Message-State: AIkVDXK/8cH7twuLG/6LUC8gD2zjCIs8w6yVPUrN5lzszKKTtCu/TJBZdzZ3m2jr60WFi03F4uFAmvQ6d5gghw==
+X-Received: by 10.107.8.135 with SMTP id h7mr16883900ioi.70.1483385510496;
+ Mon, 02 Jan 2017 11:31:50 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.162.15 with HTTP; Mon, 2 Jan 2017 11:31:50 -0800 (PST)
+From: Leonard Friedman <friedman119@gmail.com>
+Date: Mon, 2 Jan 2017 14:31:50 -0500
+Message-ID: <CAFYOid4kaCGRoNpXTba+JJihCQJQqKAv-rMpREEevYCA6sQSWw@mail.gmail.com>
+Subject: continuation
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113fb8a46b0f270545219a1c
+
+--001a113fb8a46b0f270545219a1c
+Content-Type: text/plain; charset=UTF-8
+
+Leonard Friedman
+friedman119@gmail.com
+
+--001a113fb8a46b0f270545219a1c
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Leonard Friedman<div><a href="mailto:friedman119@gmail.com">friedman119@gmail.com</a></div></div>
+
+--001a113fb8a46b0f270545219a1c--
+

@@ -1,0 +1,48 @@
+Return-Path: <brooks.freeman@att.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 308424028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:35:04 -0500 (EST)
+Received: from nm30-vm5.bullet.mail.ne1.yahoo.com ([98.138.91.252])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102183800469_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:38:00 +0000
+X-RC-FROM: <brooks.freeman@att.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=att.net; s=s1024; t=1483382271; bh=nQEsyDdrQEWbfB5skCeJhJlI7dW9WqeVZZgAiXow0Uo=; h=From:Date:Subject:To:From:Subject; b=tT0wwjgwbzJY6xwBtP4TSPLnpvWoNztbnqJr1B27EHElZM5ArNUEZI+6yp/5AubRKAQV8kTmeecMM7UP4Gx8C4jFQ2lJ4moBiH8wbIbIsCTmH3NQQXob+ao+hcxMc4rBAQ06A15ydmssi/VgMMvaUveyVcOJ4tXfZw77VjNMzyg=
+Received: from [98.138.100.115] by nm30.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 18:37:51 -0000
+Received: from [98.138.226.57] by tm106.bullet.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 18:37:51 -0000
+Received: from [127.0.0.1] by smtp208.mail.ne1.yahoo.com with NNFMP; 02 Jan 2017 18:37:51 -0000
+X-Yahoo-Newman-Id: 674943.94828.bm@smtp208.mail.ne1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: kdSNEZgVM1kq8RuVpIIvkx98yRzIXB6iGK3PDS28L0gjTnC
+ HDIGH2y8Rrtsdv5YmM3j64rrSSzfTquiCXboI7JffuRpHo_Wd.N84WkHbP2T
+ CkDYNb74bbEMg35rqeYOq4544Gyf7lIB.om8byC_sGP2TuwxtKyuQJmPglho
+ ivVDDPcIWZpvjgtVU7UTAmeomGGa3rxvjDyvMUVQxtaBzYZNMgw6kqa1nXm9
+ Tr7kRlasuxjwgRUiHbmzQJFQCwToaJyAUGjnvNd2FB7zZCuOL2K2m1BAIyIs
+ tYF5fiAkMhz5aSZEiFKEaSZh0UBem8UvpC4HUstFkWFaPWyRhkL5GlnFc1.o
+ 1biaGpsmXP5sULG1y_maGY0mBI3c.son23jZ91R7q0ZHYsrD49rKED1WZ8V3
+ 1f6oufZNoMXhuU.FuIR9ea4QaWEyjHPp3JADnNcwkXnWVtK77hZDfunnaylN
+ Oe9Y8_mM3hvAqxSB1qRuA7xzsSBTdLamRkTbB2QEMIJR4_mgq4ca0vGBQeeE
+ riC7dY.nrnr94An70jyrCN4WetFJAAF5GGPlVHidzL9oxN0lKUUK4WhaGEs1
+ .Tt.v1M951vlbhr3_HQ5EdAT7MKggpp4-
+X-Yahoo-SMTP: Fsjlu1qswBDBtT41dWbj3zcDiuF5zLs5QjECaNfOC5f3gvo-
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Brooks Freeman <brooks.freeman@att.net>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 2 Jan 2017 12:24:31 -0600
+Subject: Paper
+Message-Id: <516CF0D5-01EB-49E9-9D21-9FF11A5073A3@att.net>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14C92)
+
+
+
+Sent from my iPhone
+Brooks M Freeman
+brooks.freeman@att.net
+214-244-8895
+

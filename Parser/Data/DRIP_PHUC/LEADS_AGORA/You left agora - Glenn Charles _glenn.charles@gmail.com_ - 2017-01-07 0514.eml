@@ -1,0 +1,65 @@
+Return-Path: <glenn.charles@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1E9A24028F21A
+	for <mcovel@trendfollowing.com>; Fri,  6 Jan 2017 17:11:26 -0500 (EST)
+Received: from mail-oi0-f43.google.com ([209.85.218.43])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170106221421419_0459
+          for <mcovel@trendfollowing.com>;
+          Fri, 06 Jan 2017 22:14:21 +0000
+X-RC-FROM: <glenn.charles@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f43.google.com with SMTP id 128so436292962oig.0
+        for <mcovel@trendfollowing.com>; Fri, 06 Jan 2017 14:14:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=whaWa6UKKF9D9tqAmrjw2heeFbIgXmdpOD7YkTXGzOY=;
+        b=gUTiQddq4ZGjTsBJhH7F7pRtHK0h4yo60ca9PWsnxyXflPQGduZRk/4N6e/IyMXFcd
+         n5pDaOml3LnI7uWU431QlCvPqd2jeZ6R8h0FA5aB1bqDbfJGmpuoxgB6Dq3P+NwUU9gH
+         3ttMCwhGwuqGWRk530B5fUvKHep6e2yd3Kh87yKqlkMjML701vx+hmq/dRcD7avAPkIG
+         J4EAAjSPBP6dJLs81FKUboVY1473AuQ4Zm+siQQxbnbv+A4qNhKIKuRVg317lwwtwO1j
+         /nTaKEUFYz+HAj1sA/eqdzhErGAcZGHGWDrl5GlM8xl3Z1gNkb+yimYAuRBHwqCWMtDS
+         rWrA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=whaWa6UKKF9D9tqAmrjw2heeFbIgXmdpOD7YkTXGzOY=;
+        b=lRlQkano/zfhsXGLr/fbgs9byWwF570e3UWIywHLqPUjDuOEUjWRKq0DM8xJugF1Em
+         hLVdcx++Ej/0xs1Kp4h+D49OVWlGIwULUyZtaNTskwICyS8B/NQuyuG/28ENrDHI6pga
+         BwSm/3+ExyDf80R1R2swe5QubQVyI145O/7/mNf+zD/wTfMhNrlTz2i71fTUOUWoMn5S
+         7RkGNWm37CDoboef1amn+FQyErR6crfKxYAkflH/Iw8/pChdZ8jSIGsVf4d2AuiqgY6Z
+         Sh37zAkHdRiKumanbohJmMXTvMMNs4dufufTl2sanLL8VZD1gNc7vGghK+kdmI/gkO+x
+         bSyA==
+X-Gm-Message-State: AIkVDXI6X8pex+Tph/Ij8L+KqbZbKHioKCtRS0psOvsdWmpE8AB7mF8pEaz+VvifBc5Yei7l+tyRcBDloKFEIA==
+X-Received: by 10.157.37.99 with SMTP id j32mr2026055otd.223.1483740855012;
+ Fri, 06 Jan 2017 14:14:15 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.202.172.140 with HTTP; Fri, 6 Jan 2017 14:14:14 -0800 (PST)
+Received: by 10.202.172.140 with HTTP; Fri, 6 Jan 2017 14:14:14 -0800 (PST)
+From: Glenn Charles <glenn.charles@gmail.com>
+Date: Fri, 6 Jan 2017 22:14:14 +0000
+Message-ID: <CAJ6nHiUhzg=-U8TWSr8XsEX3pNp-PXiuBBh3t7TWrxYKKSE4Zw@mail.gmail.com>
+Subject: You left agora
+To: "M. Covel" <mcovel@trendfollowing.com>
+Content-Type: multipart/alternative; boundary=001a113e30289a33c8054574565b
+
+--001a113e30289a33c8054574565b
+Content-Type: text/plain; charset=UTF-8
+
+HI Mike
+Sorry to see you go..
+
+Glenn
+
+--001a113e30289a33c8054574565b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">HI Mike<div dir=3D"auto">Sorry to see you go..=C2=A0</div=
+><div dir=3D"auto"><br></div><div dir=3D"auto">Glenn</div></div>
+
+--001a113e30289a33c8054574565b--
+

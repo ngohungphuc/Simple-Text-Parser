@@ -1,0 +1,102 @@
+Return-Path: <ztlaw49@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 354D840292247
+	for <mcovel@trendfollowing.com>; Fri, 20 Jan 2017 16:55:14 -0500 (EST)
+Received: from mail-oi0-f41.google.com ([209.85.218.41])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170120215809577_0659
+          for <mcovel@trendfollowing.com>;
+          Fri, 20 Jan 2017 21:58:09 +0000
+X-RC-FROM: <ztlaw49@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f41.google.com with SMTP id u143so50564179oif.3
+        for <mcovel@trendfollowing.com>; Fri, 20 Jan 2017 13:58:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=QPtra+pbwws5Kfl7euNlQQXZz0OpudhS4T/Y6Nsu2XY=;
+        b=ZNiNM7hcrVEwCLcqdCZTvy4cO5HVFnilNcVl60I4Ghg+Lxr2ipvsfiqMY6n0xAcS3y
+         +FfkGpI60vnTpp6XvRX6ZpIAmFY3sGOU+1QdpUPL3voOtbjlFuY+ojbsCaKvAORo00qu
+         8OzPKOxZMdEf1Uy3F32O0Bl0e2nsiRC04fEGyFNHoQbWygdJXxj0JOzQs+70Uejcb4+g
+         PgBnK/p28BnX7Zl6r2SMTffOshSbkvBE9isRxlVTxQjnH5Mun8lMTOXQzCNP2r8DalXA
+         cInHXHlVK0d4HiZjwJzxYEDWtf2oCzb/fp22qemHYeVspwQV2tZ5uwpa5CB82fvVqztt
+         wggg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=QPtra+pbwws5Kfl7euNlQQXZz0OpudhS4T/Y6Nsu2XY=;
+        b=XbGD27BRSm1ZnSx0HXk1Zog++EOBOhT3NXr6iLjOv0hAITqZi+LmWcWtl0duoh8J9v
+         nsFxg0b4ngrIp6AkT1xHN0cUwK6IJMPDUAWg+rDC41l8yziFMujwtmU/T/EC+m0iup/m
+         qa7sfllZiK7XSm2fgYYTzrEhRRNXo0XbfwjC3CASMLPcMtcogI7NfuxEAwzBUXjjKNBt
+         ZtTHWiQd9pL8XgMpqKN+mieNF03GWCEefCV4+CwGbXNZbpAWBM+g2NaepS7u8AgdApD+
+         LPvsunsevSIrc+QO14RFSwHGfbPfH5rcaS+aCkMNQSao//E8E0AUQgcllO4laL/EMVw/
+         seYA==
+X-Gm-Message-State: AIkVDXLXiDayGheP0iN7o0AjAU5v5DoiAyTX6P7YENb+eIeEyE+mfXhfjbhGLdKgd3ofQEzLz9/eUOc5IdL6FQ==
+X-Received: by 10.202.241.3 with SMTP id p3mr2152885oih.86.1484949483744; Fri,
+ 20 Jan 2017 13:58:03 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.202.1.85 with HTTP; Fri, 20 Jan 2017 13:58:03 -0800 (PST)
+From: VQ <ztlaw49@gmail.com>
+Date: Fri, 20 Jan 2017 14:58:03 -0700
+Message-ID: <CAD1jLfRfHf=pBYr77oRtpzsoaSNk7RQ5H6AmB7NCQ_XnnGTosg@mail.gmail.com>
+Subject: What happened to closing the doors for good on 01/02/17?
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0925bc7cf51205468dbe0d
+
+--94eb2c0925bc7cf51205468dbe0d
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+I am Victoria Quijada and I subscribed to your newsletter this year.
+I received your e-mail on 01/02/17 stating that Trend Investments
+newsletter would cease effective immediately.  I was also promised for
+being a supporter of your newsletter, I'd receive a lifetime subscription
+in Rude Awakening, which I subscribe to also.  I have not received notice
+from Rude Awakening that my membership has been converted to a lifetime
+membership.  I continue to be billed monthly $50 for that service.
+
+However I have continued to receive daily e-mails since then from
+Agora/Trend Investments.
+
+Please advise what has happened so that these newsletters continue.
+I look forward to your reply.
+
+Thank you.
+Victoria Quijada
+PO Box 24365
+Santa Fe, NM 87502-9365
+
+--94eb2c0925bc7cf51205468dbe0d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div><div><div><div><div><div><font color=
+=3D"#0000ff"><font size=3D"4"><font face=3D"georgia,serif">Hello,<br></font=
+></font></font></div><font color=3D"#0000ff"><font size=3D"4"><font face=3D=
+"georgia,serif">I am Victoria Quijada and I subscribed to your newsletter t=
+his year.<br></font></font></font></div><font color=3D"#0000ff"><font size=
+=3D"4"><font face=3D"georgia,serif">I received your e-mail on 01/02/17 stat=
+ing that Trend Investments newsletter would cease effective immediately.=C2=
+=A0 I was also promised for being a supporter of your newsletter, I&#39;d r=
+eceive a lifetime subscription in Rude Awakening, which I subscribe to also=
+.=C2=A0 I have not received notice from Rude Awakening that my membership h=
+as been converted to a lifetime membership.=C2=A0 I continue to be billed m=
+onthly $50 for that service.<br><br></font></font></font></div><font color=
+=3D"#0000ff"><font size=3D"4"><font face=3D"georgia,serif">However I have c=
+ontinued to receive daily e-mails since then from Agora/Trend Investments. =
+<br><br></font></font></font></div><font color=3D"#0000ff"><font size=3D"4"=
+><font face=3D"georgia,serif">Please advise what has happened so that these=
+ newsletters continue.<br></font></font></font></div><font color=3D"#0000ff=
+"><font size=3D"4"><font face=3D"georgia,serif">I look forward to your repl=
+y.<br><br></font></font></font></div><font color=3D"#0000ff"><font size=3D"=
+4"><font face=3D"georgia,serif">Thank you.<br></font></font></font></div><f=
+ont color=3D"#0000ff"><font size=3D"4"><font face=3D"georgia,serif">Victori=
+a Quijada<br></font></font></font></div><font color=3D"#0000ff"><font size=
+=3D"4"><font face=3D"georgia,serif">PO Box 24365<br></font></font></font></=
+div><font color=3D"#0000ff"><font size=3D"4"><font face=3D"georgia,serif">S=
+anta Fe, NM 87502-9365<br></font></font></font></div>
+
+--94eb2c0925bc7cf51205468dbe0d--
+

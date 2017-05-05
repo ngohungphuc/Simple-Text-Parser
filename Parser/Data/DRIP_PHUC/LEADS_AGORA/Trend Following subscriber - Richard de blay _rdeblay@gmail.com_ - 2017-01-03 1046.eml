@@ -1,0 +1,60 @@
+Return-Path: <rdeblay@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id BFD5B4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 22:44:11 -0500 (EST)
+Received: from mail-wm0-f54.google.com ([74.125.82.54])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103034707908_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 03:47:07 +0000
+X-RC-FROM: <rdeblay@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wm0-f54.google.com with SMTP id c85so190837217wmi.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 19:47:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:subject:message-id:date:to
+         :mime-version;
+        bh=w5zgKK4fWUaz6mTD9UqnKev9uly5nqokgxJabpkdec4=;
+        b=S/c6Qk7XbS2owd6+J1Yft8C/r90SanYS1bopoUl+kUuPqZz+bZndAfPZygIXRDYIiU
+         yhNjFh29JpyVLv+Nigf1Lymzf47drmmmRMwB/LfA8PJe6XjCjegbNGQgvBfpgvfZPk8+
+         SvHqdKlUiIvVGZHr7X3NC52f487Nq2m06UHwoxfIeUBpRDVw1dxs2thaU1bJQT/kBoe5
+         yh5PBcW/MzHb06XIWgAQu7e3MZBIBzz5ZWd1qaF3KqRs9sWlXLTtmzDvs1ZlVeK2YwL/
+         WXOejD73xu96st0+gsQP+Jrs57qOpP/T3R568LWgQQ/gdj/AojcMv9YM7dbijyYqCF0q
+         TAmg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:subject
+         :message-id:date:to:mime-version;
+        bh=w5zgKK4fWUaz6mTD9UqnKev9uly5nqokgxJabpkdec4=;
+        b=UpSa7PdMs9GZ6CzxnbXM9w7SVUaqLtHcqDCAqvX4PVsHOi8xuXuiqytt14x3X1SSV/
+         Z5+Qx5v2iQlZX/DsJ/LPdg95OHmoR95RNQkxuTKsDBULNslKX9pf9LuageFPv2gqU28z
+         tmyBA2WAo8b2CwHVN+Dkr/2wIoh0yerVVVr3y2G8qdEFrTgZSGDEWz+oloe5YIx7S3Mn
+         vK54TDX5IorYP/am0YeoPlLKAfJY3V8GmZmX90YjinPF52K8T0G7CigTSgA3D8kvsTvy
+         1i2NpgUYeTc12LQ25eaWugAHQNPdVEqgjxjbnQxfd77U7RaLDPq738ysampljxtgNZUs
+         W/CA==
+X-Gm-Message-State: AIkVDXKTMpA+7NYe7O/zG5isJ7wtTb2+bPU+UB6DFiuBY5szylQYJ61+Uj0c1OpznJtUUQ==
+X-Received: by 10.28.135.5 with SMTP id j5mr56643498wmd.3.1483415220864;
+        Mon, 02 Jan 2017 19:47:00 -0800 (PST)
+Received: from [192.168.0.100] ([95.83.249.25])
+        by smtp.gmail.com with ESMTPSA id u78sm87279476wma.11.2017.01.02.19.46.59
+        for <mcovel@trendfollowing.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 19:47:00 -0800 (PST)
+From: Richard de blay <rdeblay@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Trend Following subscriber
+Message-Id: <C6139A5B-EA44-46E5-A7BD-CF3E3597813A@gmail.com>
+Date: Tue, 3 Jan 2017 03:46:58 +0000
+To: mcovel@trendfollowing.com
+Mime-Version: 1.0 (Mac OS X Mail 9.3 \(3124\))
+X-Mailer: Apple Mail (2.3124)
+
+Sorry to see the Trend Following stopping , please keep me informed
+Regards
+
+Richard de Blay
+

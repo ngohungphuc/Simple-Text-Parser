@@ -1,0 +1,70 @@
+Return-Path: <afmlakar@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 17F324028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:23:01 -0500 (EST)
+Received: from mail-qt0-f169.google.com ([209.85.216.169])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102202557284_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:25:57 +0000
+X-RC-FROM: <afmlakar@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f169.google.com with SMTP id p16so445049593qta.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 12:25:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=zEX1hUFk7BGI9bMys95DgLMbz+Uoatyy1xF8iTyddX0=;
+        b=WW58PguxV8PXeJnBnxf1wMeSy69X0tLINY3XhBpQZTiuwmkdP2YwsATTl32+qICApY
+         wEaxQqq+5Nkz3CPfbwtPTBxiWvjuJc2vfeVNs2xcvyzHl86jCEhZQlCFJcA9Z4vOQ0li
+         gDoDahZ2y5F6t3mlOyt7KwWSoEU4EKSqZz/RdSEzOh3PFF3alGu8Bw3bDO7kMXRHN38k
+         3EtEU3brnm0PAwnI+qGX1A4vAgHWSXmGjXXm1mbIcyf7OwNzSUv0o1fydLcqLMB++VFq
+         rH3G6ZIRyF/YSPIL/87aANAReKzFW/UWHyVBhpvjVKIyHTt/IgDoaKZ/xL2RhDb6smTZ
+         eFIA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=zEX1hUFk7BGI9bMys95DgLMbz+Uoatyy1xF8iTyddX0=;
+        b=VQneHbSd/b6MRf/r3zOztyo8SSzh7inI+TJTkD8P/sE4lGqqlQJQu/nCA8TUu4yjos
+         lVkCPgnl0+N0UvAnh+cH/1MtqGAWu/+HXQWl4zqz5StmlmBtoasmRaicJIYRDunTnHLk
+         DYdgv8OHawpFE986T+gzo7UdZAW5xLUpEexk2dc0Qbyg/B5yJXbS0i0r9P4EWNe8dZgP
+         Gui/UGDQO1hevJISpWQgZAt+fKbIqaXBkfOYH58qMlwwJjPXxHjzHJOVbqdbo53QCqog
+         JhYAjvft43HljBd5byyCaM9pue6qOBYLzLZfqs9M3RIRH1DwlMbF2JS1Ice/MRwbey0q
+         cpHw==
+X-Gm-Message-State: AIkVDXLNBlPR1i3Vi2oX1VbqeewIDt7L/p/p1b4YKU5d/5Y60Jkii+UF2ANAepseEVeF840yswLL4eAhVe/HqA==
+X-Received: by 10.237.48.99 with SMTP id 90mr47718745qte.228.1483388752170;
+ Mon, 02 Jan 2017 12:25:52 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.140.103.149 with HTTP; Mon, 2 Jan 2017 12:25:51 -0800 (PST)
+From: "Anthony F. Mlakar" <afmlakar@gmail.com>
+Date: Mon, 2 Jan 2017 15:25:51 -0500
+Message-ID: <CACp4yYykASG6nUWdyrvGQOXsM_8wQyYTafaxjkSBLGNUiuarZg@mail.gmail.com>
+Subject: Continuing contact with Michael Covel
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0c649aa3152f0545225b64
+
+--94eb2c0c649aa3152f0545225b64
+Content-Type: text/plain; charset=UTF-8
+
+afmlakar@gmail.com
+
+Anthony F. Mlakar
+13445 Cedar Acres Dr
+Chesterland, Oh 44026
+
+--94eb2c0c649aa3152f0545225b64
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small"><a =
+href=3D"mailto:afmlakar@gmail.com">afmlakar@gmail.com</a></div><div class=
+=3D"gmail_default" style=3D"font-size:small"><br></div><div class=3D"gmail_=
+default" style=3D"font-size:small">Anthony F. Mlakar</div><div class=3D"gma=
+il_default" style=3D"font-size:small">13445 Cedar Acres Dr</div><div class=
+=3D"gmail_default" style=3D"font-size:small">Chesterland, Oh 44026</div></d=
+iv>
+
+--94eb2c0c649aa3152f0545225b64--
+

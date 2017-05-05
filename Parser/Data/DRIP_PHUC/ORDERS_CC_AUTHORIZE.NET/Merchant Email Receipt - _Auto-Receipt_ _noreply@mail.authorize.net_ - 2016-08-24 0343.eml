@@ -1,0 +1,110 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m023.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4BCB8404DEDD0;
+	Tue, 23 Aug 2016 16:43:12 -0400 (EDT)
+Authentication-Results: p02c11m023.mxlogic.net; spf=pass
+Received: from unknown [198.241.168.129] (EHLO cportal8.visa.com)
+	by p02c11m023.mxlogic.net(mxl_mta-8.5.0-14) over TLS secured channel
+	with ESMTP id 065bcb75.0.3258280.00-2317.6116553.p02c11m023.mxlogic.net (envelope-from <noreply@mail.authorize.net>);
+	Tue, 23 Aug 2016 14:43:12 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1471984992; x=1503520992;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=q1AQdypARydC69We27ni6Pq2iw0+fr8QC7Gy6WYzG/4=;
+  b=i7xF6/0FwLad8iK4NWx9WhD4mgguz8GFmZIR2PWyte/Ni01L6wdCjcHk
+   8iX/jH+1hIJHGvScS9cAOx72MAnPBY/HkqJEywFRTJmHQq6e+qjRPcx9V
+   DhhFibdnRGV431YyxkgHXoUCyhJ3rPAnPzL6199bZnoMnZBPk452CBV4z
+   k=;
+thread-index: AdH9fvZu+D6XJdI8STWNkz+AzoIwkQ==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Michelle Murphy" <michelle@trendfollowing.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Tue, 23 Aug 2016 20:43:11 -0000
+Message-ID: <3C30085519734D5CB47F27B60B81C80B@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 23 Aug 2016 20:43:11.0464 (UTC) FILETIME=[F68DA680:01D1FD7E]
+X-AnalysisOut: [v=2.1 cv=IaWBLDea c=1 sm=1 tr=0 a=bVAnNvkIJaZYOGIZwaY4uw==]
+X-AnalysisOut: [:117 a=bVAnNvkIJaZYOGIZwaY4uw==:17 a=7z1cN_iqozsA:10 a=GTQ]
+X-AnalysisOut: [QCuHiAAAA:8 a=fTz9VZUoaMKJslB1QT0A:9 a=FQmpCAU53ODdRoE1:21]
+X-AnalysisOut: [ a=N4WkwpzhTDVmd-9W:21 a=0n4q9gnt4TQA:10 a=getpkd19fPUA:10]
+X-AnalysisOut: [ a=_JeGqQd1jCx8W7Q9XFSZ:22 awl=host:3026]
+Received-SPF: Pass (p02c11m023.mxlogic.net: domain of mail.authorize.net designates 198.241.168.129 as permitted sender)
+X-Spam: [F=0.7245901639; B=0.500(0); STSI=0.500(20); STSM=0.700(40); CM=0.500; CY=0.80; MH=0.529(2016082318); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <noreply@mail.authorize.net>
+X-SOURCE-IP: [198.241.168.129]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 23-Aug-2016 16:43:06 EDT
+
+========= ORDER INFORMATION =========
+Invoice : 27838
+Description : Trend Following Trading Systems from Michael Covel - Order 27838
+Amount : 2346.75 (USD)
+Payment Method: Visa xxxx8545
+Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 243
+Description: Trend Following Investment R...
+SKU: FLAGSHIP
+Quantity: 1
+Unit Price: $2247.75 (USD)
+Item Total: $2247.75 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : 023371
+Transaction ID : 20152958446
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 48
+First Name : Joseph
+Last Name : Gotobed
+Company : Radial Cliff Ventures
+Address : 511 East Roger Road
+City : Tucson
+State/Province : AZ
+Zip/Postal Code : 85705
+Country : USA
+Phone : 520-631-2138
+Fax : 
+E-Mail : joe@sonoracohousing.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : Joseph
+Last Name : Gotobed
+Company : Radial Cliff Ventures
+Address : 511 East Roger Road
+City : Tucson
+State/Province : AZ
+Zip/Postal Code : 85705
+Country : USA
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 

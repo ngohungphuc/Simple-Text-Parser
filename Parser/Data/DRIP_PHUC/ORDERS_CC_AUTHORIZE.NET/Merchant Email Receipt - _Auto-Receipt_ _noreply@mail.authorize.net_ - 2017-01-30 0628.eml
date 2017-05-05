@@ -1,0 +1,102 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 18DC840292254;
+	Sun, 29 Jan 2017 18:25:40 -0500 (EST)
+Received: from cportal5.visa.com ([198.241.162.10])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170129232834380_0659;
+          Sun, 29 Jan 2017 23:28:34 +0000
+X-RC-FROM: <noreply@mail.authorize.net>
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1485732514; x=1517268514;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=19St3X0y1n309F+FjQ1PxUF7BX9nzxpQuLqOvvn/sUQ=;
+  b=SrNJUd9jGSDQejH5u3bGV3wE6Dv2qC1f6Ha3oTXT9oYisWAkI+ARx0yx
+   u2VCZfBiupLqXUpf830qjYpvlQ+ChDFiVSmTJODLNMWEu7jwEW/jdM89o
+   +hVMnfaB+iX/hyS4IgPUEMQPE7GkxCbd4cHvEn0ctz1uGaHg25+3KAESP
+   4=;
+thread-index: AdJ6h1zx91m7LDWDSaGpinr/eM4hYg==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Michelle Murphy" <michelle@trendfollowing.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Sun, 29 Jan 2017 23:28:14 -0000
+Message-ID: <401BBEE9759F4679ACB7D8DF93131275@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.23573
+X-OriginalArrivalTime: 29 Jan 2017 23:28:14.0773 (UTC) FILETIME=[5D10EE50:01D27A87]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 29-Jan-2017 18:28:09 EST
+
+========= ORDER INFORMATION =========
+Invoice : 28859
+Description : Trend Following Trading Systems from Michael Covel - Order 28859
+Amount : 2496.60 (USD)
+Payment Method: Visa xxxx2264
+Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 428
+Description: Trend Following Investment R...
+SKU: FLAGSHIP
+Quantity: 1
+Unit Price: $2397.60 (USD)
+Item Total: $2397.60 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : 029075
+Transaction ID : 20392147858
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 0
+First Name : Neil
+Last Name : Sethi
+Company : Landis Properties
+Address : 77 E. Wilson Bridge Road Ste 207
+City : Worthington
+State/Province : OH
+Zip/Postal Code : 43085
+Country : USA
+Phone : 6149890359
+Fax : 
+E-Mail : nsethi@landisproperties.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : Neil
+Last Name : Sethi
+Company : Landis Properties
+Address : 77 E. Wilson Bridge Road Ste 207
+City : Worthington
+State/Province : OH
+Zip/Postal Code : 43085
+Country : USA
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 
+

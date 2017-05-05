@@ -1,0 +1,59 @@
+Return-Path: <davefwinters@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 41C264028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 23:21:11 -0500 (EST)
+Received: from mail-io0-f170.google.com ([209.85.223.170])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103042406740_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 04:24:06 +0000
+X-RC-FROM: <davefwinters@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f170.google.com with SMTP id p42so423452157ioo.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 20:24:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=subject:from:message-id:date:to:content-transfer-encoding
+         :mime-version;
+        bh=wqpTqjHwSLLq1UEt3bWgVeLwFh/BsRJdf1DQV4ulTj4=;
+        b=f8Bus5X6VeOdDqXZcSXzTYpdiT8JFYleQ6PuAhJe4uEDW1/agfiMmROHoVp7EHBW4H
+         g70Ai+chTnSC31M8nqyh/nVDVJfuR/+SoJq3vNB11s1blypZFdISlMNqqoErW/qVZWes
+         9IKkrvBa7f0E0o4JZXHrO8+ZhVMS8g/qRukrrJTdUikimA2kgGp1qRm6+JZdgZXTL0oH
+         rZVQE1Wnue9SJWfF0DQSUmBAPDR6RfAyUA8ZQ2lpCeWO4FNuqNkhGnRTYHyMOLoY+1nA
+         tLUPlyyPwi0fCDVZwTlyHfX63k73C59RZ6XdeIs5ayLG1Ah0rG0uO+fBtEHMRT/bmZKw
+         XRYg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:subject:from:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=wqpTqjHwSLLq1UEt3bWgVeLwFh/BsRJdf1DQV4ulTj4=;
+        b=dB27dVmoJGCYUpi2k6ymmV3aAmGygBlgpWzOpuKeHlm4hkXjypmsBOodLXzseRhzQT
+         iYkqdv2AFybfvFSoyEudy983Tekkj4BCjt66JVP2oQPyz3lg6zc1FVpY53Cg4ZPJOQO/
+         93v7o6Dt2Elkpz4pI7+Fezg1Js3wG73SpRv53FBnlusZS/ME+2PXvOrZr+hWuY2t6Lbb
+         oEm93LN1EdeUwaPVpsw6t6UsPhks0U17Hp0OGvUpoCqwCcuJroDx5MhVCfOkUpwJxDsV
+         kfOmS09zyv7BJVWFpSMnYzsig7Gz7gkFSwdUGdH032lpVQcmfcNMqsDeTHhz0JbpZ2K4
+         1Jzw==
+X-Gm-Message-State: AIkVDXKkVEdRyyVj0v6vouqxT98he3hokqd0BoVnI7AfsGLmCAY3PWdiFL873VfzAWDOhg==
+X-Received: by 10.107.57.5 with SMTP id g5mr43658299ioa.208.1483417441184;
+        Mon, 02 Jan 2017 20:24:01 -0800 (PST)
+Received: from [192.168.11.100] ([69.197.73.70])
+        by smtp.gmail.com with ESMTPSA id 191sm33182545ioe.37.2017.01.02.20.23.59
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 02 Jan 2017 20:24:00 -0800 (PST)
+Subject: Address
+From: Dave Winters <davefwinters@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPad Mail (14A456)
+Message-Id: <E77A7224-F7DD-401D-BFA9-515CDDA74809@gmail.com>
+Date: Mon, 2 Jan 2017 22:23:58 -0600
+To: mcovel@trendfollowing.com
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+Dave Winters
+PO Box 22
+Shirland, IL 61079
+

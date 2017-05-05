@@ -1,0 +1,74 @@
+Return-Path: <carlsteinjr@comcast.net>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6AF884028F201
+	for <info@trendfollowing.com>; Wed,  4 Jan 2017 11:21:19 -0500 (EST)
+Received: from resqmta-po-08v.sys.comcast.net ([96.114.154.167])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170104162414620_0459
+          for <info@trendfollowing.com>;
+          Wed, 04 Jan 2017 16:24:14 +0000
+X-RC-FROM: <carlsteinjr@comcast.net>
+X-RC-RCPT: <info@trendfollowing.com>
+Received: from resomta-po-11v.sys.comcast.net ([96.114.154.235])
+	by resqmta-po-08v.sys.comcast.net with SMTP
+	id OoLhcG6czwySVOoMCcXi1H; Wed, 04 Jan 2017 16:24:08 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=comcast.net;
+	s=q20161114; t=1483547048;
+	bh=6IiW0BYQORlDJSxndYa8j84kyG3GbLPZ6/Drej86hW8=;
+	h=Received:Received:Date:From:Reply-To:To:Message-ID:Subject:
+	 MIME-Version:Content-Type;
+	b=f4FyhRks4QibGloSR0tBk+ZS3TYRYVU5obkOTdQxQE+prBZzjGV1Bi7ilhBdJeGyO
+	 p7HHzZBv/psQdnr+ehkjQSN87bg/sN9/eHFNvBAFvLbIeeCsqiovhzsUlMMeTtUYeO
+	 gY9Na9LzeKmMa7Y5ZJY28YNr3XFdA0J2QwQNk12WwMjKdPkIsqT5pphU26kDm6DtSA
+	 RsSdTfGB23Cjj6z3uF1Wr8oTt1cg8wBYxuCg/UZFi/Wqoh4v3fEbdz0g3Jiv+auE3m
+	 2zgliQsEM1O+hb6+DTimDOA+Bqn+cdCpjNmMbdNSuOT6mJqEupSRI/Zj5eup238Zae
+	 aduutVXZB5MMA==
+Received: from oxapp-asb-14o.email.comcast.net ([96.118.63.114])
+	by resomta-po-11v.sys.comcast.net with SMTP
+	id OoMBcDwTHy32lOoMCcQQd8; Wed, 04 Jan 2017 16:24:08 +0000
+Date: Wed, 4 Jan 2017 11:24:07 -0500 (EST)
+From: CARL STEIN JR <carlsteinjr@comcast.net>
+Reply-To: CARL STEIN JR <carlsteinjr@comcast.net>
+To: info@trendfollowing.com
+Cc: carlsteinjr@comcast.net
+Message-ID: <1197573946.10778.1483547047826@connect.xfinity.com>
+Subject: Agora Financial
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_10777_930475483.1483547047824"
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.8.2-Rev15
+X-Originating-IP: 2601:150:4001:99d0:cdcd:9cdd:bcfc:ad90
+X-Originating-Client: open-xchange-appsuite
+X-CMAE-Envelope: MS4wfKT1GD9UbJB0uGtjMqppfIzmxwFtApq2Wqd72eadNB4h+qukiuIvqlpzOkqXKvQyIs+Hhtk+EMG7Im+9xHmHa7lKgQTle3ah3x5ad6qSfbSkiKZDfvjN
+ sufcAgHZgNxdAWz8HosXEPhh2o+d9zun4eOS3i8nyJFUeH58TTHI6jMXM1pUMUkHJB2pAKOQJIqZDdgHiLjXxgAhiUJ4Pn/dYWZa9OyKOgM83AHGQBRNaTZV
+ N5BXiMsUE1t/i9D1YZkMxg==
+
+------=_Part_10777_930475483.1483547047824
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Sir:
+
+
+I have subscriptions for Trend following and Vertical Trade Alert through Agora Financial. I understand that Mr. Covel is no longer involved with Agora.  Please let me know if this is true.  Thanks
+
+
+Carl
+
+------=_Part_10777_930475483.1483547047824
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html><head>
+    <meta charset="UTF-8">
+</head><body><p><span style="color: #333333; font-family: helvetica,arial,sans-serif; font-size: 12pt; background-color: transparent;">Dear Sir:</span><br></p><p><span style="color: #333333; font-family: helvetica,arial,sans-serif; font-size: 12pt; background-color: transparent;"><br></span></p><p><span style="color: #333333; font-family: helvetica,arial,sans-serif; font-size: 12pt; background-color: transparent;">I have subscriptions for Trend following and Vertical Trade Alert through Agora Financial. I understand that Mr. Covel is no longer involved with Agora.&#160; Please let me know if this is true.&#160; Thanks<br></span></p><p><span style="color: #333333; font-family: helvetica,arial,sans-serif; font-size: 12pt; background-color: transparent;"><br></span></p><p><span style="color: #333333; font-family: helvetica,arial,sans-serif; font-size: 12pt; background-color: transparent;">Carl<br></span></p></body></html>
+ 
+------=_Part_10777_930475483.1483547047824--
+

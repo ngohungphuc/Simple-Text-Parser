@@ -1,0 +1,99 @@
+Return-Path: <emailreceipts@authorize.net>
+Received: from p01c11m013.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by trendfollowing.com (8.13.8/8.13.8) with ESMTP id t0K8VdGt026310
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <info@trendfollowing.com>; Tue, 20 Jan 2015 03:31:39 -0500
+Authentication-Results: p01c11m013.mxlogic.net; spf=pass
+Received: from unknown [198.241.162.10] (EHLO cportal5.visa.com)
+	by p01c11m013.mxlogic.net(mxl_mta-8.2.0-3) over TLS secured channel
+	with ESMTP id afe0eb45.0.954755.00-2284.1411270.p01c11m013.mxlogic.net (envelope-from <emailreceipts@authorize.net>);
+	Tue, 20 Jan 2015 01:16:59 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=authorize.net; i=@authorize.net; q=dns/txt;
+  s=cportal; t=1421741819; x=1453277819;
+  h=from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=9dsC3TlmWjA9Dq2K9o1CqiD/4TD+H4wGt87ZJOW/j4U=;
+  b=jx1jrVv2F2FdqxCJDleG9M4c9QeY3CglCn+D+Q3B7wAJA824ofcFebtr
+   Q6axt6cJHxr5IBHOB6+TQVDVs7bVfFQOulY3IEJ5j5EDoNgNHizBPBFtL
+   7xSOWzHrwEl/8EwIRRHE+ee53TgFGHWpiX4fHfDqa7gitKDghnP5t+1Cj
+   s=;
+thread-index: AdA0iXU05QtV8PfoROac/+V/n/Wbsg==
+Thread-Topic: Merchant Email Receipt
+From: "Authorize.Net Auto-Receipt" <emailreceipts@authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+        "MIchael Covel" <info@trendfollowing.com>,
+        "Michael Covel" <info@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Tue, 20 Jan 2015 08:16:57 -0000
+Message-ID: <B5485D2B2A534FB09614AA862BD52A57@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 20 Jan 2015 08:16:57.0729 (UTC) FILETIME=[75531F10:01D03489]
+X-AnalysisOut: [v=2.1 cv=PI4b+JaC c=0 sm=1 tr=0 awl=host:1]
+Received-SPF: Pass (p01c11m013.mxlogic.net: domain of authorize.net designates 198.241.162.10 as permitted sender)
+X-Spam: [F=0.2000000000; B=0.500(0); spf=0.500; STSI=0.500(-7); STSM=0.500(13); CM=0.500; CY=0.50; MH=0.500(2015012001); S=0.200(2014051901); SC=]
+X-MAIL-FROM: <emailreceipts@authorize.net>
+X-SOURCE-IP: [198.241.162.10]
+X-Antivirus: avast! (VPS 150728-0, 07/28/2015), Inbound message
+X-Antivirus-Status: Clean
+
+**Please DO NOT REPLY to this message. E-mail support@authorize.net if you have any questions.
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 20-Jan-2015 3:16:56 EST
+
+========= ORDER INFORMATION =========
+Invoice : 
+Description : 8dvd25new_disc
+Amount : 2346.75 (USD)
+Payment Method : Visa
+Type : Authorization and Capture
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Authorization Code : 426254
+Transaction ID : 6851877235
+Address Verification : AVS Not Applicable
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 
+First Name : Ian
+Last Name : McKenzie-Howard
+Company : 
+Address : Piercefield
+City : 
+State/Province : Buckinghamshire
+Zip/Postal Code : SL7 2JQ
+Country : United Kingdom
+Phone : 
+Fax : 
+E-Mail : 
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : 
+Last Name : 
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 
+Tax Exempt : 
+PO Number : 

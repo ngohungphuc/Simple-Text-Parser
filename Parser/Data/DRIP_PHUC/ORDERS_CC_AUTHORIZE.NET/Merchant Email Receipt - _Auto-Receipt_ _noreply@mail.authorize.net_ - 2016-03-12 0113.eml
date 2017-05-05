@@ -1,0 +1,109 @@
+Return-Path: <noreply@mail.authorize.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m105.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 32BAF40201536
+	for <mcovel@trendfollowing.com>; Fri, 11 Mar 2016 13:13:12 -0500 (EST)
+Authentication-Results: p01c11m105.mxlogic.net; spf=pass
+Received: from unknown [198.241.162.10] (EHLO cportal5.visa.com)
+	by p01c11m105.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id aba03e65.0.1090640.00-2334.2100364.p01c11m105.mxlogic.net (envelope-from <noreply@mail.authorize.net>);
+	Fri, 11 Mar 2016 11:13:14 -0700 (MST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=mail.authorize.net; i=@mail.authorize.net; q=dns/txt;
+  s=cportal; t=1457719994; x=1489255994;
+  h=reply-to:from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=w9L6/oNhspa0SxFsRq9Z5tX/D6gu1t675a10A8qOQLc=;
+  b=N3lqvdrPkaXJfWxtJ7c9R9IRYVIrjjJ5SOpkQYh82+BGcvCuvTLgvjDJ
+   eYBCSk9SGb9eFnf0Zp70G3L7ID1zgUX1+63UwTfRiF77IhidVnnZ4f62G
+   d4EoKSciwNlxscxJGNaPZCrgrpbgPAk6weiqAC1q5zFViXcWb/Na5Oc2t
+   c=;
+thread-index: AdF7waffhbeHkiY9SQqvdwuDf3EgXA==
+Thread-Topic: Merchant Email Receipt
+Reply-To: "Auto-Receipt" <noreply@mail.authorize.net>
+From: "Auto-Receipt" <noreply@mail.authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+	"MIchael Covel" <mcovel@trendfollowing.com>,
+	"Michael Covel" <mcovel@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Fri, 11 Mar 2016 18:13:04 -0000
+Message-ID: <D0F63B1DA69B4B06A3EC29BB4B33CD16@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 11 Mar 2016 18:13:04.0783 (UTC) FILETIME=[A7FE71F0:01D17BC1]
+X-AnalysisOut: [v=2.1 cv=fbOrvhkF c=1 sm=1 tr=0 a=XNhHHB4xkw0po1YNgzQzTA==]
+X-AnalysisOut: [:117 a=XNhHHB4xkw0po1YNgzQzTA==:17 a=7OsogOcEt9IA:10 a=pGL]
+X-AnalysisOut: [kceISAAAA:8 a=cao0m_W1xkLxvAQXHtAA:9 a=kQF-2hkrMwLKqMiX:21]
+X-AnalysisOut: [ a=7jvTFPjEwVFm14LL:21 a=HyIcha1aeUwA:10 awl=host:2761]
+Received-SPF: Pass (p01c11m105.mxlogic.net: domain of mail.authorize.net designates 198.241.162.10 as permitted sender)
+X-Spam: [F=0.1581961346; B=0.500(0); STSI=0.500(-12); STSM=0.400(-12); CM=0.500; CY=0.50; MH=0.529(2016031108); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <noreply@mail.authorize.net>
+X-SOURCE-IP: [198.241.162.10]
+
+
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 11-Mar-2016 13:13:03 EST
+
+========= ORDER INFORMATION =========
+Invoice : 25868
+Description : Trend Following Trading Systems &amp; Research from Michael Covel - Order 25868
+Amount : 3096.00 (USD)
+Payment Method: American Express xxxx1003
+Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 30
+Description: Trend Following Investment R...
+SKU: FLAGSHIP
+Quantity: 1
+Unit Price: 2997.00 (USD)
+Item Total: 2997.00 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : 285223
+Transaction ID : 8062882007
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 0
+First Name : saloni
+Last Name : Chitkara
+Company : 
+Address : c108 new rajinder nagarnew delhi
+City : new delhi
+State/Province : DL
+Zip/Postal Code : 110060
+Country : IN
+Phone : +919311094545
+Fax : 
+E-Mail : chitkara.vishal@gmail.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : Vishal
+Last Name : Chitkara
+Company : ARTBERG INTERNATIONAL LIMITED
+Address : 1403, GOLDENGATE COMMERCIAL BUILDING136 AUSTIN ROAD WEST ...
+City : TST
+State/Province : KOWLOON
+Zip/Postal Code : 
+Country : HK
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 99.00
+Tax Exempt : 
+PO Number : 

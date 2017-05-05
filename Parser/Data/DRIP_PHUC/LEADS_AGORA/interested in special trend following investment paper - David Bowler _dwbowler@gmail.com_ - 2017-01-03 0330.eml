@@ -1,0 +1,64 @@
+Return-Path: <dwbowler@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C226F4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:28:18 -0500 (EST)
+Received: from mail-wj0-f176.google.com ([209.85.210.176])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102203114536_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:31:14 +0000
+X-RC-FROM: <dwbowler@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wj0-f176.google.com with SMTP id c11so226365714wjx.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 12:31:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=MXZ1cnGLaxgvP59Y3Tbk2tdk9EWEqi4pkNLEtvgm48s=;
+        b=FRTRKLfST+qXGGHMcH4JCafseUYkGPbQs4ESySxlWAi0GE4Ka9nFvhe5tYOypVgKvi
+         unb2rgLrvP+gVQr2+UyU5/H666QC+8wvjDD0l3MogA73eqIv0w2+8CvKWyvXWgr0oHkH
+         cd8wQUp7FCW81S4WfWfDih9q+TAYg67SYDsqovRBzREIjYFkc04ljuX82b7ODbg5RQe7
+         cX74TUo1FTJOQW7D4hahTQEboAMwSExNyGjVPhoS/Ui3nrwczC4yHfOn5Ey47mXLluXR
+         18Lwc8eUBLsEJbxPUYkpQP0Tou0DFDJYdN48FM0Hcnw+uVDvK1kwHIz8Xo+U/GbDGclK
+         R5PA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=MXZ1cnGLaxgvP59Y3Tbk2tdk9EWEqi4pkNLEtvgm48s=;
+        b=m6XLUdR2V/IB/wx/0H3iYO1haqL/A3RLnP7f/qN9C8V21CU9+B5j0fUoXGC+4KKCtz
+         1evpfij4zZyYTrxf+HujBSofLHk4UK+BkWOHjKp9XO3UTMCxpNxzUhEOzGF8mEL0xIqC
+         6BOarkOPCSYwDod7qjkVzl69+QqIa2Q9oL/aWbBueVw641OJPhS8gETP1rIbuKeuovA3
+         RwKzv3IGfEO9B6IcEra5T1MudqPKhdxrzCcDFHNyeFnDIEacfDuxuXzn7ayo4EP98iYD
+         wK5JtL8bFGVCnK4yJyYaKuc2qDnSwWmOSlWUmoAK4p0sHoE06c4OclD/yxESR8mM5Ag2
+         19xw==
+X-Gm-Message-State: AIkVDXLqTRKTH/TDdoveZWY+vzEYW4L4EqcGaw/hgNOJOZ2/2SzhUJBFnv0oyiTzoosZGMSznE9RBAVol4bfzw==
+X-Received: by 10.194.205.73 with SMTP id le9mr51291891wjc.31.1483389056278;
+ Mon, 02 Jan 2017 12:30:56 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.123.133 with HTTP; Mon, 2 Jan 2017 12:30:55 -0800 (PST)
+From: David Bowler <dwbowler@gmail.com>
+Date: Mon, 2 Jan 2017 15:30:55 -0500
+Message-ID: <CAL5ZuJj_-zh+vTjr3Tc5cbvWd68TNPHWs8s37OEd9VJvhxhPEw@mail.gmail.com>
+Subject: interested in special trend following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a11c36b4ec3757e0545226d05
+
+--001a11c36b4ec3757e0545226d05
+Content-Type: text/plain; charset=UTF-8
+
+David Bowler
+7210 Branson Farm Place
+Hughesville MD 20637
+
+Thanks,
+Dave
+
+--001a11c36b4ec3757e0545226d05
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">David Bowler<div>7210 Branson Farm Place</div><div>Hughesville MD 20637</div><div><br></div><div>Thanks,</div><div>Dave</div></div>
+
+--001a11c36b4ec3757e0545226d05--
+

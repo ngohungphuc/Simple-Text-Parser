@@ -1,0 +1,592 @@
+Return-Path: <videoproduceronline@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 8D8A34028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 22:31:02 -0500 (EST)
+Received: from mail-oi0-f42.google.com ([209.85.218.42])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102175758840_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:57:58 +0000
+X-RC-FROM: <videoproduceronline@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f42.google.com with SMTP id b126so486913827oia.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:57:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=BBPx70MrwR51toBqb4xBoUC3LeF9uw1uofJrwwEkKro=;
+        b=ZMn5bpDjLiyB6T5IL0u0tN0GU/vS9powkFYa0LEAZ1ERHv1slPHTwmZJEi5fVO/mlQ
+         1tNxMbX1gekuAaKner+JTsWOtqEP2r6rTBRcwPe4rj+XIguRadyjMPLygiAzNmo1CPSl
+         P5S+Ip1WyhjbWhf17PNTqotrU2QRN0tylOiHqtm8KZ++UFf5ZjdamFYd2H9dy9nrKayI
+         k4fFe4V4qF3VbhO7dWRig0OoyOUSj6h4hqwUPDKT5YrxMyS6w6Dz3lJSOS3pjNFnOTUP
+         /KmLlKc3f+K/uew+2fQ80sAP+/Id81c5/PYy/TBRsRSjwPNFFxmMOcrisSs0UGRprzAx
+         Vp+A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=BBPx70MrwR51toBqb4xBoUC3LeF9uw1uofJrwwEkKro=;
+        b=lr7oNYsfWn0HJskt6B5dQh8rzj1SHjh5Hp7tEEeYnTNuK6IKIrJAp7J/q5I2LFCZZd
+         U2uuGk1V592BU6ajICASQRiLPtCdfPHpKb7rD4sRleO0zOfJ+eMjJCsj7Ji7GQP1xCy2
+         o6uyZMr41iq7OD+RbAWIWbQuFi0/Hen0tiZCcGnYGPiYGnU1xDsrRSQ0vutNCjQDF+oG
+         Rv1s3mfZFzR7TNELDySCuG1CE503KPi9QW3cTp3jjLC56c+RM7yoE9FP9xtYQ5xmtyNO
+         mZMtJunswmp0n3Pp6kKb/oWHrX9gVUHqYBtAIOaCPXkWfmbDspkgj/xaF0BQ/EZYxcrk
+         D5TQ==
+X-Gm-Message-State: AIkVDXIBxgkYj/kx1XODDewOVSTrVfkJqKdi9MpE0cNQJWnWvKLtXyeJPi1JA8mfDB9wrJAOy6Fj/MwpkEF4Ow==
+X-Received: by 10.157.4.170 with SMTP id 39mr31389625otm.111.1483379871756;
+ Mon, 02 Jan 2017 09:57:51 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.182.126.73 with HTTP; Mon, 2 Jan 2017 09:57:51 -0800 (PST)
+In-Reply-To: <C1.12.15326.24E8A685@mo-prod-mta2>
+References: <C1.12.15326.24E8A685@mo-prod-mta2>
+From: Scott Lundergan <videoproduceronline@gmail.com>
+Date: Mon, 2 Jan 2017 09:57:51 -0800
+Message-ID: <CAO=wAN+BdSheDH3GKg-OQazU_uwiyFAi9BSkeOEFWg3r3KE2Xg@mail.gmail.com>
+Subject: Fwd: An Important Update to Your Trend Following Subscription
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c09248e52d6ad0545204a97
+X-MAG-FILTER: rules-spam
+X-MAG-CATEGORY: SPAM
+X-MAG-INFO: 2013086
+
+--94eb2c09248e52d6ad0545204a97
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Michael,
+
+Thanks for the subscription. The netflix option was a big winner for me and
+paid for my subscription. I also subscribe to vertical trade alert and have
+made good gains in that. Can you send me the special trend following info
+below to:
+
+Scott Lundergan
+3784 33rd street
+Unit 8
+San Diego, CA 92104
+
+
+
+---------- Forwarded message ----------
+From: *Trend Following* <customerservice@agorafinancial.com>
+Date: Monday, January 2, 2017
+Subject: An Important Update to Your Trend Following Subscription
+To: SCOTT LUNDERGAN <videoproduceronline@gmail.com>
+
+
+Please Read This Update Carefully
+[image: Trend Following with Michael Covel]
+
+January 2, 2017
+
+An Important Update to Your Trend Following Subscription
+
+[image: Jonas Elmerraji]Dear Reader,
+
+I hope you've had a great holiday.
+
+The new year brings about big changes =E2=80=94 that's the case here at Ago=
+ra
+Financial in 2017 as well.
+
+When we launched *Trend Following *a year ago, we were excited to bring one
+of the most powerful investing strategies to the hands of individual
+investors for the first time ever. Nobody had ever done it.
+
+We were the first.
+
+And it's been a heck of a run.
+
+We harnessed the explosive rally in gold and silver at the start of the
+year, and then got out of metals shortly after they peaked last summer. We
+took double-digit gains from the tech sector, and the same from energy.
+
+No doubt, we took our lumps too.
+
+But we navigated one of the toughest market environments in recent memory,
+handling the Brexit, constant churning in the S&P 500 and the ugliest
+presidential election in history. As I write, our worst trade is hovering
+around breakeven. Our best is up 50%. That's the kind of position mix every
+trader wants to see.
+
+And some of the biggest trends are clearly still just getting started as we
+turn the calendar to 2017.
+
+Unfortunately, *Trend Following *is closing its doors effective immediately=
+.
+
+While we made something great, the frank truth of the matter is that a year
+later, we still haven't been able to sell subscriptions to this research in
+the kind of numbers needed to support it as a business.
+
+That's what's bringing about this tough decision for everyone involved.
+
+*What's Next=E2=80=A6*
+
+I can't tell you how much we appreciate your being a part of *Trend
+Following*.
+
+Because you are a lifetime member, our publishers have arranged to convert
+your subscription to a lifetime subscription to the *Rude Awakening PRO*
+effective immediately.
+
+The *Rude Awakening PRO *is headed by my good friend Greg Guenthner. His
+letter pairs hard-hitting market commentary with daily actionable
+investment ideas. Like ours, his approach focuses on price-driven trading
+signals =E2=80=94 the stock market is the boss.
+
+The *Rude Awakening PRO *is a pricier, faster-paced research service than
+most. That's why a subscription to the *Rude Awakening PRO *typically costs
+$600 a year. But you're all set to receive it for life because of your
+lifetime *Trend Following *subscription. It's a small thank you for being a
+part of this.
+
+You'll also find brief updates on trend following trading from me in the
+pages of the *Rude Awakening*.
+
+And of course, be sure to subscribe to Michael Covel's podcast to stay on
+top of the latest from him.
+
+*The Portfolio*
+
+As I write, we have five positions in the *Trend Following *portfolio. We
+will not be providing any more updates on those trades after today.
+
+If you'd like to continue to take advantage of these trends, the simplest
+way is to initiate a 10% trailing stop on each of the remaining stock
+positions. While not quite as refined as the volatility-based stops in our
+trend following system, it'll get the job done.
+
+Alternatively, there's nothing wrong with closing your remaining stock and
+options positions now.
+
+Again, thanks very much for being part of *Trend Following* during its
+all-too-short run. It's been a pleasure bringing you this research over the
+past year.
+
+Michael Covel and I wish you the very best for 2017. (See below for a note
+from Michael.)
+
+Regards,
+
+Jonas Elmerraji, CMT
+
+*A Special Note from Michael*
+
+[image: Michael Covel]
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Dear Trend Following subscriber, All good things come to an end and my
+newsletter with Agora has ceased. However, my trend following world is not
+about to stop. To thank you for your confidence in my work I would like to
+send you a special trend following investment paper that will provide great
+next steps as well as securing your continued connection with me. Simply
+send me your name and full address by email and you will be
+set:mcovel@trendfollowing.com
+<javascript:_e(%7B%7D,'cvml','mcovel@trendfollowing.com');> If you have any
+trend following questions please feel free to reach me directly. Best,*
+
+[image: Michael Covel]
+
+*Michael*
+[image: Agora Financial] Please note: We sent this e-mail to you because
+you are subscribed to this service. To cancel by mail or for any other
+subscription issues, write us at: Customer Service | 808 St Paul St |
+Baltimore, MD 21202 USA. Nothing in this e-mail should be considered
+personalized investment advice. Although our employees may answer your
+general customer service questions, they are not licensed under securities
+laws to address your particular investment situation. No communication by
+our employees to you should be deemed as personalized investment advice. We
+expressly forbid our writers from having a financial interest in any
+security recommended to our readers. All of our employees and agents must
+wait 24 hours after on-line publication or 72 hours after the mailing of
+printed-only publication prior to following an initial recommendation. Any
+investments recommended in this letter should be made only after consulting
+with your investment advisor and only after reviewing the prospectus or
+financial statements of the company.
+
+=C2=A9 2017 Agora Financial, LLC. All Rights Reserved. Protected by copyrig=
+ht
+laws of the United States and international treaties. This Newsletter may
+only be used pursuant to the subscription agreement and any reproduction,
+copying, or redistribution (electronic or otherwise, including on the world
+wide web) , in whole or in part, is strictly prohibited without the express
+written permission of Agora Financial, LLC. 808 Saint Paul Street,
+Baltimore MD 21202.
+
+
+
+--=20
+*Scott Lundergan*
+Videoproduceronline.com <http://www.videoproduceronline.com/>* - *Concept
+to Completion Web Video Production
+
+--94eb2c09248e52d6ad0545204a97
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Michael,<div><br></div><div>Thanks for the subscription. The netflix op=
+tion was a big winner for me and paid for my subscription. I also subscribe=
+ to vertical trade alert and have made good gains in that. Can you send me =
+the special trend following info below to:</div><div><br></div><div>Scott L=
+undergan</div><div>3784 33rd street</div><div>Unit 8</div><div>San Diego, C=
+A 92104</div><div><br></div><div><br><br>---------- Forwarded message -----=
+-----<br>From: <b>Trend Following</b> &lt;<a href=3D"mailto:customerservice=
+@agorafinancial.com">customerservice@agorafinancial.com</a>&gt;<br>Date: Mo=
+nday, January 2, 2017<br>Subject: An Important Update to Your Trend Followi=
+ng Subscription<br>To: SCOTT LUNDERGAN &lt;<a href=3D"mailto:videoproducero=
+nline@gmail.com">videoproduceronline@gmail.com</a>&gt;<br><br><br><u></u>
+
+
+=20
+=20
+=20
+=20
+ <div style=3D"width:100%!important;min-width:100%;color:#222222;font-famil=
+y:&#39;Helvetica&#39;,&#39;Arial&#39;,sans-serif;font-weight:normal;text-al=
+ign:left;line-height:24px;font-size:16px;margin:0;padding:0">
+ 	<table style=3D"border-spacing:0;border-collapse:collapse;vertical-align:=
+top;text-align:left;height:100%;width:100%;color:#222222;font-family:&#39;H=
+elvetica&#39;,&#39;Arial&#39;,sans-serif;font-weight:normal;line-height:24p=
+x;font-size:16px;background:#222222;margin:0;padding:0" bgcolor=3D"#222222"=
+><tbody><tr style=3D"vertical-align:top;text-align:left;padding:0" align=3D=
+"left"><td align=3D"center" valign=3D"top" style=3D"word-break:keep-all;bor=
+der-collapse:collapse!important;vertical-align:top;text-align:center;color:=
+#222222;font-family:&#39;Helvetica&#39;,&#39;Arial&#39;,sans-serif;font-wei=
+ght:normal;line-height:24px;font-size:16px;margin:0;padding:0">
+ 				<center style=3D"width:100%;min-width:580px">
+ 					<span style=3D"color:#333333;font-family:Helvetica Neue,Helvetica,san=
+s;font-size:8px;text-align:center">Please Read This Update Carefully</span>
+
+ 				=09
+ 					<table style=3D"border-spacing:0;border-collapse:collapse;vertical-al=
+ign:top;text-align:inherit;width:580px;background:#ffffff;margin:0 auto;pad=
+ding:0;border:1px solid #333333" bgcolor=3D"#ffffff"><tbody><tr style=3D"ve=
+rtical-align:top;text-align:left;padding:0" align=3D"left"><td style=3D"wor=
+d-break:keep-all;border-collapse:collapse!important;vertical-align:top;text=
+-align:left;color:#222222;font-family:&#39;Helvetica&#39;,&#39;Arial&#39;,s=
+ans-serif;font-weight:normal;line-height:24px;font-size:16px;margin:0;paddi=
+ng:0" align=3D"left" valign=3D"top">
+
+ 							=09
+ 								<table style=3D"border-spacing:0;border-collapse:collapse;vertical=
+-align:top;text-align:left;width:100%;padding:0px"><tbody><tr style=3D"vert=
+ical-align:top;text-align:left;padding:0" align=3D"left"><td style=3D"word-=
+break:keep-all;border-collapse:collapse!important;vertical-align:top;text-a=
+lign:left;color:#222222;font-family:&#39;Helvetica&#39;,&#39;Arial&#39;,san=
+s-serif;font-weight:normal;line-height:24px;font-size:16px;margin:0;padding=
+:0" align=3D"left" valign=3D"top">
+ 											<table style=3D"border-spacing:0;border-collapse:collapse;verti=
+cal-align:top;text-align:left;width:100%;padding:0"><tbody><tr style=3D"ver=
+tical-align:top;text-align:left;padding:0" align=3D"left"><td style=3D"word=
+-break:keep-all;border-collapse:collapse!important;vertical-align:top;text-=
+align:left;color:#222222;font-family:&#39;Helvetica&#39;,&#39;Arial&#39;,sa=
+ns-serif;font-weight:normal;line-height:24px;font-size:16px;margin:0;paddin=
+g:0" align=3D"left" valign=3D"top">
+ 														<img src=3D"http://duip7hn7nchpo.cloudfront.net/email-masthe=
+ad-tnd.jpg" width=3D"580" height=3D"135" alt=3D"Trend Following with Michae=
+l Covel" style=3D"outline:none;text-decoration:none;width:100%;max-width:10=
+0%;float:left;clear:both;display:block" align=3D"left"></td>
+ 													<td style=3D"word-break:keep-all;border-collapse:collapse!imp=
+ortant;vertical-align:top;text-align:left;width:0px;color:#222222;font-fami=
+ly:&#39;Helvetica&#39;,&#39;Arial&#39;,sans-serif;font-weight:normal;line-h=
+eight:24px;font-size:16px;margin:0;padding:0" align=3D"left" valign=3D"top"=
+></td>
+ 												</tr></tbody></table></td>
+ 									</tr></tbody></table><table style=3D"border-spacing:0;border-coll=
+apse:collapse;vertical-align:top;text-align:left;width:100%;padding:0px"><t=
+body><tr style=3D"vertical-align:top;text-align:left;padding:0" align=3D"le=
+ft"><td style=3D"word-break:keep-all;border-collapse:collapse!important;ver=
+tical-align:top;text-align:left;color:#222222;font-family:&#39;Helvetica&#3=
+9;,&#39;Arial&#39;,sans-serif;font-weight:normal;line-height:24px;font-size=
+:16px;margin:0;padding:20px 0px 0px" align=3D"left" valign=3D"top">
+ 											<table style=3D"border-spacing:0;border-collapse:collapse;verti=
+cal-align:top;text-align:left;width:580px;margin:0 auto;padding:0"><tbody><=
+tr style=3D"vertical-align:top;text-align:left;padding:0" align=3D"left"><t=
+d style=3D"word-break:keep-all;border-collapse:collapse!important;vertical-=
+align:top;text-align:left;color:#222222;font-family:&#39;Helvetica&#39;,&#3=
+9;Arial&#39;,sans-serif;font-weight:normal;line-height:24px;font-size:16px;=
+margin:0;padding:0px 20px 10px" align=3D"left" valign=3D"top">
+
+ 														<p style=3D"font-size:16px;line-height:24px;font-family:&#39=
+;Helvetica&#39;,&#39;Arial&#39;,sans-serif;margin:0 0 24px"><span>January  =
+2, 2017</span></p>
+
+ 														<p style=3D"font-size:30px;line-height:36px;font-family:&#39=
+;Helvetica&#39;,&#39;Arial&#39;,sans-serif;padding-top:10px;color:#222222;f=
+ont-weight:bold;margin:0 0 24px">An Important Update to Your Trend Followin=
+g Subscription</p>
+ 														<p style=3D"font-size:16px;line-height:24px;font-family:&#39=
+;Helvetica&#39;,&#39;Arial&#39;,sans-serif;margin:0 0 24px"><img align=3D"l=
+eft" src=3D"http://duip7hn7nchpo.cloudfront.net/editor-circle-jonas-elmerra=
+ji.jpg" alt=3D"Jonas Elmerraji" title=3D"Jonas Elmerraji" width=3D"85" heig=
+ht=3D"100" style=3D"outline:none;text-decoration:none;width:auto;max-width:=
+100%;float:left;clear:both;display:block">Dear Reader,</p>
+
+
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">I hope you&#39;ve had a great =
+holiday.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">The new year brings about big =
+changes =E2=80=94 that&#39;s the case here at Agora Financial in 2017 as we=
+ll.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">When we launched <i>Trend Foll=
+owing </i>a year ago, we were excited to bring one of the most powerful inv=
+esting strategies to the hands of individual investors for the first time e=
+ver. Nobody had ever done it.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">We were the first.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">And it&#39;s been a heck of a =
+run.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">We harnessed the explosive ral=
+ly in gold and silver at the start of the year, and then got out of metals =
+shortly after they peaked last summer. We took double-digit gains from the =
+tech sector, and the same from energy.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">No doubt, we took our lumps to=
+o.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">But we navigated one of the to=
+ughest market environments in recent memory, handling the Brexit, constant =
+churning in the S&amp;P 500 and the ugliest presidential election in histor=
+y. As I write, our worst trade is hovering around breakeven. Our best is up=
+ 50%. That&#39;s the kind of position mix every trader wants to see.=C2=A0<=
+/p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">And some of the biggest trends=
+ are clearly still just getting started as we turn the calendar to 2017.</p=
+>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Unfortunately, <i>Trend Follow=
+ing </i>is closing its doors effective immediately.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">While we made something great,=
+ the frank truth of the matter is that a year later, we still haven&#39;t b=
+een able to sell subscriptions to this research in the kind of numbers need=
+ed to support it as a business.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">That&#39;s what&#39;s bringing=
+ about this tough decision for everyone involved.</p>
+
+<p style=3D"font-size:24px;line-height:30px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;padding-top:0px;padding-bottom:12px;color:#2222=
+22;font-weight:bold;margin:0 0 12px"><b>What&#39;s Next=E2=80=A6</b></p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">I can&#39;t tell you how much =
+we appreciate your being a part of <i>Trend Following</i>.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Because you are a lifetime mem=
+ber, our publishers have arranged to convert your subscription to a lifetim=
+e subscription to the <i>Rude Awakening PRO</i> effective immediately.=C2=
+=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">The <i>Rude Awakening PRO </i>=
+is headed by my good friend Greg Guenthner. His letter pairs hard-hitting m=
+arket commentary with daily actionable investment ideas. Like ours, his app=
+roach focuses on price-driven trading signals =E2=80=94 the stock market is=
+ the boss.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">The <i>Rude Awakening PRO </i>=
+is a pricier, faster-paced research service than most. That&#39;s why a sub=
+scription to the <i>Rude Awakening PRO </i>typically costs $600 a year. But=
+ you&#39;re all set to receive it for life because of your lifetime <i>Tren=
+d Following </i>subscription. It&#39;s a small thank you for being a part o=
+f this.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">You&#39;ll also find brief upd=
+ates on trend following trading from me in the pages of the <i>Rude Awakeni=
+ng</i>.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">And of course, be sure to subs=
+cribe to Michael Covel&#39;s podcast to stay on top of the latest from him.=
+</p>
+
+<p style=3D"font-size:24px;line-height:30px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;padding-top:0px;padding-bottom:12px;color:#2222=
+22;font-weight:bold;margin:0 0 12px"><b>The Portfolio</b></p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">As I write, we have five posit=
+ions in the <i>Trend Following </i>portfolio. We will not be providing any =
+more updates on those trades after today.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">If you&#39;d like to continue =
+to take advantage of these trends, the simplest way is to initiate a 10% tr=
+ailing stop on each of the remaining stock positions. While not quite as re=
+fined as the volatility-based stops in our trend following system, it&#39;l=
+l get the job done.=C2=A0</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Alternatively, there&#39;s not=
+hing wrong with closing your remaining stock and options positions now.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Again, thanks very much for be=
+ing part of <i>Trend Following</i> during its all-too-short run. It&#39;s b=
+een a pleasure bringing you this research over the past year.</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Michael Covel and I wish you t=
+he very best for 2017. (See below for a note from Michael.)</p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Regards,</p>
+
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px"><img src=3D"http://duip7hn7nch=
+po.cloudfront.net/signature-jonas-elmerraji.jpg" style=3D"outline:none;text=
+-decoration:none;width:auto;max-width:100%;float:none;clear:both;display:bl=
+ock" align=3D"none"></p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px">Jonas Elmerraji, CMT</p>
+
+<p style=3D"font-size:30px;line-height:36px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;padding-top:10px;color:#222222;font-weight:bold=
+;margin:0 0 24px"><b>A Special Note from Michael</b></p>
+
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px"><img align=3D"left" src=3D"htt=
+p://duip7hn7nchpo.cloudfront.net/editor-circle-michael-covel.jpg" alt=3D"Mi=
+chael Covel" width=3D"85" height=3D"100" style=3D"outline:none;text-decorat=
+ion:none;width:auto;max-width:100%;float:left;clear:both;display:block"><i>=
+Dear Trend Following subscriber,<br><br>
+All good things come to an end and my newsletter with Agora has ceased.<br>=
+<br>
+However, my trend following world is not about to stop.<br><br>
+To thank you for your confidence in my work I would like to send you a spec=
+ial trend following investment paper that will provide great next steps as =
+well as securing your continued connection with me.<br><br>
+Simply send me your name and full address by email and you will be set:<br>=
+<br><a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;mcovel@trendfollowi=
+ng.com&#39;);" style=3D"color:#5e8bc6;text-decoration:underline" target=3D"=
+_blank">mcovel@trendfollowing.com</a><br><br>
+If you have any trend following questions please feel free to reach me dire=
+ctly.<br><br>
+Best,</i></p>
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px"><img src=3D"http://duip7hn7nch=
+po.cloudfront.net/signature-michael-covel.jpg" alt=3D"Michael Covel" style=
+=3D"outline:none;text-decoration:none;width:auto;max-width:100%;float:none;=
+clear:both;display:block" align=3D"none"></p>
+<p style=3D"font-size:16px;line-height:24px;font-family:&#39;Helvetica&#39;=
+,&#39;Arial&#39;,sans-serif;margin:0 0 24px"><i>Michael</i></p>
+
+
+
+
+
+
+
+
+ 													</td>
+ 													<td style=3D"word-break:keep-all;border-collapse:collapse!imp=
+ortant;vertical-align:top;text-align:left;width:0px;color:#222222;font-fami=
+ly:&#39;Helvetica&#39;,&#39;Arial&#39;,sans-serif;font-weight:normal;line-h=
+eight:24px;font-size:16px;margin:0;padding:0" align=3D"left" valign=3D"top"=
+></td>
+ 												</tr></tbody></table></td>
+ 									</tr></tbody></table><table bgcolor=3D"#0f4767" style=3D"border-s=
+pacing:0;border-collapse:collapse;vertical-align:top;text-align:left;width:=
+100%;padding:0px"><tbody><tr style=3D"vertical-align:top;text-align:left;pa=
+dding:0" align=3D"left"><td style=3D"word-break:keep-all;border-collapse:co=
+llapse!important;vertical-align:top;text-align:left;color:#222222;font-fami=
+ly:&#39;Helvetica&#39;,&#39;Arial&#39;,sans-serif;font-weight:normal;line-h=
+eight:24px;font-size:16px;margin:0;padding:20px 0px 0px" align=3D"left" val=
+ign=3D"top">
+
+ 											<table style=3D"border-spacing:0;border-collapse:collapse;verti=
+cal-align:top;text-align:left;width:580px;margin:0 auto;padding:0"><tbody><=
+tr style=3D"vertical-align:top;text-align:left;padding:0" align=3D"left"><t=
+d style=3D"word-break:keep-all;border-collapse:collapse!important;vertical-=
+align:top;text-align:left;color:#6c8496;font-family:Arial,Helvetica,sans-se=
+rif;font-weight:normal;line-height:1.6;font-size:12px;border-top-color:#2d8=
+5b8;border-top-width:1px;border-top-style:solid;margin:0;padding:24px 20px"=
+ align=3D"left" valign=3D"top">
+ 														<img src=3D"http://duip7hn7nchpo.cloudfront.net/af-email-foo=
+ter-logo.png" alt=3D"Agora Financial" title=3D"Agora Financial" height=3D"5=
+6" width=3D"56" align=3D"left" style=3D"outline:none;text-decoration:none;w=
+idth:auto;max-width:100%;float:left;clear:both;display:block">
+ 														Please note: We sent this e-mail to you because you are subs=
+cribed to this service. To cancel by mail or for any other subscription iss=
+ues, write us at: Customer Service | 808 St Paul St | Baltimore, MD 21202 U=
+SA. Nothing in this e-mail should be considered personalized investment adv=
+ice. Although our employees may answer your general customer service questi=
+ons, they are not licensed under securities laws to address your particular=
+ investment situation. No communication by our employees to you should be d=
+eemed as personalized investment advice. We expressly forbid our writers fr=
+om having a financial interest in any security recommended to our readers. =
+All of our employees and agents must wait 24 hours after on-line publicatio=
+n or 72 hours after the mailing of printed-only publication prior to follow=
+ing an initial recommendation. Any investments recommended in this letter s=
+hould be made only after consulting with your investment advisor and only a=
+fter reviewing the prospectus or financial statements of the company.
+ 														<br><br>
+ 														=C2=A9 2017 Agora Financial, LLC. All Rights Reserved. Prote=
+cted by copyright laws of the United States and international treaties. Thi=
+s Newsletter may only be used pursuant to	the subscription agreement and an=
+y reproduction, copying, or redistribution (electronic or otherwise, includ=
+ing on the world wide web) , in whole or in part, is strictly prohibited wi=
+thout the express written permission of Agora Financial, LLC. 808 Saint Pau=
+l Street, Baltimore MD 21202.
+
+ 													</td>
+ 													<td style=3D"word-break:keep-all;border-collapse:collapse!imp=
+ortant;vertical-align:top;text-align:left;width:0px;color:#222222;font-fami=
+ly:&#39;Helvetica&#39;,&#39;Arial&#39;,sans-serif;font-weight:normal;line-h=
+eight:24px;font-size:16px;margin:0;padding:0" align=3D"left" valign=3D"top"=
+></td>
+ 												</tr></tbody></table></td>
+ 									</tr></tbody></table></td>
+ 						</tr></tbody></table></center>
+ 			</td>
+ 		</tr></tbody></table>
+<img src=3D"http://click2.agorafinancial.com/t/DQ/qiA/vu8/AGBZBw/Qg/AQ/AQ/5=
+nGz">
+</div>
+<br></div><br><br>-- <br><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div d=
+ir=3D"ltr"><div><div dir=3D"ltr"><div><div><div><b>Scott Lundergan</b><div>=
+<b></b><div><a href=3D"http://www.videoproduceronline.com/" target=3D"_blan=
+k">Videoproduceronline.com</a><i>=C2=A0-=C2=A0</i>Concept to Completion Web=
+ Video Production</div></div></div></div></div></div></div></div></div></di=
+v></div></div><br>
+
+--94eb2c09248e52d6ad0545204a97--
+

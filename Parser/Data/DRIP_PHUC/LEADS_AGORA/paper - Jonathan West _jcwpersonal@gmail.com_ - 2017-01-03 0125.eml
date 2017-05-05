@@ -1,0 +1,61 @@
+Return-Path: <jcwpersonal@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2767A4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:22:50 -0500 (EST)
+Received: from mail-qk0-f175.google.com ([209.85.220.175])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102182546255_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:25:46 +0000
+X-RC-FROM: <jcwpersonal@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qk0-f175.google.com with SMTP id u25so345673362qki.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:25:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=1jbNBLqfpLm8XG7iVA92nSYGde90EyXlXxBtQRx5ZLc=;
+        b=uoaGQXc2ICbXqdzro0PnrLkcHYlM/fy3/3Kro+ghQXSlrB+ChoQVlXobHmIR7pBeUf
+         ij+k60udV0XJhs3P2hR1MhBEs7+n1AAurLaUUiwHQjjkcD7BJAda1muCBiXZiDQolSNc
+         HeJO/BXtcCOeVejrqRD8nb6/1ovDMeXpUUb7hzuCAShy+1qbfKN+gUtvogdWnAmcEDwJ
+         P59ZdbrgBGzgs6/XhYUiw1umlX17r/VhgkONoTa2+D9PHOK5vkKMW9YsNVfjKU73Vl8a
+         UBGAgdn3nMrQA0gMvxN5YyZE5p/YF8uYDEf6ZHesAx9FSDEOLlKAv1RwRFK8cgXrE77a
+         //OA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=1jbNBLqfpLm8XG7iVA92nSYGde90EyXlXxBtQRx5ZLc=;
+        b=PNjqSX/rxhNE3cBCtSHzcOY8Rle9cwsl8js7q0yHFEwY3rMh5KGJOCJAFIQ6bOgRZX
+         YA727mhnQq8fOyg7SV6dOJZERPectYcLagBqu1kukGhRcSsYtGbZiQnCMG+vEC7+epnl
+         /HPMc8nb+KE/iyumQ5l+q4mxuAaM42kKHuRtLqjLq4n6O30ErW66MFEcj3eiA5jIP/5q
+         mWo89BPFxMKIlWxIm0eXciCMA9i1PX34fcWkMZp2zF5hsNUp31yRjN+ZPv57JC2iNv+k
+         BtRA+MNa3W6+w2zJEQC4iQStyBM8IDLwn9NYpnJzdAXssM81HTuU67hPxQm3MucnYCQv
+         28aw==
+X-Gm-Message-State: AIkVDXJp5qZwtHokkcHUzSG2VGuBiHA9qZ8hZH5d0Kqw3AfQZeZB4rK6MhiLrgubUKcKjahgajQIFM4s5NqzQA==
+X-Received: by 10.55.31.203 with SMTP id n72mr61980423qkh.210.1483381540387;
+ Mon, 02 Jan 2017 10:25:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.12.140.142 with HTTP; Mon, 2 Jan 2017 10:25:19 -0800 (PST)
+From: Jonathan West <jcwpersonal@gmail.com>
+Date: Mon, 2 Jan 2017 13:25:19 -0500
+Message-ID: <CAM0hM5D7_6=aGdfTRz5ri5Rxo_XiEqJddRw-B3DD3rsnhd8L7A@mail.gmail.com>
+Subject: paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a1147a81cc80862054520adc1
+
+--001a1147a81cc80862054520adc1
+Content-Type: text/plain; charset=UTF-8
+
+Thank you,
+Jonathan West
+jcwpersonal@gmail.com
+
+--001a1147a81cc80862054520adc1
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Thank you,<div>Jonathan West</div><div><a href="mailto:jcwpersonal@gmail.com">jcwpersonal@gmail.com</a></div></div>
+
+--001a1147a81cc80862054520adc1--
+

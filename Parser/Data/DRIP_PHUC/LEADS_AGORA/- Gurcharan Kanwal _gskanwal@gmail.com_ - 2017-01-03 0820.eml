@@ -1,0 +1,54 @@
+Return-Path: <gskanwal@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 57DA04028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 20:17:28 -0500 (EST)
+Received: from mail-wj0-f178.google.com ([209.85.210.178])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103012016389_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 01:20:16 +0000
+X-RC-FROM: <gskanwal@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wj0-f178.google.com with SMTP id c11so229536533wjx.3
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 17:20:13 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=04tYLlDc9SQQq+grgBs3R/xsOrtUyt1IwtpA62iRBWI=;
+        b=eCpbMDSb5uuS7MvWpIZ42WdDJPNEIrwo7g+bw3rjxIgnCZniN0C7lQ5V1xepHZBt2l
+         +R2RNLrBAmeHSHsLhQsM4u02aKgy9klEXbeIW66+mTZxhdG3DgABBZV72PKjmWuQdjEH
+         q250CVfi9AbCqE5qOMCnqckQD6/kgfxal+mCFjJZMzu9PbneOHMN142Kfq3NUybbsSRT
+         Umnp+WzQBmd8qgveJOgnrYfJ0urUPJp9vUVyxPyWIbEDFQVzVRZiuDbtlkEeTInmeINB
+         I0WP/wR7Mp5YwKOb71SRiYfgsNoZ52PqzBkHNqnGW+wZO+MD8LJ7Bz2tOBHXm5xdD8nv
+         I4ZA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=04tYLlDc9SQQq+grgBs3R/xsOrtUyt1IwtpA62iRBWI=;
+        b=Vdsla/XG55wc6Fyt+FpmILNU+F1TG+lbTPwhoDHtkHbL4meypUCT6fq0vKdlQXSTS1
+         sBILgn5Kt1ZcBsn62BDI8z1damU6ZEEwe9Dxqa4KAeivlfea5CCnVQ1I8eK9a2yHrqU7
+         PmeyS1XDmAEErJnAkhTkIm3bO8avMwtb5p/5ptfYSAvb8Q5z7nRybCEAKOWvjvt3Mtc0
+         rr8s0lciZZsfV74Rw9D7LiRYeDODlRL0Tfgknq8YzpYJ5LWbK1/8ETuFS2m5pIJjPciZ
+         Ts6Iened/ZVjtRZeiV8IeEZWncpS9+zIqVEzuzrJ7qPPkH6yMuYKnOBGwLDR53rO8vAE
+         q16w==
+X-Gm-Message-State: AIkVDXL/ftSi883QWjZMVrMchWiLDY349O5ZlB4uw1Qri1+CjWKxQpB+3PLUDfmn9jrqsGKQ+UesW5DhviwjbA==
+X-Received: by 10.194.47.138 with SMTP id d10mr58990327wjn.83.1483406409931;
+ Mon, 02 Jan 2017 17:20:09 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.10.209 with HTTP; Mon, 2 Jan 2017 17:20:09 -0800 (PST)
+From: Gurcharan Kanwal <gskanwal@gmail.com>
+Date: Mon, 2 Jan 2017 20:20:09 -0500
+Message-ID: <CAGFUSHrdUJtL1UiM_AjLcserejRArvhkrPy=atMt3cY=oenzvg@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: text/plain; charset=UTF-8
+
+yes.
+I want tostay connected with you
+
+e mail     gskanwal@gmail.com
+
+tel.    276 328 9073
+

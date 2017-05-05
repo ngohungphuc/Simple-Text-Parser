@@ -1,0 +1,63 @@
+Return-Path: <computersolutionspa@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 010CF4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 08:05:42 -0500 (EST)
+Received: from mail-oi0-f51.google.com ([209.85.218.51])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103130838349_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 13:08:38 +0000
+X-RC-FROM: <computersolutionspa@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-oi0-f51.google.com with SMTP id 3so324317991oih.1
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 05:08:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Bc0aJyRW9XikoEdlYF48l/LVnvjMW0LaCU/FFQXBQGM=;
+        b=UhhfxgqOoJBiuScxZepcjveyjEF4UHQ+sDy6JEyI0eErbzhMlxbB3B85bj3VSq1/OL
+         fxcnzTC2ibH/kEyUKaC5rdIYCs0D8I4IjioCAJSfVDvKc2FAWdIkL55m+tL0++GTcsxz
+         qq18MT/rRjefrAwE9RAi/7ClI42F8SpXX6yXXHxxwcpK4FJq0I5gESpE26rxfzcnt7Ns
+         YPZS4eDseXvdNWoOFLSJ8gtpsqKL61nggC3rHoyCNURkdKa8xzZna5BVmrSwJda44g5k
+         GTO+SFNIcvE9Ub0b9DSYadvHNFD9mZb7RLk2eroDNaNDtiq+PMZchLluN62m4xvx3Xvi
+         EBrQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Bc0aJyRW9XikoEdlYF48l/LVnvjMW0LaCU/FFQXBQGM=;
+        b=UQb4kQK2Rx+JckBN8UP9osyPZgZjDs8XzOnpt8cW94/2L69iJIeF93WxOu8zptC2g6
+         k7pCCv4GiAAtgv3YardaBfiJNekuF1BNaBVGijitc0rIfd48pWgm+X/GT3HY561SQL0K
+         gWJJb8XM4JhqJ5L6YWAri8YvHaH4/TShx1VmI7OJHZmLoGil7k+EZmoyOWzSH5QgMkdG
+         qJOl3Ph96s20XZrXpoyq1l6IFPP1ut3d9H2+hrPp+Lksn/EiUwtWVovBln7MN0zigokx
+         /aUnlw7G9C3oYpZlTSmfBdNntm4BQRicLmW4jB3XWbLm8/rY9ZtoY/h/p5ZZtggZIBN5
+         4Z0Q==
+X-Gm-Message-State: AIkVDXIq1Nr2LkWd2MTsebBx2OA5Sw7LDczL3VN9bP/YczT7Sn1fee7GGmw33n3G94G+/lEy56yVORF20Y8dyw==
+X-Received: by 10.202.239.84 with SMTP id n81mr29778816oih.94.1483448897174;
+ Tue, 03 Jan 2017 05:08:17 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.43.23 with HTTP; Tue, 3 Jan 2017 05:08:16 -0800 (PST)
+From: Dan Maloney <computersolutionspa@gmail.com>
+Date: Tue, 3 Jan 2017 08:08:16 -0500
+Message-ID: <CAA1CcLrNoYi60JJi2rY8k2F4NHtfgEr3W3JzWhoudOhFV5n9-g@mail.gmail.com>
+Subject: sorry to see this service go
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c0920488f009b0545305c9a
+
+--94eb2c0920488f009b0545305c9a
+Content-Type: text/plain; charset=UTF-8
+
+Dan Maloney
+67 Kindle Ln.
+Levittown, PA 19055
+
+computersolutionspa@gmail.com
+
+--94eb2c0920488f009b0545305c9a
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Dan Maloney<div>67 Kindle Ln.</div><div>Levittown, PA 19055</div><div><br></div><div><a href="mailto:computersolutionspa@gmail.com">computersolutionspa@gmail.com</a></div></div>
+
+--94eb2c0920488f009b0545305c9a--
+

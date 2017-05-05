@@ -1,0 +1,60 @@
+Return-Path: <grahambrady48@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7B26D4028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:52:41 -0500 (EST)
+Received: from mail-io0-f178.google.com ([209.85.223.178])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102195536014_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:55:36 +0000
+X-RC-FROM: <grahambrady48@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f178.google.com with SMTP id d9so417514779ioe.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 11:55:33 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=aDjRIUSt5WxMxLST3BdsoSQmhIFT2PaEs8nJxYtHy6I=;
+        b=NyPkVbbyK8RYOKZpYNg7SNc31nUnAvpqWIOSE28edujn8wApCAa3PcvcMngf2hTOi2
+         VwFSMRnz8FNitd4v+8JKMaKkd2I5kfYiOBRj7DdS9wr8zmGu+QQ/ye0oNX4lu+O9zgc2
+         bY7Dm073tNY+nNZrgmLIZ2+Me4DflECc2qs48wRzrKG2I3lEY201JhyMFxUmfzKxSn1N
+         o4n/GAoTp2eHVbyh/H/maHaHUuO6a2gC/Lv3myv3XCWHHzeNjC5ZsKRuOLIZhTSCV3SV
+         cTNddCkJ2J7qbUSnxaQHx+chrW4z++ys10tn5axKwquAr95xJse7HakTHS8llqdvV1oL
+         8w6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=aDjRIUSt5WxMxLST3BdsoSQmhIFT2PaEs8nJxYtHy6I=;
+        b=TWnNCPgCJQQz+NAMOKs5kj3nqcPp/uZXHzfMY9s1SkuE/irHfTHnSISLQ/2wlXXi6G
+         CLe5WNMNgyxcudpwK45YpC02QrkJ+WNZLV1LLrHDuw6+P1SIdohSVVzi22xOQZNvgWJD
+         /4BZWadh5k4XlNRCilTisfLyUf8VZTBTHe/woW7naljX1s8iGLFkrneTvfuJlArJEkmC
+         hsWI1+8RvQMTVxXzQqNH4m/mIC97d8SlLImF3c8VGW0I8oJDBETAZZ1qEKSnMDEEeMDd
+         Ad9KOtLOTflsmkZWSK3OyHsf/gBVudzJ6QbipyiftK/Yy419BgcH6FDkQwP8j0hBjD0M
+         XOZQ==
+X-Gm-Message-State: AIkVDXLRn9yILiZ9C91ItrctZ8EJWBMh9YUAFz6A2GoFPdipcpMKBPC1ZvWWxCQpdh7a12WOmkSw4xgYRA9HsQ==
+X-Received: by 10.107.129.12 with SMTP id c12mr11728717iod.160.1483386929591;
+ Mon, 02 Jan 2017 11:55:29 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.136.21 with HTTP; Mon, 2 Jan 2017 11:55:29 -0800 (PST)
+From: graham brady <grahambrady48@gmail.com>
+Date: Mon, 2 Jan 2017 11:55:29 -0800
+Message-ID: <CAOY5DQeSSZ1tr9=ENKpVtYOjOjUXjWNwHf-wRUP_Gyy9K2NpQw@mail.gmail.com>
+Subject: Investment Paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113f64e600bb05054521ef7e
+
+--001a113f64e600bb05054521ef7e
+Content-Type: text/plain; charset=UTF-8
+
+very sorry to have trend following discontinued. Graham Brady, 54 Leeons
+Rd.,Palmwoods, Qld., 4555, Australia
+
+--001a113f64e600bb05054521ef7e
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">very sorry to have trend following discontinued. Graham Brady, 54 Leeons Rd.,Palmwoods, Qld., 4555, Australia<br></div>
+
+--001a113f64e600bb05054521ef7e--
+

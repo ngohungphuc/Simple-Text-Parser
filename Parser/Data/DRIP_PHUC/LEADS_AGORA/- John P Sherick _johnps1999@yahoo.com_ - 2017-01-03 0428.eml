@@ -1,0 +1,52 @@
+Return-Path: <johnps1999@yahoo.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 9BE154028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:25:50 -0500 (EST)
+Received: from nm23-vm1.bullet.mail.bf1.yahoo.com ([98.139.213.141])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102212846205_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:28:46 +0000
+X-RC-FROM: <johnps1999@yahoo.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1483392516; bh=5N/1FnElCLvP+7OtHG+Ku23b/aDuJu5ptXwVhbUFi8c=; h=Date:From:Reply-To:To:Subject:References:From:Subject; b=VIh6Ud7j+xWzuWzllD9GadH52T0itWSaTn92+DKZyieHSbAf40yw5EbGbC1/Yk3GXMm4S9JrUYcF5z0Kb8bRlRZbgssGWYoxDB42icuRitaErDAIFke1Iu2QACr0UVPwzbg1YspPHLPxlVIB9LEz92C9V1Wmay73xZimRpCalyHS4LoxxwlpbBHOwWaU6sIQecX+YudzvWL3+QKIvJU8ODa2XLo6ljRAM3gkd6u8jH78jerCSMjrdKL+BmCcZg1x2pLac64ooXwaLwTdDwkiEkDwsR0BirxUZ5OTJaj2R+PPz4MGYg37wkHo1ZoLjG+Uq09dGuTntvEOPLSrI6XT1Q==
+Received: from [66.196.81.172] by nm23.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 21:28:36 -0000
+Received: from [98.139.212.234] by tm18.bullet.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 21:28:36 -0000
+Received: from [127.0.0.1] by omp1043.mail.bf1.yahoo.com with NNFMP; 02 Jan 2017 21:28:36 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 411224.39954.bm@omp1043.mail.bf1.yahoo.com
+X-YMail-OSG: myYVc4cVM1l7w2MZaDZ_NnS3FuTGh_9MLpt38wNyq1mBf64S0C09VB7xoaCOx6M
+ demPgrVB1i9OXeb0M9u3wX2fK05EONDQPwA0N4Hciwb5bljIUN0.Xz_fgrtcT0M4VKj7hnufHNcx
+ BvZPAV1wQlbK0YwPvlF8WOQexD4Q8LMV7W0keZG6AqgsWVnOMX0ASKTu2lO117.or8n_RgMMVtCg
+ kkorFtn.qUEDemuOLe2hLN0p9X4Hl3N030Kh_VwR13WG2OkiVDWi_wT3RPWsbUtXuwYAPfn6FGUR
+ TzcLzW7II1vqdwrJKqC9Qz_rxOBj5Y9lGPn.6BBDS3rdM9q3a9PJazzFwBb1Fzsz5QNXmhAOPzhW
+ S6Qmtk4tys.BEsnB7tDoZ7PivJ5C4OIEnWr_rgpiFfjZQbuaw2LiGt7CSVmqxnq9CAZhg0BcXMTM
+ leRW_vfoj.VXCaOVE1A0.Xos8_0JB5m5vMEhzQPKBaAhEQeH7CphJ34kfkSnMUsYPFmQgsVlqgld
+ e3UFV4nnrBWGOZYp8V9M6BDif9OMrD2z7
+Received: from jws400170.mail.bf2.yahoo.com by sendmailws167.mail.bf1.yahoo.com; Mon, 02 Jan 2017 21:28:36 +0000; 1483392516.040
+Date: Mon, 2 Jan 2017 21:28:35 +0000 (UTC)
+From: John P Sherick <johnps1999@yahoo.com>
+Reply-To: John P Sherick <johnps1999@yahoo.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Message-ID: <440334610.5483543.1483392515866@mail.yahoo.com>
+Subject:
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_5483542_1642298586.1483392515865"
+References: <440334610.5483543.1483392515866.ref@mail.yahoo.com>
+
+------=_Part_5483542_1642298586.1483392515865
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+johnsherick@sbcglobal.net
+
+------=_Part_5483542_1642298586.1483392515865
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px">johnsherick@sbcglobal.net<div id="yui_3_16_0_ym19_1_1483391961525_15845"><br></div></div></body></html>
+------=_Part_5483542_1642298586.1483392515865--
+

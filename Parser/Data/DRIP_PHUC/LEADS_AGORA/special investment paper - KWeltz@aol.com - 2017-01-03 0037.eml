@@ -1,0 +1,64 @@
+Return-Path: <kweltz@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4CA764028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:35:03 -0500 (EST)
+Received: from omr-m002e.mx.aol.com ([204.29.186.2])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102173800526_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:38:00 +0000
+X-RC-FROM: <kweltz@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mca01.mx.aol.com (mtaomg-mca01.mx.aol.com [172.26.221.79])
+	by omr-m002e.mx.aol.com (Outbound Mail Relay) with ESMTP id 004CD38000B1
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:37:59 -0500 (EST)
+Received: from core-mef01a.mail.aol.com (core-mef01.mail.aol.com [172.27.37.11])
+	by mtaomg-mca01.mx.aol.com (OMAG/Core Interface) with ESMTP id C4F7038000083
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:37:58 -0500 (EST)
+From: KWeltz@aol.com
+Full-name: KWeltz
+Message-ID: <1881205.502cb837.459be9f6@aol.com>
+Date: Mon, 2 Jan 2017 12:37:58 -0500
+Subject: special investment paper
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_1881205.502cb837.459be9f6_boundary"
+X-Mailer: AOL 9.8 sub 2019
+X-Originating-IP: [72.47.166.37]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483378678;
+	bh=ghB9S8eJmhHmuwWwMRtj3xFw2RcUZZo/ytpk17BODUQ=;
+	h=From:To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	b=LWQtryB0t92K/jJbP4VQZTONaGE7ToJItRe3lDia4uhm5oaGR8c3mEQcRCEJ3rPyd
+	 eIWGmp/O8w4tmDdJ076hlvsDgT1KIWprcDcT0w/jtns4VZdBfpTlI76DsQzbNIGvVT
+	 mIc4pl1c7nTGbqhwd/uFYzZLuigduF3vq3l6voQk=
+x-aol-sid: 3039ac1add4f586a8ff668b3
+
+--part1_1881205.502cb837.459be9f6_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Kenneth Weltz    
+106 Geneva Rd
+New Bern, NC 28562
+--part1_1881205.502cb837.459be9f6_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3DUS-ASCII" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<BODY id=3Drole_body style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Arial; COLOR:=
+ #000000"=20
+bottomMargin=3D7 leftMargin=3D7 topMargin=3D7 rightMargin=3D7><FONT id=3Dr=
+ole_document=20
+color=3D#000000 size=3D3 face=3DArial>
+<DIV>Kenneth Weltz&nbsp;&nbsp;&nbsp;&nbsp;</DIV>
+<DIV>106 Geneva Rd</DIV>
+<DIV>New Bern, NC 28562</DIV></FONT></BODY></HTML>
+--part1_1881205.502cb837.459be9f6_boundary--
+

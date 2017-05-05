@@ -1,0 +1,66 @@
+Return-Path: <awbcjf@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4B33D4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:55:34 -0500 (EST)
+Received: from mail-wm0-f48.google.com ([74.125.82.48])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102175759836_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:57:59 +0000
+X-RC-FROM: <awbcjf@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wm0-f48.google.com with SMTP id t79so411758419wmt.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:57:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=eLdJwWY9kHN4BJIa3oKgjj3dn5syJwgbH5KyXIYqGxM=;
+        b=bK+B60SfYR8dmUDJe8pzuycK4oYy2yTcndrd+yw2/7g3TupYrzRbCIbBCvjMBAZ5YB
+         On37tNKAyko4AXv8+Rp0x++QOF7WH9WCS1Yk90raXAc95U8Qm9RAQdVtNMAhNDqsHd4K
+         ucrqRzStVds4upcWWy7L4We/WuEXbLBSA8XeKgNXFaJlN2EkmNh8D/fzowX3NTxDhXl7
+         8eQ0ntZQLF4f5u79zBkEEogYSOzxrYjMij+/cVbeY0GRvP3sB1ub452Ir4tILmfWgMHe
+         AhQyFXVMnkBPG+R1tFqQqPBOnbq0cyItAg1NV/9tFBQ/fuIQqnfm09YH2ynYSuAX+nBK
+         lasA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=eLdJwWY9kHN4BJIa3oKgjj3dn5syJwgbH5KyXIYqGxM=;
+        b=UZ90M60THoiGPQDjdaZSbrOEVqYJ9kJsCbMIYp/8ETRxN766p2hFwRVipbYkf8L5U+
+         cYz0w28oRFHiMkQj8nfN8NkshZohsiWds+QG9df4OoXaG3r/VmeVqTAV2NvtLTlIQXdP
+         06rYpQmaDOcPFQQIJ9K8DFXTviSGnJpoUpvgOo1xOEXXAvOF8hXj1QrvYxR1cpDVDQVs
+         v2XElVJwlEV0WqeeHA1Ej/IpcmZ8tWKTlGqZh5USoWTenX9697w1jfRzYPVxaMSiOr0p
+         P3sBELqhfT9yWc8/zJUDrViYhTIY4MLYzaqe51y9uwTb7mqOrPYthSA/Vpp1mD28oSxg
+         KhQg==
+X-Gm-Message-State: AIkVDXL/23sMSJTy99Pmrz4QzSyYKTUNAOzBgYcs4RNJqvuxMKh0tu6qhvTlnsh5O8VomI/DMCdvSENyFO1S8A==
+X-Received: by 10.28.137.193 with SMTP id l184mr47209545wmd.88.1483379870101;
+ Mon, 02 Jan 2017 09:57:50 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.99.240 with HTTP; Mon, 2 Jan 2017 09:57:49 -0800 (PST)
+From: Aaron Burstein <awbcjf@gmail.com>
+Date: Mon, 2 Jan 2017 12:57:49 -0500
+Message-ID: <CAFFhXOn9ESMGT14GVwUNMS7jm-v6KL5meaLXGTz5OJ+K885sVg@mail.gmail.com>
+Subject: trend following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114417643977580545204a3e
+
+--001a114417643977580545204a3e
+Content-Type: text/plain; charset=UTF-8
+
+please send to
+
+Aaron Burstein
+
+27158 Shell Ridge Circle
+Bonita Springs FL 34134
+
+Thanks
+
+--001a114417643977580545204a3e
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><div>please send to</div><div><br></div><div>Aaron Burstein</div><div><br></div><div>27158 Shell Ridge Circle</div><div>Bonita Springs FL 34134</div><div><br></div><div>Thanks</div></div>
+
+--001a114417643977580545204a3e--
+

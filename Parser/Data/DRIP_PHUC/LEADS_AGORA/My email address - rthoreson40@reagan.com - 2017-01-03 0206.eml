@@ -1,0 +1,86 @@
+Return-Path: <rthoreson40@reagan.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id B6ED44028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:04:03 -0500 (EST)
+Received: from smtp105.iad3a.emailsrvr.com ([173.203.187.105])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102190700635_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:07:00 +0000
+X-RC-FROM: <rthoreson40@reagan.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from smtp22.relay.iad3a.emailsrvr.com (localhost [127.0.0.1])
+	by smtp22.relay.iad3a.emailsrvr.com (SMTP Server) with ESMTP id 2167C6843
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:06:56 -0500 (EST)
+Received: from app59.wa-webapps.iad3a (relay-webapps.rsapps.net [172.27.255.140])
+	by smtp22.relay.iad3a.emailsrvr.com (SMTP Server) with ESMTP id 02E176814
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:06:56 -0500 (EST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=reagan.com;
+	s=20161101; t=1483384016;
+	bh=f4CgzXPM5RI89TwGwgyhEPncoZLTX+IODaJsoMhtY+Y=;
+	h=Date:Subject:From:To:From;
+	b=TbE+DCkcAZeXEHr7cpH8OfZvRSoiMXXbfSdYXG5hRRZ6XF0A3tNO2d0vhwlGr8wGq
+	 jZAe3ORvn6Tbu4FlzltjEXJy0KLZXX8FaBC+GS/I3HtQMFVxOWgIdHNv2S2ElaJRGg
+	 KPnU0+6zEhMLcYt14KZ2LkUbruy7Xl3oVEYrZPDA=
+X-Sender-Id: rthoreson40@reagan.com
+Received: from app59.wa-webapps.iad3a (relay-webapps.rsapps.net [172.27.255.140])
+	by 0.0.0.0:25 (trex/5.7.12);
+	Mon, 02 Jan 2017 14:06:56 -0500
+Received: from reagan.com (localhost [127.0.0.1])
+	by app59.wa-webapps.iad3a (Postfix) with ESMTP id E7E8B20054
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:06:55 -0500 (EST)
+Received: by webmail.reagan.com
+    (Authenticated sender: rthoreson40@reagan.com, from: rthoreson40@reagan.com)
+    with HTTP; Mon, 2 Jan 2017 13:06:55 -0600 (CST)
+Date: Mon, 2 Jan 2017 13:06:55 -0600 (CST)
+Subject: My email address
+From: rthoreson40@reagan.com
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;boundary="----=_20170102130655000000_13548"
+Importance: Normal
+X-Priority: 3 (Normal)
+X-Type: html
+X-Auth-ID: rthoreson40@reagan.com
+Message-ID: <1483384015.94769041@webmail.reagan.com>
+X-Mailer: webmail/12.7.1-RC
+
+------=_20170102130655000000_13548
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=0A =0A =0AMy email address is as follows:=0A =0A =0A[ rthoreson40@reagan.c=
+om ]( mailto:rthoreson40@reagan.com )=0A =0A =0AThank you,=0A =0ARalph Thor=
+eson=0A 
+------=_20170102130655000000_13548
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<font face=3D"arial" size=3D"2"><p style=3D"margin:0;padding:0;margin: 0; p=
+adding: 0; font-family: arial; font-size: 10pt; -ms-word-wrap: break-word;"=
+>&nbsp;</p>=0A<p style=3D"margin:0;padding:0;margin: 0; padding: 0; font-fa=
+mily: arial; font-size: 10pt; -ms-word-wrap: break-word;">&nbsp;</p>=0A<p s=
+tyle=3D"margin:0;padding:0;margin: 0; padding: 0; font-family: arial; font-=
+size: 10pt; -ms-word-wrap: break-word;">My email address is as follows:</p>=
+=0A<p style=3D"margin:0;padding:0;margin: 0; padding: 0; font-family: arial=
+; font-size: 10pt; -ms-word-wrap: break-word;">&nbsp;</p>=0A<p style=3D"mar=
+gin:0;padding:0;margin: 0; padding: 0; font-family: arial; font-size: 10pt;=
+ -ms-word-wrap: break-word;">&nbsp;</p>=0A<p style=3D"margin:0;padding:0;ma=
+rgin: 0; padding: 0; font-family: arial; font-size: 10pt; -ms-word-wrap: br=
+eak-word;"><a href=3D"mailto:rthoreson40@reagan.com">rthoreson40@reagan.com=
+</a></p>=0A<p style=3D"margin:0;padding:0;margin: 0; padding: 0; font-famil=
+y: arial; font-size: 10pt; -ms-word-wrap: break-word;">&nbsp;</p>=0A<p styl=
+e=3D"margin:0;padding:0;margin: 0; padding: 0; font-family: arial; font-siz=
+e: 10pt; -ms-word-wrap: break-word;">&nbsp;</p>=0A<p style=3D"margin:0;padd=
+ing:0;margin: 0; padding: 0; font-family: arial; font-size: 10pt; -ms-word-=
+wrap: break-word;">Thank you,</p>=0A<p style=3D"margin:0;padding:0;margin: =
+0; padding: 0; font-family: arial; font-size: 10pt; -ms-word-wrap: break-wo=
+rd;">&nbsp;</p>=0A<p style=3D"margin:0;padding:0;margin: 0; padding: 0; fon=
+t-family: arial; font-size: 10pt; -ms-word-wrap: break-word;">Ralph Thoreso=
+n</p>=0A<p style=3D"margin:0;padding:0;font-family: arial; font-size: 10pt;=
+ -ms-word-wrap: break-word;">&nbsp;</p></font>
+------=_20170102130655000000_13548--
+
+

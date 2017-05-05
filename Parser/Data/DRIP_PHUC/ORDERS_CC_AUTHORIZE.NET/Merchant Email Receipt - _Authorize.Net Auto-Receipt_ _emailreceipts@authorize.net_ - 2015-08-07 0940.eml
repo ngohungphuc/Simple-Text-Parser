@@ -1,0 +1,97 @@
+Return-Path: <emailreceipts@authorize.net>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m086.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id D2CD5400F7B52
+	for <info@trendfollowing.com>; Thu,  6 Aug 2015 22:40:08 -0400 (EDT)
+Authentication-Results: s12p02m086.mxlogic.net; spf=pass
+Received: from unknown [198.241.162.56] (EHLO cportal6.visa.com)
+	by s12p02m086.mxlogic.net(mxl_mta-8.4.0-3) over TLS secured channel
+	with ESMTP id 59a14c55.0.5837680.00-2375.11792344.s12p02m086.mxlogic.net (envelope-from <emailreceipts@authorize.net>);
+	Thu, 06 Aug 2015 20:40:22 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=authorize.net; i=@authorize.net; q=dns/txt;
+  s=cportal; t=1438915222; x=1470451222;
+  h=from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=zrjcZPMlsXhMHukyCW64rlKNcX/K8JhWaedPQcnJ8Rw=;
+  b=gTJLLcDDAXlQ0D+tEnGvRXEjKsjI8KNAxYec82oQ7NCpTsAFt1GbuRwU
+   wrYkchPuGOObKU+P5D2vVzp/ro4UwYkz1ljq70Wd0Yj5I3w0XivuLjJm/
+   WcbbwL3eNqrn3tvEA6Rk9K5KfCwvhnjyneytYvGDiDisWhmhKpXPW3jJB
+   Q=;
+thread-index: AdDQumUCqmAdRq/kSqqL1LKNVcMOdw==
+Thread-Topic: Merchant Email Receipt
+From: "Authorize.Net Auto-Receipt" <emailreceipts@authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+	"MIchael Covel" <info@trendfollowing.com>,
+	"Michael Covel" <info@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Fri, 7 Aug 2015 02:40:17 -0000
+Message-ID: <399D1A59F4CB48E2B2502FA910F171A2@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 07 Aug 2015 02:40:17.0306 (UTC) FILETIME=[65236FA0:01D0D0BA]
+Received-SPF: Pass (s12p02m086.mxlogic.net: domain of authorize.net designates 198.241.162.56 as permitted sender)
+X-MAIL-FROM: <emailreceipts@authorize.net>
+X-SOURCE-IP: [198.241.162.56]
+X-Spam: exempt
+
+**Please DO NOT REPLY to this message. E-mail support@authorize.net if you have any questions.
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 6-Aug-2015 22:40:14 EDT
+
+========= ORDER INFORMATION =========
+Invoice : 
+Description : turtle_research_newtrader
+Amount : 3096.00 (USD)
+Payment Method : Visa
+Type : Authorization and Capture
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Authorization Code : 00616D
+Transaction ID : 7418089719
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 
+First Name : ERHAN
+Last Name : KARSAK
+Company : 
+Address : 1846 CRANE CREEK BLVD.
+City : 
+State/Province : FL
+Zip/Postal Code : 32940
+Country : United States
+Phone : 
+Fax : 
+E-Mail : 
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : 
+Last Name : 
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 
+Tax Exempt : 
+PO Number : 

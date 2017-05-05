@@ -1,0 +1,150 @@
+Return-Path: <wernerdm@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C1D764028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:11:31 -0500 (EST)
+Received: from SNT004-OMC1S52.hotmail.com ([65.54.61.89])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102181427991_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:14:27 +0000
+X-RC-FROM: <wernerdm@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com ([65.55.90.7]) by SNT004-OMC1S52.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 10:14:22 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=Bz3Rw0ymU4ivHgaBnAjcntaUq0l4dl9ZLo90miYza54=;
+ b=OFn9dwRiIM5tuEbsnx4igXdw9uFSa5A8AfuXpTJP6HwsgTwHDzcyXN5bE7XVYZOnRPp0uZnlK2aMRnM/L7U+gXwgroFTQvE/879mgf0suT/zP9t8ji0tkTrQzo9+SLjAu5qbStLPxRQQJLYgVdFVUKG1i2uHtuQmUvHU+72+Nu1y011MsKiYM5kBApovcZcpKZsW4xwbGcJ8OGtzM1hZLJqEcbkVIkDMbcbw7skdPv+4lI6Fh1lvd2EkELFnF7QzlQ24ULhYoZZe7i5zY9GDE8VK/NXA9juY7sAbkCioYnWBegPcEnSW1Ah3tGi0Stzhswg281wi7NYW1hQPlBY6IA==
+Received: from BN3NAM01FT040.eop-nam01.prod.protection.outlook.com
+ (10.152.66.58) by BN3NAM01HT173.eop-nam01.prod.protection.outlook.com
+ (10.152.66.200) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 18:14:21 +0000
+Received: from BN6PR02MB2547.namprd02.prod.outlook.com (10.152.66.51) by
+ BN3NAM01FT040.mail.protection.outlook.com (10.152.67.197) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 18:14:21 +0000
+Received: from BN6PR02MB2547.namprd02.prod.outlook.com ([10.173.142.10]) by
+ BN6PR02MB2547.namprd02.prod.outlook.com ([10.173.142.10]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 18:14:21 +0000
+From: Werner DM <wernerdm@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Trend Following subscriber
+Thread-Topic: Trend Following subscriber
+Thread-Index: AdJlI+OSejCA40jVS+eELVarAqgOkg==
+Date: Mon, 2 Jan 2017 18:14:20 +0000
+Message-ID: <BN6PR02MB254772E64EAA5AA2C68BF89ADF6F0@BN6PR02MB2547.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:6FFAC44FFB5AE08AF28DE3D5494D0FE09C717F9253CE408B270CBFEBAB632EE7;UpperCasedChecksum:40FC1099DC993245B7688D58F0457F485534A7AF97BE809BFE8DA9051071C111;SizeAsReceived:7315;Count:36
+x-tmn: [3KZxZuXB2CNaR1O/81Ni9IUoSoE7M5s+0E1g9kOU/hrR+fvpYTDWbR6HarIBWHFe]
+x-incomingheadercount: 36
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BN3NAM01HT173;7:HG7dWSL+/5JWTNToGlB8bI4krgryI4EHNDRfI7vXcFDGxOQjvyhS/cg4VWqtJxf0ih3nb3tXakErTBum9kovWjNAK9j5OSr0Z8K02WR+5xmk861bkpH8Mg6EcozNLhfdKi24B+p0aPFDO33aqYTD/0s2HqjsaXwyvhVTXfuVpzSRAUVLzJpE7jWFsui870knkZ7m+e8SO8hwuzcjWiHTBBxYZmJKOMb0IhVTOmxuPWaYkIGrA10kpJAUA1bFwwgIPofGaEBhIYu4n9hQ1TMYCYra/v2AZ3g1demmnoXOyliFtbzXvzLJ7mNyLgjd+EZWsm05kZr+tl0vw6bWTTwhLmbxwBxJE7ugZ/eqtBTbU5loYeQWD8TvrTWg04Af178Ysu728ToWJC3urLGLY1uzgpDFsyDfcbTbxR/rxejlNFc7yXCcaepjrAheTHbM8zZZZo7FPjGs/Q7GQJlGCG1E0A==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BN3NAM01HT173;H:BN6PR02MB2547.namprd02.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 34805ead-ec86-4b7f-8356-08d4333b2cab
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:BN3NAM01HT173;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BN3NAM01HT173;BCL:0;PCL:0;RULEID:;SRVR:BN3NAM01HT173;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BN6PR02MB254772E64EAA5AA2C68BF89ADF6F0BN6PR02MB2547namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 18:14:20.7714
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN3NAM01HT173
+X-OriginalArrivalTime: 02 Jan 2017 18:14:22.0176 (UTC) FILETIME=[0ACF6E00:01D26524]
+
+--_000_BN6PR02MB254772E64EAA5AA2C68BF89ADF6F0BN6PR02MB2547namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Sorry to see it go, it was one of the few I actively followed, understood, =
+and looked forward to.  :(
+
+Werner Meurrens
+10115 E Calusa Club Dr
+Miami, FL 33186
+
+--_000_BN6PR02MB254772E64EAA5AA2C68BF89ADF6F0BN6PR02MB2547namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Sorry to see it go, it was one of the few I actively=
+ followed, understood, and looked forward to.&nbsp;
+<span style=3D"font-family:Wingdings">L</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Werner Meurrens <o:p></o:p></p>
+<p class=3D"MsoNormal">10115 E Calusa Club Dr<o:p></o:p></p>
+<p class=3D"MsoNormal">Miami, FL 33186<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BN6PR02MB254772E64EAA5AA2C68BF89ADF6F0BN6PR02MB2547namp_--
+

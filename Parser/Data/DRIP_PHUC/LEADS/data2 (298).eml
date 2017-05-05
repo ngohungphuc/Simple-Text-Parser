@@ -1,0 +1,68 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m072.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1C5634019ECF6
+	for <mcovel@trendfollowing.com>; Mon, 18 Jul 2016 14:27:33 -0400 (EDT)
+Authentication-Results: p01c11m072.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m072.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id 59f1d875.0.7331344.00-2244.13560794.p01c11m072.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Mon, 18 Jul 2016 12:27:33 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=Ic+tKwO8RejDXtmn8UTBAcPJb/s=; b=KJnCrvG0JxAosQDBHFQBeyE
+	rFbEa8MaiVuQ8KtrUb3zswOZ6Fvl8hWLyAqCobYicISvr0WiLV9cIS9mnkzRWTgV
+	ZS1QLNN77YZx5iwj9vswift1o9CYkvl14swMuDGqFBxJr2ppKphHjX3ct/jF8nVp
+	r+YJkJqVq6Ak9jZQjRTg=
+Received: by filter0423p1mdw1.sendgrid.net with SMTP id filter0423p1mdw1.2875.578D1F7B22
+        2016-07-18 18:27:07.178667207 +0000 UTC
+Received: from getdrip.com (ec2-52-90-81-35.compute-1.amazonaws.com [52.90.81.35])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id UYT3ZT9LQl2599urIDV1qg
+	for <mcovel@trendfollowing.com>; Mon, 18 Jul 2016 18:27:07.236 +0000 (UTC)
+Date: Mon, 18 Jul 2016 18:27:07 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <578d1f7b33a7c_18443fafe0c3dd0c73599@ip-172-30-0-182.mail>
+Subject: [Drip] denreindl@aol.com just triggered a notification from LeadPages
+ "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpLfvnTyivsHrwJsQFAow83t5XemFQH4PZEfU
+ 2FU3SAik9EPtcy31nVdsxPZO5JuIA18OnH/jYxEGtTGYs3aHIBaunCc3F5p/b6Iu5HjagIrgviLwkW
+ h2IL8B3XNrVyAZD4JfyPXLs8gqe2dgwmiYlrR3BapJ/O6JP3bfdw6rin4kSqAtqSy0og/gyphMt4qh
+ s=
+Received-SPF: Pass (p01c11m072.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: denreindl@aol.com
+IP Address: (not provided)
+city: Oceanside
+country: USA
+first_name: Dennis
+has_read_LBoT: NO
+has_read_TC: NO
+has_read_TF: YES BEGINNING TO READ IT
+last_name: Reindl
+last_trading_or_investment_book_read: WAY OF THE TURTLE
+state: 92057
+street1: 1538 Del Mar Road
+zip_code: CA
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/pnzb8efjmfm4ktidbgoc
+
+Cheers,
+The Drip Team

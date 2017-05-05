@@ -1,0 +1,370 @@
+Return-Path: <michael.poland@braeburnwealth.com>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m066.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id DEBA0401CBE1F
+	for <info@trendfollowing.com>; Mon, 14 Mar 2016 09:15:11 -0400 (EDT)
+Authentication-Results: s12p02m066.mxlogic.net; spf=none
+Received: from unknown [108.166.43.73] (EHLO smtp73.ord1c.emailsrvr.com)
+	by s12p02m066.mxlogic.net(mxl_mta-8.5.0-6) over TLS secured channel
+	with ESMTP id 069b6e65.0.20518195.00-300.39322558.s12p02m066.mxlogic.net (envelope-from <michael.poland@braeburnwealth.com>);
+	Mon, 14 Mar 2016 07:15:12 -0600 (MDT)
+Received: from smtp18.relay.ord1c.emailsrvr.com (localhost.localdomain [127.0.0.1])
+	by smtp18.relay.ord1c.emailsrvr.com (SMTP Server) with ESMTP id D4E0F28041A
+	for <info@trendfollowing.com>; Mon, 14 Mar 2016 09:15:11 -0400 (EDT)
+X-SMTPDoctor-Processed: csmtpprox beta
+Received: from smtp18.relay.ord1c.emailsrvr.com (localhost.localdomain [127.0.0.1])
+	by smtp18.relay.ord1c.emailsrvr.com (SMTP Server) with ESMTP id 8CC802804E1
+	for <info@trendfollowing.com>; Mon, 14 Mar 2016 09:15:11 -0400 (EDT)
+Received: from smtp192.mex05.mlsrvr.com (unknown [184.106.31.85])
+	by smtp18.relay.ord1c.emailsrvr.com (SMTP Server) with ESMTPS id 31D2428049F
+	for <info@trendfollowing.com>; Mon, 14 Mar 2016 09:15:11 -0400 (EDT)
+X-Sender-Id: michael.poland@braeburnwealth.com
+Received: from smtp192.mex05.mlsrvr.com ([UNAVAILABLE]. [184.106.31.85])
+	(using TLSv1 with cipher AES256-SHA)
+	by 0.0.0.0:25 (trex/5.5.4);
+	Mon, 14 Mar 2016 09:15:11 -0400
+Received: from ORD2MBX01D.mex05.mlsrvr.com ([fe80::75cf:4044:ec74:dde9]) by
+ ORD2HUB37.mex05.mlsrvr.com ([fe80::862b:2bff:fe65:78db%15]) with mapi id
+ 14.03.0235.001; Mon, 14 Mar 2016 08:15:06 -0500
+From: Michael Poland <michael.poland@braeburnwealth.com>
+To: "info@trendfollowing.com" <info@trendfollowing.com>
+Subject: Master Mind
+Thread-Topic: Master Mind
+Thread-Index: AdF983foHYo+5dl7SBmdkl6f0LOjrg==
+Date: Mon, 14 Mar 2016 13:15:06 +0000
+Message-ID: <32EDC44CFCC7A1439900D3634EEAF6C67228ED81@ORD2MBX01D.mex05.mlsrvr.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [173.162.34.117]
+Content-Type: multipart/related;
+	boundary="_005_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-AnalysisOut: [v=2.1 cv=OMQhqHuB c=1 sm=1 tr=0 a=jSk8TZ+g69SCqEuVu0w2OQ==]
+X-AnalysisOut: [:117 a=jSk8TZ+g69SCqEuVu0w2OQ==:17 a=RsPjDR_8RLoA:10 a=xqW]
+X-AnalysisOut: [C_Br6kY4A:10 a=7OsogOcEt9IA:10 a=TJUo54_pAAAA:8 a=X0bbNvkU]
+X-AnalysisOut: [AAAA:8 a=uLlyrNq-aSiGlXI8sfYA:9 a=CjuIK1q_8ugA:10 a=9yjur2]
+X-AnalysisOut: [qQWO4A:10 a=rqrwXysdRrMA:10 a=ZghMJ06lmLwA:10 a=Ac0QuvFz_J]
+X-AnalysisOut: [wA:10 a=7o5HwkgU_U0A:10 a=pyQk_7UYPiMA:10 a=u46h6aGHY88A:1]
+X-AnalysisOut: [0 a=_LsPZCBUFbwA:10 a=yMhMjlubAAAA:8 a=SSmOFEACAAAA:8 a=do]
+X-AnalysisOut: [05vOLTp6HmnwtyNBwA:9 a=qu6QiELRb5SzF6Ku:21 a=gKO2Hq4RSVkA:]
+X-AnalysisOut: [10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10 a]
+X-AnalysisOut: [=LHELdX1RReeSjCA9IU4A:9 a=ONpgZaIJ4vGLbz0B:18 a=HXjIzolwW1]
+X-AnalysisOut: [0A:10 a=gPL8Sjqa_banP-2KzY0A:9 a=8wiOK1NHGMRUPy19:18 a=KQq]
+X-AnalysisOut: [xNPgzF0kA:10]
+Received-SPF: None
+X-Spam: [F=0.2000000000; B=0.500(0); STSI=0.500(0); STSM=0.500(0); CM=0.500; CY=0.50; MH=0.500(2016031405); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <michael.poland@braeburnwealth.com>
+X-SOURCE-IP: [108.166.43.73]
+
+--_005_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_
+Content-Type: multipart/alternative;
+	boundary="_000_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_"
+
+--_000_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I am interested in learning more about your Mastermind program.
+
+
+Michael A. Poland, CFA
+Financial Advisor / Portfolio Manager
+[Riskalyze button.Whats your risk number]<https://pro.riskalyze.com/embed/2=
+6fe7a8e8803e2b03873>
+Braeburn Wealth Management
+Direct (231) 720-0598
+Toll Free (866) 577-9116 ext 201
+Cell (231) 750-3770
+Main (231) 720-0743 ext 201
+3597 Henry Street
+Norton Shores, MI 49441
+[2013-06-04 17 08 49 (2)]
+www.braeburnwealth.com<http://www.braeburnwealth.com/>
+
+Braeburn Wealth Management, LLC, a Registered Investment Advisor (RIA) with=
+ The State of Michigan
+
+
+--_000_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">I am interested in =
+learning more about your Mastermind program.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>Michael A. Poland, CFA&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; <o:p>
+</o:p></b></p>
+<p class=3D"MsoNormal">Financial Advisor / Portfolio Manager<o:p></o:p></p>
+<p class=3D"MsoNormal"><a href=3D"https://pro.riskalyze.com/embed/26fe7a8e8=
+803e2b03873"><b><span style=3D"color:windowtext;text-decoration:none"><img =
+border=3D"0" width=3D"258" height=3D"43" id=3D"_x0000_i1026" src=3D"cid:ima=
+ge001.png@01D17DD1.FADE3B00" alt=3D"Riskalyze button.Whats your risk number=
+"></span></b></a><b><o:p></o:p></b></p>
+<p class=3D"MsoNormal"><b>Braeburn Wealth Management&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></b></p>
+<p class=3D"MsoNormal">Direct (231) 720-0598<o:p></o:p></p>
+<p class=3D"MsoNormal">Toll Free (866) 577-9116 ext 201<o:p></o:p></p>
+<p class=3D"MsoNormal">Cell (231) 750-3770<o:p></o:p></p>
+<p class=3D"MsoNormal">Main (231) 720-0743 ext 201<o:p></o:p></p>
+<p class=3D"MsoNormal">3597 Henry Street <o:p></o:p></p>
+<p class=3D"MsoNormal">Norton Shores, MI 49441<o:p></o:p></p>
+<p class=3D"MsoNormal"><img border=3D"0" width=3D"157" height=3D"86" id=3D"=
+Picture_x0020_1" src=3D"cid:image002.jpg@01D17DD1.FADE3B00" alt=3D"2013-06-=
+04 17 08 49 (2)"><o:p></o:p></p>
+<p class=3D"MsoNormal"><a href=3D"http://www.braeburnwealth.com/">www.braeb=
+urnwealth.com</a><o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;color:#AEAAAA">Br=
+aeburn Wealth Management, LLC, a Registered Investment Advisor (RIA) with T=
+he State of Michigan<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_--
+
+--_005_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=5449;
+	creation-date="Mon, 14 Mar 2016 13:15:06 GMT";
+	modification-date="Mon, 14 Mar 2016 13:15:06 GMT"
+Content-ID: <image001.png@01D17DD1.FADE3B00>
+Content-Transfer-Encoding: base64
+
+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
+
+--_005_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_
+Content-Type: image/jpeg; name="image002.jpg"
+Content-Description: image002.jpg
+Content-Disposition: inline; filename="image002.jpg"; size=3510;
+	creation-date="Mon, 14 Mar 2016 13:15:06 GMT";
+	modification-date="Mon, 14 Mar 2016 13:15:06 GMT"
+Content-ID: <image002.jpg@01D17DD1.FADE3B00>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABWAJ0DASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCE/PIc
+itFdRuxCIo3CRg52rwM+v1qjtxI1SAnFc9ro0vZiSEvIzuxZ2OST3NKpqORwvJNVWuZWRnhjYxL9
+6U8KPx7n6UKI+Y0M/SlSWMHD4/GsiNzcTqskjsGbgbti/p1roLGytJFJYrkEjZu5GPXvWtXDyo/x
+EKFRT+Er+ZFn5W2/Q1IihuVZT9RVow6U6EZhwDjIfkGql1paQ7XtZW5I+Un+RrNRj1uvkaX7aj2j
+LLyvPtUbRHuKrxXcsLlJeSvBHetGKdZo8oQfUelKpTnTV3t3CLjLYqbCVIPQcE01YwwPT61dZFbg
+rSLAp4BIrHmRfKyhJEQMHqFFHzKink8Yq+9scDBBwMHPeoEt5AhDDBB4pcyCzKZ2zfe4KnpVa5ty
+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
+
+--_005_32EDC44CFCC7A1439900D3634EEAF6C67228ED81ORD2MBX01Dmex05_--

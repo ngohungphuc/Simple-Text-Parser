@@ -1,0 +1,69 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m065.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E524740213F87
+	for <mcovel@trendfollowing.com>; Wed, 25 May 2016 13:39:51 -0400 (EDT)
+Authentication-Results: p02c11m065.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p02c11m065.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 863e5475.0.5203342.00-1792.9999622.p02c11m065.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Wed, 25 May 2016 11:39:52 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=H7BbLqeVOMTHVk71Kf0pCAdcfzE=; b=v1S0b34S38Ao0DKoBVHejrg
+	h6l3/Mk4a7e1zkciABRshXYt5Ec3IA7KpHuRmI4mvA7NdazeCIhMraVnRLINy1c4
+	SHc3gAmgxaK3/dCOE7fyXSr9NFFW6vuxB1iozqXFjxXLzfjCKppcrJAhd4LyhXdY
+	t5ho7HK2Il3jB2wAMZbM=
+Received: by filter0549p1mdw1.sendgrid.net with SMTP id filter0549p1mdw1.14623.5745E3654D
+        2016-05-25 17:39:49.422188892 +0000 UTC
+Received: from getdrip.com (ec2-52-91-56-161.compute-1.amazonaws.com [52.91.56.161])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id XuTMKn0PSOySVEonEYU9DA
+	for <mcovel@trendfollowing.com>; Wed, 25 May 2016 17:39:49.456 +0000 (UTC)
+Date: Wed, 25 May 2016 17:39:49 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <5745e3654a622_52093fb13d3cf3103861d@ip-172-30-0-200.mail>
+Subject: [Drip] drdolan@aprinta.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrpbpuqVh3x784DtIP6SqGkyFYn3u/RK8gqmA
+ fmFiakasdBcERCrbCx9zI29LO4bFuR8DaJnE8BpANwnuFN3MotI16TLaF9H6BkdG8ZNVTX3M816a/f
+ rQwvNSqVdfXaDeDxUdKRo5OYLaVC/9z5nMmEds/aeTNj25Wdmoa69DWqmwRpocEmVi6lzVOSi7OR6N
+ w=
+Received-SPF: Pass (p02c11m065.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: drdolan@aprinta.com
+Domain: http://aprinta.com
+IP Address: (not provided)
+city: pinellas park
+country: usa
+first_name: william
+has_read_LBoT: np
+has_read_TC: np
+has_read_TF: no
+last_name: dolan
+last_trading_or_investment_book_read: Fishers 1st part2016
+state: fl
+street1: 96th ave N
+zip_code: 33782
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/78bhpcoktwqhmpzqeiqs
+
+Cheers,
+The Drip Team

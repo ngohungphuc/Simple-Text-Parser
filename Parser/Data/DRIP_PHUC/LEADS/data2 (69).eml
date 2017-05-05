@@ -1,0 +1,65 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m085.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1197840213F80
+	for <mcovel@trendfollowing.com>; Tue,  5 Jul 2016 11:56:52 -0400 (EDT)
+Authentication-Results: s12p02m085.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by s12p02m085.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id 5c8db775.0.16299601.00-2370.29297234.s12p02m085.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Tue, 05 Jul 2016 09:56:53 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=jh73Puj5eo7g2lNh+ybNSpMpQjM=; b=uu9G5BZWscegPkR46gnWDSv
+	QIPM41J2JcRIpDSr59bt3Wk+nS8UacgrIlH8P9ZR1VFJQKIpmlO0hQ3Df0hU3wwh
+	A79Nh1amXyd3qxHjzhjb5CJPRxhJcZkeHWAcghZ4hS1mlpNqnbwASNN1wp08iCIH
+	vYog1wZ5X9CdC6ihEScE=
+Received: by filter0558p1mdw1.sendgrid.net with SMTP id filter0558p1mdw1.29552.577BD8C0D
+        2016-07-05 15:56:48.040725772 +0000 UTC
+Received: from getdrip.com (ec2-54-175-220-218.compute-1.amazonaws.com [54.175.220.218])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id dozP1k4lQMCgF6WLmWglFA
+	for <mcovel@trendfollowing.com>; Tue, 05 Jul 2016 15:56:48.109 +0000 (UTC)
+Date: Tue, 05 Jul 2016 15:56:47 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <577bd8bfe7502_6e093ffa8aec608410404f@ip-172-30-0-24.mail>
+Subject: [Drip] anthony@allsterns.com just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPryiFBIUIQD8zUHrMsz3hGFnX3+ijXJo/jdfs
+ HSTwXJLsrObfyy65CHpoKgu9+mF0AR8jtRR3LOYX1cSUR0cuSsKQ5aohwAiF3JGbIB0ixP1WcWiCeO
+ yVPql+2xtnZz02ZAfjjHOux955Um9n023gnoGRaj2oKAKt1yTOonUmav0VQRQT/kYA6CIOhVA5VSf7
+ Y=
+Received-SPF: Pass (s12p02m085.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: anthony@allsterns.com
+Domain: http://allsterns.com
+IP Address: 50.255.30.233
+city: greenbrae
+country: United States
+first_name: anthony
+last_name: stern
+state: ca
+street1: 336 Bon Air Center #112
+zip_code: 94904
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/4f1dujqjfcavfcvdpq23
+
+Cheers,
+The Drip Team

@@ -1,0 +1,59 @@
+Return-Path: <gregorysprigg@mac.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 855F84028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 15:28:22 -0500 (EST)
+Received: from pv33p03im-asmtp002.me.com ([17.143.180.11])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102203118796_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 20:31:18 +0000
+X-RC-FROM: <gregorysprigg@mac.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from process-dkim-sign-daemon.pv33p03im-asmtp002.me.com by
+ pv33p03im-asmtp002.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ id <0OJ600D006AOVP00@pv33p03im-asmtp002.me.com> for mcovel@trendfollowing.com;
+ Mon, 02 Jan 2017 20:31:04 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mac.com; s=4d515a;
+	t=1483389064; bh=uwIQzAH7chGOwfeXrYuVteqWgtQHpWkZYvwzIBNOUts=;
+	h=From:Content-type:Subject:Message-id:Date:To:MIME-version;
+	b=ecnmkfq85CVX28zFGLdksRooL2iGMv5ZkhyQpDN7OeQc5HOtDa0C5xPZt4dIUT2l/
+ L4TDFgSWUKPKC4kkWzqLnikaTIlKT79vWhJR9+JsY/Em2Of6UaV+AuPbKzSPne8gmN
+ Yt2Ey/IIjFRAhDv8lCaQWM+hTF9y14JPCCGE1lK+WlplmuPeQWXFrXLHbKEAN5HWGz
+ 0J1xGugNVgPUHGb3gOxhMcVWNO8/xIFhlPEMueizYUBuIazbTtCCLHMm7sDlNxnxA3
+ jcSW2O4VHYDx3WwQ56GkF/Y6ZaAKDNUOUspUYJIRi8Os9dMkHARohMgegDFlcZg3rL
+ BZRL2hKhXZtfg==
+Received: from [172.21.30.47] (unknown [158.69.160.185])
+ by pv33p03im-asmtp002.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ with ESMTPSA id <0OJ600OB16BPC910@pv33p03im-asmtp002.me.com> for
+ mcovel@trendfollowing.com; Mon, 02 Jan 2017 20:31:04 +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2017-01-02_18:,, signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ clxscore=1034 suspectscore=1 malwarescore=0 phishscore=0 adultscore=0
+ bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1603290000 definitions=main-1701020321
+From: gregory sprigg <gregorysprigg@mac.com>
+Content-type: text/plain; charset=windows-1252
+Content-transfer-encoding: quoted-printable
+Subject: newsletter subscription
+Message-id: <25D4962F-102B-4337-AD68-8E8E568E2099@mac.com>
+Date: Mon, 02 Jan 2017 15:30:59 -0500
+To: mcovel@trendfollowing.com
+MIME-version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+X-Mailer: Apple Mail (2.1878.6)
+
+Michael,
+
+Best wishes for the New Year!
+
+I am a loyal follower of your (nonwformer) Agora Trend Following =
+services and a total believer in your market philosophy.  Very sorry =
+that you=92ll be shutting down.  I look forward to your newsletter and =
+wish you the best in the New Year. =20
+
+Cheers, GS=
+

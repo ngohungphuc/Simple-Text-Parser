@@ -1,0 +1,61 @@
+Return-Path: <rusty.doggy@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 335064018B756
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:35:58 -0500 (EST)
+Received: from omr-a007e.mx.aol.com ([204.29.186.58])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102173854431_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:38:54 +0000
+X-RC-FROM: <rusty.doggy@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-maa01.mx.aol.com (mtaomg-maa01.mx.aol.com [172.26.222.143])
+	by omr-a007e.mx.aol.com (Outbound Mail Relay) with ESMTP id BCED238000AA
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:38:48 -0500 (EST)
+Received: from core-ace10c.mail.aol.com (core-ace10.mail.aol.com [172.27.23.10])
+	by mtaomg-maa01.mx.aol.com (OMAG/Core Interface) with ESMTP id 34F6F38000084
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:38:48 -0500 (EST)
+Received: from 68.7.160.113 by webprd-m97.mail.aol.com (10.74.51.150) with HTTP (WebMailUI); Mon, 02 Jan 2017 12:38:48 -0500
+Date: Mon, 2 Jan 2017 12:38:48 -0500
+From: Jack Reddick <rusty.doggy@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <15960431c79-4d97-2d5e9@webprd-m97.mail.aol.com>
+Subject: address
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_231490_1194860153.1483378728055"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [68.7.160.113]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483378728;
+	bh=cQH7jcnH+kpZG7SNH7jSKWQPlgds/y8SDXQQ61xlN34=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=8KPNpkIk/iBVz5mGulpIT8d7qQOyWb943Zf99/5yZVE7ZQ+a+uxphb0AONeLs8tHS
+	 lzmuiBVk1FqTZNUGxGQGJMAldPuPH3Z3e6AzMDek7t+48nowP94+c4m0vThXoqSYIx
+	 m2iRUhEcHmFn9ns8PWkPO5YH36afIv76jNP8OLHM=
+x-aol-sid: 3039ac1ade8f586a90283889
+
+------=_Part_231490_1194860153.1483378728055
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Jack Reddick 3133 Amberwood Lane Escondido CA rusty.doggy@aaol.com
+Jack
+
+------=_Part_231490_1194860153.1483378728055
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>
+<div><font style="background-color: transparent;">Jack Reddick 3133 Amberwood Lane Escondido CA <a href="mailto:rusty.doggy@aaol.com">rusty.doggy@aaol.com</a></font></div>
+
+<div>Jack</div>
+</font>
+------=_Part_231490_1194860153.1483378728055--
+

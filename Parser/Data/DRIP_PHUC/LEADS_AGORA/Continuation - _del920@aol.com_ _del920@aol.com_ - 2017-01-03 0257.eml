@@ -1,0 +1,66 @@
+Return-Path: <del920@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 976E74028F21C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:54:58 -0500 (EST)
+Received: from omr-m009e.mx.aol.com ([204.29.186.8])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102195754879_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 19:57:54 +0000
+X-RC-FROM: <del920@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-mab01.mx.aol.com (mtaomg-mab01.mx.aol.com [172.26.249.83])
+	by omr-m009e.mx.aol.com (Outbound Mail Relay) with ESMTP id EA8A0380008A
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:57:36 -0500 (EST)
+Received: from core-mad03b.mail.aol.com (core-mad03.mail.aol.com [172.27.61.13])
+	by mtaomg-mab01.mx.aol.com (OMAG/Core Interface) with ESMTP id C82C538000086
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 14:57:36 -0500 (EST)
+Received: from 50.129.124.204 by webprd-a07.mail.aol.com (10.72.13.10) with HTTP (WebMailUI); Mon, 02 Jan 2017 14:57:36 -0500
+Date: Mon, 2 Jan 2017 14:57:36 -0500
+From: "del920@aol.com" <del920@aol.com>
+To: mcovel@trendfollowing.com
+Message-Id: <15960c2320c-1193-2e743@webprd-a07.mail.aol.com>
+Subject: Continuation
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_239519_1168793119.1483387056650"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [50.129.124.204]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483387056;
+	bh=S/a4JE4DQIyXQfsXZ87vgJZV8HPr54uCzIJsZaJfMUo=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=Fu3YoLBYqXGCDd7BRirDZisWLWaCPlKuGaAI/DhSDc44K0BMtnDK2XziSE7uYkhOy
+	 UO82vFRT8gku/RGqV5GwFTF4h7kfZ/Bz+fpwzOz8EBaIp7uEpycBBuH5frzCopYxSv
+	 mnJUbTYPpRR6Zz7IlXsIMDsT2eqRYXYwQVQ6RBLk=
+x-aol-sid: 3039ac1af953586ab0b03caa
+
+------=_Part_239519_1168793119.1483387056650
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Mark Eldridge
+
+
+920 Weatherbee Avenue
+Downers Grove , IL 60516
+
+------=_Part_239519_1168793119.1483387056650
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>Mark Eldridge
+<div><br>
+</div>
+
+<div>920 Weatherbee Avenue</div>
+
+<div>Downers Grove , IL 60516</div>
+</font>
+------=_Part_239519_1168793119.1483387056650--
+

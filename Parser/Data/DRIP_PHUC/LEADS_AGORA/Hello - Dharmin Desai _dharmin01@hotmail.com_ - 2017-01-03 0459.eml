@@ -1,0 +1,140 @@
+Return-Path: <dharmin01@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id E13AC4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:57:18 -0500 (EST)
+Received: from BAY004-OMC2S21.hotmail.com ([65.54.190.96])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102220001517_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 22:00:01 +0000
+X-RC-FROM: <dharmin01@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM03-CO1-obe.outbound.protection.outlook.com ([65.54.190.124]) by BAY004-OMC2S21.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 13:59:56 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=3T3o1OhQgB/QmWsiPIFW6qCLS+vUF/aGDFc7rlg3e+k=;
+ b=VFzQ/QHlo1FTJtET9z4ncy9FoqHZTffGR7HZeTuESLAye8lfXVYR+m3VxR2TFHJ52E0VL8eoEMNmfU5HdR3IBvESmWzVQ6K0ma2m3G8qlMd4k63v+qS6Ju+Z1ktePgceZ9AFjkQhHZ8JbLxz6jfZJu+4qg8+9g1p41EKGd5z0v9qKjvMJoCRv5zxBJPS520k10Sl5P2r+QZV7u2qcHXxG7a3JP2XI9TIlNA298NW1i89dewHT5Z1sySLtyS3Z5qLCH6FxUICMDTpXeBoIJtmlcz+1oYzoVhNI6H4jvdTNAM0y38zR4OWNceLhL0IB9dh2xK+aePeaOMR7QoKg1qHcg==
+Received: from BY2NAM03FT038.eop-NAM03.prod.protection.outlook.com
+ (10.152.84.52) by BY2NAM03HT188.eop-NAM03.prod.protection.outlook.com
+ (10.152.85.35) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 21:59:56 +0000
+Received: from SN1PR05MB2349.namprd05.prod.outlook.com (10.152.84.56) by
+ BY2NAM03FT038.mail.protection.outlook.com (10.152.84.170) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 21:59:55 +0000
+Received: from SN1PR05MB2349.namprd05.prod.outlook.com ([10.169.125.27]) by
+ SN1PR05MB2349.namprd05.prod.outlook.com ([10.169.125.27]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 21:59:55 +0000
+From: Dharmin Desai <dharmin01@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Hello
+Thread-Topic: Hello
+Thread-Index: AQHSZUH03pgLyKkrZ0+DxXz9QODDJA==
+Date: Mon, 2 Jan 2017 21:59:55 +0000
+Message-ID: <SN1PR05MB23498518A4F6C23CE6194A69BB6F0@SN1PR05MB2349.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:3DB2509A2DB4C7C186968487AA35CB555F9436C2425DC8DE95A128C7ED0A8FFC;UpperCasedChecksum:4F0DF02AF8E226F49563CA6D685A78FB10AA64A6D6ABD9840E67DD6EB04EDC71;SizeAsReceived:7184;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [iUdGYEs5LLKRJuEGDWij7wxMLTqo4YgA]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BY2NAM03HT188;7:TwKpV28Eln67+XJgtYLqwBCGLugd1m3WLlk4D++v7fxBCQ/r/MlSx8DKhKesSaY9ER3rwFXIdicvlyI3dgknXiEGyuJtPyCK8TtlOc1xqEO/7BC1v2zw6dETzKPUMCoWqlAzR7fFebKDSZ1ksPXBgBvzn+hAmNJIr3rJ0s5zR7Anr+NAttjR4yJEI3XsubVOaBEyiXjowoSpnuCl6RnhfI2bj7CIJML4a0KnEG2ou9Be8osXplObdgpgSNcEt9Mif/9QmI8j44GS5H2d0rnSbruZ//w6u8V5qr2JybWu0i36Ub4qvvAY28VxfESooB1bERVTS4X8WAg0bYA3WjOWk77cJqbqDnESrpMDLYjNDzu/4i8HnC/h3yksw0paVGKJVRRunwTE8SnwmH+NFUv03MYdoWHsSP4dMZ4Qwg6sU3Hnxf5PM2s6OdTATGN6jFqU7fRdmk1UYf3Q9e+yhcwMPQ==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2NAM03HT188;H:SN1PR05MB2349.namprd05.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: c148dd3d-e36b-4140-e1cb-08d4335aafeb
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506293)(5061507293)(1603103113)(1603101340)(1601125047);SRVR:BY2NAM03HT188;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BY2NAM03HT188;BCL:0;PCL:0;RULEID:;SRVR:BY2NAM03HT188;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SN1PR05MB23498518A4F6C23CE6194A69BB6F0SN1PR05MB2349namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 21:59:55.5485
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM03HT188
+X-OriginalArrivalTime: 02 Jan 2017 21:59:56.0946 (UTC) FILETIME=[8E296F20:01D26543]
+
+--_000_SN1PR05MB23498518A4F6C23CE6194A69BB6F0SN1PR05MB2349namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Michael,
+
+
+I recently joined your subscription (one week back Dec 16). I really liked =
+your work and your ideas. It is really sad to see that you are discontinuin=
+g your service.
+
+
+My Contact Details:
+
+
+Dharmin Desai
+
+904/10 Wentworth Drive
+
+Liberty Grove, Sydney, Australia
+
+NSW -2138
+
+
+regards,
+
+Dharmin
+
++61 434 240 228
+
+--_000_SN1PR05MB23498518A4F6C23CE6194A69BB6F0SN1PR05MB2349namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:14pt;color:#000000;font=
+-family:Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Hi Michael,</p>
+<p><br>
+</p>
+<p>I recently joined your subscription (one week back Dec 16). I really lik=
+ed your work and your ideas. It is really sad to see that you are discontin=
+uing your service.</p>
+<p><br>
+</p>
+<p>My Contact Details:</p>
+<p><br>
+</p>
+<p>Dharmin Desai</p>
+<p>904/10 Wentworth Drive</p>
+<p>Liberty Grove, Sydney, Australia</p>
+<p>NSW -2138</p>
+<p><br>
+</p>
+<p>regards,</p>
+<p>Dharmin</p>
+<p>&#43;61 434 240 228</p>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_SN1PR05MB23498518A4F6C23CE6194A69BB6F0SN1PR05MB2349namp_--
+

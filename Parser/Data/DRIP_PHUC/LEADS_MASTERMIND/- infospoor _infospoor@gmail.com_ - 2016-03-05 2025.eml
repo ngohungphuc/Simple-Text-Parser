@@ -1,0 +1,64 @@
+Return-Path: <infospoor@gmail.com>
+X-Original-To: info@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m016.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 59B4140201540
+	for <info@trendfollowing.com>; Sat,  5 Mar 2016 08:25:33 -0500 (EST)
+Authentication-Results: p01c11m016.mxlogic.net; spf=pass
+Received: from unknown [74.125.82.52] (EHLO mail-wm0-f52.google.com)
+	by p01c11m016.mxlogic.net(mxl_mta-8.5.0-8) over TLS secured channel
+	with ESMTP id f4edad65.0.913921.00-2366.1765690.p01c11m016.mxlogic.net (envelope-from <infospoor@gmail.com>);
+	Sat, 05 Mar 2016 06:25:36 -0700 (MST)
+Received: by mail-wm0-f52.google.com with SMTP id n186so26308131wmn.1
+        for <info@trendfollowing.com>; Sat, 05 Mar 2016 05:25:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=Md9bn56ppPXCF3TSwrfIBq5qyeaQV738NGUCAX3Z7hY=;
+        b=ZBR89mdzWlz7a9+Lc7tv37MZoqMeZYEsMYDw//ZyfnukO2PIM+7/fbhsXs6PAC3ajE
+         zaq8U1LMBO2UasyCaGRQwbs5L1L0xXWUcHVH2CjHQa0ObTEFvAMg+An0v55MWFHud2AH
+         4YQPvKwgKwWqiBmG6BjZYriXKLK11hZ+UL3AcLoy8Ab92eo3oJic/WgHLwmUaQyZZXqY
+         Zrzgdd2EQ0EpJmXiGqBvmLCFtVFUJwj8wHcJDsdNJlOs78HIUnp+5DW+kVB+JER4D39o
+         jq1oCJifxpOt+KF3n0M+pRKdQWpawQ6NuqPqLm2JSVU4ADXYqIBJ0LzThRtEw9GGBM2C
+         Sajw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=Md9bn56ppPXCF3TSwrfIBq5qyeaQV738NGUCAX3Z7hY=;
+        b=ku68B7TvbwhkjBfzI/5DnQOHkEahm9XsjctYuSrJEKyV8HVFXSkd4I+g6squVxgf6i
+         s8C+njNPQNnxU/N/3xnupagL9jGgYKpz5sDkej00OZBFlwZPJIQV+1hN3qANsMWiyVGb
+         UIn2RCb8w0nyXYaxm2QNomX5d33XEKolehQxxjtiXf3SROjEX4Wnfj0oCI/ph+SUxGhJ
+         D/uKqvykx5Zd4DncFaf2CM4hSi94Vss8hyPFtJ2JdJVXWOEwVA4A7Oc8L133tGtCU34s
+         o5Cp9Du66GQmw8oeB39Gri7K940PR/WPidKgDc3eXzOGQSTniTwW4i9WbqigRQKKRkCB
+         oSnQ==
+X-Gm-Message-State: AD7BkJKh/OS5PQdE48kU+MPcLvTzs3wcQunfLyfZCRqh2W509URiyX9QEdmeilTS+C9hApgMJy+WD2QY1NYGfg==
+MIME-Version: 1.0
+X-Received: by 10.194.236.3 with SMTP id uq3mr13693073wjc.119.1457184334561;
+ Sat, 05 Mar 2016 05:25:34 -0800 (PST)
+Received: by 10.28.1.83 with HTTP; Sat, 5 Mar 2016 05:25:34 -0800 (PST)
+Date: Sat, 5 Mar 2016 15:25:34 +0200
+Message-ID: <CAJTj3SoPoAHa6cnotKLROd==ZwpvjrBTGneivLFXToefdvGOSg@mail.gmail.com>
+Subject: 
+From: infospoor <infospoor@gmail.com>
+To: info@trendfollowing.com
+Content-Type: multipart/alternative; boundary=089e013d1564a24701052d4d2a77
+X-AnalysisOut: [v=2.1 cv=Rr7DWXSK c=1 sm=1 tr=0 a=Juw55/qJAg8gbbUt08BnDg==]
+X-AnalysisOut: [:117 a=7OsogOcEt9IA:10 a=6BrDaJ5WXvREvQ-J4T4A:9 a=QEXdDO2u]
+X-AnalysisOut: [t3YA:10 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA]
+X-AnalysisOut: [:10 a=k2GXVZ5VwK86dXqfSkUA:9]
+Received-SPF: Pass (p01c11m016.mxlogic.net: domain of gmail.com designates 74.125.82.52 as permitted sender)
+X-Spam: [F=0.3703374662; B=0.500(0); STSI=0.500(0); STSM=0.500(0); CM=0.500; CY=0.50; MH=0.500(2016030509); S=0.370(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <infospoor@gmail.com>
+X-SOURCE-IP: [74.125.82.52]
+
+--089e013d1564a24701052d4d2a77
+Content-Type: text/plain; charset=UTF-8
+
+
+
+--089e013d1564a24701052d4d2a77
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><br></div>
+
+--089e013d1564a24701052d4d2a77--

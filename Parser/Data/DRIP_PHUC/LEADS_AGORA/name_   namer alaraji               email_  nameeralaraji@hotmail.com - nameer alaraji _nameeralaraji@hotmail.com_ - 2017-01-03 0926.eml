@@ -1,0 +1,98 @@
+Return-Path: <nameeralaraji@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 2E79A4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 21:23:46 -0500 (EST)
+Received: from SNT004-OMC4S31.hotmail.com ([65.55.90.234])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103022634499_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 02:26:34 +0000
+X-RC-FROM: <nameeralaraji@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from EUR03-AM5-obe.outbound.protection.outlook.com ([65.55.90.199]) by SNT004-OMC4S31.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 18:26:27 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=qmgBsuaSiAEKrWfLmh4gTEFnP/gBYCmkbv+xwFdlZ/M=;
+ b=HuP08CA/VstHLlu97mH8p3tTJz7fWE2KW5iKNcygGBWFGFlCqQn8gmfyAApxCoZ3XNyauXVPs5dtAaH6zO7Z1YimohS3EoHDCsvigmWORoFiq3I6uf2+x7DXK5BdOIUcQrYWZY11SliFD1LkaG8NrLFLiuwAIzjRrPGiTWvo1uK1EctNRXZQGiFdcivo+n4al0z9elvmqfuoqYKTK6yDfMFaYdSBzSIwXZv6k5B4P7BZo0plnW6an4mpPLSVgX5RYOL8GV9jH4qJOGU+EP75AQ8WbCsUeTEmq4Wodpy0QQBjwQSEKT5r2/C+y7RH7SEfv180C4jTlBdUaTHDDjr7Rw==
+Received: from VE1EUR03FT005.eop-EUR03.prod.protection.outlook.com
+ (10.152.18.60) by VE1EUR03HT076.eop-EUR03.prod.protection.outlook.com
+ (10.152.19.87) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.789.10; Tue, 3 Jan
+ 2017 02:26:26 +0000
+Received: from AM4PR0301MB2244.eurprd03.prod.outlook.com (10.152.18.58) by
+ VE1EUR03FT005.mail.protection.outlook.com (10.152.18.172) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.789.10 via Frontend Transport; Tue, 3 Jan 2017 02:26:26 +0000
+Received: from AM4PR0301MB2244.eurprd03.prod.outlook.com ([10.165.44.23]) by
+ AM4PR0301MB2244.eurprd03.prod.outlook.com ([10.165.44.23]) with mapi id
+ 15.01.0817.009; Tue, 3 Jan 2017 02:26:25 +0000
+From: nameer alaraji <nameeralaraji@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: name:   namer alaraji               email:  nameeralaraji@hotmail.com
+Thread-Topic: name:   namer alaraji               email:
+  nameeralaraji@hotmail.com
+Thread-Index: AQHSZWjHEWvFnK7480SvO85aEmaIAg==
+Date: Tue, 3 Jan 2017 02:26:25 +0000
+Message-ID: <AM4PR0301MB22442E7696FA63089B35031FA36E0@AM4PR0301MB2244.eurprd03.prod.outlook.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:4A11ABC93C84818E65E4F9113CCB218014F3C74C769858DC324D563EC59A93D6;UpperCasedChecksum:5B8CDD97406270A7EE9F03D4E4E419BC298155715AEA9A9C8E54FCE1C05DE70F;SizeAsReceived:7340;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [A5tRJY8bYEMHtmkGQ/tBYCUPiPEo07MT]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;VE1EUR03HT076;24:NwQ67YoxohVvNzCXNfiZNttvHrUIsw54y2choLjQz8LYlOCj8PckrjFqkMfHXNsMEsi2aLTsY28H/cfupSCfGrP7amaUGd8Kj4vZAdGpNdw=;7:CLTqv8eDbCiAVyXhSDCCa40SCb6goHsrf9ng9NMl8RC+wImWX5frNAUTHszSi73DYegQDZqSnxwyHhXqWXk7QbbIH2Ghm10mDucr7gEVM7SEV3g8VMev/aU5qOKncEhQLZbbEStCSMSGb9HcLm4ZIbJ9Xx9bXAg2Y2+30GFtpXPyWq9SunnAfyNTx08+EAclVniOs6w7kLfHYUrsKO2pXJiRh4aVFTJlLqyqT/cu4wVYuKnKrINyKT7YgPCk6Mqt6y+r+Vl3xEIBj6uTKeJs215upOeJrxY80z2ssMyZUTz9Yy/P1k+GBww4niKlj4epo86Y2Jq6DFHcAmISUgvRsl9GrdGa8xPomBJBpDq3DILifhuRhdVdXFnITYaKPuBzqHi6myD2IWH3r1oeE9ZkP+ox8BvKFby0Tfe9iFJf7Y0GqRvbjzQj07iB5YyWnlEO+cY2eF3lOgfq2y6RyZlv6w==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:VE1EUR03HT076;H:AM4PR0301MB2244.eurprd03.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 9568fdb5-ec3a-4a6e-3e01-08d4337fea82
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1601125047);SRVR:VE1EUR03HT076;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:VE1EUR03HT076;BCL:0;PCL:0;RULEID:;SRVR:VE1EUR03HT076;
+x-forefront-prvs: 01762B0D64
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_AM4PR0301MB22442E7696FA63089B35031FA36E0AM4PR0301MB2244_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jan 2017 02:26:25.3389
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1EUR03HT076
+X-OriginalArrivalTime: 03 Jan 2017 02:26:27.0910 (UTC) FILETIME=[C984E660:01D26568]
+
+--_000_AM4PR0301MB22442E7696FA63089B35031FA36E0AM4PR0301MB2244_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+--_000_AM4PR0301MB22442E7696FA63089B35031FA36E0AM4PR0301MB2244_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p><br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_AM4PR0301MB22442E7696FA63089B35031FA36E0AM4PR0301MB2244_--
+

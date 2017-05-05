@@ -1,0 +1,71 @@
+Return-Path: <henrymw2@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id A1BA64028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 17:27:38 -0500 (EST)
+Received: from mail-lf0-f65.google.com ([209.85.215.65])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103223034301_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 22:30:34 +0000
+X-RC-FROM: <henrymw2@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f65.google.com with SMTP id x140so29208315lfa.2
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 14:30:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=elSVukltf9nAeP7B343V73XpjmuQ7IBHCrdYJAzkj4o=;
+        b=XgLfZwvhTZxnHC9MVyyO82ye54g+55Mqg621VNEn/pv9dvNl8hVRMb5NqDXNvsJBHY
+         ZRJy5ZHP2XWL0cR5TMC7o0wIgfwf8SI9tivadTvZ6Wi2PfWP185EDCDdhnB7TMeHztAs
+         Pt86BBh/0ezq97Q4bYIc0xDEu2atF+EFOf9mjLQR7wX4V/AKKsrvtBLnGu0fPkTINmyK
+         6Zrtp0yI7EtP3iUVkr1BcWv9akAI8opzmal5q3DDxcTYjMxYUdisws9iHjHHzX83v+hC
+         fUS4DhxYJBNv3Go0ihVeB3AVV6Q+FrU2xURLuoCB7fSlJ5Z2oTf9tHfv8WBQhHpQebMg
+         wFOQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=elSVukltf9nAeP7B343V73XpjmuQ7IBHCrdYJAzkj4o=;
+        b=EQuPD8LJTbIHd9xgFDaPQGWYbVlzK1tOrnKDCN3vudqOkfGDkpSGf642OOTYia2Pz0
+         tvTVb6RC3W9VXpbJ/eD0H2YXrRnxyU6mlEG9gYWkdK10owybxLF4BhPItoFMh2kukJv2
+         SIVNK1/5TB6s9wYv5GCiUI24bZzN3ce2EXd9HCvSFUjEhcRwcOees/dvyU8qp0icmhTZ
+         FIe62o2f0zajsAmryYAeSK9Apnh0u81nQ/zGSM+kerDPGTPnz0hYIjLMOMsrWs+UU/6e
+         I80BDR58zd+gHziUFMMrqaPmBwIAzMpQmhUfy5otDM5SAsdFmZAjZmwjVnEpQiJt3Yxl
+         6yQA==
+X-Gm-Message-State: AIkVDXL3cEbB7MbthgwAADo1FklkSkiyiYr0KfUgYlwfBnhujL7ntIFtPNt4gJL2Ar/Mv9ZqJL8Qdaot8OElfw==
+X-Received: by 10.25.137.193 with SMTP id l184mr1157188lfd.28.1483482627652;
+ Tue, 03 Jan 2017 14:30:27 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.28.148 with HTTP; Tue, 3 Jan 2017 14:30:26 -0800 (PST)
+Received: by 10.25.28.148 with HTTP; Tue, 3 Jan 2017 14:30:26 -0800 (PST)
+In-Reply-To: <CANaa-2=rc8JyPY2z4WqQWV90xcHr7HAqEFTZ4ma4CedSRfknCQ@mail.gmail.com>
+References: <CANaa-2=rc8JyPY2z4WqQWV90xcHr7HAqEFTZ4ma4CedSRfknCQ@mail.gmail.com>
+From: Henry Weissenberger <henrymw2@gmail.com>
+Date: Tue, 3 Jan 2017 17:30:26 -0500
+Message-ID: <CANaa-2mR8dNOqWjnYHegd=TGJq444K6HkcZ3GvWqu0hJzuc2=w@mail.gmail.com>
+Subject: Your email
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113fbec60d45930545383711
+
+--001a113fbec60d45930545383711
+Content-Type: text/plain; charset=UTF-8
+
+My address:
+Henry Weissenberger
+10089 Colonial Drive
+Ellicott City MD 21042
+henrymw2@gmail.com
+
+--001a113fbec60d45930545383711
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">My address:=C2=A0<div dir=3D"auto">Henry Weissenberger=C2=
+=A0<br><div dir=3D"auto">10089 Colonial Drive</div><div dir=3D"auto">Ellico=
+tt City MD 21042</div><div dir=3D"auto"><a href=3D"mailto:henrymw2@gmail.co=
+m">henrymw2@gmail.com</a>=C2=A0</div></div></div>
+
+--001a113fbec60d45930545383711--
+

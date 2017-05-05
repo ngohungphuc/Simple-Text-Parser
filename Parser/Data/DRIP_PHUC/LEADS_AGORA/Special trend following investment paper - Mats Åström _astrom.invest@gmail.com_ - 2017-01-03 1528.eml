@@ -1,0 +1,63 @@
+Return-Path: <astrom.invest@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 433184028F220
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 03:25:30 -0500 (EST)
+Received: from mail-lf0-f41.google.com ([209.85.215.41])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103082826191_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 08:28:26 +0000
+X-RC-FROM: <astrom.invest@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f41.google.com with SMTP id y21so281102351lfa.1
+        for <mcovel@trendfollowing.com>; Tue, 03 Jan 2017 00:28:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :to;
+        bh=42y3uiqJiGyVaOJpzikIeqpyOTBpoCtLI8d8tXzJjCM=;
+        b=FdNNoPijzd8iAQjUcR/EtR/UYj/jrBDprAYw/QMgX1F7Y+9wK7ecLFuKG/Pd1j2PJc
+         WMzCo2KFEmVXlSpKhsjXufS4HtciOVlJCi4+sdPBXXff9ZdV+oT8PLkuusR01OfirjQ1
+         exlo+Ha6a51gTnPW7strAb5uII9R8ikHS0mNmUcbqxsKxjOffcUCrXcRbY8Tx25/qexS
+         I337BcbjTrJsBw4geIvKNKMID9VdX76HLMS8R0KgH9sYzZkbEyFDhEvlH12o+9Jzxkmf
+         5CmE2Ug1YWlBtc/AcaOOJFETTkMc84HCeh3I0RYM8t9m4BedB4Ze8hU5qU6PQOmArqt4
+         BDYg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:to;
+        bh=42y3uiqJiGyVaOJpzikIeqpyOTBpoCtLI8d8tXzJjCM=;
+        b=Bt7cADHaAVZaLqZX7jZWEpXKdMlDo87BvWRvlVHHGX6GVUOHwlnKHymMpLQz67BKx4
+         AXBBhdAhVgE9FYesWf/UAlRfbezQbcnzrmhicZRr11iKzObHi1VvUg+LwiqPrnsMfG7O
+         cjFBD4rG7QlByUF8QsWl4Av5/tspND6W9+eVzhy9OPQhoaMDN/whUxGGyYcXIvnsuXpu
+         HRz/HetLhSI1pCh4dF+3X5KGwcAK3w3WVwzM0zrsdbJHidJdeHwHisp8ux4c31zyAVO9
+         0eGnaeeXmOX9oEOIZI6c03MyAuypiRrTdPFN4drN5pKbjJZ0Y2vyfGD6xacuARYfM5OE
+         XExA==
+X-Gm-Message-State: AIkVDXIm9S489ZCjsR2r719iVOzBdw+8RFUNAux02/jBR2b0ZOEXFUZkAkBDAK1icq+ynA==
+X-Received: by 10.25.159.78 with SMTP id i75mr20921728lfe.123.1483432099356;
+        Tue, 03 Jan 2017 00:28:19 -0800 (PST)
+Received: from [192.168.1.30] (h77-53-253-20.cust.se.alltele.net. [77.53.253.20])
+        by smtp.gmail.com with ESMTPSA id d79sm16551938lfd.46.2017.01.03.00.28.18
+        for <mcovel@trendfollowing.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 03 Jan 2017 00:28:18 -0800 (PST)
+From: =?utf-8?Q?Mats_=C3=85str=C3=B6m?= <astrom.invest@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Date: Tue, 3 Jan 2017 09:28:18 +0100
+Subject: Special trend following investment paper
+Message-Id: <0825FF0D-0D03-4048-87E3-2AB4423C5377@gmail.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14C92)
+
+Thanks for receiving your trend following paper.
+
+Mats Astrom
+astrom.invest@gmail.com
+
+Skickat fr=C3=A5n min iPhone=
+

@@ -1,0 +1,74 @@
+Return-Path: <larryl48@msn.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 3F3F64028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:45:16 -0500 (EST)
+Received: from COL004-OMC2S7.hotmail.com ([65.55.34.81])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102174812399_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:48:12 +0000
+X-RC-FROM: <larryl48@msn.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com ([65.55.34.73]) by COL004-OMC2S7.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 09:48:06 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=msn.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=vO9YpalNrc5tbufZjWGWNzdex1VzqZrstYKJtV8ZKfc=;
+ b=mg7J5YceO4aEHeABFP/iDmu4Am8qDdBzvI9+l72qoZVyLNTxnIU9p/oLgAWgCHyD5MSonPlvRHWkkin8hUZv9v1uO3ok656ebmedQHkFIeT9/IDAj3UIZnMtllB04SXZ0B++Kde7ycZFHXU7GoSCGDU7dUOmHCruVXalykU5T45UYKcfpI8u8kdnu5QdzltgYGLS/5CQZJaT/emCWwhs5RU/xcwrX4KvTMhf9XM6CvmJRdg6UZOjMzA8YC1zT+t03NH0yJqBJAmjzGQOh1x6/L1/x7naanKTUA/sJfgKUoFFja5v9V0VD1xxjIzZdHCrJufADbptbrkg6eErcPWL1w==
+Received: from BL2NAM02FT025.eop-nam02.prod.protection.outlook.com
+ (10.152.76.51) by BL2NAM02HT133.eop-nam02.prod.protection.outlook.com
+ (10.152.76.249) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 17:48:05 +0000
+Received: from BN6PR19MB0994.namprd19.prod.outlook.com (10.152.76.53) by
+ BL2NAM02FT025.mail.protection.outlook.com (10.152.77.151) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.789.10 via Frontend Transport; Mon, 2 Jan 2017 17:48:05 +0000
+Received: from BN6PR19MB0994.namprd19.prod.outlook.com ([10.173.155.140]) by
+ BN6PR19MB0994.namprd19.prod.outlook.com ([10.173.155.140]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 17:48:05 +0000
+From: Lawrence Loeffler <larryl48@msn.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Trend Following
+Thread-Topic: Trend Following
+Thread-Index: AQHSZSBeMebTTt0o7Ui+g0pqPlRSjw==
+Date: Mon, 2 Jan 2017 17:48:05 +0000
+Message-ID: <BN6PR19MB09943C3915862578B8BEBE7FD16F0@BN6PR19MB0994.namprd19.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none header.from=msn.com;
+x-incomingtopheadermarker: OriginalChecksum:7680EC7660BEF89C82E13F3A299BDB01919E640CAD3C4D4720D819391280663C;UpperCasedChecksum:1F9B59A3B107DB26C9273B5B7F00CF8158956F22667CE23BC2C602CB8240CDB0;SizeAsReceived:7207;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [WnhxRhVB54TDbDKWty1Rcj3FUr6lruKH]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BL2NAM02HT133;7:l5EJ/bqUX8FL9aVGEi3nnRhtsDZCzraiBBjqLwceIbJFfqCj1ddg5ofvyj3xg2FnxuDIZGOCS14eMdiaN37m10bgk2BsuelKMSYNTbVeERWa3an05n4F9cFVv7Aw3n4+OzUz4KYXwKOMhi5h/mpt0wpEeskH5YVamw1jEpKlm/hrbtMPYulov5I6TqXqxiazmqqDLM9HS3LY7MnUpZmqcf92xIyf99QLu+r86YQuNmeiQkhXOpHdmuhS7Hpwld7wQCRfT5X58kivseecCSSIz7/U0dlmEqUNJL3SdgnWeVI4dVep5qHwk8zRH8x3Bf/P6zYpY3cItj82sTwOKRHdFSX3pQmZ3ag6RAH0hzKDXA9nPm9LT7ZIU2zTTKbchcDYPIGeBseOtG0ClwrdgSCri0hLm3bDpqpfFjRWXCrXucIcrr0vrSDPlBtNceGlpX50x/yZq6iwtUcUvklYEnxgcw==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BL2NAM02HT133;H:BN6PR19MB0994.namprd19.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: fcfd1d08-db6b-4b8d-7042-08d433378163
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:BL2NAM02HT133;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BL2NAM02HT133;BCL:0;PCL:0;RULEID:;SRVR:BL2NAM02HT133;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <A651264D71F3624682DE4904A009C185@sct-15-1-789-14-msonline-outlook-e259a.templateTenant>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 17:48:05.0896
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2NAM02HT133
+X-OriginalArrivalTime: 02 Jan 2017 17:48:06.0666 (UTC) FILETIME=[5FBBAEA0:01D26520]
+
+Larry Loeffler=20
+larry48@msn.com
+
+Sent from my iPhone
+

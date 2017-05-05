@@ -1,0 +1,53 @@
+Return-Path: <danielbiskind@icloud.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 709344028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:54:56 -0500 (EST)
+Received: from st14p25im-asmtp003.me.com ([17.162.181.61])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102185753334_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:57:53 +0000
+X-RC-FROM: <danielbiskind@icloud.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from process-dkim-sign-daemon.st14p25im-asmtp003.me.com by
+ st14p25im-asmtp003.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ id <0OJ600H001OAU900@st14p25im-asmtp003.me.com> for mcovel@trendfollowing.com;
+ Mon, 02 Jan 2017 18:57:43 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;	s=4d515a;
+ t=1483383463;	bh=NH42I7dfBIaGPmzD+MCwWzzRKRxKifIqMI9+tyR4hak=;
+	h=From:Content-type:MIME-version:Date:Subject:Message-id:To;
+	b=DMdv95WNm0Gpz6xXEDJzy/H/qXn9K2CdKWg0DWCRdjxonSEMDdOas3qn90h+52Jmz
+ j0Eo72YpI90iWoXQiwGag7t8aTE9xfE2Nia8SVyGJku2UK84U1SLwQDTi/o8SuemoV
+ /64D+Vh03D1037fHMQUAyxrpzS3UrJUO4BjtOS/yXD3E2G5vinmERgkYb4PyKLv06b
+ ARFreTjQngLQuNEAFTS5H5903YX3a3oEKWVQNr8vXUJyZVnf7S/s6zZt7XF7AMv9jv
+ C5ZLP1P4+epRzohgRmUbSGuU+iS8o7uSuuDKF+Xdpb+jJh+bEEO5HytqSZgalA4FMW
+ Uxzw5whGUyspA==
+Received: from [192.168.0.9] (cpe-45-50-170-3.socal.res.rr.com [45.50.170.3])
+ by st14p25im-asmtp003.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ with ESMTPSA id <0OJ6009QZ206BO50@st14p25im-asmtp003.me.com> for
+ mcovel@trendfollowing.com; Mon, 02 Jan 2017 18:57:43 +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2017-01-02_16:,, signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ clxscore=1034 suspectscore=1 malwarescore=0 phishscore=0 adultscore=0
+ bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1603290000 definitions=main-1701020301
+From: Daniel Biskind <danielbiskind@icloud.com>
+Content-type: text/plain; charset=us-ascii
+Content-transfer-encoding: 7bit
+MIME-version: 1.0 (1.0)
+Date: Mon, 02 Jan 2017 10:57:41 -0800
+Subject: Trend Following cancellation follow up
+Message-id: <41E26B25-FD83-4A42-857A-22199FD2265E@icloud.com>
+To: mcovel@trendfollowing.com
+X-Mailer: iPhone Mail (14C92)
+
+Daniel Biskind
+danielbiskind@icloud.com
+
+Sent from my iPhone
+

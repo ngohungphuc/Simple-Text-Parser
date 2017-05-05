@@ -1,0 +1,59 @@
+Return-Path: <enochstilllives@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id BA1574028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 18:36:15 -0500 (EST)
+Received: from mail-yw0-f178.google.com ([209.85.161.178])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102233911531_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 23:39:11 +0000
+X-RC-FROM: <enochstilllives@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-yw0-f178.google.com with SMTP id r204so277002574ywb.0
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 15:39:08 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=P53RYV3ulF/0iWm9v4VE5/y+8EbrqPFfo6Y02HZjxNQ=;
+        b=t8AjcTnFaWxAFdcHb/A2/H66qOg+k1ISzwpLOb6q09BI2I5lStkriPNAnmk6Hvp/zk
+         Aglqi+Ou3JgSqMckjsoWWlWtqo8tt29ZUKvZobsei0OOVTFpjhq+bhBgszIkap4xGbWJ
+         pj87rQKb90EvZ0uCpE2E0jANoRb2oNKwF95SBkgzRLzAm6tIowbnRVbUuX1L/PSqgQeY
+         EJ3hCP3K8RPgtetn26KUjdO/Is2ik01LuTMjKzX4zCW6tx/vdLMmFQARYw2QansZ79fN
+         4qiXzC1L/enuObtQbcwUqAhLOGlvgPyfhqayp1KTgyCV+FrOxwdWbbaJpdH+NA9PKUkS
+         9O8g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=P53RYV3ulF/0iWm9v4VE5/y+8EbrqPFfo6Y02HZjxNQ=;
+        b=X0/Ix5u1yrlwEKRRFJSY5oHda5EVAwqSQVJcG66im5PmTVMX+8H+ceFXEII7zIMVOe
+         HTWB6BGEBO07bHkY+04GQpsCsW74AQxLeojroCcc40iEj6fENwsLfZ/DatvWUeyuJxDc
+         U8C4SLij9f87mEY53/Tr1ktxBlWaK/syQ2IXRIhSzjjLDOybauf/jLoHj1QrXUmtQX+T
+         +CqgmM1/0I+uQj0/2MJ/Nxf7AG6XqDwHj4t/bRqhstaWCGGiQ9uK340alDqrZAdo4mOn
+         ZYQ6aWK0ySlEXkDDuaz+84SsQ7s850akwK64NNVAdnZMCJuLDHiQ3gSXGvmx7XQSmN2U
+         cDcA==
+X-Gm-Message-State: AIkVDXIRlJoKJkcLJmCYvxQ0bhgvqIzU75v9+w+fiq+xyQk1SXfBa/1Tf9JFUGLhAQN6WQ2bk8RE6QUDjTmGPQ==
+X-Received: by 10.129.177.199 with SMTP id p190mr59307526ywh.54.1483400345086;
+ Mon, 02 Jan 2017 15:39:05 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.37.14.69 with HTTP; Mon, 2 Jan 2017 15:39:04 -0800 (PST)
+From: "enochstilllives ." <enochstilllives@gmail.com>
+Date: Mon, 2 Jan 2017 18:39:04 -0500
+Message-ID: <CACbn=WbfkpqJJac0LTjxrmuR18VNctTm6ynWwiiTFcng6z5TXQ@mail.gmail.com>
+Subject:
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c13cd68a0f0110545250ed4
+
+--94eb2c13cd68a0f0110545250ed4
+Content-Type: text/plain; charset=UTF-8
+
+Robert Blondke
+
+--94eb2c13cd68a0f0110545250ed4
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Robert Blondke<br><br></div>
+
+--94eb2c13cd68a0f0110545250ed4--
+

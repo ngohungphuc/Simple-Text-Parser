@@ -1,0 +1,69 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p01c11m071.mxlogic.net (mxl144v247.mxlogic.net [208.65.144.247])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 37C964020DED8
+	for <mcovel@trendfollowing.com>; Fri, 22 Jul 2016 00:16:57 -0400 (EDT)
+Authentication-Results: p01c11m071.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p01c11m071.mxlogic.net(mxl_mta-8.5.0-13) over TLS secured channel
+	with ESMTP id 93e91975.0.3737082.00-2210.7265914.p01c11m071.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Thu, 21 Jul 2016 22:16:58 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=KJSmKR59SlFkedFMDF08H8SJ3vo=; b=Ds/8wgfiFPICZJcbmu4IqJ+
+	Ogl/Ps+iDM8FOoAqM0JRQPnuxC+uc2wwGYVsYAFo2cuaMffLw7QA/hHIfAE79CV3
+	gefBnxSLR5kZNcMvr0KBlhuTnu1vvvq5Oj8PtguauvIxiB6m30ducSdzCAx52wYo
+	nwr+yZXTsvDIbaiTUWfU=
+Received: by filter0496p1mdw1.sendgrid.net with SMTP id filter0496p1mdw1.11324.57919E3848
+        2016-07-22 04:16:56.984303525 +0000 UTC
+Received: from getdrip.com (ec2-54-210-243-70.compute-1.amazonaws.com [54.210.243.70])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id lEHTcOdxQsGjX_XmfH60Gw
+	for <mcovel@trendfollowing.com>; Fri, 22 Jul 2016 04:16:57.003 +0000 (UTC)
+Date: Fri, 22 Jul 2016 04:16:56 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <57919e38ef009_39b83fb234d25bec722f6@ip-172-30-0-179.mail>
+Subject: [Drip] a.raz55@yahoo.co.uk just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPrbJpl4UqC64J7XVm9fNb4/xdV0Im9hqGMaPI
+ N8+EZ1TNxx4KJSf5L/LM9mxxQXPWzbI6MNnY0MPhqbkm+ov5LuWdh3LD3vRrmsHF/PTbfTr9a42Ptw
+ 7uEZomQzaBcKNeeU4zcjDKwcwVGzHUJpZYGlljhcdO+AibeEvWVWun+++4NywnlwjGqw1D5A45T3J1
+ 4=
+Received-SPF: Pass (p01c11m071.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: a.raz55@yahoo.co.uk
+Domain: http://yahoo.co.uk
+IP Address: (not provided)
+city: BUKIT MERTAJAM
+country: MALAYSIA
+first_name: RAHIM
+has_read_LBoT: NO
+has_read_TC: NO
+has_read_TF: NO
+last_name: AZIZ
+last_trading_or_investment_book_read: NO
+state: PENANG
+street1: JLN4,TMN.GUAR PERAHU
+zip_code: 14400
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/vkzgtghsapatppoqurzs
+
+Cheers,
+The Drip Team

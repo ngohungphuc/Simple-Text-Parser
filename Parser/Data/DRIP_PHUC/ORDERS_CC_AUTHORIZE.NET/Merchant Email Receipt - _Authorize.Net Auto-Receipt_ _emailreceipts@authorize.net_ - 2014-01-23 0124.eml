@@ -1,0 +1,102 @@
+Return-Path: <emailreceipts@authorize.net>
+Received: from psmtp.com (exprod7mx187.postini.com [64.18.2.227])
+	by trendfollowing.com (8.13.8/8.13.8) with SMTP id s0MIZ2a0004836
+	for <info@trendfollowing.com>; Wed, 22 Jan 2014 13:35:02 -0500
+Received: from denmta02.authorize.net ([64.94.119.17]) by exprod7mx187.postini.com ([64.18.6.10]) with SMTP;
+	Wed, 22 Jan 2014 13:24:59 EST
+Received: from anetta11d.anet.ad ([10.1.190.51])
+	by denmta02.authorize.net (StrongMail Enterprise 5.0.0(5.0.0-50186)); Wed, 22 Jan 2014 11:24:58 -0700
+X-VirtualServerGroup: Default
+X-MailingID: 00000::00000::00000::00000::::20506262
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: info@trendfollowing.com
+X-SMFBL: aW5mb0B0cmVuZGZvbGxvd2luZy5jb20=
+X-Mailer: Microsoft CDO for Windows 2000
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=authorize.net; s=sm;
+	i=@authorize.net; h=Received:thread-index:Thread-Topic:From:To:
+	Subject:Date:Message-ID:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-Class:Importance:Priority:
+	X-MimeOLE:X-OriginalArrivalTime; bh=CEBcygHxuHgc/kygtUkgaAAVCpk=;
+	b=RC29z7EUa9+zccd6ZaLLz/uMfXs0To078VUHIqcM8yIJCGu09aKDB+51T8O0Ha
+	brMSLzybxof6295BwtHWt1UX+Tnddb/bE4xEz8N8E1ExLo+ckeRkEqsE2vhEBEfj
+	Kd0E47qRTcQBto4WC0Zb2r8IuPt2AKrj4puG0NKqQrilk=
+Received: from mail pickup service by anetta11d.anet.ad with Microsoft SMTPSVC;
+	 Wed, 22 Jan 2014 11:24:59 -0700
+thread-index: Ac8Xn0IQdbWyC4egQlWP1s+sxQEZcg==
+Thread-Topic: Merchant Email Receipt
+From: "Authorize.Net Auto-Receipt" <emailreceipts@authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+        "MIchael Covel" <info@trendfollowing.com>,
+        "Michael Covel" <info@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Wed, 22 Jan 2014 11:24:59 -0700
+Message-ID: <8196D58A0AC74AF79FC8488624F0B5FB@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4913
+X-OriginalArrivalTime: 22 Jan 2014 18:24:59.0295 (UTC) FILETIME=[421512F0:01CF179F]
+X-pstn-neptune: 0/0/0.00/0
+X-pstn-levels:     (S:23.79921/99.90000 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:97.0282 C:98.6951 )
+X-pstn-dkim: 1 skipped:not-enabled
+X-pstn-settings: 3 (1.0000:1.0000) s cv gt4 gt3 gt2 gt1 r p m c 
+X-pstn-addresses: from <emailreceipts@authorize.net> [3706/164] 
+X-Antivirus: avast! (VPS 150728-0, 07/28/2015), Inbound message
+X-Antivirus-Status: Clean
+
+**Please DO NOT REPLY to this message. E-mail support@authorize.net if you have any questions.
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 22-Jan-2014 13:24:58 EST
+
+========= ORDER INFORMATION =========
+Invoice : 
+Description : turtle_research_newtrader_15pct
+Amount : 2646.45 (USD)
+Payment Method : Visa
+Type : Authorization and Capture
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Authorization Code : 03771C
+Transaction ID : 5871912986
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 
+First Name : Sean
+Last Name : Laughlin
+Company : 
+Address : 1315 Josephine St.
+City : 
+State/Province : LA
+Zip/Postal Code : 70130
+Country : United States
+Phone : 
+Fax : 
+E-Mail : 
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : 
+Last Name : 
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 
+Tax Exempt : 
+PO Number : 

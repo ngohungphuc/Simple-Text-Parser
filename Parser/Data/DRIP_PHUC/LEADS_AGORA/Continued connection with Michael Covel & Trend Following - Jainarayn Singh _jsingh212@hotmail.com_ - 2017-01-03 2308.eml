@@ -1,0 +1,78 @@
+Return-Path: <jsingh212@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id AF96B4028F208
+	for <mcovel@trendfollowing.com>; Tue,  3 Jan 2017 11:05:38 -0500 (EST)
+Received: from COL004-OMC4S17.hotmail.com ([65.55.34.219])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170103160834917_0459
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 16:08:34 +0000
+X-RC-FROM: <jsingh212@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM04-BN3-obe.outbound.protection.outlook.com ([65.55.34.199]) by COL004-OMC4S17.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 3 Jan 2017 08:08:29 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=6G7SqoTrlDHmblUyhs0YFZ7o9++tp+o8MI1FMy6Nj2M=;
+ b=K2qEYBe4EH5OlAke5tVlT5pHwKkhrH5nVA3WXzi325xEha7n6hQpMSVNsoQ4DOHYG4YgBeyDjkX4Z4Sdhi9c2BUes/uz/GbOcodnv/dNROiiWWow5BIjrhHHVWlcKh5gw9KlyIppharXdBG5KqXt4E4S/jO5YHstFeu+6h5u6S7KDfODYIpSIgLOlBg0RX3dEXZ3UVWPWnl5sk6dlmpdvCpfOjLSE408buOMd6afnMWz860kZCVv+1R2RqMG75ZGMOzoic/KEntX9SWbn4BN7V4hoKv4hcX5/7lHELCOS/vTD780uhLZupDfjiolNrx47THFc/0N5RtvWnUHaU3ZEg==
+Received: from SN1NAM04FT015.eop-NAM04.prod.protection.outlook.com
+ (10.152.88.53) by SN1NAM04HT083.eop-NAM04.prod.protection.outlook.com
+ (10.152.89.130) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Tue, 3 Jan
+ 2017 16:08:27 +0000
+Received: from CO1PR17MB0725.namprd17.prod.outlook.com (10.152.88.57) by
+ SN1NAM04FT015.mail.protection.outlook.com (10.152.88.145) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Tue, 3 Jan 2017 16:08:27 +0000
+Received: from CO1PR17MB0725.namprd17.prod.outlook.com ([10.166.31.151]) by
+ CO1PR17MB0725.namprd17.prod.outlook.com ([10.166.31.151]) with mapi id
+ 15.01.0817.009; Tue, 3 Jan 2017 16:08:27 +0000
+From: Jainarayn Singh <jsingh212@hotmail.com>
+To: "mcovel@trendfollowing.com" <mcovel@trendfollowing.com>
+Subject: Continued connection with Michael Covel & Trend Following
+Thread-Topic: Continued connection with Michael Covel & Trend Following
+Thread-Index: AQHSZdueBAuxGt/3S0KjDhPk9vCNbw==
+Date: Tue, 3 Jan 2017 16:08:27 +0000
+Message-ID: <CO1PR17MB0725930DD12E1F69D4CB683DEF6E0@CO1PR17MB0725.namprd17.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:01D505196D04ADCFF036CBAE979D5AD81F0B6EB510C413EB0A212D68A2C838EE;UpperCasedChecksum:908818BD7A9724EAB954151027D112B2A33B73634B044B75D3840A405E7B8D1E;SizeAsReceived:7227;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [2dOLo6KO4QIE/JfkYwoBoxNSkfcyNQU+]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;SN1NAM04HT083;7:YRCs54L4rf6UgPX2L7LrYIfAutI0HFl6bB4QBWB7p1HhmBb/9e0SryGc1UzUPshdxEhXjJPIVLzus4A6rpNfNdSOvx54BUEtrrl8MqEpQuLMcmURI8yyenrNs1jNcI/qTrbCewx9TfsfrGtbK7MgBZFtseb/Jlnj5d7aSMFKGlCBla4fFcWMEdV7bXg2toq8mKB/hZHHCrJm4Y6a2VX7MxsILnL24xb/ObpM/7KGZvNGAsBDNs7Hp4UtF3IhLeSPLOGxVTMIaAHFe8EHb1J1UmHrkT2neKuyEtD+I6Q6rIpfjAOr4v1fWIYQCyOkpIWyrn9+mdnWL97uv7UyQPCP9yAZkzpKHtl2iHzTG+xdCj7/c824vMGoZy053BA1Fl3nfobYlAFcx1V17UsUSPRTqYG9jQOXchGAYT0+SmK54TnL7a1eNdDDC9B5MdNTjwJ7E883yCxNPM5tLZlJxY9g/A==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:SN1NAM04HT083;H:CO1PR17MB0725.namprd17.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 065f32d5-2c19-47c5-10e5-08d433f2c096
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:SN1NAM04HT083;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:SN1NAM04HT083;BCL:0;PCL:0;RULEID:;SRVR:SN1NAM04HT083;
+x-forefront-prvs: 01762B0D64
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <D8EFDCBC44AA7F41A5C9EB63E8E2204D@sct-15-1-789-14-msonline-outlook-13af0.templateTenant>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jan 2017 16:08:27.1174
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM04HT083
+X-OriginalArrivalTime: 03 Jan 2017 16:08:29.0131 (UTC) FILETIME=[9F41F9B0:01D265DB]
+
+Hi Michael,=20
+I appreciated your newsletter and Trend Following advice. So sorry that the=
+ customer base isn't there for it to continue.=20
+Here is the information requested to still keep hearing from you.
+My name: Jai Singh;  My Email address: jsingh212@hotmail.com
+Best wishes for a Happy & Prosperous Year 2017!!!!
+
+

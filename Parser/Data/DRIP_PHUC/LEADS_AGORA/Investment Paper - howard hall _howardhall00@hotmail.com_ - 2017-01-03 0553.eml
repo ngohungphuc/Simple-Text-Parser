@@ -1,0 +1,122 @@
+Return-Path: <howardhall00@hotmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 816CD4028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 22:29:26 -0500 (EST)
+Received: from COL004-OMC2S9.hotmail.com ([65.55.34.83])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102225324058_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 22:53:24 +0000
+X-RC-FROM: <howardhall00@hotmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from NAM03-CO1-obe.outbound.protection.outlook.com ([65.55.34.72]) by COL004-OMC2S9.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 2 Jan 2017 14:53:09 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=VeN60i/qG1lLUVHTZMQd39DPNOxMCLPdcNCEw6jVCAY=;
+ b=QRaSjVJ42C1dkx4btS4OlH++dgzPqbU+0loCsrCHMUkk5FFiLxtZBTVbSwSmZX6eIaMMWajk/PizGfH1jOUxqDsChQ+63yvLjuh35dVmHwyYhH+b8eI6E2uIKIbpX6ra8Sc2KZI3PzfFNs76AEtXSh8qz1vNj8aUbUL/jD61NXbWBKkfYRlC9QGwqignsquv1NHd5uomHY/H+w/6jOsB551IMqLJNv1WBi2GqssosDPtD5QEpyadu50zGBscQXmYypiQ+DzKSws1lMiVF4Gwijch70KHTBIrqainBe53l4VEcDzpfzJnxjHxfo3Y69JyF+TZ+BCdpPK69Zp79U+Q/w==
+Received: from BY2NAM03FT011.eop-NAM03.prod.protection.outlook.com
+ (10.152.84.56) by BY2NAM03HT205.eop-NAM03.prod.protection.outlook.com
+ (10.152.85.89) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.803.8; Mon, 2 Jan
+ 2017 22:53:08 +0000
+Received: from DM3PR19MB0569.namprd19.prod.outlook.com (10.152.84.59) by
+ BY2NAM03FT011.mail.protection.outlook.com (10.152.84.233) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.803.8 via Frontend Transport; Mon, 2 Jan 2017 22:53:08 +0000
+Received: from DM3PR19MB0569.namprd19.prod.outlook.com ([10.164.249.7]) by
+ DM3PR19MB0569.namprd19.prod.outlook.com ([10.164.249.7]) with mapi id
+ 15.01.0817.009; Mon, 2 Jan 2017 22:53:08 +0000
+From: howard hall <howardhall00@hotmail.com>
+To: Michael Covel <mcovel@trendfollowing.com>
+Subject: Investment Paper
+Thread-Topic: Investment Paper
+Thread-Index: AQHSZUrsQs1rBDIjTUa3Odsp8OZn4Q==
+Date: Mon, 2 Jan 2017 22:53:08 +0000
+Message-ID: <DM3PR19MB056959BC48021C1C62213167C16F0@DM3PR19MB0569.namprd19.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: trendfollowing.com; dkim=none (message not signed)
+ header.d=none;trendfollowing.com; dmarc=none action=none
+ header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:8A0FDE562D22F70B514BA7088A74BD6FBF5939260105042B5931EAE9DF4E93D6;UpperCasedChecksum:B3CBFBF9B6B061C88AB8EA17806D29C7177D08BF24D4413BE298240119026B67;SizeAsReceived:7191;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [oOiIsnnjPZtXH0xG2V5aIloXybz950ii]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BY2NAM03HT205;7:4BQJICpEkbZIv5Vn60FJ7lxePt7IQ4tCCXteDG8LqF5GaA46sZJrlCfawe+/mygnbRwrS5JVq+DHClanieaFKhmHDnuP/qBRgnH4k28lYcXMLWjgfmgAXUZN5VX7o+6qScaC/7VO9BDHphwO1Gd5I0vxkmp8lAnjHk3vGSiGuxZqrVoXdkMMz4G0qZTz+1S3m6p8ImGe8g+x+FayOUHJzF0dRF45DMjnXGEhF6OecwPkfjaqXnvLbLBipQoFHHgO37DK/Xq4u+ZozjXCIzZbJ1u2D3Dg2tteTj9RMp5UZgWifKDpJgIINRm52FCqKBoIWuDI2SjFa6ed3Bdd1BnWhyxjy4tzqM7y6CbLhIEhFd+xZ0NvlZBmUyC6P6qEf5/W+M1VJe1K4xf5Zp2HbsfSCwIIdhfSTB9Vdv+s/m3bFFJcKqhLaOzNKugEFP3ahjPacuyEyaU6o8MW4KBK4GFY7A==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BY2NAM03HT205;H:DM3PR19MB0569.namprd19.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: c78cf1c7-59a1-4812-116c-08d433621ef1
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(5061506270)(5061507270)(1603103113)(1603101340)(1601125047);SRVR:BY2NAM03HT205;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444111334)(444112120)(432015012)(82015046);SRVR:BY2NAM03HT205;BCL:0;PCL:0;RULEID:;SRVR:BY2NAM03HT205;
+x-forefront-prvs: 017589626D
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DM3PR19MB056959BC48021C1C62213167C16F0DM3PR19MB0569namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Jan 2017 22:53:08.4198
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2NAM03HT205
+X-OriginalArrivalTime: 02 Jan 2017 22:53:09.0498 (UTC) FILETIME=[FD1235A0:01D2654A]
+X-MAG-FILTER: rules-spam
+X-MAG-CATEGORY: SPAM
+X-MAG-INFO: 2217740
+
+--_000_DM3PR19MB056959BC48021C1C62213167C16F0DM3PR19MB0569namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Mike;
+
+Please send me the investment paper you  referenced.
+
+Howard Hall
+
+6776 Salvia Court
+
+Arvada, CO 80007
+
+
+Sent from Outlook<http://aka.ms/weboutlook>
+
+--_000_DM3PR19MB056959BC48021C1C62213167C16F0DM3PR19MB0569namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Mike;</p>
+<p>Please send me the investment paper you&nbsp; referenced.</p>
+<p>Howard Hall</p>
+<p>6776 Salvia Court</p>
+<p>Arvada, CO 80007<br>
+</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<p>Sent from <a id=3D"LPNoLP" href=3D"http://aka.ms/weboutlook">Outlook</a>=
+<br>
+</p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DM3PR19MB056959BC48021C1C62213167C16F0DM3PR19MB0569namp_--
+

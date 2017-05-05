@@ -1,0 +1,120 @@
+Return-Path: <sardussi@optonline.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 5553C4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:34:34 -0500 (EST)
+Received: from mta7.srv.hcvlny.cv.net ([167.206.4.202])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102173730519_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:37:30 +0000
+X-RC-FROM: <sardussi@optonline.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=optonline.net;
+	s=dkim-001; t=1483378629;
+	bh=Qka++mmJF+ohKcldxscKe/bVsjQhc1DcwyKRX06Z0Vo=;
+	h=From:To:Subject:Date:Message-ID;
+	b=TUdnjgmAdpjCTOIyVfUUQ966M7AiBLk9WwESdCOubhM6rJnUtiUlsTNcxctxy7s0L
+	 F3d4qIvGt2SZqRiiLMs3k2rhiiJwyfXEg3KC8zmzatn1lFYwsaBtaPk1XFOoRy3qgL
+	 j0I0DmbnI2eXPNyWsZTMF7u+GSJpFvqD/j2zVkKqruIoKX5MsMwiBg5dsluALG+7D9
+	 r6+Rkwui1EXwG06FhwiXsArmKw6c12GiImQ7iN+9Jf2MNERSF+CDnKJoXbOYxXkUQp
+	 byewecSdAzwcEo47Dyr6IgFC5jGMaYPzaoujMsRBYssN1a36hU4YM/cUuDybusUnpe
+	 503TprLlcoExA==
+Authentication-Results:  mta3.srv.hcvlny.cv.net smtp.user=sardussi@optonline.net; auth=pass (LOGIN)
+X-Content-Analysis: v=2.1 cv=U+Bvdrfu c=1 sm=1 tr=0 a=0u6qYfOvmOrhThsO2iaVKg==:117 a=0u6qYfOvmOrhThsO2iaVKg==:17 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=DAwyPP_o2Byb1YXLmDAA:9 a=FG1PNM4O4QUO3lomKPUA:9 a=CjuIK1q_8ugA:10 a=y98qYPHA6LMA:10 a=yMhMjlubAAAA:8 a=SSmOFEACAAAA:8 a=Wn3_HIl3WwwzHEhXicMA:9 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10 a=BKKCjISod1eDJeS0ORpz:22 a=zjWhRoSqWz9hl55Hdlzg:22
+Received: from [68.192.137.137] ([68.192.137.137:63291] helo=SteveLaptop)
+	by mta3.srv.hcvlny.cv.net (envelope-from <sardussi@optonline.net>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTPA
+	id 11/01-11926-4CF8A685; Mon, 02 Jan 2017 12:37:09 -0500
+From: "Steve Ardussi" <sardussi@optonline.net>
+To: <mcovel@trendfollowing.com>
+Subject: Request
+Date: Mon, 2 Jan 2017 12:37:09 -0500
+Message-ID: <000f01d2651e$d873d5e0$895b81a0$@optonline.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0010_01D264F4.EF9DCDE0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdJlHrhjaCxOuHNfSqeGfecMg/bhKQ==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0010_01D264F4.EF9DCDE0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Please forward a copy of the investment newsletter.
+
+Thank you.
+
+Steve Ardussi
+
+8 Peach Orchard Lane
+
+Bantam CT 06750-1308
+
+
+------=_NextPart_000_0010_01D264F4.EF9DCDE0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal>Please forward a copy of the investment =
+newsletter.<o:p></o:p></p><p class=3DMsoNormal>Thank =
+you.<o:p></o:p></p><p class=3DMsoNormal>Steve Ardussi<o:p></o:p></p><p =
+class=3DMsoNormal>8 Peach Orchard Lane<o:p></o:p></p><p =
+class=3DMsoNormal>Bantam CT 06750-1308<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0010_01D264F4.EF9DCDE0--
+
+

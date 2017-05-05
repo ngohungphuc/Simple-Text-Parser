@@ -1,0 +1,83 @@
+Return-Path: <alcrumpco@cs.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id C7B8E4029224A
+	for <mcovel@trendfollowing.com>; Thu, 19 Jan 2017 15:47:05 -0500 (EST)
+Received: from omr-a010e.mx.aol.com ([204.29.186.54])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170119205000154_0459
+          for <mcovel@trendfollowing.com>;
+          Thu, 19 Jan 2017 20:50:00 +0000
+X-RC-FROM: <alcrumpco@cs.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-laa01.mx.aol.com (mtaomg-laa01.mx.aol.com [172.27.2.99])
+	by omr-a010e.mx.aol.com (Outbound Mail Relay) with ESMTP id 94D14380006E
+	for <mcovel@trendfollowing.com>; Thu, 19 Jan 2017 15:49:53 -0500 (EST)
+Received: from core-maa09d.mail.aol.com (core-maa09.mail.aol.com [172.27.38.9])
+	by mtaomg-laa01.mx.aol.com (OMAG/Core Interface) with ESMTP id 1F7903800008A
+	for <mcovel@trendfollowing.com>; Thu, 19 Jan 2017 15:49:53 -0500 (EST)
+Received: from 198.190.213.4 by webprd-a25.mail.aol.com (10.72.23.186) with HTTP (WebMailUI); Thu, 19 Jan 2017 15:49:52 -0500
+Date: Thu, 19 Jan 2017 15:49:52 -0500
+From: alcrumpco@cs.com
+To: mcovel@trendfollowing.com
+Message-Id: <159b87e276f-184e-8d72@webprd-a25.mail.aol.com>
+Subject:  trend following investment paper
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_45939_599050032.1484858992493"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [198.190.213.4]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.cs.com;
+	s=20150623; t=1484858993;
+	bh=SIXhw6xYKBWtXkeVSgWo1dG3I6lkGRWIC3YlVhWIDKA=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=cbDPdqGXOjPUFWpC7h1pu1dAumcuqPRdlVQw2IKNQdnEGwTPS8lucpls1yDuANChK
+	 i1r2G0Piq+aw6uCsqVDnD8ZJwftmcTFBtx62kOFj+FnWlBajAZYiB5qdBl7tQa71vw
+	 gCojTJth9LxI4uanZPKlCc2dlSziwcVm0KJ6CKdY=
+x-aol-sid: 3039ac1b02635881267148c4
+
+------=_Part_45939_599050032.1484858992493
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+ Please send the trend following investment paper.
+
+
+Arnold L. Crump
+7166 Albatross Drive
+Baton Rouge, LA  70811-6303
+
+
+Best wishes for a great New Year and continued success.
+AC
+
+------=_Part_45939_599050032.1484858992493
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>Hello,
+<div>&nbsp;Please send the trend following investment paper.</div>
+
+<div><br>
+</div>
+
+<div>Arnold L. Crump</div>
+
+<div>7166 Albatross Drive</div>
+
+<div>Baton Rouge, LA &nbsp;70811-6303</div>
+
+<div><br>
+</div>
+
+<div>Best wishes for a great New Year and continued success.</div>
+
+<div>AC</div>
+</font>
+------=_Part_45939_599050032.1484858992493--
+

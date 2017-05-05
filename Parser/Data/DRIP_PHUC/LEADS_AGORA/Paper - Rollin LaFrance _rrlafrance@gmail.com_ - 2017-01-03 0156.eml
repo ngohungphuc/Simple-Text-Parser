@@ -1,0 +1,60 @@
+Return-Path: <rrlafrance@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id AE06A4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:53:56 -0500 (EST)
+Received: from mail-io0-f169.google.com ([209.85.223.169])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102185647507_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:56:47 +0000
+X-RC-FROM: <rrlafrance@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-io0-f169.google.com with SMTP id n85so183091908ioi.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:56:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=DWzv1fTltx5KA/RFDGebxrBe/UT49P5ZcfXxVQIqEgU=;
+        b=GMEiaBVYrO2NtiyJmjvthR+AtZ16lVuz/cOr4g603H/YyoIEL4iSPrI1GJxZrbgQk3
+         ysfnyPbcyWGfes2nkjh5Cu4+sgxPnFEyT2j2F4V01LAsfsJQ1Lb9eBi3vQz5VNUuw6C1
+         FoRObx6Wym+4NrN670JzRTywzQ5WCZTjJYz3StJnKByLyi2t3wJvdKYD4Xw0yUnACAb/
+         fZlywBj4r2yzFP8Kl+BrQCcJKRS3Yad8y7RTmllwbSsYvA2kqHrM3oRCA3UoADbH82QC
+         PD+99c9cmK8JJ97k5OMMjk41F+p97uxpm2715KnuoAiu/e/YUcWnheUds9GlkiAbCceT
+         BbEg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=DWzv1fTltx5KA/RFDGebxrBe/UT49P5ZcfXxVQIqEgU=;
+        b=La0p5zZY4KcLVSBjk6y9U0eSofOhKnzeo/EK//w5EdsWRbd2+RMvbC9CgIkrnlHFN4
+         U748pTrxmSc9wh5p+wY9Bk60ODphFgUrbI0hDX9z0+96YPkTlfHcRisy1xJf1xo0xfA3
+         HwswZeCzPoYNY/bttUHrezJg/jKf9Jb4r0MCvBdgzcDlZswwj9K1mrUgrp5FHsbFFi+l
+         EWcxwT/4iCQV1ltaZYS3CGhiKpfBv+W6W4fTsp6Q3XRkVvr2zT0NBOyNMbysfLzvUjtA
+         VSYvbGm0GJAQBuqKUaav1/gZKTonouJSskFVH5XrbgTAbRIPc704ABCjQKKbxsJkUIEi
+         qj0A==
+X-Gm-Message-State: AIkVDXIh6GdF/gWlYE7spz36eHEqGHBSRaPk2ipDUfVV7I8QyW/Z2+KbmCJr4VcRCHY2xogZwzvg5G5+VVEEAQ==
+X-Received: by 10.107.10.24 with SMTP id u24mr34541053ioi.94.1483383398208;
+ Mon, 02 Jan 2017 10:56:38 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.39.132 with HTTP; Mon, 2 Jan 2017 10:56:37 -0800 (PST)
+Received: by 10.79.39.132 with HTTP; Mon, 2 Jan 2017 10:56:37 -0800 (PST)
+From: Rollin LaFrance <rrlafrance@gmail.com>
+Date: Mon, 2 Jan 2017 13:56:37 -0500
+Message-ID: <CAETy-HoeMTKDVBPHCcoV4cAE7B+7+OmqXyLWMS9uVrAekUf24w@mail.gmail.com>
+Subject: Paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a113f9762841b2a0545211c58
+
+--001a113f9762841b2a0545211c58
+Content-Type: text/plain; charset=UTF-8
+
+Rrlafrance@gmail.com
+
+--001a113f9762841b2a0545211c58
+Content-Type: text/html; charset=UTF-8
+
+<div dir="auto"><a href="mailto:Rrlafrance@gmail.com">Rrlafrance@gmail.com</a></div>
+
+--001a113f9762841b2a0545211c58--
+

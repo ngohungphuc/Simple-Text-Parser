@@ -1,0 +1,102 @@
+Return-Path: <emailreceipts@authorize.net>
+Received: from psmtp.com (exprod7mx219.postini.com [64.18.2.146])
+	by trendfollowing.com (8.13.8/8.13.8) with SMTP id s5G5Inck001606
+	for <info@trendfollowing.com>; Mon, 16 Jun 2014 01:18:49 -0400
+Received: from denmta02.authorize.net ([64.94.119.17]) by exprod7mx219.postini.com ([64.18.6.10]) with SMTP;
+	Mon, 16 Jun 2014 01:06:55 EDT
+Received: from anetta10d.anet.ad ([10.1.190.51])
+	by denmta02.authorize.net (-); Sun, 15 Jun 2014 22:04:09 -0700
+X-VirtualServer: Default, denmta02.authorize.net, 10.11.226.204
+X-VirtualServerGroup: Default
+X-MailingID: 00000::00000::00000::00000::::107505_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: info@trendfollowing.com
+X-SMFBL: aW5mb0B0cmVuZGZvbGxvd2luZy5jb20=
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=authorize.net; s=sm;
+	i=@authorize.net; h=Received:thread-index:Thread-Topic:From:To:
+	Subject:Date:Message-ID:MIME-Version:Content-Type:
+	Content-Transfer-Encoding:Content-Class:Importance:Priority:
+	X-MimeOLE:X-OriginalArrivalTime; bh=gQGp8Xzfx9beDVDBSIHDrJeHAzo=;
+	b=nZPsDLxQAS9038Ish54hITpFRzPLBS9RWjh8GOknhj740fHEf790eo4izfFq8L
+	VF27hxgMuJ8q2jxwFmzBB6X5khAHOJSXOq0vpqa6WoOjfwZYpXsbup9e0tGEoEGA
+	tiEMP/XJUi1MG+VmUnSnpLeadU/oI9pH8FW0iz6tMPfEA=
+Received: from mail pickup service by anetta10d.anet.ad with Microsoft SMTPSVC;
+	 Sun, 15 Jun 2014 23:06:53 -0600
+thread-index: Ac+JIMn6HNLrKrbRSNutOh4BoqN/1Q==
+Thread-Topic: Merchant Email Receipt
+From: "Authorize.Net Auto-Receipt" <emailreceipts@authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+        "MIchael Covel" <info@trendfollowing.com>,
+        "Michael Covel" <info@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Sun, 15 Jun 2014 23:06:53 -0600
+Message-ID: <A4621B12548C40178E1B0BB083071D4F@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4913
+X-OriginalArrivalTime: 16 Jun 2014 05:06:53.0963 (UTC) FILETIME=[CA1905B0:01CF8920]
+X-pstn-neptune: 0/0/0.00/0
+X-pstn-levels:     (S:54.98296/99.90000 CV:99.9000 FC:95.5390 LC:95.5390 R:95.9108 P:95.9108 M:97.0282 C:98.6951 )
+X-pstn-dkim: 1 skipped:not-enabled
+X-pstn-settings: 3 (1.0000:1.0000) s cv gt6 gt5 gt4 gt3 gt2 gt1 r p m c 
+X-pstn-addresses: from <emailreceipts@authorize.net> [3919/172] 
+X-Antivirus: avast! (VPS 150728-0, 07/28/2015), Inbound message
+X-Antivirus-Status: Clean
+
+**Please DO NOT REPLY to this message. E-mail support@authorize.net if you have any questions.
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 16-Jun-2014 1:06:52 EDT
+
+========= ORDER INFORMATION =========
+Invoice : 
+Description : five_dvd_newtrader
+Amount : 2496.00 (USD)
+Payment Method : Visa
+Type : Authorization and Capture
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Authorization Code : 013535
+Transaction ID : 6259371488
+Address Verification : AVS Not Supported by Card Issuing Bank
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 
+First Name : Wendy
+Last Name : Fraser
+Company : 
+Address : PO Box 4409
+City : 
+State/Province : Bay of Plenty
+Zip/Postal Code : 3149
+Country : New Zealand
+Phone : 
+Fax : 
+E-Mail : 
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : 
+Last Name : 
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 
+Tax Exempt : 
+PO Number : 

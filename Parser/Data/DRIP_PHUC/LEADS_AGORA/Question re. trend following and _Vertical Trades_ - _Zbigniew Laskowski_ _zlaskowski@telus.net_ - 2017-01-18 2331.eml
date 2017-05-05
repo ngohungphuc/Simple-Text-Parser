@@ -1,0 +1,151 @@
+Return-Path: <zlaskowski@telus.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 8B1B54029224D
+	for <mcovel@trendfollowing.com>; Wed, 18 Jan 2017 11:28:39 -0500 (EST)
+Received: from cmta20.telus.net ([209.171.16.93])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170118163134171_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 18 Jan 2017 16:31:34 +0000
+X-RC-FROM: <zlaskowski@telus.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from adminPC ([50.98.93.75])
+	by cmsmtp with SMTP
+	id Tt8wcIk1f2s6tTt8yck8Kx; Wed, 18 Jan 2017 09:31:28 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=telus.net; s=neo;
+	t=1484757088; bh=e3VpLSilYArozfHI758W2Bz/V7BHz+Vyu7JgnsQhsgs=;
+	h=From:To:Subject:Date;
+	b=P7SLWHlPHtbMhF5orobWb0v9oGSEcGocNWO4OAONPK3tUvDp5PR0Lc2BgLuMw6aKO
+	 C+PSIMMxODUap/wsuNiZxNIs+jdndelih3xqCEMVehzP9e1qt4pgKZjl67ZjlXSxJC
+	 AUTwS6eJ+4234rB7tMUB2JR/g9Oi+14usIDdeXv6OXgXX7epaw8tknq+3CuCx9mG+8
+	 EF3tBevqvxX4JEoxYYimE9VnaTOod4C8nfzNuyDSy2kSOUQMBNTAF9jMEr6gCrHhJz
+	 5X1LsCGK7Seb9O7oToHaqlXC9bLoJBau28fPXLT/MVSCHAXnsaYaokhHqY3UCi9A7j
+	 KBjfv9bc7ZSLg==
+X-Authority-Analysis: v=2.2 cv=d7Ma8VrE c=1 sm=1 tr=0
+ a=9DnAm6EfmN5KsFFJh/QJSw==:117 a=9DnAm6EfmN5KsFFJh/QJSw==:17
+ a=Pyq9K9CWowscuQLKlpiwfMBGOR0=:19 a=r77TgQKjGQsHNAKrUKIA:9
+ a=ChS-mB3WLQUprn5CpX0A:9 a=CjuIK1q_8ugA:10 a=yMhMjlubAAAA:8 a=SSmOFEACAAAA:8
+ a=Itebc7FjVGp5701STVgA:9 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10
+ a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10 a=BKKCjISod1eDJeS0ORpz:22
+ a=zjWhRoSqWz9hl55Hdlzg:22
+From: "Zbigniew Laskowski" <zlaskowski@telus.net>
+To: <mcovel@trendfollowing.com>
+Subject: Question re. trend following and "Vertical Trades"
+Date: Wed, 18 Jan 2017 08:31:36 -0800
+Message-ID: <029701d271a8$577e11d0$067a3570$@net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0298_01D27165.495AD1D0"
+X-Mailer: Microsoft Office Outlook 12.0
+X-Antivirus: AVG for E-mail
+X-AVG-ID: ID73203590-71023B1D
+Thread-Index: AdJxqFZWBU9cO6PcT0KD4Gr+F+AzfQ==
+Content-Language: en-ca
+X-CMAE-Envelope: MS4wfOZudqLwXmKbiEbmJyVvxWlSySuMH87AaixAs9CBlbJ1MdW6Kiqq0B52SnfHYJlLNzB/E0DaLL+K4uyPGf3Gj/MwvAqwd9//H15r39CFn6wdr1iaXfwz
+ T/RgQl3Wb8j4FuEQg0boGJLC34jF/4zD08uAaD1PypJgkxhC5Od8RJTY
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0298_01D27165.495AD1D0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Good Morning Mr. Covel:
+
+ 
+
+I am sorry to hear about the end of your "Trend Following" letter.  I found
+it really useful.  (Few years ago I  bought your book "Trend Following".)
+
+Is there any way I can access your future comments on trend following?
+
+I am also interested in "Vertical Trades" method of trading.  Do you still
+offer this subscription?
+
+ 
+
+Thank you and Best Regards,
+
+ 
+
+Zbig Laskowski
+
+Surrey, BC, Canada
+
+ 
+
+
+------=_NextPart_000_0298_01D27165.495AD1D0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-CA link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Good =
+Morning Mr. Covel:<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>I am sorry =
+to hear about the end of your &#8220;Trend Following&#8221; =
+letter.&nbsp; I found it really useful.&nbsp; (Few years ago I =
+&nbsp;bought your book &#8220;Trend Following&#8221;.)<o:p></o:p></p><p =
+class=3DMsoNormal>Is there any way I can access your future comments on =
+trend following?<o:p></o:p></p><p class=3DMsoNormal>I am also interested =
+in &#8220;Vertical Trades&#8221; method of trading.&nbsp; Do you still =
+offer this subscription?<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thank you =
+and Best Regards,<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Zbig =
+Laskowski<o:p></o:p></p><p class=3DMsoNormal>Surrey, BC, =
+Canada<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0298_01D27165.495AD1D0--
+
+
+

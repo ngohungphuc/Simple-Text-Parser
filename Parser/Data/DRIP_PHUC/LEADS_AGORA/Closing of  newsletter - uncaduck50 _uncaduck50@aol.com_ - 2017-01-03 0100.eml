@@ -1,0 +1,65 @@
+Return-Path: <uncaduck50@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 0FC004028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:01:34 -0500 (EST)
+Received: from omr-a001e.mx.aol.com ([204.29.186.53])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102180431439_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:04:31 +0000
+X-RC-FROM: <uncaduck50@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaout-maa02.mx.aol.com (mtaout-maa02.mx.aol.com [172.26.222.142])
+	by omr-a001e.mx.aol.com (Outbound Mail Relay) with ESMTP id A395838000B6
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:04:30 -0500 (EST)
+Received: from [192.168.1.66] (99-127-126-124.lightspeed.renonv.sbcglobal.net [99.127.126.124])
+	(using TLSv1 with cipher RC4-MD5 (128/128 bits))
+	(No client certificate requested)
+	by mtaout-maa02.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id CDCD9380001AA
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:00:58 -0500 (EST)
+Date: Mon, 02 Jan 2017 10:00:56 -0800
+Subject: Closing of  newsletter
+Message-ID: <ih66xkkkmjaegrx3801ft0qh.1483380056200@email.android.com>
+Importance: normal
+From: uncaduck50 <uncaduck50@aol.com>
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_239212078691670"
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483380059;
+	bh=YF1mQuy67jSuYTZ2xPmX2eSw2TZZ+nyaaRN/c0uTPfY=;
+	h=From:To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	b=gIoXT0H1+fd7szxW/YqVhBj4WKQxit5JzoexkO6/rr6TsqTuOu/GEA98xDKEColsQ
+	 CLKAVIvYI33niVmEAmXjnhcAV5N0mS42nyBMESg7bEWrHIbMzNgGf2+dkLkftNbe+B
+	 Ctyz18lB0pOxRGJApyrtbJikPhAmBnZfGMHdHddc=
+x-aol-sid: 3039ac1ade8e586a955a208b
+X-AOL-IP: 99.127.126.124
+
+----_com.android.email_239212078691670
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+UGVyIHlvdXIgZW1haWwsIGhlcmUgaXMgbXkgbmFtZSwgYWRkcmVzcyxldGMKClJvYmVydCBSb3dl
+ClAuTy4gQm94IDUwMTQ0ClNwYXJrcywgTlYgwqAgODk0MzUtMDE0NAoKVW5jYWR1Y2s1MEBhb2wu
+Y29tCgoKCgpTZW50IGZyb20gU2Ftc3VuZyB0YWJsZXQK
+
+----_com.android.email_239212078691670
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj5QZXIgeW91ciBlbWFpbCwg
+aGVyZSBpcyBteSBuYW1lLCBhZGRyZXNzLGV0YzwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+Um9i
+ZXJ0IFJvd2U8L2Rpdj48ZGl2PlAuTy4gQm94IDUwMTQ0PC9kaXY+PGRpdj5TcGFya3MsIE5WICZu
+YnNwOyA4OTQzNS0wMTQ0PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5VbmNhZHVjazUwQGFvbC5j
+b208L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2
+Pjxicj48L2Rpdj48ZGl2PjxkaXYgc3R5bGU9ImZvbnQtc2l6ZToxMDAlIj5TZW50IGZyb20gU2Ft
+c3VuZyB0YWJsZXQ8L2Rpdj48L2Rpdj48ZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+
+----_com.android.email_239212078691670--
+
+
+

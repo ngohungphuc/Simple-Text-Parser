@@ -1,0 +1,105 @@
+Return-Path: <office@luttenberger.info>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 1A5614028F201
+	for <mcovel@trendfollowing.com>; Wed,  4 Jan 2017 09:12:27 -0500 (EST)
+Received: from mail-wj0-f178.google.com ([209.85.210.178])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170104141522949_0659
+          for <mcovel@trendfollowing.com>;
+          Wed, 04 Jan 2017 14:15:22 +0000
+X-RC-FROM: <office@luttenberger.info>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-wj0-f178.google.com with SMTP id c11so265227099wjx.3
+        for <mcovel@trendfollowing.com>; Wed, 04 Jan 2017 06:15:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=luttenberger-info.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=OO9GLQzPhLgCdR9m6FCoKCjYgRh7f3gGBAsxH2vHKaA=;
+        b=K8w9XeNs14ltGLW4I2KA8FHurwPZ2WQ7aEmH786GeUUGt8rK3a68zQA0GYwr5WwOJS
+         51QUbxThtevAnRpnpmQt80r/7cpiqiM8gfCXS3fgz4SwVH9HqducMkckjuSVhtU5FZlR
+         iuIHJmy2eAj7EdQopa0pYNmgj+tQFeQowoyZC5jrkQCsDCGn/2vYAXGuDBCsdybYDONP
+         dkoZl4ixeg6AxlZFQ6G6lwKviYsBazTWSiI5Mq9MVd+x8Ad3W5jqQR9OkYXbKWk69Fqe
+         I070ElzdG4uzQtpQPyyHnt2Y8OWiDTDP+TKvOM09a6qkgOydEcbrh7WbWExQYICzr83m
+         Y58A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=OO9GLQzPhLgCdR9m6FCoKCjYgRh7f3gGBAsxH2vHKaA=;
+        b=DLI8xJlEYAzE+QU/pxoqFdsx33/4sA4sidvDcSHDutH9S9Vn7z8EFDtkggpl2/3LRn
+         MsK5q4MQKwj1mq6TG+UhuL1elLr+IKhkNtHbnxLflZxhmh873l+ne/KGCBFkD18enhD3
+         rEqxvBNu6aT4qAdwmTM1oG3wcYu1bCJYur616V77T0vvBhfG2gzNzcdsIOl0H+pcCJl3
+         Hs14IJ6OKxRLvYIt4oGUCczj7WhHVP35psO+HJmpzX7M1NaVhYghZ8XOcqQsVu2b9bRx
+         GvrkqasFOgtyoPRtMgxGUgbdPbWjnge5gpaR5eef+I9REsfcXiSI0p50h03+0qGIDzgH
+         ulLA==
+X-Gm-Message-State: AIkVDXIUarwIAXSKVMIctDI5MAd/EdNvKZLGqAo0zSMr7CGaqqLtEJMH4ehjzH+3CqmsFW5zS+ICVMhx29wJpA==
+X-Received: by 10.194.148.134 with SMTP id ts6mr57046991wjb.220.1483539316518;
+ Wed, 04 Jan 2017 06:15:16 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.80.183.36 with HTTP; Wed, 4 Jan 2017 06:15:16 -0800 (PST)
+X-Originating-IP: [2a02:ab88:5180:b180:5414:9b2b:8132:28b7]
+From: Office Luttenberger <office@luttenberger.info>
+Date: Wed, 4 Jan 2017 15:15:16 +0100
+Message-ID: <CAMVi972ts4gq=eVucDADgqZqHVpHyGH8NE7ohST4KYo9eLU=5A@mail.gmail.com>
+Subject: Trendfollowing subscription. CIFA Monaco.
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=089e0117664df8cbd505454569ba
+
+--089e0117664df8cbd505454569ba
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Michael
+
+This is just a notice as you requested in your recent mail via Agora.
+
+I'm sorry that the newsletters stopped.
+
+Anyway, if your work not limited to the US, you're welcome to join us at
+the annual conference of CIFA. You could introduce a Knowledge Caf=C3=A9 ro=
+und
+table discussion "Passive Index Investing vs. Trend Following" or something
+like that. Or just to take part in the discussions. Glad to tell you more
+if any interests.
+*http://cifango.org/event.php <http://cifango.org/event.php>*
+
+Best regards,
+Zoltan Luttenberger
+
+-----------------------------------------------------------------
+ATTENTION:
+The information in this electronic mail message is private and
+confidential, and only intended for the addressee. Should you
+receive this message by mistake, you are hereby notified that
+any disclosure, reproduction, distribution or use of this
+message is strictly prohibited. Please inform the sender by
+reply transmission and delete the message without copying or
+opening it.
+
+--089e0117664df8cbd505454569ba
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div>Hi Michael<br><br></div>This is just a=
+ notice as you requested in your recent mail via Agora. <br><br></div>I&#39=
+;m sorry that the newsletters stopped. <br><br></div>Anyway, if your work n=
+ot limited to the US, you&#39;re welcome to join us at the annual conferenc=
+e of CIFA. You could introduce a Knowledge Caf=C3=A9 round table discussion=
+ &quot;Passive Index Investing vs. Trend Following&quot; or something like =
+that. Or just to take part in the discussions. Glad to tell you more if any=
+ interests.<br></div><div><i><a href=3D"http://cifango.org/event.php">http:=
+//cifango.org/event.php</a></i><br><br></div><div>Best regards,<br clear=3D=
+"all"><div><div><div class=3D"gmail_signature"><div dir=3D"ltr">Zoltan Lutt=
+enberger <b><i><br><br></i></b>--------------------------------------------=
+---------------------<br>ATTENTION:<br>The information in this electronic m=
+ail message is private and<br>confidential, and only intended for the addre=
+ssee. Should you<br>receive this message by mistake, you are hereby notifie=
+d that<br>any disclosure, reproduction, distribution or use of this<br>mess=
+age is strictly prohibited. Please inform the sender by<br>reply transmissi=
+on and delete the message without copying or<br>opening it. <br></div></div=
+></div>
+</div></div></div>
+
+--089e0117664df8cbd505454569ba--
+

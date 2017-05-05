@@ -1,0 +1,71 @@
+Return-Path: <danielcolombi@me.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 6C2B54028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 16:09:38 -0500 (EST)
+Received: from st11p06im-asmtp002.me.com ([17.172.125.150])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102211234716_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 21:12:34 +0000
+X-RC-FROM: <danielcolombi@me.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from process-dkim-sign-daemon.st11p06im-asmtp002.me.com by
+ st11p06im-asmtp002.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ id <0OJ600A0081IOO00@st11p06im-asmtp002.me.com> for mcovel@trendfollowing.com;
+ Mon, 02 Jan 2017 21:12:17 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=me.com; s=4d515a;
+	t=1483391537; bh=7VJU2kh8QFblGBGWxq/UK8tY1d1zZx8WccmjrU/WbUU=;
+	h=From:Content-type:Subject:Message-id:Date:To:MIME-version;
+	b=iKwUcdEHEVH6n2ZXeOkjyS5hIBw1MWy9IYTrQiS4lGcdYhRn/QYIIUSVAFeHBTjOn
+ +L+lJtj2+U8+2jwjhi4T8dZzehRAwD94Iosgl/iLAXHo4+cGbBhX4LRwYHYrY2W/24
+ 2sP6MNlAh1iRDmcQq/4NFLGVWAtd7QUFcBaHWmW/DD1fYpUk62E3PjptyOHR+KC9fa
+ sGBtcrFe+4kbB7OCpDOGpnCIoiiFgk1jBS5898zJXQHn6GP0VIeVw26XSNFe2OQJND
+ WSd7gKv8DesTX2zk9W4bbHJ+fwFqkK7zzkVmm3W7A1+toOtKUlLeyhFaZVNZbum5KM
+ S6qjKCyehGbng==
+Received: from [10.0.8.15]
+ (host86-128-230-53.range86-128.btcentralplus.com [86.128.230.53])
+ by st11p06im-asmtp002.me.com
+ (Oracle Communications Messaging Server 7.0.5.38.0 64bit (built Feb 26 2016))
+ with ESMTPSA id <0OJ601BNJ88FD230@st11p06im-asmtp002.me.com> for
+ mcovel@trendfollowing.com; Mon, 02 Jan 2017 21:12:17 +0000 (GMT)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,,
+ definitions=2017-01-02_19:,, signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+ clxscore=1034 suspectscore=1 malwarescore=0 phishscore=0 adultscore=0
+ bulkscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1603290000 definitions=main-1701020328
+From: Daniel Colombi <danielcolombi@me.com>
+Content-type: text/plain; charset=utf-8
+Content-transfer-encoding: quoted-printable
+Subject: trend following investment paper
+Message-id: <B93B4228-1C05-438E-85EB-D6743517794A@me.com>
+Date: Mon, 02 Jan 2017 21:12:17 +0000
+To: mcovel@trendfollowing.com
+MIME-version: 1.0 (Mac OS X Mail 9.3 \(3124\))
+X-Mailer: Apple Mail (2.3124)
+
+Hi Michael,
+
+Whilst i appreciate the gesture of the subscription transferred to the =
+Rude Awakening Pro and i realise that it was probably not in your =
+control, but lifetime members probably should have been refunded the =
+difference between an annual subscription and what we paid.  Anyway, =
+I=E2=80=99ll take a look at it.  Sorry to see your newsletter go and =
+i=E2=80=99d be happy to hear further from you.  Please forward to=20
+
+Daniel Colombi
+Flint House
+Catslip
+Nettlebed
+RG95BL
+Oxfordshire
+UK
+
+regards
+
+Daniel
+
+

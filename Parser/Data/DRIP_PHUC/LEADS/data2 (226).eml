@@ -1,0 +1,69 @@
+Return-Path: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from p02c11m064.mxlogic.net (mxl144v245.mxlogic.net [208.65.144.245])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 51B394019ED11
+	for <mcovel@trendfollowing.com>; Sat, 28 May 2016 18:26:36 -0400 (EDT)
+Authentication-Results: p02c11m064.mxlogic.net; spf=pass
+Received: from unknown [167.89.38.120] (EHLO o1.m.getdrip.com)
+	by p02c11m064.mxlogic.net(mxl_mta-8.5.0-11) over TLS secured channel
+	with ESMTP id c1b1a475.0.5326478.00-1392.10162054.p02c11m064.mxlogic.net (envelope-from <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>);
+	Sat, 28 May 2016 16:26:37 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=getdrip.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=nBbCAobWZumawkSlAdH0s0QB2BQ=; b=mMT9rfIEp2V30y78GexdChw
+	EDOugS1OR8zkKt74KI481yiKeB9qdGONxTNV09/1n2CJdHjJtmAStRwLKdPDRSVg
+	KeSrQBvF8565jrPfTu50uFuHURZR9r0jrE7IFMgqASSM6GKG4pfDxBQH/v1fwvT2
+	FASxJb3l4WUGUofde0YU=
+Received: by filter0523p1mdw1.sendgrid.net with SMTP id filter0523p1mdw1.24891.574A1B1BE
+        2016-05-28 22:26:35.615850735 +0000 UTC
+Received: from getdrip.com (ec2-54-152-167-35.compute-1.amazonaws.com [54.152.167.35])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id rN1WUPlYT1ONJt5y8lyWfA
+	for <mcovel@trendfollowing.com>; Sat, 28 May 2016 22:26:35.691 +0000 (UTC)
+Date: Sat, 28 May 2016 22:26:35 +0000
+From: Drip Notifications <support@getdrip.com>
+To: mcovel@trendfollowing.com
+Message-ID: <574a1b1b9dcf9_3fca3fc2001697dc87783@ip-172-30-0-24.mail>
+Subject: [Drip] commtrd@sbcglobal.net just triggered a notification from
+ LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: WcXYu4Myf2GkwtggtntSpxbZ6y3AaXvDcGBBWbKajPpiGE01srS+/mK1xxL5R7KfhHX372vTdHiQK1
+ AASNk4MpMQje5qmql78Zq5G90pnrw2Y5fLIwJhKzmijuAYWkU6ZFYHuH+gF2Nwz+02E5m+C+bLpb5g
+ 1xUISxuCTn0R960y2+xW3Ep79ScSMPFQvouBrdbmKs+CtqcnUMlqVXhHWYZUKaCPhWHqpp/mY+851a
+ 4=
+Received-SPF: Pass (p02c11m064.mxlogic.net: domain of m.getdrip.com designates 167.89.38.120 as permitted sender)
+X-MAIL-FROM: <bounces+2368638-369b-mcovel=trendfollowing.com@m.getdrip.com>
+X-SOURCE-IP: [167.89.38.120]
+X-Spam: exempt
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: commtrd@sbcglobal.net
+Domain: http://sbcglobal.net
+IP Address: 70.196.143.193
+city: Corpus Christi
+country: USA
+first_name: Keith
+has_read_LBoT: no
+has_read_TC: no
+has_read_TF: no
+last_name: Carr
+last_trading_or_investment_book_read: The Trnd Following Way_Covel
+state: TX
+street1: 2702 Wind Rock Dr.
+zip_code: 78410
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/wdrbhchzxec4c937iewh
+
+Cheers,
+The Drip Team

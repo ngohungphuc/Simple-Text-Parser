@@ -1,0 +1,43 @@
+Return-Path: <mrajashton@bellsouth.net>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 0B7F54028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:36:42 -0500 (EST)
+Received: from nm29-vm7.bullet.mail.gq1.yahoo.com ([98.136.216.182])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102183930862_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:39:30 +0000
+X-RC-FROM: <mrajashton@bellsouth.net>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bellsouth.net; s=s2048; t=1483382363; bh=MCCeZEuYT8sUtpLCJPidxqve5j/IWFcKrmniRtTRhIc=; h=Date:Subject:From:To:From:Subject; b=FUWcEPzeUekvsvpNvFRvC78qlC0jEpj4UELYQxqUNor5Dy+xh04RN+DxQ9YKIKV4tNtKnT4ITR7/YplhK7XzXMCfqGYEfvuLcGus8gntqgutfIMVBFcqRMVXsMUlZQB4bgeajdjwkFr6kO0DtaDDWBdBd1tEdYlfvNIcIU97inZoHkBntg/evnXdODgNT2N0T5geS1O3bYAq3G9M4Gss//Tx+CPbIvoaxpHj5fcktWVZQCYs459LZI9eTJJsykUKaiLMyn1OtsN+obNINAQdnOiOSCtTeeRTGDhIZYbxRRvCzCwcMUNT78EnPS36Y6BmhfqhiXHzMkgOgmMwVNlu4A==
+Received: from [98.137.12.56] by nm29.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:39:23 -0000
+Received: from [98.136.164.77] by tm1.bullet.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:39:23 -0000
+Received: from [127.0.0.1] by smtp239.mail.gq1.yahoo.com with NNFMP; 02 Jan 2017 18:39:23 -0000
+X-Yahoo-Newman-Id: 653793.36368.bm@smtp239.mail.gq1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: Yeh..Z8VM1nfJDcE45kxw5sA1gk_EU4h7dFgfVM0bk7CFB1
+ YDY4xmzqzmLJth.JYnjdcYHO00GE5_TVniueh8_ut3vnI0_5YatVhzESxNm_
+ HjcYq1RC3201SqUGsK4fYzfdEWuamOlaqGbVst7rnUTtbk9fsqGBG1dvjoVt
+ EJUwucDfXAx_JAaTXWp3kkJ6W99mug0uiL5pwp1rKTkB0A9G2iwqft2tidjK
+ 7nQJUGwdTJihqFvw9zqLc5i7nMTzzH4lITK3DLIb78_QxSXy2O0Y03W6GpYn
+ Zd9kEx7NadMhMFvp6xicbn9pf.ee1viUO6beOJAStCfKpFROLno2JFUkVgoN
+ ujWW5qNspJARFmdIJxmIED.6MyvBUMQjWK3Lbomby3ayL4WBlIpbkBxHnBky
+ igIRwQQJ.rEbyX_tgYXqPITfnWZL8ufSuOhlwoOM89_ivK1eaDW1cwwP5dXT
+ cXBMJU1iEO_DFI8ZKzKVpm8mtkv3OgoYop8EsMqJI_ICmAPy9AlWckgV5Bbt
+ Z5nwhUUoXqATApQx_4lZKivExiOulZA4SAm7I.WkFBEA955mtDI4FjQVyKt4
+ HIyEd83ZtKJpGROY-
+X-Yahoo-SMTP: ab4R8B2swBBPj7XW0XQOoQ0nbLCO_0EJA_Gua40nDEr3PHOE3A--
+Date: Mon, 02 Jan 2017 13:39:20 -0500
+Subject: Connection
+Message-ID: <fk7dl1emy2sg348srxvk6axy.1483382360596@email.android.com>
+From: Tony Ashton <mrajashton@bellsouth.net>
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+QW50aG9ueSBBc2h0b24KMzIyMCBOb2FoIFN0LgpEZWx0b25hLCBGTCAzMjczOAo=
+
+

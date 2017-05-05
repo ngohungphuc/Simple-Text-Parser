@@ -1,0 +1,48 @@
+Return-Path: <jacklind@earthlink.net>
+X-Original-To: michael@covel.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 911224028F20C
+	for <michael@covel.com>; Sun,  1 Jan 2017 19:00:35 -0500 (EST)
+Received: from elasmtp-scoter.atl.sa.earthlink.net ([209.86.89.67])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102000325069_0459
+          for <michael@covel.com>;
+          Mon, 02 Jan 2017 00:03:25 +0000
+X-RC-FROM: <jacklind@earthlink.net>
+X-RC-RCPT: <michael@covel.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=earthlink.net;
+	s=dk12062016; t=1483315405; bh=zpS09UDTgNreHT+s8I/h7hEDmx+Pbkpnk6m5
+	baBNNG0=; h=Received:Received:Date:From:Reply-To:To:Message-ID:
+	 Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:
+	 X-Mailer:X-ELNK-Trace:X-Originating-IP; b=cWzDYva2caHpp43phajKcTz9
+	IKMdZXEOcg7cjC9wO5q7afFcdXJOfEvDjGFbegYpOfPJwByK0/8KBxL5LBTEcLhECCb
+	FJHcFSn2hXXM0YWL7aukD4T0xSasTMDbMZCxepe1y5LMsUih5t3G0i6AS5I0nBcRHH4
+	pL5auo8/GBXqoKAxWwfhd33HUA7lU5FGJhTwJ6VSLIqnMou0KlUBnWK9bFEn/dXV+4t
+	veM86Ips42nq5gaXeTf3JBWgmw/q30oI0A88idas908bYb9SGoqjudq83jYo3TUiyrT
+	VY+xmiXf/z7lej1w8IVcOYTjL2VBexHSxPAUIGt+o6Tqretlag==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=dk12062016; d=earthlink.net;
+  b=VWd9eP+LdVm8om6WpKL0sa6gyVeEVypXSKFf8eN0lhS6bYE3+IHvKY9CX0UT389uZQ7FBVf3vW6tQ2q538nU8GRst7Ss8er0hn0TKiPaCn71oWZoF9L1q8aJ01YbYKMBELcg1mWPI10gSXmRdH1wN6NfGSE/1jkpMlO+tV8EWTgeTl7J0qwn4FNRzDEMnaWxm2M3ZrgcPc0mpn5GU/6G2JVykXmkXTkJvCHReY8T9n7Vn0lTbYMcFrS+QnAa9ZKlAF2xSHASum07pYqvfEYuTrsy7p+PyzHPxqix7ZpYLC7S1/N4szlCiRfe9ykyX5BgK037NEH2pjIZjaQbX30YeQ==;
+  h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:X-Mailer:X-ELNK-Trace:X-Originating-IP;
+Received: from [209.86.224.67] (helo=wamui-haziran.atl.sa.earthlink.net)
+	by elasmtp-scoter.atl.sa.earthlink.net with esmtpa (Exim 4.67)
+	(envelope-from <jacklind@earthlink.net>)
+	id 1cNq5l-0006FM-OU
+	for michael@covel.com; Sun, 01 Jan 2017 19:03:09 -0500
+Received: from 205.204.27.141 by webmail.c.earthlink.net with HTTP; Sun, 1 Jan 2017 19:03:09 -0500
+Date: Sun, 1 Jan 2017 18:03:09 -0600 (GMT-06:00)
+From: Jack Lind <jacklind@earthlink.net>
+Reply-To: Jack Lind <jacklind@earthlink.net>
+To: michael@covel.com
+Message-ID: <6029657.3898.1483315389703@wamui-haziran.atl.sa.earthlink.net>
+Subject: Special Offer
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: EarthLink Zoo Mail 1.0
+X-ELNK-Trace: 3ff8266da2eac3031aa676d7e74259b7b3291a7d08dfec7974e647e33705f5928ff76fbc90a39c0d350badd9bab72f9c350badd9bab72f9c350badd9bab72f9c
+X-Originating-IP: 209.86.224.67
+
+What's up?  Thanks, Jack Lind
+

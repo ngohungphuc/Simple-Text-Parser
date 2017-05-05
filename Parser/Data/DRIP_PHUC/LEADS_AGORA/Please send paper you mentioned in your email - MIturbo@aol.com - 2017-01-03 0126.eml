@@ -1,0 +1,60 @@
+Return-Path: <miturbo@aol.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 9BFEB4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:23:38 -0500 (EST)
+Received: from omr-a005e.mx.aol.com ([204.29.186.50])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102182634695_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:26:34 +0000
+X-RC-FROM: <miturbo@aol.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: from mtaomg-aah02.mx.aol.com (mtaomg-aah02.mx.aol.com [172.27.1.144])
+	by omr-a005e.mx.aol.com (Outbound Mail Relay) with ESMTP id 6C3B2380009F
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:26:28 -0500 (EST)
+Received: from core-mda04e.mail.aol.com (core-mda04.mail.aol.com [172.27.39.4])
+	by mtaomg-aah02.mx.aol.com (OMAG/Core Interface) with ESMTP id 1A03C3800008C
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:26:28 -0500 (EST)
+From: MIturbo@aol.com
+Full-name: MIturbo
+Message-ID: <18c8997.47d2057d.459bf553@aol.com>
+Date: Mon, 2 Jan 2017 13:26:27 -0500
+Subject: Please send paper you mentioned in your email
+To: mcovel@trendfollowing.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="part1_18c8997.47d2057d.459bf553_boundary"
+X-Mailer: AOL 9.8 sub 2022
+X-Originating-IP: [73.161.129.158]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1483381588;
+	bh=H+6vvUey0bbu92oc3m4xon5D4OkULCJRwMwQwAIWqfw=;
+	h=From:To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	b=azDwl0q2NVe4w+dh2s0x+UuEbeB45jcFzRUvJejdE1RjFSGNg1S/1QIm0g1Y/dplL
+	 VkFOvcFmdCkN/xceTVgymyn/fEFQhSSyaWvCMY5kYynYiEmO97nHkhVkfNu1P4RVnR
+	 6PhwVFAP/lIVyYmL9Liczgeytz5ms9kxZBA6m6L8=
+x-aol-sid: 3039ac1b0190586a9b54057c
+
+--part1_18c8997.47d2057d.459bf553_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Thanks.
+--part1_18c8997.47d2057d.459bf553_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3DUS-ASCII" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.18538"></HEAD>
+<BODY id=3Drole_body style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; COLOR:=
+ #000000"=20
+bottomMargin=3D7 leftMargin=3D7 rightMargin=3D7 topMargin=3D7><FONT id=3Dr=
+ole_document=20
+color=3D#000000 size=3D2 face=3DArial>
+<DIV>Thanks.</DIV></FONT></BODY></HTML>
+--part1_18c8997.47d2057d.459bf553_boundary--
+

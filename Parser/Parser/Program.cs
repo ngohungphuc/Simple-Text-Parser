@@ -17,9 +17,7 @@ namespace Parser
     {
         private static void Main(string[] args)
         {
-            ReadAllFile();
-            //CreateExcelFile();
-            //ConvertToXml();
+            LeadsFolder();
         }
 
         public static void TrimHtmlTag()
@@ -86,7 +84,7 @@ namespace Parser
             xmlDocument.Save(@"E:\Source Code\Study\Simple-Text-Parser\Parser\Data\data.xml");
         }
 
-        public static void ReadAllFile()
+        public static void LeadsFolder()
         {
             XmlDocument xmlDocument = new XmlDocument();
             XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
@@ -96,86 +94,63 @@ namespace Parser
             xmlDocument.AppendChild(bodyElement);
             XmlElement itemElement = null;
             var i = 0;
-
-            foreach (string fileName in Directory.GetFiles("E:\\Source Code\\Study\\Simple-Text-Parser\\Parser\\Data\\test"))
+            try
             {
-                string[] fileLines = File.ReadAllLines(fileName);
-                StreamReader sr = new StreamReader(fileName);
-
-                foreach (var line in fileLines)
+                foreach (string fileName in Directory.GetFiles("D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test"))
                 {
-                    MatchCollection matchCollections = Regex.Matches(line, "(id|email|status|Email|IP Address|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_at)(:)( )([ A-Za-z0-9\\&\\+\\,\\:\\@\\.\\\"\\-\\&\\[\\]]+)", RegexOptions.Multiline);
+                    string[] fileLines = File.ReadAllLines(fileName);
+                    StreamReader sr = new StreamReader(fileName);
 
-                    foreach (var lineResult in matchCollections)
+                    foreach (var line in fileLines)
                     {
-                        var lineResultParse = lineResult.ToString();
+                        MatchCollection matchCollections = Regex.Matches(line, "(id|email|status|Email|IP Address|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_at|lead_score|time_zone)(:)( )?([ A-Za-z0-9\\/\\&\\+\\,\\:\\@\\.\\\"\\-\\&\\[\\]]+)?", RegexOptions.Multiline);
 
-                        if (lineResultParse.Equals(string.Empty)) continue;
-
-                        var result = lineResultParse.Split(new[] { ":" }, StringSplitOptions.None);
-                        if (result.Length == 1)
+                        foreach (var lineResult in matchCollections)
                         {
-                            if (result[0] == string.Empty)
+                            var lineResultParse = lineResult.ToString();
+
+                            if (lineResultParse.Equals(string.Empty)) continue;
+
+                            var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
+                            if (result.Length == 1)
                             {
-                                i = 0;
+                                if (result[0] == string.Empty)
+                                {
+                                    i = 0;
+                                    continue;
+                                }
                                 continue;
                             }
-                            continue;
-                        }
 
-                        if (i == 0)
-                        {
-                            itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
-                            bodyElement.AppendChild(itemElement);
-                        }
+                            if (i == 0)
+                            {
+                                itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                                bodyElement.AppendChild(itemElement);
+                            }
 
-                        if (itemElement != null)
-                        {
-                            string elementName = result[0].Replace(" ", "-");
-                            string elementValue = result[1];
-                            XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(), string.Empty);
-                            element.InnerText = elementValue;
-                            itemElement.AppendChild(element);
-                        }
+                            if (itemElement != null)
+                            {
+                                string elementName = result[0].Replace(" ", "-");
+                                string elementValue = result[1];
+                                elementValue = elementValue == string.Empty ? "n/a" : result[1];
+                                XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(), string.Empty);
+                                element.InnerText = elementValue;
+                                itemElement.AppendChild(element);
+                            }
 
-                        i++;
+                            i++;
+                        }
                     }
+
+                    var fileNameExtract = Path.GetFileNameWithoutExtension(fileName);
+                    xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\{fileNameExtract}.xml");
+                    i = 0;
                 }
-
-                var fileNameExtract = Path.GetFileNameWithoutExtension(fileName);
-                xmlDocument.Save($"E:\\Source Code\\Study\\Simple-Text-Parser\\Parser\\Data\\Result\\{fileNameExtract}.xml");
-                i = 0;
             }
-        }
-
-        public static void CreateExcelFile()
-        {
-            string file = "D:\\SourceCode\\Simple-Text-Parser\\Parser\\File\\newdoc.xls";
-            string[] lines = File.ReadAllLines(@"E:\Source Code\Study\Simple-Text-Parser\Parser\Data\LEADS\data2 (0).eml");
-            foreach (var line in lines)
+            catch (Exception)
             {
-                MatchCollection matchCollection = Regex.Matches(line, "(id|email|status|Email|IP Address|city|country|first_name|has_read_LBoT|has_read_TC|has_read_TF|last_name|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_at)(:)?( )?([ A-Za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\&]+)?", RegexOptions.Multiline);
-                foreach (var result in matchCollection)
-                {
-                    Console.WriteLine(result);
-                }
+                throw;
             }
-            //Excel.Application oApp;
-            //Excel.Worksheet oSheet;
-            //Excel.Workbook oBook;
-
-            //oApp = new Excel.Application();
-            //oBook = oApp.Workbooks.Add();
-            //oSheet = (Excel.Worksheet)oBook.Worksheets.Item[1];
-            //oSheet.Cells[1, 1] = "some value";
-            //oBook.SaveAs(file);
-            //oBook.Close();
-            //oApp.Quit();
         }
-
-        //(Email|IP Address|city|country|first_name
-        //|has_read_LBoT|has_read_TC|has_read_TF|last_name
-        //|last_trading_or_investment_book_read|state|street1|street2|zip_code|Date|
-        //utc_offset|visitor_uuid|time_zone|friendly_time_zone|tags|created_at)(:)( )([ A-Za-z0-9\\&\\+\\,\\:\\@\\.\\\"\\-]+)?
     }
 }

@@ -1,0 +1,76 @@
+Return-Path: <brooke.cag@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id CDA604028F219
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 19:20:12 -0500 (EST)
+Received: from mail-lf0-f49.google.com ([209.85.215.49])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170103002308611_0659
+          for <mcovel@trendfollowing.com>;
+          Tue, 03 Jan 2017 00:23:08 +0000
+X-RC-FROM: <brooke.cag@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-lf0-f49.google.com with SMTP id y21so276885912lfa.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 16:23:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=5ipVE9vWJdxDROQratSMiahi4gxdJKqjqHBELTUhYr4=;
+        b=E/DkFi5ihlK4eibkhYalwzlWRsiBWFlY0NJHrFAlLxVzaf2RJGbr7HKkq2CAfBxuQa
+         l3wyxlXVPaFjMGog3jrjGjlfCWqV0BEYPg32WZj8xe1REOqG5APJ4NnCHKsaGI1oglq0
+         j5zFrsZ9wD7JkZGSKoLpzceR/bC+TVcoeoQLNqTvWuoh8GyhYhHyTbIAjia26CUxarnP
+         /cWhpz/Mv/5vTiBaziOsXu2jmWXf6w7TYF33d231qBw/neZGO4e8uaegOZlwbAwGWT9R
+         KVssQ/KyiLcVGedskaut+ED196YBEhQlT/Jveh/tii89TXhSiXahpU82EJWemrquClFe
+         wiYA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=5ipVE9vWJdxDROQratSMiahi4gxdJKqjqHBELTUhYr4=;
+        b=Kj8vQcHw+ZWjKIsudcYitVfXa4aoANe8/MVWuqIUMVrASgCkKqd2wdcfX05IvxzLUr
+         qSamGjq2zlBmH45FaBlCzvFCZ4M+aCn7EZCxKlJLiZp9yoFAiVqcFfIWlLkkja9rJUey
+         DX1IhqVsCIGeCxJW+zEy8CP/pPRw+3Ml9mEK9akIxuKGRRJGmK2xoJoupDYktlRV4eFa
+         Oz7+NLnUnY0Ley0UGnLvoWiVGVeXFgRjB45ypwTT19miwUyDnskIoOpoP4z2gx6/uAIW
+         8xP9DDGL+su9jaxdySlcBCcJe7jiqG0rdJm5BcKRWbBvbxrmrLK60W4Jrn7dEj3suuYC
+         bu2A==
+X-Gm-Message-State: AIkVDXLnMNW23NJXYuU32MuEMwYtjLx7zstLNSSlFQ1/AB4jBpWPP1a10yEBEPJkjOHfeFkI9kUcnEt3CbNdTg==
+X-Received: by 10.46.69.2 with SMTP id s2mr21886398lja.56.1483402982405; Mon,
+ 02 Jan 2017 16:23:02 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.15.232 with HTTP; Mon, 2 Jan 2017 16:23:02 -0800 (PST)
+From: Brooke Dawson <brooke.cag@gmail.com>
+Date: Mon, 2 Jan 2017 16:23:02 -0800
+Message-ID: <CAEiQEpAw2MmFLCSWpbYcBQNj7AywFYeaMc=ehNeq7ftrBZe8Eg@mail.gmail.com>
+Subject: Roll over to Rude Awakening PRO
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114b072cd339d1054525abc0
+
+--001a114b072cd339d1054525abc0
+Content-Type: text/plain; charset=UTF-8
+
+Mr. Covel,
+
+Thank you for notifying me of the change, although your program's affordability
+and slower pace were a better fit for my financial situation and time
+availability.
+
+My name is Brooke A. Dawson
+My address is 3050 Polk Street, San Francisco, CA 94109
+
+Sincerely,
+Brooke
+
+--001a114b072cd339d1054525abc0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Mr. Covel,</div><div><br></div><div>Thank you for not=
+ifying me of the change, although your program&#39;s<em> </em><span><span>a=
+ffordability and slower pace were a better fit for my financial situation a=
+nd time availability. </span></span></div><div><br></div><div>My name is Br=
+ooke A. Dawson</div><div>My address is 3050 Polk Street, San Francisco, CA =
+94109</div><div><br></div><div>Sincerely,</div><div>Brooke</div><div><br></=
+div><div><br></div></div>
+
+--001a114b072cd339d1054525abc0--
+

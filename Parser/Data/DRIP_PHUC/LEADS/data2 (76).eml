@@ -1,0 +1,75 @@
+Return-Path: <bounce-md_30115094.56f74a1f.v1-cffe59095fd74e84a5032e2871fc2a88@click.dripemail2.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from s12p02m003.mxlogic.net (mxl145v246.mxlogic.net [208.65.145.246])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7D03B40213F7D
+	for <mcovel@trendfollowing.com>; Sat, 26 Mar 2016 22:49:02 -0400 (EDT)
+Authentication-Results: s12p02m003.mxlogic.net; spf=pass
+Received: from unknown [198.2.133.10] (EHLO mail133-10.atl131.mandrillapp.com)
+	by s12p02m003.mxlogic.net(mxl_mta-8.5.0-10) over TLS secured channel
+	with ESMTP id 02a47f65.0.4678339.00-2164.9001328.s12p02m003.mxlogic.net (envelope-from <bounce-md_30115094.56f74a1f.v1-cffe59095fd74e84a5032e2871fc2a88@click.dripemail2.com>);
+	Sat, 26 Mar 2016 20:49:04 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=getdrip.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@getdrip.com;
+ bh=xN2q6XazSz0jhAzZoVLbyXA/99E=;
+ b=cryEU7auMaaQQb3Nau13Zl3+HAhMWuTO36xPVN0rOrP8qozad2eE39DD2Yo6AFioTWlV7naxkiEW
+   Z58t6wGEuYZy9eAzNCxsCmfK21pjFD5e2qtCr3X7U4VOV2kSKMlQIZV4zCkvPqRmWrLcBP08XBiW
+   1nLkM5qLhOzWEniQBss=
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail133-10.atl131.mandrillapp.com id hut5201sar8h for <mcovel@trendfollowing.com>; Sun, 27 Mar 2016 02:49:04 +0000 (envelope-from <bounce-md_30115094.56f74a1f.v1-cffe59095fd74e84a5032e2871fc2a88@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1459046943; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=NmZwqszEzUCFfdQn6q83uhUukjt9f11uf7UClELF/z8=; 
+ b=jxyQhPtB3+O0PldpAtVJtlUlcU2wXNWjHAOEEZtOcDMakNUKtw39/5rv3PMaGOcYx8FUBI
+ Kn/F/AN0M57EeoeKQA0IiLPySZw8gzPYd8OF43CDR55MExMSA1lB4WK8LwMacQ0AkYkgoCaa
+ VR5+wgICX+s0WCqPVtDxd4+FSSioo=
+From: Rob at Drip <support@getdrip.com>
+Subject: [Drip] archie765@yahoo.com just triggered a notification from LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest
+Received: from [54.165.149.144] by mandrillapp.com id cffe59095fd74e84a5032e2871fc2a88; Sun, 27 Mar 2016 02:49:03 +0000
+To: <mcovel@trendfollowing.com>
+Message-Id: <56f74a1fc9a1e_5d243ffe4747bbf4560c6@ip-172-30-0-179.mail>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.cffe59095fd74e84a5032e2871fc2a88
+X-Mandrill-User: md_30115094
+Date: Sun, 27 Mar 2016 02:49:03 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-AnalysisOut: [v=2.1 cv=P+g8830u c=1 sm=1 tr=0 b=1 a=lEJf83RsPhRvcH8c/2Sd]
+X-AnalysisOut: [Rw==:117 a=lEJf83RsPhRvcH8c/2SdRw==:17 a=CjxXgO3LAAAA:8 a=]
+X-AnalysisOut: [lU03Z4yc7+u8VQHnwYB+2V2ltmY=:19 a=IkcTkHD0fZMA:10 a=Vp75NW]
+X-AnalysisOut: [7EbM4A:10 a=7OsogOcEt9IA:10 a=F-LrXtZbAAAA:8 a=vHDRZuoMjzF]
+X-AnalysisOut: [STdtVl8EA:9 a=QEXdDO2ut3YA:10 a=FniH4Em1TWMA:10 a=pmb4DaUk]
+X-AnalysisOut: [x9kA:10]
+Received-SPF: Pass (s12p02m003.mxlogic.net: domain of click.dripemail2.com designates 198.2.133.10 as permitted sender)
+X-Spam: [F=0.1428571429; B=0.500(0); STSI=0.500(-12); STSM=0.400(-12); CM=0.500; CY=0.50; MH=0.500(2016032615); S=0.200(2015072901); spf=0.500; SC=]
+X-MAIL-FROM: <bounce-md_30115094.56f74a1f.v1-cffe59095fd74e84a5032e2871fc2a88@click.dripemail2.com>
+X-SOURCE-IP: [198.2.133.10]
+
+Hi there,
+
+There has been new subscriber activity in your Drip account.
+
+A subscriber has triggered a notification from the "LeadPages "DVD Form" --> Join tf-dvd followup, tag as optedin-dvdrequest" workflow
+
+Here are the subscriber's details:
+
+Email: archie765@yahoo.com
+IP Address: (not provided)
+city: Columbus
+first_name: Archie
+has_read_LBoT: No
+has_read_TC: No
+has_read_TF: No
+last_name: Suttles
+last_trading_or_investment_book_read: Can Slim Method
+state: Ohio
+street1: 3885 Buckskin Ct.
+zip_code: 43221
+
+View their full profile here:
+https://www.getdrip.com/3513718/subscribers/yvjeesajqni7zcyouxxv
+
+Cheers,
+The Drip Team

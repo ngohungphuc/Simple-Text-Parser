@@ -1,0 +1,67 @@
+Return-Path: <kvmcphail@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp459.redcondor.net (smtp459.redcondor.net [208.80.204.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 4DFAB4028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 12:35:22 -0500 (EST)
+Received: from mail-qt0-f177.google.com ([209.85.216.177])
+          by smtp459.redcondor.net ({c7a907ae-7620-11e6-a866-93beac031197})
+          via TCP (inbound) with ESMTPS id 20170102173818593_0459
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 17:38:18 +0000
+X-RC-FROM: <kvmcphail@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-qt0-f177.google.com with SMTP id d45so223233129qta.1
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 09:38:15 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=LRFm7zBx0q5XalYNZpqePMVyHEiwJ0kswbq2vi0cKIM=;
+        b=lB/hqZ3sDYfTT/Uesc6ifUG8CYDatj3rqZM45ReaR631eBIit/ezArmu5Qu/CNoLc+
+         iNkuo6z9FEP+geixAR5y1rBQXx1aI8cTupruqyjOki7zV2AsCm6FaCyPTe54OQ35NYGQ
+         NSYJgXHSwgLuR/VbRMHqSJYrKYXQJK2n2zYxKwBLBDWkxJ+9uadxiH7Iq1MBQ+AIEv+/
+         UMAr3hatL/lNdjS+o297Za+WeU7fAFBrdMjA3LTtknBMaxqgFmlUf2uBCTYcYsT9ktm8
+         vpKZNVmnYvyVeTImyCVuRTYbaLTwd/g/MzpVDjOqdpifv29mcz9cNlieMOTK90TRS89X
+         VOJg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=LRFm7zBx0q5XalYNZpqePMVyHEiwJ0kswbq2vi0cKIM=;
+        b=iT8BHrAXhzUakHRD3TDcsiD7CDESHLdZrxSmCKxxhi45Jl0dQkFlnzpcU3LoOhBSO2
+         NAyQKL1fJzoCCJlIVK5iv58OALa0K44Rk/ENS8+Z06RM1wqtDS92H4H+4tqsw0ymKL7C
+         TsyqUHFQNdNM+UdNc3ZqAuDZRkYu717/u7gHKu6QvDyjs7SGVOoY9UfRQbIrDgjIvPsG
+         lybWjyK+bqHtIxMA5bSBqh83OUeY7pqpKRf9QtGQ5syrnzl4BbJA/oj/ESEK2WfsVFQI
+         /BzSy0AzdKzisGgumXNi91xTo4YPy1OwqNUR4OD6xH4+iMt0FSXFuXCTyDQ6RiiaFnN+
+         b8Wg==
+X-Gm-Message-State: AIkVDXKFDzGF5NnPNjXgnHHl1slL/VSN7SPfl+34p/IEODYsxDTqqBLpKGGAOxcxQ0ni0jAS+ckDmMnf/Q0/rA==
+X-Received: by 10.237.50.163 with SMTP id z32mr60185732qtd.71.1483378686210;
+ Mon, 02 Jan 2017 09:38:06 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.200.57.227 with HTTP; Mon, 2 Jan 2017 09:38:05 -0800 (PST)
+Received: by 10.200.57.227 with HTTP; Mon, 2 Jan 2017 09:38:05 -0800 (PST)
+In-Reply-To: <CAAyqu+PdVuW4ff77LDsSryr2dK6XdLorpG1fBXRqu73A6DHJqg@mail.gmail.com>
+References: <CAAyqu+PdVuW4ff77LDsSryr2dK6XdLorpG1fBXRqu73A6DHJqg@mail.gmail.com>
+From: Kevin McPhail <kvmcphail@gmail.com>
+Date: Mon, 2 Jan 2017 12:38:05 -0500
+Message-ID: <CAAyqu+P4vLOPtsbS-_UUdkhtvzAxY3yc76bQ_iDY82LZD3-WyQ@mail.gmail.com>
+Subject: Trend Following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=94eb2c125422a8d7c005452003f4
+
+--94eb2c125422a8d7c005452003f4
+Content-Type: text/plain; charset=UTF-8
+
+Please send the investment paper you are referring to, I am sad to see you
+stop this, I've really enjoyed Trend Following
+
+--94eb2c125422a8d7c005452003f4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Please send the investment paper you are referring to, I =
+am sad to see you stop this, I&#39;ve really enjoyed Trend Following=C2=A0<=
+/div>
+
+--94eb2c125422a8d7c005452003f4--
+

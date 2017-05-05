@@ -1,0 +1,99 @@
+Return-Path: <emailreceipts@authorize.net>
+Received: from p02c12m086.mxlogic.net (mxl145v245.mxlogic.net [208.65.145.245])
+	by trendfollowing.com (8.13.8/8.13.8) with ESMTP id t5OL2Jsw025449
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <info@trendfollowing.com>; Wed, 24 Jun 2015 17:02:19 -0400
+Authentication-Results: p02c12m086.mxlogic.net; spf=pass
+Received: from unknown [198.241.168.128] (EHLO cportal7.visa.com)
+	by p02c12m086.mxlogic.net(mxl_mta-8.4.0-1) over TLS secured channel
+	with ESMTP id 3f61b855.0.128789.00-2393.277056.p02c12m086.mxlogic.net (envelope-from <emailreceipts@authorize.net>);
+	Wed, 24 Jun 2015 14:45:40 -0600 (MDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=authorize.net; i=@authorize.net; q=dns/txt;
+  s=cportal; t=1435178740; x=1466714740;
+  h=from:to:subject:date:message-id:mime-version:
+   content-transfer-encoding;
+  bh=cJypQ99kf4izQtIWEIJqJ2DUBi4ZbJzLQgVTVgE2K2E=;
+  b=PGcjsSP4q5fQALWg+N7pjZTRbB4m0AsTWwPknFAg7UmOPQeU/xx7//8J
+   w3x1XrfK7g7fJ+d7UEOkMPXeybBLHm6ckCr0AdJ52wma0GjHrBAbi7FB7
+   HoFtk33PgQH1Z2YAfJorSTrOAPJo7r2k07kjn35JZf/qdj+HpmxG9ZRE7
+   o=;
+thread-index: AdCuvrSn8F71pokkTYisMeB28QmzIA==
+Thread-Topic: Merchant Email Receipt
+From: "Authorize.Net Auto-Receipt" <emailreceipts@authorize.net>
+To: "Right Skewed" <rightskewed@gmail.com>,
+        "MIchael Covel" <info@trendfollowing.com>,
+        "Michael Covel" <info@trendfollowing.com>
+Subject: Merchant Email Receipt
+Date: Wed, 24 Jun 2015 20:45:29 -0000
+Message-ID: <6E7AAC976F624FE58C6B6FE7141CC864@anet.ad>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-OriginalArrivalTime: 24 Jun 2015 20:45:29.0214 (UTC) FILETIME=[B4AF21E0:01D0AEBE]
+X-AnalysisOut: [v=2.1 cv=e7ESSMZ/ c=0 sm=1 tr=0 awl=host:1]
+Received-SPF: Pass (p02c12m086.mxlogic.net: domain of authorize.net designates 198.241.168.128 as permitted sender)
+X-Spam: [F=0.1428571429; B=0.500(0); STSI=0.500(-8); STSM=0.400(-8); CM=0.500; CY=0.50; MH=0.500(2015062418); S=0.200(2014051901); spf=0.500; SC=]
+X-MAIL-FROM: <emailreceipts@authorize.net>
+X-SOURCE-IP: [198.241.168.128]
+X-Antivirus: avast! (VPS 150728-0, 07/28/2015), Inbound message
+X-Antivirus-Status: Clean
+
+**Please DO NOT REPLY to this message. E-mail support@authorize.net if you have any questions.
+
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+
+Merchant : MaryleBone Holdings Ltd (295348)
+Date/Time : 24-Jun-2015 16:45:29 EDT
+
+========= ORDER INFORMATION =========
+Invoice : 
+Description : 
+Amount : 25.98 (USD)
+Payment Method : Visa
+Type : Credit
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Authorization Code : 
+Transaction ID : 7293058980
+Address Verification : AVS Not Applicable
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 
+First Name : 
+Last Name : Green
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+Phone : 
+Fax : 
+E-Mail : 
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name : 
+Last Name : 
+Company : 
+Address : 
+City : 
+State/Province : 
+Zip/Postal Code : 
+Country : 
+
+======= ADDITIONAL INFORMATION ======
+Tax : 
+Duty : 
+Freight : 
+Tax Exempt : 
+PO Number : 

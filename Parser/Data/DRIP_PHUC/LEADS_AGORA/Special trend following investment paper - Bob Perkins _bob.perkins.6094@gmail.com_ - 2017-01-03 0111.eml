@@ -1,0 +1,72 @@
+Return-Path: <bob.perkins.6094@gmail.com>
+X-Original-To: mcovel@trendfollowing.com
+Delivered-To: mcovel@trendfollowing.com
+Received: from smtp659.redcondor.net (smtp659.redcondor.net [208.80.206.59])
+	by mail.trendfollowing.com (Postfix) with ESMTPS id 7DB594028F215
+	for <mcovel@trendfollowing.com>; Mon,  2 Jan 2017 13:08:54 -0500 (EST)
+Received: from mail-vk0-f46.google.com ([209.85.213.46])
+          by smtp659.redcondor.net ({e070c474-7612-11e6-be4b-5d1787e7980b})
+          via TCP (inbound) with ESMTPS id 20170102181150828_0659
+          for <mcovel@trendfollowing.com>;
+          Mon, 02 Jan 2017 18:11:50 +0000
+X-RC-FROM: <bob.perkins.6094@gmail.com>
+X-RC-RCPT: <mcovel@trendfollowing.com>
+Received: by mail-vk0-f46.google.com with SMTP id y197so117742112vky.2
+        for <mcovel@trendfollowing.com>; Mon, 02 Jan 2017 10:11:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=aqsXLFsojej8QDtswBSoXpYEkeTZWkkgyBJGWc/NOO8=;
+        b=XOwENkUR7qNpN/eqfWYuT883A8KTHSHU7SXorPYQFftY6iUu3ifLRr5s9rGXprrS6s
+         H59IKlwQcYzizW1t31Ddb7aYXzYHCoUY7drmdy/n+1rhywESGf+MGyEnw49sXyCIeYTE
+         BkJ8eo4+z3iFy6Hpqhtqwk/u8GRvsZ5av158MTzKiovqbHChuh/gpV9E6sJXFkWCqQfy
+         NnxA3AzV5UNsvbmcTCTZb+r3mcsK1JvBH3ckGMNTI2TlLjys1gIhS8E+DUYir7fZseBV
+         Bw30jbp9ZisAf0N3DFYDQSEJlf0jfJwMb7GzksFkzE6P2Uy7u827dypZIZbHc52mgit8
+         X/EA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=aqsXLFsojej8QDtswBSoXpYEkeTZWkkgyBJGWc/NOO8=;
+        b=l/sBok48kRS8r3291x5T8Hfh/v7lD2TPH5UWYuYUvPv8mTC1mSVYdtg0LnHu1fBa53
+         jz8SgxqA2W3Cy1eTUTYVXIz9hsa7HyFfyT3kOI70G1aGiFkz5LjXmyZpCIhV1+L/ln+E
+         eznmCAXUf1E/XkDTSlBtwPevzB5Zpn4vXQwrYZDmJNwtfBbrhy561fFeQbNWjBxGb55p
+         ycrREhHqFyN8cJbzekKOu5oNEtTYWigLG7f6uysZY4nz64jy+3n88dlZ2HwE8cwtZsUH
+         gr67AaAl2b76lapcvBMgdlEyzMlGQQwJ8/q6cnXzOqZurRT2A6ZVDIWkPHV2jrkEUsdJ
+         3TNw==
+X-Gm-Message-State: AIkVDXL5JPkZjSTNhFB7sFcsBhykgCOCFeiP3x5XqHEX56p6hwKKLWjHDejQcDINUA69+sSz+TN1Oa9yBy6k7w==
+X-Received: by 10.31.130.20 with SMTP id e20mr17014302vkd.149.1483380705390;
+ Mon, 02 Jan 2017 10:11:45 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.176.85.217 with HTTP; Mon, 2 Jan 2017 10:11:24 -0800 (PST)
+From: Bob Perkins <bob.perkins.6094@gmail.com>
+Date: Mon, 2 Jan 2017 10:11:24 -0800
+Message-ID: <CAMPUODkM08S4uaiNQXEGzkox86si6eznzS1rBv__-97G_QRc1g@mail.gmail.com>
+Subject: Special trend following investment paper
+To: mcovel@trendfollowing.com
+Content-Type: multipart/alternative; boundary=001a114487f002f4270545207cbc
+
+--001a114487f002f4270545207cbc
+Content-Type: text/plain; charset=UTF-8
+
+Hi Michael,
+
+Sorry to see your service come to an end. I look forward to your *special
+trend following investment paper.*
+
+*Regards,*
+*Bob*
+
+--001a114487f002f4270545207cbc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Michael,<div><br></div><div>Sorry to see your service c=
+ome to an end. I look forward to your=C2=A0<i style=3D"font-family:helvetic=
+a,arial,sans-serif;font-size:16px">special trend following investment paper=
+.</i></div><div><i style=3D"font-family:helvetica,arial,sans-serif;font-siz=
+e:16px"><br></i></div><div><i style=3D"font-family:helvetica,arial,sans-ser=
+if;font-size:16px">Regards,</i></div><div><i style=3D"font-family:helvetica=
+,arial,sans-serif;font-size:16px">Bob</i></div></div>
+
+--001a114487f002f4270545207cbc--
+
