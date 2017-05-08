@@ -17,7 +17,7 @@ namespace Parser
     {
         private static void Main(string[] args)
         {
-            UnknownEmailList();
+            TurtleSales();
         }
 
         public static void TrimHtmlTag()
@@ -275,6 +275,81 @@ namespace Parser
                 i++;
             }
             xmlDocument.Save(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\Result\UnknownEmailList.xml");
+        }
+
+        //public static NewLetterSignUp()
+        //{
+        //    //((Date:)()([A - Za - z0 - 9\\:\\,\\-] +))| (\[that\] (.*?)\[has\])|((?=:).*(?=subscribers))
+        //}
+
+        public static void TurtleSales()
+        {
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\ORDERS_EUDORA\Turtle Sales.text");
+
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlElement root = xmlDocument.DocumentElement;
+            xmlDocument.InsertBefore(xmlDeclaration, root);
+            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
+            xmlDocument.AppendChild(bodyElement);
+
+            var i = 0;
+
+            XmlElement itemElement = null;
+            try
+            {
+                foreach (var line in lines)
+                {
+                    MatchCollection matchCollections = Regex.Matches(line,
+                        "(From - |Date|Product|E-Mail|How do you know Turtle Trader|Phone|First Name|Last Name|Company|Address|City|State|Zip|Payment Method|Account Number|Card Holder|Expiration)(:)( )?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/]+)?",
+                        RegexOptions.Multiline);
+
+                    foreach (var lineResult in matchCollections)
+                    {
+                        var lineResultParse = lineResult.ToString();
+
+                        if (lineResultParse.Equals(string.Empty)) continue;
+                        if (lineResultParse.Contains("From - ")) i = 0;
+
+                        var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
+                        if (result.Length == 1)
+                        {
+                            if (result[0] == string.Empty)
+                            {
+                                i = 0;
+                                continue;
+                            }
+                            continue;
+                        }
+
+                        if (i == 0)
+                        {
+                            itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                            bodyElement.AppendChild(itemElement);
+                        }
+
+                        if (itemElement != null)
+                        {
+                            string elementName = result[0].Replace(" ", "-");
+                            string elementValue = result[1];
+                            elementValue = elementValue == string.Empty ? "n/a" : result[1];
+                            XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                                string.Empty);
+                            element.InnerText = elementValue;
+                            itemElement.AppendChild(element);
+                        }
+
+                        i++;
+                    }
+                }
+
+                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\Turtle Sales.xml");
+                i = 0;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
     }
 }
