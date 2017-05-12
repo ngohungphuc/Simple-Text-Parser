@@ -17,7 +17,7 @@ namespace Parser
     {
         private static void Main(string[] args)
         {
-            TurtleSales();
+            NewLetterSignUp();
         }
 
         public static void TrimHtmlTag()
@@ -277,6 +277,161 @@ namespace Parser
             xmlDocument.Save(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\Result\UnknownEmailList.xml");
         }
 
+        public static void LEADS_EUDORA_Folder()
+        {
+            //((Date:)()([A-Za-z0-9\\:\\,\\-]+))| (\[that\](.*?)\[has\])|((?=:).*(?=subscribers))LEADS_EUDORA
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\LEADS_EUDORA\LEADS copy");
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlElement root = xmlDocument.DocumentElement;
+            xmlDocument.InsertBefore(xmlDeclaration, root);
+            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
+            xmlDocument.AppendChild(bodyElement);
+            XmlElement itemElement = null;
+            var i = 0;
+            try
+            {
+                foreach (var line in lines)
+                {
+                    if (line.Contains("</x-charset>"))
+                    {
+                        i = 0;
+                        continue;
+                    }
+                    MatchCollection matchCollections = Regex.Matches(line,
+                        "((Name|Address|Address Cont|City|State|Country|Zip/Postal Code|Email|Phone|Return Phone Call|What can we do to help you|In Person Seminars|Newsletter Add|New Trader|How long trading|Name of seminars attended|Purchased a trading system|What system did you purchase|Markets traded|Newsletter Add|Recent Trading Books Read|Do you own Trend Following|Do you own TurtleTrader|Do you own Market Wizards|Where did you year about trend following|Do you own mutual funds|Where did you find out about the offering|In Person Seminars|What can we do to help you)(:)?( )?([ A-Za-z0-9\\/\\&\\+\\,\\:\\@\\.\\\"\\-\\&\\[\\](\\\\)\\-]+)?)",
+                        RegexOptions.Multiline);
+
+                    foreach (var lineResult in matchCollections)
+                    {
+                        var lineResultParse = lineResult.ToString();
+
+                        if (lineResultParse.Equals(string.Empty)) continue;
+
+                        var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
+                        if (result.Length == 1)
+                        {
+                            if (result[0] == string.Empty)
+                            {
+                                i = 0;
+                                continue;
+                            }
+                            continue;
+                        }
+
+                        if (i == 0)
+                        {
+                            itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                            bodyElement.AppendChild(itemElement);
+                        }
+
+                        if (itemElement != null)
+                        {
+                            string elementName;
+                            string elementValue;
+                            //\s matches whitespace
+                            //+ means one or more of the preceding expression
+                            //(one or more whitespace characters)
+                            //$ means the end of the string
+
+                            elementName = result[0].Replace(" ", "-");
+                            elementName = elementName.Replace((elementName.Contains("/") || elementName.Contains("?")) ? "/" : " ", "-");
+                            elementValue = result[1];
+                            elementValue = elementValue == " " ? "n/a" : result[1];
+                            XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                                string.Empty);
+                            element.InnerText = elementValue;
+                            itemElement.AppendChild(element);
+                        }
+
+                        i++;
+                    }
+                }
+
+                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test\\LEADS copy.xml");
+                i = 0;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public static void TurtleSales()
+        {
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\ORDERS_EUDORA\Turtle Sales.text");
+
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlElement root = xmlDocument.DocumentElement;
+            xmlDocument.InsertBefore(xmlDeclaration, root);
+            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
+            xmlDocument.AppendChild(bodyElement);
+
+            var i = 0;
+
+            XmlElement itemElement = null;
+            try
+            {
+                foreach (var line in lines)
+                {
+                    if (line.Contains("From - "))
+                    {
+                        i = 0;
+                        continue;
+                    }
+                    MatchCollection matchCollections = Regex.Matches(line,
+                        "(From - |Date|Product|E-Mail|How do you know Turtle Trader|Phone|First Name|Last Name|Company|Address|City|State|Zip|Payment Method|Account Number|Card Holder|Expiration)(:)( )?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/]+)?",
+                        RegexOptions.Multiline);
+
+                    foreach (var lineResult in matchCollections)
+                    {
+                        var lineResultParse = lineResult.ToString();
+
+                        if (lineResultParse.Equals(string.Empty)) continue;
+                        if (lineResultParse.Contains("From - ")) i = 0;
+
+                        var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
+                        if (result.Length == 1)
+                        {
+                            if (result[0] == string.Empty)
+                            {
+                                i = 0;
+                                continue;
+                            }
+                            continue;
+                        }
+
+                        if (i == 0)
+                        {
+                            itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                            bodyElement.AppendChild(itemElement);
+                        }
+
+                        if (itemElement != null)
+                        {
+                            string elementName = result[0].Replace(" ", "-");
+                            string elementValue = result[1];
+                            elementValue = elementValue == string.Empty ? "n/a" : result[1];
+                            XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                                string.Empty);
+                            element.InnerText = elementValue;
+                            itemElement.AppendChild(element);
+                        }
+
+                        i++;
+                    }
+                }
+
+                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\Turtle Sales.xml");
+                i = 0;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
         public static void NewLetterSignUp()
         {
             //((Date:)()([A-Za-z0-9\\:\\,\\-]+))| (\[that\](.*?)\[has\])|((?=:).*(?=subscribers))
@@ -357,81 +512,6 @@ namespace Parser
                     xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test\\test.xml");
                     i = 0;
                 }
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-        }
-
-        public static void TurtleSales()
-        {
-            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\ORDERS_EUDORA\Turtle Sales.text");
-
-            XmlDocument xmlDocument = new XmlDocument();
-            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
-            XmlElement root = xmlDocument.DocumentElement;
-            xmlDocument.InsertBefore(xmlDeclaration, root);
-            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
-            xmlDocument.AppendChild(bodyElement);
-
-            var i = 0;
-
-            XmlElement itemElement = null;
-            try
-            {
-                foreach (var line in lines)
-                {
-                    if (line.Contains("From - "))
-                    {
-                        i = 0;
-                        continue;
-                    }
-                    MatchCollection matchCollections = Regex.Matches(line,
-                        "(From - |Date|Product|E-Mail|How do you know Turtle Trader|Phone|First Name|Last Name|Company|Address|City|State|Zip|Payment Method|Account Number|Card Holder|Expiration)(:)( )?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/]+)?",
-                        RegexOptions.Multiline);
-
-                    foreach (var lineResult in matchCollections)
-                    {
-                        var lineResultParse = lineResult.ToString();
-
-                        if (lineResultParse.Equals(string.Empty)) continue;
-                        if (lineResultParse.Contains("From - ")) i = 0;
-
-                        var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
-                        if (result.Length == 1)
-                        {
-                            if (result[0] == string.Empty)
-                            {
-                                i = 0;
-                                continue;
-                            }
-                            continue;
-                        }
-
-                        if (i == 0)
-                        {
-                            itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
-                            bodyElement.AppendChild(itemElement);
-                        }
-
-                        if (itemElement != null)
-                        {
-                            string elementName = result[0].Replace(" ", "-");
-                            string elementValue = result[1];
-                            elementValue = elementValue == string.Empty ? "n/a" : result[1];
-                            XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
-                                string.Empty);
-                            element.InnerText = elementValue;
-                            itemElement.AppendChild(element);
-                        }
-
-                        i++;
-                    }
-                }
-
-                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\Turtle Sales.xml");
-                i = 0;
             }
             catch (Exception)
             {
