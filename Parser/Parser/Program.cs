@@ -17,7 +17,7 @@ namespace Parser
     {
         private static void Main(string[] args)
         {
-            NewLetterSignUp();
+            Orders();
         }
 
         public static void TrimHtmlTag()
@@ -96,7 +96,8 @@ namespace Parser
             var i = 0;
             try
             {
-                foreach (string fileName in Directory.GetFiles("D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\LEADS")
+                foreach (
+                    string fileName in Directory.GetFiles("D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\LEADS")
                 )
                 {
                     string[] fileLines = File.ReadAllLines(fileName);
@@ -168,7 +169,10 @@ namespace Parser
             var i = 0;
             try
             {
-                foreach (string fileName in Directory.GetFiles("D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\DRIP_PHUC\\ORDERS_CC_AUTHORIZE.NET")
+                foreach (
+                    string fileName in
+                    Directory.GetFiles(
+                        "D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\DRIP_PHUC\\ORDERS_CC_AUTHORIZE.NET")
                 )
                 {
                     string[] fileLines = File.ReadAllLines(fileName);
@@ -235,7 +239,8 @@ namespace Parser
                             i++;
                         }
                     }
-                    xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\ORDERS_CC_AUTHORIZE.xml");
+                    xmlDocument.Save(
+                        $"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\ORDERS_CC_AUTHORIZE.xml");
                     i = 0;
                 }
             }
@@ -247,7 +252,9 @@ namespace Parser
 
         public static void UnknownEmailList()
         {
-            string[] lines = System.IO.File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\LEADS_EUDORA\unknown email list");
+            string[] lines =
+                System.IO.File.ReadAllLines(
+                    @"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\LEADS_EUDORA\unknown email list");
 
             XmlDocument xmlDocument = new XmlDocument();
             XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
@@ -280,7 +287,8 @@ namespace Parser
         public static void LEADS_EUDORA_Folder()
         {
             //((Date:)()([A-Za-z0-9\\:\\,\\-]+))| (\[that\](.*?)\[has\])|((?=:).*(?=subscribers))LEADS_EUDORA
-            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\LEADS_EUDORA\LEADS copy");
+            string[] lines =
+                File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\LEADS_EUDORA\LEADS copy");
             XmlDocument xmlDocument = new XmlDocument();
             XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
             XmlElement root = xmlDocument.DocumentElement;
@@ -335,7 +343,9 @@ namespace Parser
                             //$ means the end of the string
 
                             elementName = result[0].Replace(" ", "-");
-                            elementName = elementName.Replace((elementName.Contains("/") || elementName.Contains("?")) ? "/" : " ", "-");
+                            elementName =
+                                elementName.Replace(
+                                    (elementName.Contains("/") || elementName.Contains("?")) ? "/" : " ", "-");
                             elementValue = result[1];
                             elementValue = elementValue == " " ? "n/a" : result[1];
                             XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
@@ -359,7 +369,7 @@ namespace Parser
 
         public static void TurtleSales()
         {
-            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\DRIP_PHUC\ORDERS_EUDORA\Turtle Sales.text");
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\test\Turtle Sales.mbox");
 
             XmlDocument xmlDocument = new XmlDocument();
             XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
@@ -375,7 +385,7 @@ namespace Parser
             {
                 foreach (var line in lines)
                 {
-                    if (line.Contains("From - "))
+                    if (line.Contains("From -"))
                     {
                         i = 0;
                         continue;
@@ -389,7 +399,7 @@ namespace Parser
                         var lineResultParse = lineResult.ToString();
 
                         if (lineResultParse.Equals(string.Empty)) continue;
-                        if (lineResultParse.Contains("From - ")) i = 0;
+                        if (lineResultParse.Contains("From -")) i = 0;
 
                         var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
                         if (result.Length == 1)
@@ -423,7 +433,7 @@ namespace Parser
                     }
                 }
 
-                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\Result\\Turtle Sales.xml");
+                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test\\Turtle Sales mbox.xml");
                 i = 0;
             }
             catch (Exception)
@@ -494,7 +504,9 @@ namespace Parser
                                 }
                                 else
                                 {
-                                    elementName = result[0].Replace(" ", "-") == "Reply-To" ? "subscribed" : result[0].Replace(" ", "-");
+                                    elementName = result[0].Replace(" ", "-") == "Reply-To"
+                                        ? "subscribed"
+                                        : result[0].Replace(" ", "-");
                                 }
 
                                 string elementValue = result[1];
@@ -517,6 +529,265 @@ namespace Parser
             {
                 throw;
             }
+        }
+
+        public static void UsFilmOrder()
+        {
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\test\US Film Order");
+
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlElement root = xmlDocument.DocumentElement;
+            xmlDocument.InsertBefore(xmlDeclaration, root);
+            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
+            xmlDocument.AppendChild(bodyElement);
+
+            var i = 0;
+
+            XmlElement itemElement = null;
+
+            foreach (var line in lines)
+            {
+                if (line.Contains("From -"))
+                {
+                    i = 0;
+                    continue;
+                }
+                MatchCollection matchCollections = Regex.Matches(line,
+                    "(Name|Date|Address|Address Cont|City|State|Zip/Postal Code|Country|Phone|Email|Quantity|Amount)(:)( )?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/\\$]+)?",
+                    RegexOptions.Multiline);
+
+                foreach (var lineResult in matchCollections)
+                {
+                    var lineResultParse = lineResult.ToString();
+
+                    if (lineResultParse.Equals(string.Empty)) continue;
+                    if (lineResultParse.Contains("From -")) i = 0;
+
+                    var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
+                    if (result.Length == 1)
+                    {
+                        if (result[0] == string.Empty)
+                        {
+                            i = 0;
+                            continue;
+                        }
+                        continue;
+                    }
+
+                    if (i == 0)
+                    {
+                        itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                        bodyElement.AppendChild(itemElement);
+                    }
+
+                    if (itemElement != null)
+                    {
+                        string elementName;
+                        elementName = result[0].Replace(" ", "");
+                        elementName = elementName.Replace(elementName.Contains("/") ? "/" : " ", "-");
+                        string elementValue = result[1];
+                        elementValue = elementValue == " " ? "n/a" : result[1];
+                        XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                            string.Empty);
+                        element.InnerText = elementValue;
+                        itemElement.AppendChild(element);
+                    }
+
+                    i++;
+                }
+            }
+
+            xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test\\US Film Order.xml");
+            i = 0;
+        }
+
+        public static void NewOrder()
+        {
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\test\New Order4");
+
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlElement root = xmlDocument.DocumentElement;
+            xmlDocument.InsertBefore(xmlDeclaration, root);
+            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
+            xmlDocument.AppendChild(bodyElement);
+
+            var i = 0;
+
+            XmlElement itemElement = null;
+            try
+            {
+                foreach (var line in lines)
+                {
+                    //MatchCollection matchCollections = Regex.Matches(line,
+                    //    "(Date|NAME|PORGANIZATION|PADDRESS1|PADDRESS2|PCITY|PSTATE|PZIP|PCOUNT|PPHONE|PFAX|PEMAIL|CCTYPE|CCNUMBER|CCEXPDATE|CCNAME|CCADDRESS1|CCADDRESS2|CCCITY|CCSTATE|CCZIP|CCADDRESS3|COMMENT)(:)?( )?(=)?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/\\(\\)]+)?",
+                    //    RegexOptions.Multiline);
+
+                    MatchCollection matchCollections = Regex.Matches(line,
+                        "(Date|email|how|b_firstname|b_lastname|b_address1|b_address2|b_city|b_state|b_zip|b_country|different_shipping|s_firstname|s_lastname|s_address1|s_address2|s_city|s_state|s_zip|s_country|paymethod|card_number|card_holder_name|expiration_dt|button)(:)?( )?(=)?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/]+)?",
+                        RegexOptions.Multiline);
+                    foreach (var lineResult in matchCollections)
+                    {
+                        var lineResultParse = lineResult.ToString();
+                        if (lineResultParse.Equals(string.Empty)) continue;
+
+                        if (lineResultParse.Contains("Date"))
+                        {
+                            i = 0;
+                            var result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None);
+                            if (result.Length == 1)
+                            {
+                                if (result[0] == string.Empty)
+                                {
+                                    i = 0;
+                                    continue;
+                                }
+                                continue;
+                            }
+
+                            if (i == 0)
+                            {
+                                itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                                bodyElement.AppendChild(itemElement);
+                            }
+
+                            if (itemElement != null)
+                            {
+                                string elementName = result[0].Replace(" ", "");
+                                string elementValue = result[1];
+                                elementValue = elementValue == string.Empty ? "n/a" : result[1];
+                                XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                                    string.Empty);
+                                element.InnerText = elementValue;
+                                itemElement.AppendChild(element);
+                            }
+                        }
+                        if (lineResultParse.Contains("="))
+                        {
+                            var result = lineResultParse.Split(new[] { "=" }, StringSplitOptions.None);
+                            if (result.Length == 1)
+                            {
+                                if (result[0] == string.Empty)
+                                {
+                                    i = 0;
+                                    continue;
+                                }
+                                continue;
+                            }
+
+                            if (i == 0)
+                            {
+                                itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                                bodyElement.AppendChild(itemElement);
+                            }
+
+                            if (itemElement != null)
+                            {
+                                string elementName = result[0].Replace(" ", "");
+                                string elementValue = result[1];
+                                elementValue = elementValue == " " ? "n/a" : result[1];
+                                XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                                    string.Empty);
+                                element.InnerText = elementValue;
+                                itemElement.AppendChild(element);
+                            }
+                        }
+
+                        i++;
+                    }
+                }
+
+                xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test\\New Order4.xml");
+                i = 0;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public static void Orders()
+        {
+            string[] lines = File.ReadAllLines(@"D:\SourceCode\Simple-Text-Parser\Parser\Data\test\order-bkp");
+
+            XmlDocument xmlDocument = new XmlDocument();
+            XmlDeclaration xmlDeclaration = xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null);
+            XmlElement root = xmlDocument.DocumentElement;
+            xmlDocument.InsertBefore(xmlDeclaration, root);
+            XmlElement bodyElement = xmlDocument.CreateElement(string.Empty, "items", string.Empty);
+            xmlDocument.AppendChild(bodyElement);
+
+            var i = 0;
+
+            XmlElement itemElement = null;
+
+            foreach (var line in lines)
+            {
+                if (line.Contains("</x-charset>"))
+                {
+                    i = 0;
+                    continue;
+                }
+                //MatchCollection matchCollections = Regex.Matches(line,
+                //    "(Date|NAME|PORGANIZATION|PADDRESS1|PADDRESS2|PCITY|PSTATE|PZIP|PCOUNT|PPHONE|PFAX|PEMAIL|CCTYPE|CCNUMBER|CCEXPDATE|CCNAME|CCADDRESS1|CCADDRESS2|CCCITY|CCSTATE|CCZIP|CCADDRESS3|COMMENT)(:)?( )?(=)?([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/\\(\\)]+)?",
+                //    RegexOptions.Multiline);
+                string elementName;
+                string elementValue;
+                MatchCollection matchCollections = Regex.Matches(line,
+                    "(Date|Name|Address|Address Cont|City|State|Zip/Postal Code|Country|Credit Card Type|Card Number|Expiration|Card Security Code|Agreement signoff|Phone|Fax|Email|Shipping/Handling)(:)( )([ A-za-z0-9\\+\\,\\:\\@\\.\\\"\\-\\\\;\\\\/\\$\\(\\)]+)?",
+                    RegexOptions.Multiline);
+                foreach (var lineResult in matchCollections)
+                {
+                    var lineResultParse = lineResult.ToString();
+                    if (lineResultParse.Equals(string.Empty)) continue;
+                    if (lineResultParse.Contains("</x-charset>"))
+                    {
+                        i = 0;
+                        continue;
+                    }
+
+                    string[] result;
+                    if (lineResultParse.Contains("Shipping/Handling"))
+                        result = lineResultParse.Split(new[] { "+" }, StringSplitOptions.None);
+                    else
+                        result = lineResultParse.Split(new[] { ":" }, 2, StringSplitOptions.None); ;
+                    if (result.Length == 1)
+                    {
+                        if (result[0] == string.Empty)
+                        {
+                            i = 0;
+                            continue;
+                        }
+                        continue;
+                    }
+
+                    if (i == 0)
+                    {
+                        itemElement = xmlDocument.CreateElement(string.Empty, "item", string.Empty);
+                        bodyElement.AppendChild(itemElement);
+                    }
+
+                    if (itemElement != null)
+                    {
+                        elementName = result[0].Replace(" ", "-");
+                        elementName =
+                            elementName.Replace(
+                                (elementName.Contains("/") || elementName.Contains("?")) ? "/" : " ", "-");
+                        elementValue = result[1];
+                        elementValue = elementValue == " " ? "n/a" : result[1];
+                        XmlElement element = xmlDocument.CreateElement(string.Empty, elementName.ToLower(),
+                            string.Empty);
+                        element.InnerText = elementValue;
+                        itemElement.AppendChild(element);
+                    }
+
+                    i++;
+                }
+            }
+
+            xmlDocument.Save($"D:\\SourceCode\\Simple-Text-Parser\\Parser\\Data\\test\\order-bkp.xml");
+            i = 0;
         }
     }
 }
